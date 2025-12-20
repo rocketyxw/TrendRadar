@@ -8,8 +8,6 @@ gemini
 chatgpt
 openai
 
-金价
-
 特朗普
 
 俄乌战争
