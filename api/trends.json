@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T13:02:21.922853+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-12-20T14:15:15.317022+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,18 @@
           "time_info": "[04时31分 ~ 07时25分]"
         },
         {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 14时15分]"
+        },
+        {
           "title": "金十提示：美国总统特朗普讲话结束。",
           "url": "https://flash.jin10.com/detail/20251220040556442800",
           "source": "金十数据",
@@ -88,6 +100,22 @@
           "time_info": "[04时31分 ~ 10时01分]"
         },
         {
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            8,
+            10,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 14时15分]"
+        },
+        {
           "title": "美国总统特朗普：保险公司会议旨在降低价格。",
           "url": "https://flash.jin10.com/detail/20251220040213570800",
           "source": "金十数据",
@@ -98,18 +126,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时25分]"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 13时02分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -143,21 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            8,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 13时02分]"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -510,31 +511,6 @@
           "time_info": "[00时35分 ~ 12时16分]"
         },
         {
-          "title": "据长安汽车消息，中国长安新能源汽车年销量突破100万辆。",
-          "url": "https://flash.jin10.com/detail/20251220105811693800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 13时02分]"
-        },
-        {
-          "title": "小米给全国汽车经销商发超一亿元“红包”",
-          "url": "https://wallstreetcn.com/livenews/3024239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
           "title": "汽车高速路上刹车失灵该怎么做",
           "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%AB%98%E9%80%9F%E8%B7%AF%E4%B8%8A%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A",
           "source": "百度热搜",
@@ -542,11 +518,39 @@
             19,
             20,
             21,
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 14时15分]"
+        },
+        {
+          "title": "据长安汽车消息，中国长安新能源汽车年销量突破100万辆。",
+          "url": "https://flash.jin10.com/detail/20251220105811693800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            12,
+            14,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时01分 ~ 13时02分]"
+          "time_info": "[11时22分 ~ 14时15分]"
+        },
+        {
+          "title": "小米给全国汽车经销商发超一亿元“红包”",
+          "url": "https://wallstreetcn.com/livenews/3024239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 14时15分]"
         },
         {
           "title": "周五（12月19日），彭博电动汽车价格回报指数涨1.62%，报3431.81点，本周累计下跌1.28%，整体呈现出W形走势。",
@@ -562,6 +566,17 @@
           "time_info": "[05时25分 ~ 07时25分]"
         },
         {
+          "title": "日本一列车与汽车发生碰撞，汽车起火",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 14时15分]"
+        },
+        {
           "title": "存在溜车风险，福特在美国召回超27万辆电动和混动汽车",
           "url": "https://wallstreetcn.com/livenews/3024103",
           "source": "华尔街见闻-快讯",
@@ -572,17 +587,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时22分]"
-        },
-        {
-          "title": "日本一列车与汽车发生碰撞，汽车起火",
-          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         }
       ]
     },
@@ -598,11 +602,12 @@
             2,
             9,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 14时15分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -634,6 +639,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时27分 ~ 14时15分]"
+        },
+        {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
           "url": "https://wallstreetcn.com/articles/3761690",
           "source": "华尔街见闻",
@@ -647,20 +666,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时24分 ~ 11时42分]"
-        },
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时27分 ~ 13时02分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
