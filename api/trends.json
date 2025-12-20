@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T16:02:50.765476+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2025-12-20T17:03:06.254766+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 17时03分]"
         },
         {
           "title": "特朗普年终演讲为何不提中国",
@@ -64,18 +64,6 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时25分]"
-        },
-        {
           "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
           "url": "https://wallstreetcn.com/livenews/3024224",
           "source": "华尔街见闻-快讯",
@@ -86,11 +74,24 @@
             10,
             14,
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 17时03分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "美国总统特朗普：保险公司必须赚更少的钱。",
@@ -523,11 +524,12 @@
             14,
             17,
             18,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 17时03分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -545,19 +547,6 @@
           "time_info": "[10时01分 ~ 14时15分]"
         },
         {
-          "title": "小米给全国汽车经销商发超一亿元“红包”",
-          "url": "https://wallstreetcn.com/livenews/3024239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 16时02分]"
-        },
-        {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
           "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
           "source": "凤凰网",
@@ -565,8 +554,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时02分 ~ 17时03分]"
+        },
+        {
+          "title": "小米给全国汽车经销商发超一亿元“红包”",
+          "url": "https://wallstreetcn.com/livenews/3024239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            14,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时02分 ~ 16时02分]"
+          "time_info": "[13时02分 ~ 17时03分]"
         },
         {
           "title": "周五（12月19日），彭博电动汽车价格回报指数涨1.62%，报3431.81点，本周累计下跌1.28%，整体呈现出W形走势。",
@@ -610,11 +613,12 @@
             15,
             18,
             19,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 17时03分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -653,11 +657,12 @@
             10,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时27分 ~ 16时02分]"
+          "appearance_count": 14,
+          "time_info": "[06时27分 ~ 17时03分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
