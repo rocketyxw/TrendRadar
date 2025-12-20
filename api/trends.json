@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T05:02:28.422340+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-12-21T06:02:29.738685+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -48,17 +59,6 @@
           "ranks": [
             18,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -118,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -130,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -143,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -155,8 +155,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         }
       ]
     },
@@ -183,8 +183,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         },
         {
           "title": "斯泰兰蒂斯集团Stellantis NV的CEO Antonio Filosa：欧盟没能在修订版气候政策中“围绕促进本公司在欧洲扩大投资”提供清晰的增长路线图。 欧洲气候政策表明，（本公司）不存在为了增长而重返欧洲汽车行业的紧迫性。 缺少了增长，很难考虑扩大（在欧洲的）投资。（英国金融时报）",
@@ -203,11 +203,12 @@
           "url": "https://www.zhihu.com/question/1983840131577292075",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 06时02分]"
         }
       ]
     },
