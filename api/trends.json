@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T17:02:40.255617+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2025-12-21T18:02:34.285427+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -46,17 +46,6 @@
           "time_info": "[00时02分 ~ 10时52分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
@@ -67,8 +56,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时12分 ~ 17时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 18时02分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -93,6 +93,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普为何频繁起诉媒体",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E9%A2%91%E7%B9%81%E8%B5%B7%E8%AF%89%E5%AA%92%E4%BD%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://flash.jin10.com/detail/20251221140435040800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 18时02分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -137,19 +162,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时02分 ~ 05时02分]"
-        },
-        {
-          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://flash.jin10.com/detail/20251221140435040800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 17时02分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -204,7 +216,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -283,11 +295,12 @@
             2,
             10,
             15,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 18时02分]"
         },
         {
           "title": "为什么我国没有推出太阳能用于汽车上的技术?",
@@ -388,8 +401,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时52分 ~ 17时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时52分 ~ 18时02分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
