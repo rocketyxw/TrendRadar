@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T19:02:38.534527+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2025-12-21T20:16:24.517667+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时12分 ~ 20时16分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -72,17 +72,6 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
-          "url": "https://flash.jin10.com/detail/20251221182933074800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
@@ -91,11 +80,12 @@
             6,
             10,
             14,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时03分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 20时16分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -120,6 +110,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 05时02分]"
+        },
+        {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "特朗普为何频繁起诉媒体",
@@ -175,6 +176,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时02分 ~ 05时02分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时16分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
