@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T19:02:46.926322+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-12-22T20:19:12.544471+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,23 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时02分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时38分 ~ 20时19分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -148,20 +165,15 @@
           "time_info": "[11时59分 ~ 17时17分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18,
-            19,
-            15,
-            13,
-            12
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时38分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 20时19分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -199,17 +211,6 @@
           "time_info": "[11时59分 ~ 12时00分]"
         },
         {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
-        },
-        {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
           "url": "https://flash.jin10.com/detail/20251222043841056800",
           "source": "金十数据",
@@ -221,17 +222,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时02分 ~ 07时02分]"
-        },
-        {
-          "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
-          "url": "https://wallstreetcn.com/livenews/3024905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "英国政府发言人：英国首相斯塔默于周日下午与美国总统特朗普进行了通话。",
@@ -324,8 +314,32 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 20时19分]"
+        },
+        {
+          "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
+          "url": "https://wallstreetcn.com/livenews/3024905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "time_info": "[19时02分 ~ 20时19分]"
+        },
+        {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时19分]"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -348,23 +362,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
-        },
-        {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国移民与海关执法局特工遭汽车撞击后向司机开枪",
@@ -437,6 +440,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 17时17分]"
+        },
+        {
+          "title": "俄军中将遭汽车炸弹爆炸身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E4%B8%AD%E5%B0%86%E9%81%AD%E6%B1%BD%E8%BD%A6%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
+          "title": "小米给汽车经销商发超1亿元“红包”？ 官方回应：仅针对“车融合店”",
+          "url": "https://wallstreetcn.com/livenews/3024938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "金十图示：2025年12月22日（周一）全球汽车制造商市值变化",
