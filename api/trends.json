@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T16:15:43.566813+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2025-12-23T17:15:38.738257+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -13,17 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 08时44分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -38,8 +27,43 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 17时15分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时44分 ~ 16时15分]"
+          "time_info": "[10时48分 ~ 17时15分]"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 08时44分]"
+        },
+        {
+          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
+          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 17时15分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -55,30 +79,6 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 16时15分]"
-        },
-        {
-          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
-          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 16时15分]"
-        },
-        {
           "title": "特朗普叫停美国最大海上风电项目",
           "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
           "source": "凤凰网",
@@ -86,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 17时15分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -100,8 +100,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 17时15分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -119,6 +119,22 @@
           "time_info": "[10时48分 ~ 15时15分]"
         },
         {
+          "title": "特朗普提出中美G2概念 日本不安",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            23,
+            22,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 17时15分]"
+        },
+        {
           "title": "特朗普：美国还将增加航空母舰数量",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%B0%86%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0%E6%95%B0%E9%87%8F",
           "source": "百度热搜",
@@ -128,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "如何看特朗普级战列舰计划",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
@@ -221,19 +248,19 @@
           "time_info": "[11时54分 ~ 15时15分]"
         },
         {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            29,
+            26,
+            25,
             24,
-            23,
-            22,
+            16,
             19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时15分]"
+          "time_info": "[13时15分 ~ 17时15分]"
         },
         {
           "title": "美国参议院Murphy：将通过法律手段阻止美国总统特朗普针对风电场采取的命令。",
@@ -259,20 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25,
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 16时15分]"
         },
         {
           "title": "特朗普称其目标是迫使马杜罗下台",
@@ -406,6 +419,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普为何要造战列舰",
+          "url": "https://www.toutiao.com/trending/7586940405795524115/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时15分]"
         },
         {
           "title": "美国总统特朗普：15艘潜艇正在建造或即将开工。",
@@ -661,17 +686,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普为何要造战列舰",
-          "url": "https://www.toutiao.com/trending/7586940405795524115/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "美国总统特朗普：下周我将与国防主承包商会面。",
           "url": "https://flash.jin10.com/detail/20251223061914810800",
           "source": "金十数据",
@@ -851,7 +865,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "俄中将遭汽车炸弹袭击身亡，目击者发声",
@@ -919,6 +933,17 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "汽车角度分析COD之父车祸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "国家能源局：截至2025年11月底我国电动汽车充电基础设施（枪）总数达到1932.2万个 同比增长52.0%",
           "url": "https://wallstreetcn.com/livenews/3025284",
           "source": "华尔街见闻-快讯",
@@ -974,6 +999,17 @@
           "time_info": "14时16分"
         },
         {
+          "title": "乘联分会崔东树：11月中国汽车实现出口81万辆，同比增48%，环比降2%",
+          "url": "https://wallstreetcn.com/livenews/3025483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "欧洲汽车制造商协会：欧盟1月至11月新车注册量增长1.4%，达到9,860,092辆。欧盟11月新车注册量增长2.1%，至887,491辆。11月欧盟新注册车辆中，电动汽车市场份额为65.6%。",
           "url": "https://flash.jin10.com/detail/20251223130042677800",
           "source": "金十数据",
@@ -1014,8 +1050,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时10分 ~ 16时15分]"
+          "appearance_count": 18,
+          "time_info": "[01时10分 ~ 17时15分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
