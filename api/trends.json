@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T18:02:41.784259+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2025-12-23T19:02:50.197331+08:00",
+  "total_titles_processed": 1715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 18时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时44分 ~ 19时02分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时48分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时48分 ~ 19时02分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -67,6 +67,22 @@
           "time_info": "[10时48分 ~ 17时15分]"
         },
         {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            17,
+            9,
+            21,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时48分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
           "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
           "source": "澎湃新闻",
@@ -78,21 +94,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.toutiao.com/trending/7586636403350556196/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            17,
-            9,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时48分 ~ 18时02分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -114,8 +115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时02分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -253,6 +254,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223184540612800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美新型战舰被命名为特朗普级你咋看",
           "url": "https://www.toutiao.com/trending/7586859203608772635/",
           "source": "今日头条",
@@ -303,6 +315,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时54分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普发出干预威胁后 美国在尼日利亚开展侦察飞行",
@@ -448,17 +483,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "美国总统特朗普：国防工业需要优先考虑生产支出。",
           "url": "https://flash.jin10.com/detail/20251223062600931800",
           "source": "金十数据",
@@ -479,17 +503,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "美股收盘：三大股指齐升 特朗普旗下公司跌超10%",
@@ -545,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普公布“特朗普级”战舰后，亨廷顿英格尔斯工业股价盘前上涨4.4%。",
+          "url": "https://flash.jin10.com/detail/20251223184036942800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "特朗普：美国还将增加航空母舰数量",
@@ -877,6 +901,17 @@
           "time_info": "08时44分"
         },
         {
+          "title": "特朗普的战列舰狂想",
+          "url": "https://www.toutiao.com/trending/7586959074525187625/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
           "url": "https://flash.jin10.com/detail/20251223072906047800",
           "source": "金十数据",
@@ -940,11 +975,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时02分]"
         },
         {
           "title": "周一（12月22日），彭博电动汽车价格回报指数涨0.82%，报3462.47点，亚太早盘显著上涨——北京时间09:29出现一波跳空上涨行情，后续高位震荡，美股开盘后，随着特斯拉股价创盘中历史最高、逼近500美元。 成分股EVgo、Lucid集团、微宏控股（MVST）涨超3领跑，小马智行涨约2.1%，特斯拉和沃尔沃涨超1%表现靠前。 “特斯拉劲敌”Rivian、禾赛科技、普拉格动力公司则跌超3%。",
@@ -1078,8 +1114,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时10分 ~ 18时02分]"
+          "appearance_count": 20,
+          "time_info": "[01时10分 ~ 19时02分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
