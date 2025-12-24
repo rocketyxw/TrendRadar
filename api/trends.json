@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T16:15:40.106817+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2025-12-24T17:15:12.508570+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时02分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 17时15分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -64,11 +76,12 @@
             12,
             11,
             17,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 16时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 17时15分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -85,8 +98,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 16时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 17时15分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -114,18 +127,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时45分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时45分 ~ 16时15分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
@@ -165,11 +166,23 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时52分 ~ 17时15分]"
+        },
+        {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
@@ -563,19 +576,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 16时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 17时15分]"
         },
         {
           "title": "评判一辆智能汽车的价值，关键看它的「硬件」还是「软件」？",
           "url": "https://www.zhihu.com/question/1972374354886136143",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[14时16分 ~ 17时15分]"
         },
         {
           "title": "随着竞争加剧，西方汽车制造商开始进行文化变革，以大幅缩短开发时间和降低成本。",
