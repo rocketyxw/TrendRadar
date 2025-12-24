@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T12:26:36.857449+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2025-12-24T13:15:49.209782+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 13时15分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -62,11 +62,12 @@
             22,
             30,
             12,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 12时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 13时15分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -76,11 +77,12 @@
             12,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 13时15分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -107,8 +109,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时02分 ~ 12时26分]"
+          "appearance_count": 9,
+          "time_info": "[04时02分 ~ 13时15分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -117,22 +119,12 @@
           "ranks": [
             4,
             7,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时26分]"
-        },
-        {
-          "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
-          "url": "https://wallstreetcn.com/livenews/3025760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 13时15分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -144,8 +136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 13时15分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -156,8 +148,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 13时15分]"
+        },
+        {
+          "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
+          "url": "https://wallstreetcn.com/livenews/3025760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -222,6 +225,30 @@
           "time_info": "[03时10分 ~ 08时45分]"
         },
         {
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.toutiao.com/trending/7586746209667239443/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时15分]"
+        },
+        {
           "title": "特朗普的新战舰计划靠不靠谱",
           "url": "https://www.toutiao.com/trending/7587022637780438534/",
           "source": "今日头条",
@@ -234,18 +261,6 @@
           "time_info": "[00时02分 ~ 02时02分]"
         },
         {
-          "title": "特朗普再谈格陵兰问题 还提到中国",
-          "url": "https://www.toutiao.com/trending/7586746209667239443/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时26分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
           "url": "https://wallstreetcn.com/livenews/3025698",
           "source": "华尔街见闻-快讯",
@@ -256,17 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时26分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普有很多住房可负担性方案可供选择。",
@@ -346,7 +350,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -509,11 +513,12 @@
             3,
             5,
             1,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 13时15分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）全球汽车制造商市值变化",
