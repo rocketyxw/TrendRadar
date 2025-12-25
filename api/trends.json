@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T05:02:36.131467+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2025-12-26T06:02:27.540226+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -25,11 +25,27 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 06时02分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
+          "url": "https://flash.jin10.com/detail/20251226013420505800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            13,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 06时02分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -51,11 +67,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时02分]"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时02分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -70,20 +87,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 04时02分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
-          "url": "https://flash.jin10.com/detail/20251226013420505800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 05时02分]"
         }
       ]
     },
@@ -133,8 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         }
       ]
     },
@@ -151,8 +154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
         }
       ]
     }
