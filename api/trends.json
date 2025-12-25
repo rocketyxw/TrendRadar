@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T15:13:44.860752+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-12-25T16:15:08.703068+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 03时03分]"
+        },
+        {
+          "title": "高市早苗为何要赶在特朗普访华前访美",
+          "url": "https://www.toutiao.com/trending/7587680478346350143/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -171,11 +182,12 @@
             9,
             18,
             14,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时02分 ~ 14时16分]"
+          "appearance_count": 12,
+          "time_info": "[02时02分 ~ 16时15分]"
         },
         {
           "title": "河南许昌汽车站倒闭系谣言",
