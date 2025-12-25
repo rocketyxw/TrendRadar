@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T13:15:17.118074+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2025-12-25T14:16:32.826364+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -170,11 +170,12 @@
             1,
             9,
             18,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 13时15分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 14时16分]"
         },
         {
           "title": "河南许昌汽车站倒闭系谣言",
@@ -242,7 +243,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -253,7 +254,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -264,7 +265,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -275,7 +276,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
