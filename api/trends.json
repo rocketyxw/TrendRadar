@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T11:54:49.572492+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2025-12-25T12:28:28.182777+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 11时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时28分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
+          "url": "https://flash.jin10.com/detail/20251225121328471800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -168,11 +179,12 @@
             13,
             29,
             1,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 11时54分]"
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 12时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。",
@@ -228,7 +240,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
