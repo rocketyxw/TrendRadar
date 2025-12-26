@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:26:49.753859+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2025-12-26T13:13:36.393040+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[02时14分 ~ 07时02分]"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时13分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
           "url": "https://flash.jin10.com/detail/20251226013420505800",
           "source": "金十数据",
@@ -48,18 +61,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时14分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时26分]"
         },
         {
           "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
@@ -90,6 +91,17 @@
           "time_info": "[00时02分 ~ 04时02分]"
         },
         {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时13分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -102,17 +114,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时26分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -185,11 +186,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时13分]"
         },
         {
           "title": "广东江门一汽车坠河 一家五口遇难",
@@ -256,8 +258,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 12时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时13分]"
         }
       ]
     },
