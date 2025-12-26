@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T02:03:23.079845+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2025-12-27T03:02:55.615825+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时03分]"
-        },
-        {
-          "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
-          "url": "https://flash.jin10.com/detail/20251227010749216800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时02分]"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -37,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时02分]"
         },
         {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
@@ -46,11 +35,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时02分]"
+        },
+        {
+          "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
+          "url": "https://flash.jin10.com/detail/20251227010749216800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时03分]"
+          "time_info": "[02时03分 ~ 03时02分]"
+        },
+        {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
+          "url": "https://flash.jin10.com/detail/20251227010459037800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时02分]"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
@@ -63,17 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
-          "url": "https://flash.jin10.com/detail/20251227010459037800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
@@ -94,18 +97,6 @@
       "titles": [
         {
           "title": "全球销量前十电动汽车8款来自中国",
-          "url": "https://www.toutiao.com/trending/7587201669700583430/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时03分]"
-        },
-        {
-          "title": "全球销量前十电动汽车8款来自中国",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A68%E6%AC%BE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
@@ -113,8 +104,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时02分]"
+        },
+        {
+          "title": "全球销量前十电动汽车8款来自中国",
+          "url": "https://www.toutiao.com/trending/7587201669700583430/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时02分]"
+        },
+        {
+          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
+          "url": "https://news.ifeng.com/c/8pP745uL2xK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时02分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
@@ -127,17 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
-          "url": "https://news.ifeng.com/c/8pP745uL2xK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时03分]"
         },
         {
           "title": "封关后的海南汽车到底能不能买",
