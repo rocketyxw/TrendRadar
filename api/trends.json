@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T21:22:21.334333+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2025-12-27T22:02:34.118705+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,29 @@
           "time_info": "[11时49分 ~ 19时02分]"
         },
         {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时10分 ~ 22时02分]"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 22时02分]"
+        },
+        {
           "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
           "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
           "source": "凤凰网",
@@ -58,18 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 12时22分]"
-        },
-        {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时10分 ~ 21时22分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -97,15 +108,15 @@
           "time_info": "[08时43分 ~ 08时44分]"
         },
         {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "title": "她说特朗普有“酒鬼性格”",
+          "url": "https://news.ifeng.com/c/8pQlyArpb5f",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 21时22分]"
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时02分]"
         },
         {
           "title": "特朗普：美国目前没有承认索马里兰的计划",
@@ -174,17 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "她说特朗普有“酒鬼性格”",
-          "url": "https://news.ifeng.com/c/8pQlyArpb5f",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
@@ -277,6 +277,32 @@
           "time_info": "[19时02分 ~ 20时17分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时17分 ~ 22时02分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
+          "url": "https://flash.jin10.com/detail/20251227184915067800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时17分 ~ 22时02分]"
+        },
+        {
           "title": "特朗普为何又索要盟友的领土",
           "url": "https://www.toutiao.com/trending/7588483119292878372/",
           "source": "今日头条",
@@ -299,30 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
-          "url": "https://flash.jin10.com/detail/20251227191857626800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 21时22分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
-          "url": "https://flash.jin10.com/detail/20251227184915067800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 21时22分]"
         },
         {
           "title": "报道：特朗普声称，在他批准之前，泽连斯基“什么都没有”",
@@ -406,7 +408,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -462,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
+          "url": "https://www.zhihu.com/question/1988011205906935872",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
