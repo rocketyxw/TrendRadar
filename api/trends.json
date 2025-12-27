@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T22:02:34.118705+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2025-12-27T23:02:14.944238+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时10分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[15时10分 ~ 23时02分]"
         },
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -67,8 +67,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时02分 ~ 22时02分]"
+          "appearance_count": 9,
+          "time_info": "[17时02分 ~ 23时02分]"
+        },
+        {
+          "title": "她说特朗普有“酒鬼性格”",
+          "url": "https://news.ifeng.com/c/8pQlyArpb5f",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时22分 ~ 23时02分]"
         },
         {
           "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时43分 ~ 08时44分]"
-        },
-        {
-          "title": "她说特朗普有“酒鬼性格”",
-          "url": "https://news.ifeng.com/c/8pQlyArpb5f",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时02分]"
         },
         {
           "title": "特朗普：美国目前没有承认索马里兰的计划",
@@ -174,6 +174,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时15分 ~ 19时02分]"
+        },
+        {
+          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
+          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
@@ -266,6 +277,20 @@
           "time_info": "[14时15分 ~ 17时02分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时17分 ~ 23时02分]"
+        },
+        {
           "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
           "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
           "source": "凤凰网",
@@ -275,19 +300,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时02分 ~ 20时17分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
-          "url": "https://flash.jin10.com/detail/20251227191857626800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时17分 ~ 22时02分]"
         },
         {
           "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
@@ -348,6 +360,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时16分 ~ 20时17分]"
+        },
+        {
+          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20251227213217547800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普下令袭击尼日利亚，有人急了：万一跟中国打呢",
@@ -455,6 +478,18 @@
           "time_info": "[00时02分 ~ 10时44分]"
         },
         {
+          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
+          "url": "https://www.zhihu.com/question/1988011205906935872",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时02分]"
+        },
+        {
           "title": "汽车高速耗尽电量 2人推车被撞身亡",
           "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%AB%98%E9%80%9F%E8%80%97%E5%B0%BD%E7%94%B5%E9%87%8F+2%E4%BA%BA%E6%8E%A8%E8%BD%A6%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
@@ -464,17 +499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        },
-        {
-          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
-          "url": "https://www.zhihu.com/question/1988011205906935872",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
