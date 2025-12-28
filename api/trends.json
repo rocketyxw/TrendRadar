@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T15:12:04.266395+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2025-12-28T16:02:58.409998+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -74,26 +74,16 @@
           "time_info": "[00时02分 ~ 06时03分]"
         },
         {
-          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
-          "url": "https://flash.jin10.com/detail/20251228145227378800",
-          "source": "金十数据",
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
-          "url": "https://flash.jin10.com/detail/20251228144705189800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 16时02分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -108,18 +98,6 @@
           "time_info": "[00时02分 ~ 03时02分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 15时12分]"
-        },
-        {
           "title": "特朗普与泽连斯基会晤时间有所调整",
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
@@ -131,6 +109,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时01分 ~ 13时16分]"
+        },
+        {
+          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
+          "url": "https://flash.jin10.com/detail/20251228145227378800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
+          "url": "https://flash.jin10.com/detail/20251228144705189800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 16时02分]"
         },
         {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
@@ -178,12 +180,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 12时07分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
@@ -219,8 +232,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 15时12分]"
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 16时02分]"
         },
         {
           "title": "史上最严电动汽车电耗国标来了",
@@ -230,8 +243,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 16时02分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -246,6 +259,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时01分 ~ 07时02分]"
+        },
+        {
+          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
+          "url": "https://wallstreetcn.com/livenews/3027613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "深圳一汽车连轧多条实线变道下高速",
