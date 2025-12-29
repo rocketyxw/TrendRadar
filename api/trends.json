@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T18:03:03.224754+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2025-12-29T19:02:47.035601+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -256,6 +256,18 @@
           "time_info": "08时50分"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 19时02分]"
+        },
+        {
           "title": "市场消息：特朗普和泽连斯基在双边会晤后与欧洲领导人通电话。",
           "url": "https://flash.jin10.com/detail/20251229051729527800",
           "source": "金十数据",
@@ -287,17 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3028074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
         },
         {
           "title": "美银CEO：预计特朗普关税局势将开始降温",
@@ -340,7 +341,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -391,18 +392,6 @@
           "time_info": "[05时02分 ~ 07时02分]"
         },
         {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 18时03分]"
-        },
-        {
           "title": "特朗普见泽连斯基前先与普京通话",
           "url": "https://flash.jin10.com/detail/20251229041258772800",
           "source": "金十数据",
@@ -413,6 +402,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3028074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时02分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -533,6 +534,17 @@
           "time_info": "[08时49分 ~ 08时50分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-29）",
+          "url": "https://flash.jin10.com/detail/20251229182839575800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普与泽连斯基未谈妥领土问题",
           "url": "https://flash.jin10.com/detail/20251229061935365800",
           "source": "金十数据",
@@ -649,7 +661,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -665,6 +677,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "克里姆林宫：预计俄罗斯总统普京与美国总统特朗普的通话很快就会举行。",
+          "url": "https://flash.jin10.com/detail/20251229175227087800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美国总统特朗普：我认为与泽连斯基和普京之间的三方会晤将在合适的时机举行。",
           "url": "https://flash.jin10.com/detail/20251229060736462800",
           "source": "金十数据",
@@ -674,6 +697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "克里姆林宫：重要的是要记住，美国总统特朗普曾表示，乌克兰正在失去领土，并可能失去更多领土。",
+          "url": "https://flash.jin10.com/detail/20251229175219434800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普政府正在调查美国大型公司在招聘和晋升方面的举措。",
@@ -753,6 +787,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "克里姆林宫：（就美国总统特朗普有关乌克兰和平协议更接近达成的言论）我们当然同意。",
+          "url": "https://flash.jin10.com/detail/20251229175043199800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "唐宁街发言人：英国首相斯塔默今晚与美国总统特朗普、乌克兰总统泽连斯基以及欧洲领导人进行了通话。讨论重点是为乌克兰和平所做的努力，各国领导人称赞美国总统特朗普迄今取得的进展。",
           "url": "https://flash.jin10.com/detail/20251229060208978800",
           "source": "金十数据",
@@ -795,6 +840,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3028086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
@@ -877,7 +933,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "极石汽车闫枫：2026年极石全球销量目标3万辆",
@@ -898,11 +954,12 @@
           "url": "https://wallstreetcn.com/livenews/3028065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时02分]"
         },
         {
           "title": "智界汽车12月交付突破10000台",
@@ -949,6 +1006,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "天奇股份：拟定增募资不超过9.77亿元，用于汽车装备智能制造基地建设项目、面向汽车行业应用的机器人具身智能系统研发中心建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3028087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "零跑汽车：拟向一汽股权发行内资股，总筹约37.4亿元",
           "url": "https://wallstreetcn.com/livenews/3027734",
           "source": "华尔街见闻-快讯",
@@ -991,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "理想汽车全年64万辆目标仅完成56%",
+          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%85%A8%E5%B9%B464%E4%B8%87%E8%BE%86%E7%9B%AE%E6%A0%87%E4%BB%85%E5%AE%8C%E6%88%9056%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
@@ -1019,6 +1098,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
