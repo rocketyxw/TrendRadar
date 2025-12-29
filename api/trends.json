@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T21:31:37.464888+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2025-12-29T22:12:32.144341+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -104,6 +104,19 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时17分 ~ 22时12分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3027672",
           "source": "华尔街见闻-快讯",
@@ -154,19 +167,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时49分 ~ 14时19分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 21时31分]"
         },
         {
           "title": "特朗普当众施压泽连斯基",
@@ -843,6 +843,17 @@
           "time_info": "17时18分"
         },
         {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3028086",
           "source": "华尔街见闻-快讯",
@@ -956,11 +967,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 22时12分]"
         },
         {
           "title": "理想汽车全年64万辆目标仅完成56%",
@@ -969,11 +981,12 @@
           "ranks": [
             30,
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 22时12分]"
         },
         {
           "title": "众泰汽车：董事长李立忠因个人家庭原因辞职",
@@ -1102,8 +1115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -1114,8 +1127,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 22时12分]"
         }
       ]
     },
