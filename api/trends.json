@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T04:02:35.267010+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-12-31T05:02:52.972696+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -50,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -62,8 +62,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
@@ -122,6 +122,18 @@
           "time_info": "[01时12分 ~ 02时15分]"
         },
         {
+          "title": "外交部回应特朗普谈解放军军演",
+          "url": "https://www.douyin.com/hot/2352044",
+          "source": "抖音",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
           "title": "美国联邦法官告知美国总统特朗普政府，其必须为消费者金融保护局申请资金。",
           "url": "https://flash.jin10.com/detail/20251230232316390800",
           "source": "金十数据",
@@ -131,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "外交部回应特朗普谈解放军军演",
-          "url": "https://www.douyin.com/hot/2352044",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
         },
         {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
@@ -169,8 +170,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -178,11 +179,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -192,11 +194,12 @@
             12,
             10,
             13,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -234,22 +237,24 @@
           "ranks": [
             6,
             13,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 05时02分]"
         },
         {
           "title": "谷歌旗下的自动驾驶公司Waymo已获得内华达州授权，并开始在拉斯维加斯进行配备安全员的自动驾驶测试。",
           "url": "https://flash.jin10.com/detail/20251231031255557800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
         }
       ]
     },
