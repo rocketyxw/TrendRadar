@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T03:10:03.042831+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2025-12-31T04:02:35.267010+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -38,8 +38,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
@@ -53,37 +77,13 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时10分]"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时10分]"
-        },
-        {
           "title": "泽连斯基：与特朗普讨论了将美军部署在乌克兰的问题",
           "url": "https://flash.jin10.com/detail/20251231022340934800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -133,6 +133,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "外交部回应特朗普谈解放军军演",
+          "url": "https://www.douyin.com/hot/2352044",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
           "url": "https://flash.jin10.com/detail/20251230235722002800",
           "source": "金十数据",
@@ -158,8 +169,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -170,8 +181,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -184,8 +195,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -214,7 +225,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -222,11 +233,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 04时02分]"
+        },
+        {
+          "title": "谷歌旗下的自动驾驶公司Waymo已获得内华达州授权，并开始在拉斯维加斯进行配备安全员的自动驾驶测试。",
+          "url": "https://flash.jin10.com/detail/20251231031255557800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
