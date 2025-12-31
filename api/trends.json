@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T02:15:18.227551+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-01T03:02:21.697774+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -24,22 +24,24 @@
           "url": "https://flash.jin10.com/detail/20260101010133280800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 03时02分]"
         },
         {
           "title": "特朗普喊话“把索马里人送回去” 斥其祖国“全球最烂”",
           "url": "https://flash.jin10.com/detail/20260101004424120800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 03时02分]"
         }
       ]
     },
@@ -55,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时02分]"
         },
         {
           "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
@@ -66,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时02分]"
         },
         {
           "title": "2026年汽车“两新”政策落地",
