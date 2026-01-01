@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:27:23.738429+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-01-01T22:02:16.011152+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
@@ -32,21 +32,6 @@
           "time_info": "[00时02分 ~ 08时52分]"
         },
         {
-          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
-          "url": "https://wallstreetcn.com/livenews/3029597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            8,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 21时27分]"
-        },
-        {
           "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
           "url": "https://wallstreetcn.com/livenews/3029592",
           "source": "华尔街见闻-快讯",
@@ -56,11 +41,28 @@
             11,
             14,
             22,
-            28
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时15分 ~ 22时02分]"
+        },
+        {
+          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
+          "url": "https://wallstreetcn.com/livenews/3029597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            8,
+            16,
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时15分 ~ 21时27分]"
+          "time_info": "[17时15分 ~ 22时02分]"
         },
         {
           "title": "日本一铁路道口发生汽车与列车相撞",
@@ -128,6 +130,20 @@
           "time_info": "[17时15分 ~ 20时18分]"
         },
         {
+          "title": "长城汽车：2025年全年汽车销量为132.4万辆，同比增长7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3029603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 22时02分]"
+        },
+        {
           "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
           "url": "https://wallstreetcn.com/livenews/3029587",
           "source": "华尔街见闻-快讯",
@@ -141,19 +157,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时15分 ~ 20时18分]"
-        },
-        {
-          "title": "长城汽车：2025年全年汽车销量为132.4万辆，同比增长7.3%。",
-          "url": "https://wallstreetcn.com/livenews/3029603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时27分]"
         },
         {
           "title": "吉利汽车：2025年12月的汽车总销量为236,817部，较去年同期增长约13%；2025年全年汽车总销量为3,024,567部，较去年同期增长约39%。",
@@ -208,6 +211,19 @@
           "time_info": "[11时01分 ~ 13时19分]"
         },
         {
+          "title": "比亚迪：12月新能源汽车销量42.04万辆",
+          "url": "https://wallstreetcn.com/livenews/3029608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 22时02分]"
+        },
+        {
           "title": "岚图汽车2025年交付超15万辆，同比增87%",
           "url": "https://wallstreetcn.com/livenews/3029539",
           "source": "华尔街见闻-快讯",
@@ -244,18 +260,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时19分 ~ 14时17分]"
-        },
-        {
-          "title": "比亚迪：12月新能源汽车销量42.04万辆",
-          "url": "https://wallstreetcn.com/livenews/3029608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 21时27分]"
         },
         {
           "title": "周三（12月31日），彭博电动汽车价格回报指数跌0.40%，报3444.85点。 12月份累涨0.76%呈现出W形走势，四季度累涨0.14%，2025年累计上涨超43.84%。",
@@ -316,6 +320,18 @@
           "time_info": "[14时16分 ~ 14时17分]"
         },
         {
+          "title": "吉利汽车超额完成2025年全年目标，2026年将冲击345万辆",
+          "url": "https://wallstreetcn.com/livenews/3029602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时02分]"
+        },
+        {
           "title": "2026年汽车“两新”政策落地",
           "url": "https://www.toutiao.com/trending/7589961604490333734/",
           "source": "今日头条",
@@ -369,17 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        },
-        {
-          "title": "吉利汽车超额完成2025年全年目标，2026年将冲击345万辆",
-          "url": "https://wallstreetcn.com/livenews/3029602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "金十图示：2026年01月01日（周四）全球汽车制造商市值变化",
@@ -521,11 +526,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 22时02分]"
         },
         {
           "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
@@ -681,8 +687,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -693,11 +699,12 @@
             6,
             9,
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 21时27分]"
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -715,6 +722,30 @@
         },
         {
           "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时02分]"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时02分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
           "url": "https://www.toutiao.com/trending/7590319287114403334/",
           "source": "今日头条",
           "ranks": [
@@ -724,28 +755,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时02分 ~ 19时02分]"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         }
       ]
     },
