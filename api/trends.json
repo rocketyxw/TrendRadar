@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T19:02:21.506599+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-04T20:16:56.828273+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 180,
+      "match_count": 181,
       "titles": [
         {
           "title": "特朗普称抓获马杜罗及其夫人并带离委内瑞拉",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时52分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时52分 ~ 20时16分]"
         },
         {
           "title": "特朗普威胁古巴、哥伦比亚",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时03分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[11时03分 ~ 20时16分]"
         },
         {
           "title": "特朗普称抓获委内瑞拉总统及其夫人，美国司法部长称二人已在美国被起诉，意味着什么？美国为什么能说抓就抓？",
@@ -78,6 +78,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时02分 ~ 08时52分]"
+        },
+        {
+          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
+          "url": "https://wallstreetcn.com/articles/3762495",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时12分 ~ 20时16分]"
         },
         {
           "title": "美官员称特朗普下令对委内瑞拉境内目标实施打击",
@@ -107,19 +120,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时02分 ~ 14时03分]"
-        },
-        {
-          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
-          "url": "https://wallstreetcn.com/articles/3762495",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时12分 ~ 19时02分]"
         },
         {
           "title": "特朗普称美国将管理委内瑞拉",
@@ -162,11 +162,12 @@
             14,
             11,
             23,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时02分 ~ 19时02分]"
+          "appearance_count": 21,
+          "time_info": "[02时02分 ~ 20时16分]"
         },
         {
           "title": "特朗普召开新闻发布会",
@@ -180,8 +181,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时03分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[11时03分 ~ 20时16分]"
         },
         {
           "title": "高市早苗准备到美国求特朗普撑腰，但日本可能被移出发达国家行列",
@@ -191,8 +192,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时03分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[11时03分 ~ 20时16分]"
         },
         {
           "title": "特朗普：美国将组建一个团队管理委内瑞拉",
@@ -254,8 +255,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时02分 ~ 18时02分]"
+          "appearance_count": 16,
+          "time_info": "[04时02分 ~ 20时16分]"
         },
         {
           "title": "特朗普威胁古巴哥伦比亚",
@@ -268,8 +269,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时39分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[12时39分 ~ 20时16分]"
         },
         {
           "title": "特朗普警告哥伦比亚总统“小心点”",
@@ -361,6 +362,22 @@
           "time_info": "[00时02分 ~ 08时52分]"
         },
         {
+          "title": "特朗普透露夜袭细节",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            18,
+            30,
+            20,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时03分 ~ 20时16分]"
+        },
+        {
           "title": "特朗普发布马杜罗在美舰上照片",
           "url": "https://www.toutiao.com/trending/7591173888986336818/",
           "source": "今日头条",
@@ -435,21 +452,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普透露夜袭细节",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            18,
-            30,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时03分 ~ 19时02分]"
         },
         {
           "title": "特朗普称已抓获委内瑞拉总统",
@@ -688,6 +690,20 @@
           "time_info": "[04时02分 ~ 08时52分]"
         },
         {
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时13分 ~ 20时16分]"
+        },
+        {
           "title": "美国总统特朗普：我们将确保边境安全，并摧毁贩毒集团。",
           "url": "https://flash.jin10.com/detail/20260104005819878800",
           "source": "金十数据",
@@ -811,19 +827,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 06时02分]"
-        },
-        {
-          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
-          "url": "https://wallstreetcn.com/articles/3762494",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时13分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：国务卿卢比奥和“战争部长”Hegseth将参与经营委内瑞拉政权的团队。 美国不会仅仅掳走总统马杜罗就离开（撒手不管）。",
@@ -1115,6 +1118,20 @@
           "time_info": "[01时02分 ~ 02时02分]"
         },
         {
+          "title": "特朗普：如有必要将再打击委",
+          "url": "https://www.douyin.com/hot/2356551",
+          "source": "抖音",
+          "ranks": [
+            29,
+            19,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 20时16分]"
+        },
+        {
           "title": "纽约市长已致电特朗普",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%95%BF%E5%B7%B2%E8%87%B4%E7%94%B5%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1125,6 +1142,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时12分 ~ 16时14分]"
+        },
+        {
+          "title": "“斩首”委内瑞拉后，特朗普公开鼓吹“唐罗主义”：美国雄霸西半球再不受质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32309426",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 20时16分]"
         },
         {
           "title": "美国总统特朗普：对于我所支持的那些拉美领导人，我们之间的关系很好。 委内瑞拉反对派人物Machado并不具备领导委内瑞拉的“威望”。 没有与俄罗斯总统普京讨论过马杜罗。",
@@ -1151,6 +1182,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时03分 ~ 14时03分]"
+        },
+        {
+          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 20时16分]"
         },
         {
           "title": "特朗普下令打击委内瑞拉境内目标",
@@ -1204,44 +1248,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时52分 ~ 12时40分]"
-        },
-        {
-          "title": "“斩首”委内瑞拉后，特朗普公开鼓吹“唐罗主义”：美国雄霸西半球再不受质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32309426",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普：如有必要将再打击委",
-          "url": "https://www.douyin.com/hot/2356551",
-          "source": "抖音",
-          "ranks": [
-            29,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普称已抓获委内瑞拉总统",
@@ -1689,7 +1695,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1714,6 +1720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
+          "url": "https://flash.jin10.com/detail/20260104184157171800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "提醒：美国总统特朗普开始谈论委内瑞拉“行动”。",
@@ -2278,11 +2295,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时16分]"
         },
         {
           "title": "特斯拉电动汽车年销量被比亚迪超越",
