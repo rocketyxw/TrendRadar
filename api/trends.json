@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T20:19:40.406814+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2026-01-06T21:32:04.307509+08:00",
+  "total_titles_processed": 1976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时15分 ~ 20时19分]"
+          "appearance_count": 13,
+          "time_info": "[13时15分 ~ 21时32分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -163,11 +163,28 @@
             23,
             18,
             24,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时14分 ~ 20时19分]"
+          "appearance_count": 27,
+          "time_info": "[00时14分 ~ 21时32分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20,
+            14,
+            17,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 21时32分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -207,22 +224,6 @@
           "time_info": "[00时14分 ~ 07时02分]"
         },
         {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            21,
-            20,
-            14,
-            17,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 20时19分]"
-        },
-        {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
           "url": "https://m.thepaper.cn/newsDetail_forward_32318660",
           "source": "澎湃新闻",
@@ -234,6 +235,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
+          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 21时32分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -291,6 +303,30 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国总统特朗普称赞股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3031704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 21时32分]"
+        },
+        {
           "title": "墨总统回应特朗普：合作可以干预不行",
           "url": "https://www.toutiao.com/trending/7591151766478290986/",
           "source": "今日头条",
@@ -302,17 +338,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时45分 ~ 11时57分]"
-        },
-        {
-          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
-          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -362,19 +387,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 20时19分]"
         },
         {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
@@ -471,6 +483,17 @@
           "time_info": "[08时45分 ~ 08时46分]"
         },
         {
+          "title": "特朗普称西半球是我们的半球",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "路透调查：特朗普支持率上升 仅三成美国人赞成美国对委行动",
           "url": "https://flash.jin10.com/detail/20260106030259018800",
           "source": "金十数据",
@@ -483,13 +506,24 @@
           "time_info": "[04时02分 ~ 05时03分]"
         },
         {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "美媒爆料：特朗普对委动手前曾向油企高管暗示",
           "url": "https://wallstreetcn.com/livenews/3031665",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -593,6 +627,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "特朗普派往格陵兰岛的特使：把委内瑞拉和格陵兰岛相提并论并不公允。格陵兰岛的核心在于蓬勃的贸易往来。",
+          "url": "https://flash.jin10.com/detail/20260106205222690800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "委内瑞拉总统马杜罗的儿子Nicolas Maduro Guerra通过国家电视台表示 ：父亲（被特朗普政府）绑架，他将回国。 美军掳走父亲违反国际法。",
           "url": "https://wallstreetcn.com/livenews/3031006",
           "source": "华尔街见闻-快讯",
@@ -670,6 +715,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "特朗普派往格陵兰岛的特使：不认为特朗普已准备好接管格陵兰。",
+          "url": "https://wallstreetcn.com/livenews/3031688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国参议员马克·凯利：美国国防部长赫格塞思想向每一位退役军人传达这样的信息——如果他们说了什么他或唐纳德·特朗普不喜欢的话，他们就会遭到同样的报复。",
           "url": "https://flash.jin10.com/detail/20260106004351865800",
           "source": "金十数据",
@@ -692,6 +748,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "特朗普派往格陵兰岛的特使：特朗普支持格陵兰岛独立。",
+          "url": "https://flash.jin10.com/detail/20260106204844706800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "特朗普一天之内威胁多国",
           "url": "https://www.toutiao.com/trending/7591841454150913599/",
           "source": "今日头条",
@@ -701,6 +768,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普派往格陵兰岛的特使：不认为特朗普已准备好接管格陵兰。",
+          "url": "https://flash.jin10.com/detail/20260106204807985800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "特朗普说马斯克八成是超级天才",
+          "url": "https://wallstreetcn.com/livenews/3031682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "埃尔多安：已与特朗普通话 强调不要让委内瑞拉陷入动荡",
@@ -794,7 +883,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "雷军聊小米汽车试验室",
@@ -1048,6 +1137,17 @@
           "time_info": "15时17分"
         },
         {
+          "title": "中国汽车流通协会：预计1月汽车市场将呈现“开门红”的局面",
+          "url": "https://wallstreetcn.com/livenews/3031685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "通用汽车：2025财年美国销量为285万辆，同比增长6%.",
           "url": "https://flash.jin10.com/detail/20260106011722667800",
           "source": "金十数据",
@@ -1081,6 +1181,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "理想汽车调整产品线",
+          "url": "https://wallstreetcn.com/livenews/3031677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "英伟达推出Alpamayo系列开源AI模型与工具，加速安全及基于推理的自动驾驶汽车开发",
           "url": "https://wallstreetcn.com/livenews/3031109",
           "source": "华尔街见闻-快讯",
@@ -1098,7 +1209,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
@@ -1120,8 +1231,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时51分 ~ 20时19分]"
+          "appearance_count": 16,
+          "time_info": "[10时51分 ~ 21时32分]"
         },
         {
           "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
