@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T04:02:42.117707+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-01-08T05:02:50.514058+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时02分]"
         },
         {
           "title": "美国总统特朗普：将在达沃斯谈论美国住房计划和可负担性问题。",
@@ -30,42 +44,6 @@
           "time_info": "02时16分"
         },
         {
-          "title": "美国总统特朗普料将在下周宣布所谓的“加沙和平委员会”。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3032666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普质疑北约在美国需要时会否给予支持",
-          "url": "https://flash.jin10.com/detail/20260108034118954800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时02分]"
-        },
-        {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
           "source": "澎湃新闻",
@@ -73,8 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时02分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -84,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时02分]"
         },
         {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
@@ -148,6 +126,55 @@
           "time_info": "[01时16分 ~ 02时16分]"
         },
         {
+          "title": "美国总统特朗普料将在下周宣布所谓的“加沙和平委员会”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3032666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://flash.jin10.com/detail/20260108034118954800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://wallstreetcn.com/livenews/3032651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普向国防承包商回购股票的做法发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3032663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
           "url": "https://wallstreetcn.com/livenews/3032617",
           "source": "华尔街见闻-快讯",
@@ -160,16 +187,28 @@
           "time_info": "[01时16分 ~ 02时16分]"
         },
         {
-          "title": "特朗普质疑北约在美国需要时会否给予支持",
-          "url": "https://wallstreetcn.com/livenews/3032651",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
+          "url": "https://flash.jin10.com/detail/20260108032933903800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            15
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时02分]"
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
+          "url": "https://flash.jin10.com/detail/20260108032629292800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
         },
         {
           "title": "预测市场认为：特朗普今年拿下格陵兰的胜算不高",
@@ -196,6 +235,30 @@
           "time_info": "[01时16分 ~ 02时16分]"
         },
         {
+          "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
+          "url": "https://flash.jin10.com/detail/20260108031728568800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
+          "url": "https://flash.jin10.com/detail/20260108031010315800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -208,15 +271,16 @@
           "time_info": "[03时12分 ~ 04时02分]"
         },
         {
-          "title": "特朗普向国防承包商回购股票的做法发出威胁",
-          "url": "https://wallstreetcn.com/livenews/3032663",
-          "source": "华尔街见闻-快讯",
+          "title": "外媒：特朗普正固化美国全球流氓形象",
+          "url": "https://www.toutiao.com/trending/7591748193269137471/",
+          "source": "今日头条",
           "ranks": [
-            6
+            28,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
         },
         {
           "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
@@ -230,28 +294,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
-          "url": "https://flash.jin10.com/detail/20260108032933903800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
-          "url": "https://flash.jin10.com/detail/20260108032629292800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
           "title": "特朗普声称接收委内瑞拉石油 导致加拿大油价暴跌",
           "url": "https://flash.jin10.com/detail/20260108012558956800",
           "source": "金十数据",
@@ -261,17 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
-        },
-        {
-          "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
-          "url": "https://flash.jin10.com/detail/20260108031728568800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普已明确表示，美国将永远支持北约。",
@@ -294,17 +325,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
-          "url": "https://flash.jin10.com/detail/20260108031010315800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -349,17 +369,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "外媒：特朗普正固化美国全球流氓形象",
-          "url": "https://www.toutiao.com/trending/7591748193269137471/",
-          "source": "今日头条",
+          "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
+          "url": "https://wallstreetcn.com/livenews/3032674",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国财长贝森特：对于在2025至2028年期间购买的新款美国本土组装车辆，符合条件的纳税人每年可抵扣最高1万美元的汽车贷款利息。",
+          "url": "https://flash.jin10.com/detail/20260108041952628800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "现代Mobis与高通签署谅解备忘录，合作开发汽车解决方案。",
+          "url": "https://flash.jin10.com/detail/20260108020222862800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
@@ -373,22 +421,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时02分]"
         },
         {
           "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
           "url": "https://flash.jin10.com/detail/20260108030510490800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
         }
       ]
     },
@@ -401,28 +451,12 @@
           "url": "https://flash.jin10.com/detail/20260108033431215800",
           "source": "金十数据",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现代Mobis与高通签署谅解备忘录，合作开发汽车解决方案。",
-          "url": "https://flash.jin10.com/detail/20260108020222862800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
         }
       ]
     }
