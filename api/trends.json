@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T18:02:55.119028+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2026-01-07T19:02:36.642890+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 102,
       "titles": [
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时45分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时45分 ~ 19时02分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -90,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时52分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[10时52分 ~ 19时02分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -131,6 +131,29 @@
           "time_info": "[04时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时02分]"
+        },
+        {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
           "url": "https://www.cls.cn/detail/2249902",
           "source": "财联社热门",
@@ -157,28 +180,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时02分]"
-        },
-        {
-          "title": "“除掉马杜罗”，特朗普早就下了决心",
-          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时02分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -322,8 +323,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时02分]"
         },
         {
           "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
@@ -707,6 +708,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美国总统特朗普：将更快地开始生产武器。",
           "url": "https://flash.jin10.com/detail/20260106232823127800",
           "source": "金十数据",
@@ -867,7 +879,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1021,7 +1033,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1035,6 +1047,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107180801342800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国国务卿卢比奥告知议员们：总统特朗普希望能收购格陵兰岛。（华尔街日报）",
@@ -1150,7 +1173,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "长安汽车：网传“取消年终奖”信息不实 已推进激励计划保障员工权益",
@@ -1170,7 +1193,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1250,6 +1273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "长城汽车CES又双叒叕给国人长脸了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6CES%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E7%BB%99%E5%9B%BD%E4%BA%BA%E9%95%BF%E8%84%B8%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "现代汽车韩股上涨逾11%，股价创下历史新高。",
