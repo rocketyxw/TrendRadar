@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T05:02:50.514058+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-01-08T06:03:11.720642+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -29,8 +29,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时03分]"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时03分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "美国总统特朗普：将在达沃斯谈论美国住房计划和可负担性问题。",
@@ -44,26 +66,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普签署行政命令，宣布退出66个国际组织。",
+          "url": "https://wallstreetcn.com/livenews/3032717",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时02分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
@@ -294,6 +305,28 @@
           "time_info": "03时12分"
         },
         {
+          "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3032708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "特朗普：美国2027年的军费预算应提升至1.5万亿美元",
+          "url": "https://flash.jin10.com/detail/20260108053149928800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "特朗普声称接收委内瑞拉石油 导致加拿大油价暴跌",
           "url": "https://flash.jin10.com/detail/20260108012558956800",
           "source": "金十数据",
@@ -303,6 +336,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "特朗普点名雷神公司 威胁切断其与国防部的业务",
+          "url": "https://flash.jin10.com/detail/20260108052338112800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260108051838195800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普已明确表示，美国将永远支持北约。",
@@ -327,6 +382,28 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国众议院议长约翰逊证实，美国总统特朗普将于2月24日发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260108050826101800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普：Raytheon对“战争部”的回应最不负责任，该公司必须停止回购股票。 威胁要在投资问题上砍掉（政府/五角大楼）与该公司的联系。",
+          "url": "https://wallstreetcn.com/livenews/3032696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
           "url": "https://flash.jin10.com/detail/20260108015742361800",
           "source": "金十数据",
@@ -349,6 +426,39 @@
           "time_info": "03时12分"
         },
         {
+          "title": "雷神科技(RTX.N)美股盘后一度跌超3%，特朗普抨击该公司乐于分红。",
+          "url": "https://flash.jin10.com/detail/20260108050553680800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普将于2月24日发表国情咨文演讲。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3032693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普：雷神公司是对国防部需求反应最为迟钝的，其产能提升速度最慢，且最热衷于向股东派息，而非满足美国军方的需求和要求。",
+          "url": "https://flash.jin10.com/detail/20260108050520436800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "特朗普推动禁止机构投资者购房",
           "url": "https://wallstreetcn.com/livenews/3032633",
           "source": "华尔街见闻-快讯",
@@ -358,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "据Punchbowl：美国总统特朗普将于2月24日发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260108050259724800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统采取了历史性的行动，以确保药品价格最低。",
@@ -374,7 +495,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
@@ -383,9 +504,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "据Globe报道：加拿大要求韩国与德国在汽车（投资）问题上作出承诺。",
+          "url": "https://wallstreetcn.com/livenews/3032711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "美国财长贝森特：对于在2025至2028年期间购买的新款美国本土组装车辆，符合条件的纳税人每年可抵扣最高1万美元的汽车贷款利息。",
@@ -394,7 +526,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -408,6 +540,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "周三（1月7日），彭博电动汽车价格回报指数跌0.07%，报3603.72点。 北京时间13:49跌至3588.10点刷新日低，脱离11:25刷新的日高3615.17点，全天呈现出U形走势。",
+          "url": "https://wallstreetcn.com/livenews/3032695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "时隔七年 谷歌市值重新超越苹果",
+          "url": "https://flash.jin10.com/detail/20260108054913345800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
+          "url": "https://wallstreetcn.com/livenews/3032705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
+          "url": "https://wallstreetcn.com/livenews/3032700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     },
@@ -435,24 +629,6 @@
           "ranks": [
             20,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
