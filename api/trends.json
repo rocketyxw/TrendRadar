@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T07:02:37.659421+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-01-08T08:46:05.655568+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时46分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时46分]"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时46分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -27,28 +50,6 @@
             10,
             12,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时02分]"
-        },
-        {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -83,9 +84,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时46分]"
         },
         {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
@@ -269,6 +282,17 @@
           "time_info": "[01时16分 ~ 02时16分]"
         },
         {
+          "title": "特朗普指示美国退出66个国际组织",
+          "url": "https://www.toutiao.com/trending/7592747008662749210/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
           "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
           "url": "https://flash.jin10.com/detail/20260108031728568800",
           "source": "金十数据",
@@ -335,7 +359,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -357,7 +381,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -368,7 +392,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -390,7 +414,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -401,9 +425,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普：与哥伦比亚总统进行通话 期待不久后进行会面",
+          "url": "https://flash.jin10.com/detail/20260108075844677800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "美国总统特朗普：这些采购将包括但不限于美国农产品，以及美国制造的药品、医疗设备和器械。",
@@ -412,20 +447,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
-          "url": "https://www.cls.cn/detail/2251170",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：美国国务卿鲁比奥与哥伦比亚外交部长正在安排相关事宜。会面将在华盛顿特区的白宫举行。",
+          "url": "https://flash.jin10.com/detail/20260108075512785800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时46分"
         },
         {
           "title": "特朗普声称接收委内瑞拉石油 导致加拿大油价暴跌",
@@ -445,9 +480,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：能与哥伦比亚总统通话是我的莫大荣幸，他打电话来向我说明了毒品局势以及我们之间存在的其他分歧。期待在不久的将来与他见面。",
+          "url": "https://flash.jin10.com/detail/20260108075444454800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
@@ -461,15 +507,37 @@
           "time_info": "06时03分"
         },
         {
+          "title": "哥伦比亚总统佩特罗要求特朗普恢复两国之间的沟通。 佩特罗称，与特朗普讨论了毒品走私和委内瑞拉问题。",
+          "url": "https://wallstreetcn.com/livenews/3032784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "美国交通部：特朗普政府扣留了加州政府1.6亿美元资金，原因是该州未能撤销超过17,000张由外国人持有的商业驾照。",
           "url": "https://flash.jin10.com/detail/20260108060318362800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国官员表示，总统特朗普和哥伦比亚总统通话。",
+          "url": "https://flash.jin10.com/detail/20260108075325537800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普已明确表示，美国将永远支持北约。",
@@ -489,7 +557,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -500,7 +568,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -544,7 +612,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -566,7 +634,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -593,6 +661,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "特朗普与哥伦比亚通电话 通话持续15分钟",
+          "url": "https://flash.jin10.com/detail/20260108073744838800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "美国总统特朗普将于2月24日发表国情咨文演讲。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3032693",
           "source": "华尔街见闻-快讯",
@@ -602,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "特朗普：与哥伦比亚总统讨论毒品问题 未来将在白宫会晤",
+          "url": "https://wallstreetcn.com/livenews/3032774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "美国总统特朗普：雷神公司是对国防部需求反应最为迟钝的，其产能提升速度最慢，且最热衷于向股东派息，而非满足美国军方的需求和要求。",
@@ -654,7 +744,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -665,9 +755,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "消息人士和当地媒体称，美国总统特朗普与哥伦比亚总统于周三进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260108071959053800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         }
       ]
     },
@@ -786,7 +887,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -812,6 +913,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "OpenAI设立500亿美元员工股票奖励池。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3032785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         }
       ]
     }
