@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T04:02:42.834504+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-01-09T05:02:34.997316+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 05时02分]"
         },
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 05时02分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 05时02分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 05时02分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -66,8 +66,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 05时02分]"
+        },
+        {
+          "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
+          "url": "https://www.cls.cn/detail/2252295",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 05时02分]"
         },
         {
           "title": "特朗普“炮轰”美国军火商",
@@ -77,31 +90,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时02分]"
-        },
-        {
-          "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
-          "url": "https://www.cls.cn/detail/2252295",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时02分]"
-        },
-        {
-          "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
-          "url": "https://flash.jin10.com/detail/20260109032840133800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 05时02分]"
         },
         {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
@@ -113,6 +103,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "人事管理办公室（OPM）数据显示：美国总统特朗普第二任期内，已经有超过32.2万名雇员离开联邦机构。 教育部减员39%，财政部流失21%。",
+          "url": "https://wallstreetcn.com/livenews/3033551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普 ：禁止囤房",
+          "url": "https://www.douyin.com/hot/2360816",
+          "source": "抖音",
+          "ranks": [
+            11,
+            14,
+            15,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 05时02分]"
         },
         {
           "title": "美国总统特朗普就美联储主席人选表示：我心里已经有决定了。 还没有与任何人讨论过对美联储主席的（最终）选择。（纽约时报）",
@@ -137,29 +153,16 @@
           "time_info": "02时14分"
         },
         {
-          "title": "美国总统特朗普提出，如果他依据紧急授权征收的关税被最高法院驳回，他可以将其重新包装成许可费。",
-          "url": "https://flash.jin10.com/detail/20260109032107772800",
+          "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
+          "url": "https://flash.jin10.com/detail/20260109032840133800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普 ：禁止囤房",
-          "url": "https://www.douyin.com/hot/2360816",
-          "source": "抖音",
-          "ranks": [
-            11,
-            14,
-            15,
-            19
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时02分]"
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -186,6 +189,18 @@
           "time_info": "[03时11分 ~ 04时02分]"
         },
         {
+          "title": "美国总统特朗普提出，如果他依据紧急授权征收的关税被最高法院驳回，他可以将其重新包装成许可费。",
+          "url": "https://flash.jin10.com/detail/20260109032107772800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
           "title": "报道：特朗普政府考虑“收买”格陵兰岛居民",
           "url": "https://wallstreetcn.com/livenews/3033488",
           "source": "华尔街见闻-快讯",
@@ -202,11 +217,24 @@
           "url": "https://www.toutiao.com/trending/7592986570223799834/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时02分]"
+        },
+        {
+          "title": "美国总统特朗普谈美俄核条约：如果到期，就到期。会达成一份更好的协议。",
+          "url": "https://flash.jin10.com/detail/20260109031916662800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
         },
         {
           "title": "美国参议院要求阻挠特朗普对委内瑞拉采取进一步军事行动，白宫赶紧回应：特朗普会否决",
@@ -245,6 +273,18 @@
           "time_info": "[03时11分 ~ 04时02分]"
         },
         {
+          "title": "美国总统特朗普：我不需要国际法。",
+          "url": "https://flash.jin10.com/detail/20260109031513910800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
           "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
           "url": "https://wallstreetcn.com/livenews/3033482",
           "source": "华尔街见闻-快讯",
@@ -281,6 +321,18 @@
           "time_info": "[03时11分 ~ 04时02分]"
         },
         {
+          "title": "美国白宫：美国总统特朗普政府即将宣布成立新的司法部全国欺诈执法司。",
+          "url": "https://flash.jin10.com/detail/20260109030848573800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
           "title": "美参院推进限制特朗普对委动武决议",
           "url": "https://wallstreetcn.com/livenews/3033478",
           "source": "华尔街见闻-快讯",
@@ -304,15 +356,15 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "美国总统特朗普谈美俄核条约：如果到期，就到期。会达成一份更好的协议。",
-          "url": "https://flash.jin10.com/detail/20260109031916662800",
-          "source": "金十数据",
+          "title": "丹麦与格陵兰岛的外交官们前往美国白宫，会见特朗普政府的官员们。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3033546",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "05时02分"
         },
         {
           "title": "美国参议院以52比47的票数通过了关于战争权力的决议，限制特朗普对委内瑞拉采取军事行动的能力。",
@@ -348,35 +400,13 @@
           "time_info": "02时14分"
         },
         {
-          "title": "美国总统特朗普：我不需要国际法。",
-          "url": "https://flash.jin10.com/detail/20260109031513910800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
           "title": "美国总统特朗普：我不需要国际法。 美国需要遵守国际法。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3033519",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普政府即将宣布成立新的司法部全国欺诈执法司。",
-          "url": "https://flash.jin10.com/detail/20260109030848573800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -398,7 +428,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -486,7 +516,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -522,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普暗示，无意赦免（被前总统拜登收监的）原加密货币交易所FTX创始人Sam Bankman-Fried（SBF）。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3033530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "谁是下任美联储主席？特朗普：心中已有决定",
@@ -625,6 +666,57 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260109024531943800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时02分]"
+        },
+        {
+          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
+          "url": "https://www.cls.cn/detail/2252286",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3033538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "OpenAI推出OpenAI for Healthcare。",
+          "url": "https://wallstreetcn.com/livenews/3033531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -650,29 +742,12 @@
           "url": "https://www.cls.cn/detail/2252328",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
-          "url": "https://flash.jin10.com/detail/20260109024531943800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 05时02分]"
         }
       ]
     },
