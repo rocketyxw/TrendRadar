@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T16:02:51.068839+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-01-09T17:17:04.948130+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 143,
+      "match_count": 145,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -99,6 +99,19 @@
           "time_info": "[00时14分 ~ 07时02分]"
         },
         {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
           "url": "https://www.cls.cn/detail/2252430",
           "source": "财联社热门",
@@ -111,6 +124,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时45分 ~ 15时16分]"
+        },
+        {
+          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 17时17分]"
         },
         {
           "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
@@ -127,6 +155,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时02分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普放话“我不需要国际法”",
+          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 17时17分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 17时17分]"
         },
         {
           "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
@@ -172,30 +225,45 @@
           "time_info": "[01时17分 ~ 07时02分]"
         },
         {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
+          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
+          "url": "https://www.cls.cn/detail/2252516",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 16时02分]"
-        },
-        {
-          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
             13,
             12,
-            10
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时52分 ~ 16时02分]"
+          "time_info": "[11时57分 ~ 17时17分]"
+        },
+        {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15,
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 17时17分]"
         },
         {
           "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
@@ -211,28 +279,16 @@
           "time_info": "[08时45分 ~ 16时02分]"
         },
         {
-          "title": "特朗普放话“我不需要国际法”",
-          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
+          "url": "https://news.ifeng.com/c/8pls4YBnj3I",
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 16时02分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时17分]"
         },
         {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
@@ -326,19 +382,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
-          "url": "https://www.cls.cn/detail/2252516",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 16时02分]"
-        },
-        {
           "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
           "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
           "source": "澎湃新闻",
@@ -347,21 +390,6 @@
             12,
             11,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            15,
-            12,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -427,18 +455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
-          "url": "https://news.ifeng.com/c/8pls4YBnj3I",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时02分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉和美国都将获得石油收入。古巴完全依赖委内瑞拉的资金和石油。古巴为委内瑞拉提供保护。希望做些事情帮助古巴。古巴正走向失败。",
@@ -548,6 +564,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时17分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 17时17分]"
         },
         {
           "title": "特朗普：密切关注伊朗抗议活动。",
@@ -977,17 +1004,6 @@
           "time_info": "[08时45分 ~ 08时46分]"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "特朗普：我不需要国际法",
           "url": "https://flash.jin10.com/detail/20260109055904551800",
           "source": "金十数据",
@@ -1258,7 +1274,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1470,6 +1486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "特朗普关税面临裁决，大棒还能挥舞多久？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260109165238024800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "谁是下任美联储主席？特朗普：心中已有决定",
@@ -1684,8 +1711,20 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
+          "url": "https://www.zhihu.com/question/1992542028232410497",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时17分]"
+        },
         {
           "title": "金十图示：2026年01月09日（周五）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260109110620187800",
@@ -1699,18 +1738,6 @@
           "time_info": "[11时57分 ~ 12时33分]"
         },
         {
-          "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
-          "url": "https://www.zhihu.com/question/1992542028232410497",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时02分]"
-        },
-        {
           "title": "2025年12月本田在中国的终端汽车销量为66,765辆，同比下降40.3%。",
           "url": "https://wallstreetcn.com/livenews/3033727",
           "source": "华尔街见闻-快讯",
@@ -1721,6 +1748,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 12时33分]"
+        },
+        {
+          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "市场监管总局：将进一步加快新能源汽车、锂电池和光伏产业相关国家标准研制",
+          "url": "https://wallstreetcn.com/livenews/3033946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "周四（1月8日），彭博电动汽车价格回报指数跌0.94%，报3571.19点。 亚太早盘，指数持续下挫，北京时间10:00以来持续低位震荡，美股开盘刷新日低至3560.03点。 MobilEye Global跌8.5%，Ola Electric Mobility Ltd.跌4.37%，意法半导体跌2.79%，Sona Blw Precision Forgings Ltd.跌2.31%，MP材料、美国雅宝ALB、“特斯拉劲敌”Rivian至少跌超1%，宝马跌0.49%，特斯拉则涨1%，Lucid集团涨2.3%，Solid Power跌4.86%，沃尔沃汽车集团涨5.44%，微宏控股涨11.90%。",
@@ -1773,9 +1822,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "乘联分会：中国2025年新能源汽车零售销量同比增长17.6%",
+          "url": "https://wallstreetcn.com/livenews/3033919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
