@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T12:33:19.530272+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-01-09T13:16:49.375101+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -79,8 +79,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 12时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 13时16分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -115,15 +115,17 @@
           "time_info": "[01时17分 ~ 07时02分]"
         },
         {
-          "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
-          "url": "https://wallstreetcn.com/livenews/3033492",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：美联储主席人选已定，但我暂时不想说",
+          "url": "https://www.cls.cn/detail/2252430",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 13时16分]"
         },
         {
           "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
@@ -136,8 +138,45 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 13时16分]"
+        },
+        {
+          "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
+          "url": "https://wallstreetcn.com/livenews/3033492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时02分 ~ 12时33分]"
+          "time_info": "[08时45分 ~ 13时16分]"
+        },
+        {
+          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
+          "url": "https://www.cls.cn/detail/2252393",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后出席政策会议。",
@@ -173,18 +212,6 @@
           "time_info": "02时14分"
         },
         {
-          "title": "特朗普：美联储主席人选已定，但我暂时不想说",
-          "url": "https://www.cls.cn/detail/2252430",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时33分]"
-        },
-        {
           "title": "特朗普为何想要格陵兰岛",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
           "source": "bilibili 热搜",
@@ -218,32 +245,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时33分]"
-        },
-        {
-          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
-          "url": "https://www.cls.cn/detail/2252393",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时33分]"
-        },
-        {
           "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
           "url": "https://www.cls.cn/detail/2252459",
           "source": "财联社热门",
@@ -254,6 +255,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时45分 ~ 12时33分]"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普8日在接受福克斯新闻网采访时说，美国要开始对贩毒集团进行“陆地打击”。（新华社）",
@@ -414,6 +427,18 @@
           "time_info": "[02时14分 ~ 03时11分]"
         },
         {
+          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 13时16分]"
+        },
+        {
           "title": "特朗普退群“弃子”都有哪些",
           "url": "https://www.toutiao.com/trending/7592986570223799834/",
           "source": "今日头条",
@@ -426,16 +451,27 @@
           "time_info": "[01时17分 ~ 05时02分]"
         },
         {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
+          "title": "特朗普放话“我不需要国际法”",
+          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "source": "凤凰网",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时52分 ~ 12时33分]"
+          "time_info": "[11时57分 ~ 13时16分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时16分]"
         },
         {
           "title": "特朗普：密切关注伊朗抗议活动。",
@@ -451,27 +487,29 @@
           "time_info": "[10时52分 ~ 12时33分]"
         },
         {
-          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
-          "source": "澎湃新闻",
+          "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
+          "url": "https://wallstreetcn.com/livenews/3033738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            6,
             14,
-            13
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时52分 ~ 12时33分]"
+          "time_info": "[11时57分 ~ 13时16分]"
         },
         {
-          "title": "特朗普放话“我不需要国际法”",
-          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
-          "source": "凤凰网",
+          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时16分]"
         },
         {
           "title": "特朗普：必须“拥有”整个格陵兰",
@@ -483,17 +521,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时45分 ~ 08时46分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时33分]"
         },
         {
           "title": "美国总统特朗普谈美俄核条约：如果到期，就到期。会达成一份更好的协议。",
@@ -530,18 +557,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
-          "url": "https://wallstreetcn.com/livenews/3033738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时33分]"
         },
         {
           "title": "特朗普计划最快下周与委反对派领导人会面",
@@ -759,6 +774,17 @@
           "time_info": "[10时52分 ~ 11时57分]"
         },
         {
+          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
+          "url": "https://www.cls.cn/detail/2252516",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时16分]"
+        },
+        {
           "title": "据美联社援引消息人士报道，美国总统特朗普的顾问在白宫会见了丹麦和格陵兰岛的特使。",
           "url": "https://flash.jin10.com/detail/20260109045909351800",
           "source": "金十数据",
@@ -819,18 +845,6 @@
           "time_info": "[10时52分 ~ 11时57分]"
         },
         {
-          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时33分]"
-        },
-        {
           "title": "特朗普再次就骚乱事件威胁伊朗",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E5%B0%B1%E9%AA%9A%E4%B9%B1%E4%BA%8B%E4%BB%B6%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
@@ -840,6 +854,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时16分]"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时16分]"
         },
         {
           "title": "特朗普称支持对俄制裁法案",
@@ -1041,17 +1078,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
-          "url": "https://www.cls.cn/detail/2252516",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
           "title": "特朗普抛出1.5万亿军费“大礼包” 国防巨头股价触底反弹",
           "url": "https://flash.jin10.com/detail/20260108232112109800",
           "source": "金十数据",
@@ -1184,17 +1210,6 @@
           "time_info": "10时52分"
         },
         {
-          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "美国总统特朗普就美联储主席人选表示：“我心里已经有决定了”。",
           "url": "https://flash.jin10.com/detail/20260109014507392800",
           "source": "金十数据",
@@ -1270,17 +1285,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "特朗普政府考虑砸钱说服格陵兰人“加入”美国",
