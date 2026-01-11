@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T06:02:20.564041+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-01-12T07:02:55.621503+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -49,11 +49,12 @@
           "ranks": [
             2,
             11,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
@@ -64,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -76,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "全美抗议 特朗普“后院”失火",
@@ -87,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -168,11 +169,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 07时02分]"
         },
         {
           "title": "美媒：特朗普将于周二讨论针对伊朗的潜在措施",
@@ -180,11 +182,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 07时02分]"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -192,11 +195,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普发布系列指令震慑企业界，CEO们保持警惕",
@@ -204,11 +208,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 07时02分]"
         }
       ]
     },
@@ -224,11 +229,12 @@
             1,
             2,
             14,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -237,11 +243,12 @@
           "ranks": [
             1,
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         }
       ]
     },
@@ -257,8 +264,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         }
       ]
     }
