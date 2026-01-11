@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-11T15:12:56.673974+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-01-11T16:02:14.909410+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 38,
       "titles": [
+        {
+          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
+          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 16时02分]"
+        },
         {
           "title": "特朗普放话：我可不要中俄当邻居",
           "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
@@ -19,15 +30,15 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
-          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
-          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时52分 ~ 15时12分]"
+          "time_info": "[12时38分 ~ 16时02分]"
         },
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -57,6 +68,20 @@
           "time_info": "[00时03分 ~ 08时52分]"
         },
         {
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[04时02分 ~ 16时02分]"
+        },
+        {
           "title": "俄罗斯回应特朗普释放俄船员",
           "url": "https://www.douyin.com/hot/2362921",
           "source": "抖音",
@@ -75,6 +100,18 @@
           "time_info": "[01时02分 ~ 08时52分]"
         },
         {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 16时02分]"
+        },
+        {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
           "url": "https://wallstreetcn.com/articles/3763012",
           "source": "华尔街见闻",
@@ -89,19 +126,6 @@
           "time_info": "[00时02分 ~ 11时02分]"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时02分 ~ 15时12分]"
-        },
-        {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
           "url": "https://www.zhihu.com/question/1993265925231761101",
           "source": "知乎",
@@ -111,17 +135,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时02分 ~ 08时52分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
-          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时12分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -152,6 +165,31 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 16时02分]"
+        },
+        {
+          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
+          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 16时02分]"
+        },
+        {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
           "url": "https://wallstreetcn.com/articles/3762987",
           "source": "华尔街见闻",
@@ -161,18 +199,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 01时03分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时12分]"
         },
         {
           "title": "意大利总理说很多问题上不同意特朗普做法",
@@ -222,17 +248,6 @@
           "time_info": "[00时03分 ~ 06时02分]"
         },
         {
-          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
-          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时12分]"
-        },
-        {
           "title": "全面代替美联储？房贷QE后，特朗普要给信用卡利率设“10%上限”",
           "url": "https://wallstreetcn.com/articles/3763014",
           "source": "华尔街见闻",
@@ -246,26 +261,13 @@
           "time_info": "[11时02分 ~ 14时03分]"
         },
         {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时12分]"
-        },
-        {
           "title": "伊朗议会议长警告美国总统特朗普，任何袭击都将导致伊朗将以色列和该地区的美国基地视为“合法目标”并予以打击。",
           "url": "https://flash.jin10.com/detail/20260111143012383800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -428,6 +430,17 @@
           "time_info": "[12时38分 ~ 13时17分]"
         },
         {
+          "title": "意大利总理：不同意特朗普许多做法",
+          "url": "https://www.toutiao.com/trending/7593680373650358291/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 16时02分]"
+        },
+        {
           "title": "特朗普宣布进入国家紧急状态",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -459,17 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "意大利总理：不同意特朗普许多做法",
-          "url": "https://www.toutiao.com/trending/7593680373650358291/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
         },
         {
           "title": "曝特朗普已听取军事打击伊朗方案汇报",
@@ -525,8 +527,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 15时12分]"
+          "appearance_count": 23,
+          "time_info": "[00时02分 ~ 16时02分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -565,11 +567,12 @@
             8,
             4,
             7,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时12分]"
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 16时02分]"
         }
       ]
     },
