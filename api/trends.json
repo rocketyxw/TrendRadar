@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T19:11:20.699450+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-01-13T20:20:31.869160+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
@@ -104,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时49分 ~ 19时11分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 20时20分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -119,8 +119,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时41分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[08时41分 ~ 20时20分]"
+        },
+        {
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 20时20分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -147,8 +160,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时49分 ~ 19时11分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 20时20分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 20时20分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -178,34 +207,6 @@
           "time_info": "[00时15分 ~ 08时42分]"
         },
         {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 19时11分]"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 19时11分]"
-        },
-        {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
           "url": "https://news.ifeng.com/c/8pspQ2slRcl",
           "source": "凤凰网",
@@ -214,8 +215,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 20时20分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -241,6 +242,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时20分]"
         },
         {
           "title": "美国两州把特朗普政府告了",
@@ -274,17 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "特朗普称数据中心用电成本不应转嫁给消费者",
@@ -797,6 +798,17 @@
           "time_info": "14时16分"
         },
         {
+          "title": "美媒报道称特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32375151",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "罗德里格斯回应特朗普“自诩委内瑞拉代总统”",
           "url": "https://flash.jin10.com/detail/20260113054439873800",
           "source": "金十数据",
@@ -1023,7 +1035,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -1119,8 +1131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时41分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[08时41分 ~ 20时20分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1134,8 +1146,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时41分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[08时41分 ~ 20时20分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1378,6 +1390,20 @@
           "time_info": "[00时15分 ~ 14时16分]"
         },
         {
+          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/1993982530886590703",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 20时20分]"
+        },
+        {
           "title": "新能源汽车的电池寿命有多久？",
           "url": "https://www.zhihu.com/question/1887877649495479265",
           "source": "知乎",
@@ -1400,20 +1426,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
-        },
-        {
-          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/1993982530886590703",
-          "source": "知乎",
-          "ranks": [
-            13,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 19时11分]"
         },
         {
           "title": "中国汽车流通协会：2025年12月全国二手车市场交易量187.11万辆 环比增长7.15%",
@@ -1524,7 +1536,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -1557,7 +1569,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -1568,7 +1580,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
@@ -1652,11 +1664,12 @@
             1,
             5,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 19时11分]"
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 20时20分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -1681,8 +1694,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 20时20分]"
         }
       ]
     },
