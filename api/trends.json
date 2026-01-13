@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T22:15:22.157698+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2026-01-13T23:14:52.729479+08:00",
+  "total_titles_processed": 2184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 99,
       "titles": [
         {
           "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
@@ -104,8 +104,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时49分 ~ 22时15分]"
+          "appearance_count": 15,
+          "time_info": "[10时49分 ~ 23时14分]"
+        },
+        {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 23时14分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -119,20 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时41分 ~ 22时15分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[08时41分 ~ 23时14分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -172,8 +172,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时49分 ~ 22时15分]"
+          "appearance_count": 15,
+          "time_info": "[10时49分 ~ 23时14分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -226,8 +226,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 22时15分]"
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 23时14分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -710,6 +710,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "WTI原油日内涨幅达3.0%，报61.1美元/桶。美国总统特朗普取消与伊朗的会议（安排）。",
+          "url": "https://wallstreetcn.com/livenews/3036257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "白宫官员：美国总统特朗普将于周四会见委内瑞拉反对派领导人。",
           "url": "https://flash.jin10.com/detail/20260113014955133800",
           "source": "金十数据",
@@ -771,7 +782,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -1040,6 +1051,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "特朗普的石油“变脸记”",
+          "url": "https://www.toutiao.com/trending/7593644852442054699/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "特朗普：政府若在关税问题上败诉 美国或面临数万亿债务泥潭",
           "url": "https://flash.jin10.com/detail/20260113021526999800",
           "source": "金十数据",
@@ -1142,7 +1164,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "涉中国电动汽车关税，欧盟出台新方案",
@@ -1155,6 +1177,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时41分 ~ 16时15分]"
+        },
+        {
+          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/1993982530886590703",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5,
+            6,
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时15分 ~ 23时14分]"
         },
         {
           "title": "中欧电动汽车案磋商进展",
@@ -1171,22 +1209,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时15分 ~ 14时16分]"
-        },
-        {
-          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/1993982530886590703",
-          "source": "知乎",
-          "ranks": [
-            13,
-            5,
-            6,
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时15分 ~ 22时15分]"
         },
         {
           "title": "新能源汽车的电池寿命有多久？",
@@ -1230,11 +1252,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 22时15分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 23时14分]"
         },
         {
           "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
@@ -1267,7 +1290,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -1393,6 +1416,17 @@
           "time_info": "21时34分"
         },
         {
+          "title": "详解2026汽车国补政策",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A32026%E6%B1%BD%E8%BD%A6%E5%9B%BD%E8%A1%A5%E6%94%BF%E7%AD%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "1条视频看懂2026汽车国补政策",
           "url": "https://www.toutiao.com/trending/7594786097649946122/",
           "source": "今日头条",
@@ -1418,8 +1452,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时41分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[08时41分 ~ 23时14分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1433,8 +1467,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时41分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[08时41分 ~ 23时14分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1528,8 +1562,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
@@ -1738,8 +1772,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时57分 ~ 22时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时57分 ~ 23时14分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 23时14分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -1754,18 +1800,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时49分 ~ 15时16分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 22时15分]"
         }
       ]
     },
