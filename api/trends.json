@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-13T14:16:58.403078+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-01-13T15:16:47.430877+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 86,
       "titles": [
+        {
+          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
+          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 15时16分]"
+        },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
           "url": "https://news.ifeng.com/c/8pr7YJccLIS",
@@ -31,16 +43,15 @@
           "time_info": "[00时15分 ~ 07时02分]"
         },
         {
-          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
-          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
+          "title": "伊朗局势突然反转，特朗普又心生一计",
+          "url": "https://news.ifeng.com/c/8psBaLzCORr",
           "source": "凤凰网",
           "ranks": [
-            1,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[07时02分 ~ 14时16分]"
+          "time_info": "[08时41分 ~ 15时16分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -55,15 +66,15 @@
           "time_info": "[00时15分 ~ 07时02分]"
         },
         {
-          "title": "伊朗局势突然反转，特朗普又心生一计",
-          "url": "https://news.ifeng.com/c/8psBaLzCORr",
+          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
+          "url": "https://news.ifeng.com/c/8prryx4FgQx",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 14时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时16分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -75,19 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 14时16分]"
-        },
-        {
-          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
-          "url": "https://news.ifeng.com/c/8prryx4FgQx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 15时16分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -121,11 +121,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 15时16分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -139,8 +140,46 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 15时16分]"
+        },
+        {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时16分]"
+        },
+        {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://www.cls.cn/detail/2255560",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时16分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -154,31 +193,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 06时02分]"
-        },
-        {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时16分]"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时16分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -203,33 +217,11 @@
           "time_info": "05时02分"
         },
         {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://www.cls.cn/detail/2255560",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时16分]"
-        },
-        {
           "title": "特朗普称数据中心用电成本不应转嫁给消费者",
           "url": "https://flash.jin10.com/detail/20260113083208740800",
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
-          "title": "美国两州起诉特朗普政府",
-          "url": "https://wallstreetcn.com/livenews/3035662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -243,8 +235,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 15时16分]"
+        },
+        {
+          "title": "美国两州起诉特朗普政府",
+          "url": "https://wallstreetcn.com/livenews/3035662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 15时16分]"
         },
         {
           "title": "据美媒MS NOW：特朗普政府司法部解雇了拒绝起诉詹姆斯·科米案的检察官。",
@@ -330,19 +346,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 14时16分]"
         },
         {
           "title": "美国财长贝森特曾告诉总统特朗普：（司法部）对美联储主席鲍威尔的调查会造成“混乱”。 调查美联储将利空市场。（Axios）",
@@ -697,7 +700,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -755,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普称「不管用什么办法，美国都要拿下格陵兰岛」，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/1994011447575982654",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "诺和诺德CEO：公司对直接与特朗普政府对话感到欣慰。 预计Wegovy口服药有助于拓展减肥药市场。",
@@ -991,7 +1005,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -1001,8 +1015,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 15时16分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1026,8 +1040,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 15时16分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -1041,6 +1055,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "苹果联姻谷歌意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2255551",
           "source": "财联社热门",
@@ -1051,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时49分 ~ 14时16分]"
+        },
+        {
+          "title": "苹果接入Gemini模型想做啥",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "iPhone官宣接入Gemini",
@@ -1191,7 +1227,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "中欧电动汽车案磋商进展",
@@ -1218,8 +1254,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 15时16分]"
         },
         {
           "title": "新能源汽车的电池寿命有多久？",
@@ -1231,8 +1267,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 15时16分]"
         },
         {
           "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
@@ -1245,6 +1281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时17分]"
+        },
+        {
+          "title": "韩国KOSPI指数连续第八个交易日上涨，汽车和电池板块领涨。",
+          "url": "https://flash.jin10.com/detail/20260113143654516800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "周一（1月12日），彭博电动汽车价格回报指数涨0.73%，报3606.27点，亚太早盘出现一波显著的跳水行情，随后不断上扬。",
@@ -1275,7 +1322,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1286,7 +1333,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1297,15 +1344,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "汇丰银行：将通用汽车(GM.N)目标股价从48美元上调至75美元。",
+          "url": "https://flash.jin10.com/detail/20260113142259551800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -1318,6 +1376,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
@@ -1365,11 +1434,12 @@
           "ranks": [
             2,
             3,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 15时16分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -1378,11 +1448,12 @@
           "ranks": [
             10,
             17,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时16分]"
         }
       ]
     },
