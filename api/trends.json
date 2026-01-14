@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:12:48.980870+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2026-01-14T20:19:56.282663+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 112,
+      "match_count": 119,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -43,6 +43,30 @@
           "time_info": "[00时17分 ~ 07时02分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 20时19分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时19分]"
+        },
+        {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
           "url": "https://www.cls.cn/detail/2256844",
           "source": "财联社热门",
@@ -56,18 +80,6 @@
           "time_info": "[08时47分 ~ 14时17分]"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时06分 ~ 19时12分]"
-        },
-        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
           "url": "https://wallstreetcn.com/articles/3763124",
           "source": "华尔街见闻",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时12分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -114,6 +115,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时58分 ~ 16时15分]"
+        },
+        {
+          "title": "美国总统特朗普：自2月1日起，联邦政府将不再向各州支付用于其腐败的犯罪保护中心（即所谓的“庇护城市”）的款项。",
+          "url": "https://flash.jin10.com/detail/20260114195407071800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
@@ -402,6 +414,20 @@
           "time_info": "[12时06分 ~ 13时15分]"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时19分]"
+        },
+        {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
           "url": "https://www.cls.cn/detail/2256871",
           "source": "财联社热门",
@@ -414,19 +440,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时06分 ~ 15时16分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时12分]"
         },
         {
           "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
@@ -645,6 +658,18 @@
           "time_info": "[00时17分 ~ 01时17分]"
         },
         {
+          "title": "刘和平：特朗普抛弃“台独”是算计",
+          "url": "https://www.toutiao.com/trending/7595056380969812031/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时19分]"
+        },
+        {
           "title": "据纽约时报：特朗普政府最早将于今天宣布成立一个技术官僚委员会来监督加沙的计划。据官员和知情人士透露，巴勒斯坦前规划部副部长Ali Shaath已被选为该委员会主席。",
           "url": "https://flash.jin10.com/detail/20260114082228492800",
           "source": "金十数据",
@@ -654,6 +679,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        },
+        {
+          "title": "美国总统特朗普：北约应该为我们获得格陵兰岛发挥带头作用。",
+          "url": "https://flash.jin10.com/detail/20260114194043935800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "美国总统特朗普：有了格陵兰岛，北约将变得强大且高效得多。",
+          "url": "https://flash.jin10.com/detail/20260114194015127800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "特朗普参观汽车工厂遭工人辱骂",
@@ -700,6 +747,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛对“金穹”导弹防御系统至关重要。",
+          "url": "https://flash.jin10.com/detail/20260114194006362800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席人选将在未来几周内确定。",
           "url": "https://flash.jin10.com/detail/20260114015937307800",
           "source": "金十数据",
@@ -709,6 +767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260114193933373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "美国总统特朗普：（当被问及《美墨加协定》（USMCA）的日落条款时）该条款无关紧要，加拿大希望保留该协定，但美国并不需要它。",
@@ -975,6 +1044,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。 格陵兰岛对“金穹”导弹防御系统至关重要。 北约应当牵头以便美国取得格陵兰。 如果格陵兰在美国手中，北约将强大得多。",
+          "url": "https://wallstreetcn.com/livenews/3037002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
           "url": "https://flash.jin10.com/detail/20260114024731670800",
           "source": "金十数据",
@@ -1151,6 +1231,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-14）",
+          "url": "https://flash.jin10.com/detail/20260114190924167800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260113233739122800",
           "source": "金十数据",
@@ -1228,17 +1319,6 @@
           "time_info": "06时02分"
         },
         {
-          "title": "刘和平：特朗普抛弃“台独”是算计",
-          "url": "https://www.toutiao.com/trending/7595056380969812031/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -1297,7 +1377,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
@@ -1310,6 +1390,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时06分 ~ 18时13分]"
+        },
+        {
+          "title": "中国汽车产销量再创历史新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 20时19分]"
         },
         {
           "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
@@ -1327,15 +1418,18 @@
           "time_info": "[00时17分 ~ 07时02分]"
         },
         {
-          "title": "中国汽车产销量再创历史新高",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
+          "url": "https://www.zhihu.com/question/1994712035158619020",
+          "source": "知乎",
           "ranks": [
-            3
+            18,
+            12,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 19时12分]"
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 20时19分]"
         },
         {
           "title": "【2025年汽车产销量再创历史新高 连续17年稳居全球第一】中国汽车工业协会今天（14日）发布的最新数据显示，2025年，我国汽车行业继续展现出强大的发展韧性和活力，多项经济指标再创新高。2025年，汽车产销量分别为3453.1万辆和3440万辆，同比分别增长10.4%和9.4%，产销量再创历史新高，连续17年稳居全球第一。新动能加快释放，新能源汽车产销量超1600万辆，其中国内新车销量占比超50%，成为我国汽车市场主导力量。在对外贸易方面，呈现出较强韧性，汽车出口超700万辆，出口规模再上新台阶。其中，新能源汽车出口261.5万辆，同比增长1倍。（央视）",
@@ -1347,20 +1441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
-        },
-        {
-          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
-          "url": "https://www.zhihu.com/question/1994712035158619020",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 19时12分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -1544,6 +1624,17 @@
           "time_info": "15时16分"
         },
         {
+          "title": "三部门召开新能源汽车行业企业座谈会：坚决抵制无序“价格战”",
+          "url": "https://wallstreetcn.com/livenews/3036990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "十四五我国汽车出口跃居全球第一",
           "url": "https://www.toutiao.com/trending/7595028228935532563/",
           "source": "今日头条",
@@ -1610,6 +1701,19 @@
           "time_info": "[00时17分 ~ 06时02分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 20时19分]"
+        },
+        {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
@@ -1621,19 +1725,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时12分 ~ 06时02分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 19时12分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
@@ -1661,7 +1752,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -1699,6 +1790,17 @@
           "time_info": "[00时17分 ~ 16时15分]"
         },
         {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
           "url": "https://wallstreetcn.com/livenews/3036793",
           "source": "华尔街见闻-快讯",
@@ -1708,6 +1810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "幻方量化去年狂赚56%，DeepSeek新模型底气拉满？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260114192748569800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     }
