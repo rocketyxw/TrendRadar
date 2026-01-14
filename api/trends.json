@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:15:48.127526+08:00",
-  "total_titles_processed": 2136,
+  "generated_at": "2026-01-14T23:15:26.291003+08:00",
+  "total_titles_processed": 2237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 123,
+      "match_count": 126,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 23时15分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -104,6 +104,23 @@
           "time_info": "[00时17分 ~ 06时02分]"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 23时15分]"
+        },
+        {
           "title": "特朗普建议盟友“撤离”伊朗",
           "url": "https://www.cls.cn/detail/2256898",
           "source": "财联社热门",
@@ -126,22 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 22时15分]"
         },
         {
           "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
@@ -183,7 +184,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -1222,6 +1223,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "英特尔(INTC.O)上涨3%，特朗普暗示苹果已投资英特尔。",
+          "url": "https://flash.jin10.com/detail/20260114223505158800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://wallstreetcn.com/livenews/3036280",
           "source": "华尔街见闻-快讯",
@@ -1275,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "特朗普政府执政近一年给世界带来了啥",
+          "url": "https://www.toutiao.com/trending/7595171405177684018/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
@@ -1365,6 +1388,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "据POLITICO报道，特朗普不急于在得克萨斯州共和党参议员竞选中为候选人背书。",
+          "url": "https://flash.jin10.com/detail/20260114222907174800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -1453,6 +1487,20 @@
           "time_info": "[00时17分 ~ 07时02分]"
         },
         {
+          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
+          "url": "https://www.zhihu.com/question/1994712035158619020",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时16分 ~ 23时15分]"
+        },
+        {
           "title": "中国汽车产销量再创历史新高",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -1465,20 +1513,6 @@
           "time_info": "[16时15分 ~ 21时33分]"
         },
         {
-          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
-          "url": "https://www.zhihu.com/question/1994712035158619020",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 22时15分]"
-        },
-        {
           "title": "新能源汽车产销量双超1600万辆",
           "url": "https://www.douyin.com/hot/2367892",
           "source": "抖音",
@@ -1486,8 +1520,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时15分]"
         },
         {
           "title": "【2025年汽车产销量再创历史新高 连续17年稳居全球第一】中国汽车工业协会今天（14日）发布的最新数据显示，2025年，我国汽车行业继续展现出强大的发展韧性和活力，多项经济指标再创新高。2025年，汽车产销量分别为3453.1万辆和3440万辆，同比分别增长10.4%和9.4%，产销量再创历史新高，连续17年稳居全球第一。新动能加快释放，新能源汽车产销量超1600万辆，其中国内新车销量占比超50%，成为我国汽车市场主导力量。在对外贸易方面，呈现出较强韧性，汽车出口超700万辆，出口规模再上新台阶。其中，新能源汽车出口261.5万辆，同比增长1倍。（央视）",
@@ -1545,7 +1579,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -1699,7 +1733,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -1710,7 +1744,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -1889,8 +1923,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时19分 ~ 22时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时19分 ~ 23时15分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
