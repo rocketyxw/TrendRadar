@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-14T08:47:51.452699+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-01-14T10:58:58.037303+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 95,
       "titles": [
+        {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 10时58分]"
+        },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3763132",
@@ -15,17 +26,6 @@
             4,
             5,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 08时47分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -67,6 +67,18 @@
           "time_info": "[00时17分 ~ 06时02分]"
         },
         {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 10时58分]"
+        },
+        {
           "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
           "url": "https://flash.jin10.com/detail/20260114063417981800",
           "source": "金十数据",
@@ -87,17 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时47分"
         },
         {
           "title": "美国总统特朗普：我们会让油价进一步下降。",
@@ -526,7 +527,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
@@ -537,9 +538,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -603,7 +615,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
@@ -724,7 +736,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
@@ -746,7 +758,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
@@ -768,7 +780,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
@@ -1010,7 +1022,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
@@ -1076,7 +1088,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         }
@@ -1132,11 +1144,12 @@
           "url": "https://www.zhihu.com/question/1994094829399982350",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 10时58分]"
         },
         {
           "title": "白宫新闻秘书莱维特：预计福特汽车(F.N)将于今日发布公告，福特宣布增加就业和生产天然气。",
@@ -1189,18 +1202,6 @@
           "time_info": "[00时17分 ~ 07时02分]"
         },
         {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时02分]"
-        },
-        {
           "title": "UP主锐评苹果谷歌合作",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
           "source": "bilibili 热搜",
@@ -1211,8 +1212,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 08时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 10时58分]"
+        },
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时02分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1252,11 +1265,12 @@
             9,
             10,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 08时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 10时58分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -1267,11 +1281,12 @@
             10,
             6,
             13,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 08时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 10时58分]"
         }
       ]
     }
