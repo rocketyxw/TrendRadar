@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T21:33:08.571266+08:00",
-  "total_titles_processed": 2045,
+  "generated_at": "2026-01-15T22:15:28.076228+08:00",
+  "total_titles_processed": 2136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时15分 ~ 21时33分]"
+          "appearance_count": 10,
+          "time_info": "[16时15分 ~ 22时15分]"
         },
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -56,6 +56,17 @@
           "time_info": "[00时15分 ~ 04时02分]"
         },
         {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 22时15分]"
+        },
+        {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
           "url": "https://wallstreetcn.com/articles/3763310",
           "source": "华尔街见闻",
@@ -66,8 +77,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时44分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[08时44分 ~ 22时15分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -85,17 +96,6 @@
           "time_info": "[12时37分 ~ 19时11分]"
         },
         {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 21时33分]"
-        },
-        {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
           "url": "https://news.ifeng.com/c/8puu58c2sSy",
           "source": "凤凰网",
@@ -105,6 +105,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时02分 ~ 08时44分]"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 22时15分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -119,18 +131,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时44分 ~ 15时16分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时02分 ~ 21时33分]"
         },
         {
           "title": "据华尔街日报：特朗普于去年秋季下令在加勒比地区增兵，以此向委内瑞拉马杜罗施压。现任和前任国防官员表示，如果华盛顿和伊朗之间爆发冲突，海地的军事集结将限制特朗普的选择。",
@@ -161,7 +161,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -186,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普暂缓对关键矿产加征关税 白银跌势重启",
+          "url": "https://flash.jin10.com/detail/20260115220231302800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉临时总统罗德里格斯进行了非常良好的通话。讨论了许多议题，包括石油、矿产、贸易，当然还有国家安全。",
@@ -505,7 +516,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -703,7 +714,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -780,7 +791,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1041,7 +1052,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "新能源汽车产销量双超1600万辆",
@@ -1072,6 +1083,30 @@
           "time_info": "[00时15分 ~ 07时01分]"
         },
         {
+          "title": "飞行汽车真的来了吗",
+          "url": "https://www.toutiao.com/trending/7595469872146992650/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时15分 ~ 22时15分]"
+        },
+        {
+          "title": "中国建材集团与芜湖市、奇瑞汽车签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3038064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "三菱电机据悉正在寻求出售汽车零部件业务。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3037777",
           "source": "华尔街见闻-快讯",
@@ -1083,17 +1118,15 @@
           "time_info": "16时15分"
         },
         {
-          "title": "飞行汽车真的来了吗",
-          "url": "https://www.toutiao.com/trending/7595469872146992650/",
-          "source": "今日头条",
+          "title": "姚振华实名举报观致汽车被贱卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32384926",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            8,
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时15分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时15分]"
         },
         {
           "title": "宝能姚振华发实名举报视频，称观致汽车资产被低价拍卖，具体情况如何？",
@@ -1117,17 +1150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时17分 ~ 18时02分]"
-        },
-        {
-          "title": "姚振华实名举报观致汽车被贱卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32384926",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "媒体：高市谬论害苦日本汽车业",
@@ -1162,6 +1184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "墨西哥经济部长埃布拉德：2025年墨西哥对美汽车出口降幅不到3%。",
+          "url": "https://flash.jin10.com/detail/20260115215811531800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "周三（1月14日），彭博电动汽车价格回报指数跌0.37%，报3611.80点。 亚太早盘，指数微幅上涨，北京时间13:00出现一波显著的跳水转跌行情，14:07刷新日低至3597.59点刷新日低，随后持续低位震荡。 成分股Rivian跌7.7%，微宏控股跌4.1%，意法半导体跌2.4%，特斯拉跌2.2%，小马智行则涨1.9%，普拉格动力公司2.4%，宝马涨2.7%，Solid Power涨3.6%，EVGO涨5.9%，MP材料涨8.3%。",
@@ -1232,8 +1265,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时15分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -1321,8 +1354,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时15分]"
         },
         {
           "title": "摩根士丹利邢自强：2040年将迎来中国医药界的DeepSeek时刻",
@@ -1352,11 +1385,12 @@
             8,
             17,
             15,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时59分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[11时59分 ~ 22时15分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
