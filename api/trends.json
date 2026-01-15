@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T13:17:48.897342+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-01-15T14:02:46.754348+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,35 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 14时02分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 14时02分]"
+        },
+        {
+          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2258166",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 14时02分]"
         },
         {
           "title": "据华尔街日报：特朗普于去年秋季下令在加勒比地区增兵，以此向委内瑞拉马杜罗施压。现任和前任国防官员表示，如果华盛顿和伊朗之间爆发冲突，海地的军事集结将限制特朗普的选择。",
@@ -87,19 +114,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 13时17分]"
-        },
-        {
           "title": "美国总统特朗普：（被问及是否排除对伊朗采取军事行动）我们会观察事态发展，然后再做决定。",
           "url": "https://flash.jin10.com/detail/20260115043926070800",
           "source": "金十数据",
@@ -109,20 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2258166",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉临时总统罗德里格斯进行了非常良好的通话。讨论了许多议题，包括石油、矿产、贸易，当然还有国家安全。",
@@ -268,6 +268,30 @@
           "time_info": "[04时02分 ~ 05时02分]"
         },
         {
+          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
+          "url": "https://www.zhihu.com/question/1994760082911675910",
+          "source": "知乎",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 14时02分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 14时02分]"
+        },
+        {
           "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
           "url": "https://wallstreetcn.com/livenews/3037513",
           "source": "华尔街见闻-快讯",
@@ -281,28 +305,15 @@
           "time_info": "[11时59分 ~ 13时17分]"
         },
         {
-          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
-          "url": "https://www.zhihu.com/question/1994760082911675910",
-          "source": "知乎",
+          "title": "委内瑞拉代总统和特朗普通话",
+          "url": "https://www.douyin.com/hot/2368035",
+          "source": "抖音",
           "ranks": [
-            10,
-            16
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时17分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时17分]"
+          "time_info": "[12时37分 ~ 14时02分]"
         },
         {
           "title": "特朗普政府拟让FTC主席负责司法部反欺诈新部门",
@@ -341,17 +352,6 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
-          "title": "委内瑞拉代总统和特朗普通话",
-          "url": "https://www.douyin.com/hot/2368035",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时17分]"
-        },
-        {
           "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
           "url": "https://wallstreetcn.com/livenews/3037215",
           "source": "华尔街见闻-快讯",
@@ -374,6 +374,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普同委内瑞拉代总统通话",
+          "url": "https://www.toutiao.com/trending/7594631182898397227/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时02分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -629,17 +641,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
-        },
-        {
-          "title": "特朗普同委内瑞拉代总统通话",
-          "url": "https://www.toutiao.com/trending/7594631182898397227/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -947,7 +948,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -1062,8 +1063,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 14时02分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
