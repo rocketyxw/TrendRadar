@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T17:17:00.941095+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2026-01-15T18:02:45.490573+08:00",
+  "total_titles_processed": 1721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 17时17分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 18时02分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -54,19 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 17时17分]"
-        },
-        {
-          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
-          "url": "https://news.ifeng.com/c/8puu58c2sSy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时02分 ~ 08时44分]"
+          "appearance_count": 11,
+          "time_info": "[08时44分 ~ 18时02分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -80,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 17时17分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 18时02分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -91,8 +80,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 18时02分]"
+        },
+        {
+          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
+          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时02分 ~ 08时44分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -345,6 +345,18 @@
           "time_info": "[13时17分 ~ 15时16分]"
         },
         {
+          "title": "美对委行动后特朗普支持率仍在低点",
+          "url": "https://www.toutiao.com/trending/7594447882443898943/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普邀请记者喝放了5天的牛奶",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80%E8%AF%B7%E8%AE%B0%E8%80%85%E5%96%9D%E6%94%BE%E4%BA%865%E5%A4%A9%E7%9A%84%E7%89%9B%E5%A5%B6%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -417,17 +429,6 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
-          "title": "美对委行动后特朗普支持率仍在低点",
-          "url": "https://www.toutiao.com/trending/7594447882443898943/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
           "title": "特朗普再批鲍威尔",
           "url": "https://www.douyin.com/hot/2367805",
           "source": "抖音",
@@ -461,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗“杀戮”已停止）我是从对方的消息来源那里得知此事的。",
@@ -670,6 +682,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "特朗普又打瞌睡还被小女孩发现",
+          "url": "https://www.toutiao.com/trending/7595091508925022244/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "市场消息：特朗普签署行政命令，设立第二个紧急委员会，调查长岛铁路公司与其部分员工（由特定劳工组织代表）之间的争议。",
@@ -959,6 +982,18 @@
           "time_info": "[12时37分 ~ 13时17分]"
         },
         {
+          "title": "中创智领：拟发行可转债募资不超过43.5亿元，用于新能源汽车高端零部件产业基地项目、高端液压部件生产系统智能化升级项目、智能制造全场景研发中心项目、智能移动机器人制造基地项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3037828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时02分]"
+        },
+        {
           "title": "媒体：高市谬论害苦日本汽车业",
           "url": "https://www.toutiao.com/trending/7594740076321865766/",
           "source": "今日头条",
@@ -1004,17 +1039,6 @@
           "time_info": "06时02分"
         },
         {
-          "title": "中创智领：拟发行可转债募资不超过43.5亿元，用于新能源汽车高端零部件产业基地项目、高端液压部件生产系统智能化升级项目、智能制造全场景研发中心项目、智能移动机器人制造基地项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3037828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "飞行汽车真的来了吗",
           "url": "https://www.toutiao.com/trending/7595469872146992650/",
           "source": "今日头条",
@@ -1054,7 +1078,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
@@ -1157,11 +1181,12 @@
             12,
             10,
             8,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时59分 ~ 17时17分]"
+          "appearance_count": 9,
+          "time_info": "[11时59分 ~ 18时02分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
