@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T18:03:13.554796+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-01-18T19:02:34.298681+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -33,17 +33,6 @@
           "time_info": "[00时02分 ~ 11时01分]"
         },
         {
-          "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
-          "url": "https://news.ifeng.com/c/8q00jeWUQBa",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 08时51分]"
-        },
-        {
           "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
           "url": "https://wallstreetcn.com/articles/3763532",
           "source": "华尔街见闻",
@@ -55,8 +44,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时14分 ~ 18时03分]"
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
+          "url": "https://news.ifeng.com/c/8q00jeWUQBa",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 08时51分]"
+        },
+        {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 19时02分]"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -89,17 +100,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时02分 ~ 17时02分]"
-        },
-        {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时14分 ~ 18时03分]"
         },
         {
           "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
@@ -322,15 +322,15 @@
           "time_info": "[03时02分 ~ 08时51分]"
         },
         {
-          "title": "德国工程协会表示，欧盟委员会应考虑采取反胁迫工具，以应对美国总统特朗普针对格陵兰岛的关税威胁。",
-          "url": "https://flash.jin10.com/detail/20260118171938820800",
-          "source": "金十数据",
+          "title": "一位与马克龙关系密切的人士就特朗普的关税威胁发表评论：马克龙将请求启动欧盟反胁迫机制。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3039235",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时03分"
+          "time_info": "19时02分"
         },
         {
           "title": "英媒：特朗普羡慕中国",
@@ -369,6 +369,19 @@
           "time_info": "[12时06分 ~ 15时12分]"
         },
         {
+          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时02分]"
+        },
+        {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
           "url": "https://flash.jin10.com/detail/20260118081338309800",
           "source": "金十数据",
@@ -382,18 +395,6 @@
           "time_info": "[08时51分 ~ 12时06分]"
         },
         {
-          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
-          "url": "https://flash.jin10.com/detail/20260118162133517800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时03分]"
-        },
-        {
           "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
           "url": "https://flash.jin10.com/detail/20260118081329307800",
           "source": "金十数据",
@@ -405,6 +406,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时51分 ~ 12时06分]"
+        },
+        {
+          "title": "德国工程协会表示，欧盟委员会应考虑采取反胁迫工具，以应对美国总统特朗普针对格陵兰岛的关税威胁。",
+          "url": "https://flash.jin10.com/detail/20260118171938820800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 19时02分]"
         },
         {
           "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
@@ -471,15 +495,16 @@
           "time_info": "[13时15分 ~ 15时12分]"
         },
         {
-          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
-          "url": "https://wallstreetcn.com/articles/3763529",
-          "source": "华尔街见闻",
+          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
+          "source": "澎湃新闻",
           "ranks": [
+            14,
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时13分 ~ 18时03分]"
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
@@ -592,17 +617,6 @@
           "time_info": "[15时11分 ~ 15时12分]"
         },
         {
-          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
-        },
-        {
           "title": "特朗普发布个人黑白照：我是关税王",
           "url": "https://www.toutiao.com/trending/7595813844887339062/",
           "source": "今日头条",
@@ -623,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-18）",
+          "url": "https://flash.jin10.com/detail/20260118181223418800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
@@ -697,6 +722,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时15分 ~ 19时02分]"
+        },
+        {
           "title": "解读ChatGPT加入广告背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
@@ -710,19 +748,6 @@
           "time_info": "[00时02分 ~ 08时51分]"
         },
         {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时15分 ~ 18时03分]"
-        },
-        {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
           "url": "https://www.zhihu.com/question/1995914466735388213",
           "source": "知乎",
@@ -731,8 +756,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时14分 ~ 18时03分]"
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 19时02分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -771,6 +796,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "俄乌战争",
       "match_count": 1,
       "titles": [
@@ -798,11 +840,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 16时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 19时02分]"
         }
       ]
     }
