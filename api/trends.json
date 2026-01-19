@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T11:01:45.265780+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-01-19T12:11:50.141801+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -64,11 +64,12 @@
             7,
             8,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 11时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 12时11分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -102,8 +103,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 11时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时11分]"
+        },
+        {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时11分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -134,18 +148,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 05时02分]"
-        },
-        {
-          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
-          "url": "https://www.cls.cn/detail/2261562",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 11时01分]"
         },
         {
           "title": "英镑兑美元报价跌0.3%，投资者关注美国总统特朗普（在吞并格陵兰方面）对欧洲多国发出的关税威胁。",
@@ -266,6 +268,17 @@
           "time_info": "[04时02分 ~ 07时02分]"
         },
         {
+          "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
+          "url": "https://flash.jin10.com/detail/20260119115225347800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "欧洲被特朗普打脸了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%93%E8%84%B8%E4%BA%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -296,9 +309,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "特朗普：明尼苏达州存在190亿美元索马里诈骗",
+          "url": "https://flash.jin10.com/detail/20260119114952164800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "哈塞特回应称，特朗普不选他担任美联储主席可能是正确的",
@@ -387,6 +411,19 @@
           "time_info": "[00时02分 ~ 04时02分]"
         },
         {
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时11分]"
+        },
+        {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
           "url": "https://flash.jin10.com/detail/20260119053728522800",
           "source": "金十数据",
@@ -409,18 +446,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗：将追究特朗普等人责任",
-          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 11时01分]"
         },
         {
           "title": "贝森特称“软弱”的欧洲意味着特朗普必须接管格陵兰岛",
@@ -498,6 +523,17 @@
           "time_info": "[00时02分 ~ 01时02分]"
         },
         {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时11分]"
+        },
+        {
           "title": "英国首相斯塔默与欧洲领导人及特朗普通话 重申反对美国关税政策",
           "url": "https://flash.jin10.com/detail/20260119040945227800",
           "source": "金十数据",
@@ -522,15 +558,26 @@
           "time_info": "[00时02分 ~ 01时02分]"
         },
         {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "12时11分"
+        },
+        {
+          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
+          "url": "https://wallstreetcn.com/articles/3763551",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "欧洲斯托克50指数期货下跌1%，德国DAX指数期货下跌1.1%。此前消息，特朗普称2月1日起对欧洲八国加征关税，直至“完全收购格陵兰岛”。报道称欧盟考虑对930亿欧元输欧美国商品加征关税反击。",
@@ -542,12 +589,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
+        },
+        {
+          "title": "美国邀约60国加入特朗普版联合国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%82%80%E7%BA%A660%E5%9B%BD%E5%8A%A0%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%88%E8%81%94%E5%90%88%E5%9B%BD%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国汽车业拿下两个连续全球第一",
@@ -557,8 +615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 11时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 12时11分]"
         },
         {
           "title": "电动汽车电池寿命可达13年",
@@ -572,6 +630,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 04时02分]"
+        },
+        {
+          "title": "工信部等五部门：分阶段梯度培育建设零碳工厂，到2027年推进至汽车、光伏等行业",
+          "url": "https://wallstreetcn.com/livenews/3039482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "百大视角看汽车区发展",
@@ -626,11 +695,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 11时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 12时11分]"
         }
       ]
     }
