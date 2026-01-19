@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T20:21:09.757261+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-01-19T21:38:12.733282+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 93,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时50分 ~ 20时21分]"
+          "appearance_count": 16,
+          "time_info": "[08时50分 ~ 21时38分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -80,8 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时11分 ~ 20时21分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 21时38分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -136,6 +136,20 @@
           "time_info": "[01时02分 ~ 08时50分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 21时38分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
           "url": "https://wallstreetcn.com/livenews/3039284",
           "source": "华尔街见闻-快讯",
@@ -166,18 +180,15 @@
           "time_info": "[00时02分 ~ 05时02分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
+          "title": "特朗普为何对欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8,
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 20时21分]"
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "英镑兑美元报价跌0.3%，投资者关注美国总统特朗普（在吞并格陵兰方面）对欧洲多国发出的关税威胁。",
@@ -243,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
+          "url": "https://wallstreetcn.com/livenews/3039789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
@@ -624,6 +646,30 @@
           "time_info": "[00时02分 ~ 01时02分]"
         },
         {
+          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时38分]"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时38分]"
+        },
+        {
           "title": "英国首相斯塔默与欧洲领导人及特朗普通话 重申反对美国关税政策",
           "url": "https://flash.jin10.com/detail/20260119040945227800",
           "source": "金十数据",
@@ -669,6 +715,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "普京收到加入特朗普和平委员会邀请",
+          "url": "https://www.toutiao.com/trending/7596940910904573978/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "内塔尼亚胡罕见公开“叫板”特朗普",
@@ -750,17 +807,6 @@
           "time_info": "18时16分"
         },
         {
-          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3039760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
           "title": "英国首相斯塔默：我认为美国总统特朗普并未考虑对格陵兰岛采取军事行动。",
           "url": "https://flash.jin10.com/detail/20260119174911667800",
           "source": "金十数据",
@@ -770,17 +816,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
-        },
-        {
-          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3039755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
         },
         {
           "title": "挪威首相：特朗普总统的回信是为了回复我当天早些时候代表我自己以及芬兰总统亚历山大·斯图布发送的一条简短短信。",
@@ -833,7 +868,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -844,7 +879,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -877,7 +912,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1047,6 +1082,17 @@
           "time_info": "18时16分"
         },
         {
+          "title": "德国总理默茨：我们知道，美国总统特朗普威胁要征收关税，但谈判也促使他放弃实施这些关税。这一直是我的策略，我将继续坚持这一策略。",
+          "url": "https://flash.jin10.com/detail/20260119210126922800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "克里姆林宫：很难不同意专家们的观点，即如果美国总统特朗普拿下格陵兰岛，他将载入世界史册。",
           "url": "https://flash.jin10.com/detail/20260119173315238800",
           "source": "金十数据",
@@ -1116,7 +1162,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1193,7 +1239,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
