@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:14:56.891531+08:00",
-  "total_titles_processed": 1835,
+  "generated_at": "2026-01-21T20:21:46.596383+08:00",
+  "total_titles_processed": 1931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 146,
+      "match_count": 154,
       "titles": [
         {
           "title": "特朗普和马克龙，直接开干了",
@@ -102,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时53分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[10时53分 ~ 20时21分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -142,20 +142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时53分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1996980159144801247",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时02分]"
+          "appearance_count": 13,
+          "time_info": "[10时53分 ~ 20时21分]"
         },
         {
           "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
@@ -169,8 +157,20 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 20时21分]"
+        },
+        {
+          "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1996980159144801247",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时43分 ~ 19时14分]"
+          "time_info": "[00时19分 ~ 07时02分]"
         },
         {
           "title": "特朗普计划于4月访华？外交部回应",
@@ -186,6 +186,32 @@
           "time_info": "[00时19分 ~ 07时02分]"
         },
         {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 20时21分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 20时21分]"
+        },
+        {
           "title": "马克龙在达沃斯喊话特朗普",
           "url": "https://www.douyin.com/hot/2374693",
           "source": "抖音",
@@ -199,30 +225,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时01分 ~ 15时19分]"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时14分]"
-        },
-        {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时14分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
@@ -271,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "特朗普对美联储的影响力究竟多大 美国最高法院库克听证会将是试金石",
+          "url": "https://wallstreetcn.com/livenews/3041283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
@@ -332,17 +345,6 @@
           "time_info": "14时19分"
         },
         {
-          "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
-          "url": "https://wallstreetcn.com/livenews/3041250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "特朗普称和平委员会或取代联合国",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%96%E5%8F%96%E4%BB%A3%E8%81%94%E5%90%88%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -396,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "英国首相斯塔默：美国总统特朗普想让我在立场上让步，但我不会。",
+          "url": "https://flash.jin10.com/detail/20260121200613036800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "巴林外交部：巴林接受邀请，加入美国总统特朗普的和平委员会。",
@@ -456,6 +469,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时01分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 20时21分]"
         },
         {
           "title": "巴西总统：特朗普想用社交媒体“统治世界”",
@@ -519,6 +546,18 @@
           "time_info": "[07时02分 ~ 08时47分]"
         },
         {
+          "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
+          "url": "https://wallstreetcn.com/livenews/3041250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时21分]"
+        },
+        {
           "title": "特朗普：联合国应继续存在 但“和平委员会”可能取而代之",
           "url": "https://wallstreetcn.com/livenews/3040697",
           "source": "华尔街见闻-快讯",
@@ -569,17 +608,15 @@
           "time_info": "[04时03分 ~ 07时02分]"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            14,
-            17
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时21分]"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -604,17 +641,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时53分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时14分]"
         },
         {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
@@ -827,6 +853,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "英国首相斯塔默：美国总统特朗普周一关于查戈斯群岛的言论与此前不同。",
+          "url": "https://flash.jin10.com/detail/20260121200546037800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "美国财长贝森特：特朗普在调整改善全球经济。 增长是摆脱巨额债务的唯一出路。 建议瑞士不要在经济政策上追随欧盟。 英国在迪戈加西亚岛问题上让美国很失望。 欧洲向格陵兰派遣部队是“不切实际的空想”。 不清楚在缺乏内部调查的情况下，鲍威尔为何会支持库克。 对美联储缺乏内部调查感到非常失望。 鲍威尔在将美联储政治化，不应该如此。",
           "url": "https://wallstreetcn.com/livenews/3041056",
           "source": "华尔街见闻-快讯",
@@ -869,6 +906,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "高级白宫官员：特朗普不会在达沃斯论坛期间宣布美联储主席人选，他尚未拿定主意。",
+          "url": "https://flash.jin10.com/detail/20260121200532223800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国参议院民主党成员们寻求关于特朗普司法部调查美联储主席鲍威尔的卷宗。（华尔街日报）",
@@ -968,6 +1016,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "高级白宫官员：特朗普的今晚演讲将聚焦“美国优先”，可能提及格陵兰岛和委内瑞拉，还将讨论和平委员会和半球霸权。",
+          "url": "https://flash.jin10.com/detail/20260121200357857800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国总统特朗普：（美国吞并）格陵兰的结果将让北约非常高兴。",
@@ -1100,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "特朗普抵达瑞士参加达沃斯论坛，此前空军一号曾出现故障。",
+          "url": "https://wallstreetcn.com/livenews/3041266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "特朗普：联合国应继续存在 但“和平委员会”可能取而代之",
@@ -1328,7 +1398,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1386,6 +1456,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁转头就否了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E5%96%8A%E5%AE%8C%E4%B8%AD%E4%BF%84%E5%A8%81%E8%83%81%E8%BD%AC%E5%A4%B4%E5%B0%B1%E5%90%A6%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "特朗普抵达达沃斯 将于今晚21:30发表演讲",
+          "url": "https://flash.jin10.com/detail/20260121195427207800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国总统特朗普：不会前往巴黎参加G7会议。",
@@ -1914,8 +2006,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[12时01分 ~ 20时21分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
