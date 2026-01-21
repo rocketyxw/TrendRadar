@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-21T15:19:50.499586+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-01-21T16:16:45.672286+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 132,
+      "match_count": 138,
       "titles": [
+        {
+          "title": "特朗普和马克龙，直接开干了",
+          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时47分 ~ 16时16分]"
+        },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
           "url": "https://wallstreetcn.com/articles/3763675",
@@ -44,16 +56,16 @@
           "time_info": "[00时19分 ~ 07时02分]"
         },
         {
-          "title": "特朗普和马克龙，直接开干了",
-          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时47分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 16时16分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -66,18 +78,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时47分 ~ 13时20分]"
-        },
-        {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 15时19分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -114,6 +114,34 @@
           "time_info": "[10时53分 ~ 13时20分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 16时16分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 16时16分]"
+        },
+        {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
           "url": "https://www.zhihu.com/question/1996980159144801247",
           "source": "知乎",
@@ -139,19 +167,6 @@
           "time_info": "[00时19分 ~ 07时02分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 15时19分]"
-        },
-        {
           "title": "马克龙在达沃斯喊话特朗普",
           "url": "https://www.douyin.com/hot/2374693",
           "source": "抖音",
@@ -165,20 +180,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时01分 ~ 15时19分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 15时19分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
@@ -255,6 +256,19 @@
           "time_info": "[01时19分 ~ 07时02分]"
         },
         {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 16时16分]"
+        },
+        {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20260121034837826800",
           "source": "金十数据",
@@ -264,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "应对特朗普威胁 欧盟预计将和印度达成“历史性”贸易协议",
+          "url": "https://flash.jin10.com/detail/20260121154950639800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "空军一号因电路故障返航 导致特朗普的达沃斯之行延迟",
@@ -390,18 +415,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时01分 ~ 14时19分]"
-        },
-        {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时19分]"
         },
         {
           "title": "巴西总统：特朗普想用社交媒体“统治世界”",
@@ -732,7 +745,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -996,7 +1009,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1144,6 +1157,17 @@
           "time_info": "08时47分"
         },
         {
+          "title": "美国财长贝森特：早在2018年，特朗普就警告欧洲人不要修建北溪2号天然气管道项目。不要购买俄罗斯石油。俄乌冲突的资金来源是什么？欧洲购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20260121153234637800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美国总统特朗普：关于关税。 如果我们败诉，我们可能就得尽力偿还这笔钱了。",
           "url": "https://flash.jin10.com/detail/20260121031204111800",
           "source": "金十数据",
@@ -1254,6 +1278,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美国总统特朗普：不会前往巴黎参加G7会议。",
           "url": "https://flash.jin10.com/detail/20260121041942470800",
           "source": "金十数据",
@@ -1293,7 +1328,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1364,6 +1399,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "美国财长贝森特：我认为特朗普总统会迟到大约3个小时。",
+          "url": "https://flash.jin10.com/detail/20260121152638534800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "特朗普：若最高法限制联邦政府关税政策，还可采用其他手段",
           "url": "https://wallstreetcn.com/livenews/3040674",
           "source": "华尔街见闻-快讯",
@@ -1384,6 +1430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "西班牙外交大臣：欧洲伙伴正在就美国总统特朗普提议的“和平委员会”进行密集磋商。",
+          "url": "https://flash.jin10.com/detail/20260121152626856800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "毛里求斯政府表示，已注意到美国总统特朗普关于查戈斯群岛的声明。",
@@ -1494,6 +1551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普到达沃斯会迟到大约三个小时。",
+          "url": "https://wallstreetcn.com/livenews/3041073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美国总统特朗普：我相信瑞士人民会热烈欢迎我的到来。",
@@ -1695,11 +1763,12 @@
             4,
             6,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 16时16分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
