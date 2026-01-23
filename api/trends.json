@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T10:54:09.546417+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-01-23T12:00:15.400218+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 10时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 12时00分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -54,8 +54,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 10时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 12时00分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时46分 ~ 12时00分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -65,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 10时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 12时00分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -77,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 10时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 12时00分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -114,8 +125,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 10时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 12时00分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -162,17 +173,6 @@
           "time_info": "[00时19分 ~ 07时03分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时46分 ~ 10时54分]"
-        },
-        {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
           "url": "https://www.zhihu.com/question/1997263966708196399",
           "source": "知乎",
@@ -185,6 +185,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时03分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 12时00分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 12时00分]"
         },
         {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
@@ -214,17 +236,6 @@
           "time_info": "[02时16分 ~ 08时47分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
           "url": "https://wallstreetcn.com/articles/3763851",
           "source": "华尔街见闻",
@@ -234,17 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时20分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
         },
         {
           "title": "美国总统特朗普在社交平台发文称，“到处都是创纪录的数字！我应该争取第四个任期吗？”",
@@ -267,17 +267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普左手背再现新瘀青，最新回应：吃药副作用，磕到桌子容易青",
-          "url": "https://wallstreetcn.com/livenews/3042505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -305,6 +294,18 @@
           "time_info": "[03时16分 ~ 05时12分]"
         },
         {
+          "title": "特朗普左手背再现新瘀青，最新回应：吃药副作用，磕到桌子容易青",
+          "url": "https://wallstreetcn.com/livenews/3042505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 12时00分]"
+        },
+        {
           "title": "特朗普：启程返回华盛顿 达沃斯之行非常精彩",
           "url": "https://flash.jin10.com/detail/20260123025152840800",
           "source": "金十数据",
@@ -315,6 +316,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 12时00分]"
+        },
+        {
+          "title": "特朗普威胁欧洲敢抛美债就报复",
+          "url": "https://www.douyin.com/hot/2376727",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时00分]"
         },
         {
           "title": "特朗普：正返回华盛顿特区，达沃斯之行令人难以置信。",
@@ -377,17 +401,6 @@
           "time_info": "[05时12分 ~ 06时02分]"
         },
         {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
           "title": "克里姆林宫：俄罗斯总统普京开始与美国特使Witkoff、美国总统特朗普女婿库什纳对话。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3042286",
           "source": "华尔街见闻-快讯",
@@ -423,6 +436,17 @@
           "time_info": "[08时46分 ~ 08时47分]"
         },
         {
+          "title": "特朗普起诉美最大银行索赔50亿美元",
+          "url": "https://www.toutiao.com/trending/7598255637491466246/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时00分]"
+        },
+        {
           "title": "特朗普：美国将申办2035年世博会",
           "url": "https://wallstreetcn.com/livenews/3042278",
           "source": "华尔街见闻-快讯",
@@ -456,6 +480,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普启程返回华盛顿",
+          "url": "https://www.toutiao.com/trending/7597622481931337770/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时00分]"
         },
         {
           "title": "泽连斯基突然赴达沃斯见特朗普",
@@ -674,7 +709,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -773,7 +808,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
