@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-23T07:03:04.960369+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-01-23T08:47:03.988196+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 71,
       "titles": [
-        {
-          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时03分]"
-        },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
           "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -35,7 +24,19 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
+        },
+        {
+          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -49,11 +50,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -63,21 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时03分]"
-        },
-        {
-          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
-          "url": "https://wallstreetcn.com/articles/3763892",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -87,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -98,8 +87,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
+        },
+        {
+          "title": "特朗普为啥时隔一天态度变了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            20,
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时20分 ~ 08时47分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -108,6 +111,50 @@
           "ranks": [
             10,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
+        },
+        {
+          "title": "马克龙戴太阳镜亮相遭特朗普调侃",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%88%B4%E5%A4%AA%E9%98%B3%E9%95%9C%E4%BA%AE%E7%9B%B8%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            20,
+            14,
+            15,
+            17,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
+        },
+        {
+          "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32439660",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
+        },
+        {
+          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
+          "url": "https://wallstreetcn.com/articles/3763892",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -128,47 +175,42 @@
           "time_info": "[00时19分 ~ 07时03分]"
         },
         {
-          "title": "马克龙戴太阳镜亮相遭特朗普调侃",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%88%B4%E5%A4%AA%E9%98%B3%E9%95%9C%E4%BA%AE%E7%9B%B8%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            20,
-            14,
-            15,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时03分]"
-        },
-        {
-          "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32439660",
+          "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时03分]"
-        },
-        {
-          "title": "特朗普为啥时隔一天态度变了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            20,
-            6
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时03分]"
+          "time_info": "[03时16分 ~ 08时47分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
+        },
+        {
+          "title": "特朗普执政一年把美国推向何方",
+          "url": "https://www.douyin.com/hot/2376099",
+          "source": "抖音",
+          "ranks": [
+            10,
+            20,
+            16,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时16分 ~ 08时47分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -188,7 +230,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -204,18 +246,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时16分 ~ 07时03分]"
-        },
-        {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
           "url": "https://wallstreetcn.com/articles/3763863",
           "source": "华尔街见闻",
@@ -226,20 +256,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普执政一年把美国推向何方",
-          "url": "https://www.douyin.com/hot/2376099",
-          "source": "抖音",
-          "ranks": [
-            10,
-            20,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 07时03分]"
         },
         {
           "title": "特朗普撤回关税威胁后，欧洲议会拟重启美欧贸易协议表决",
@@ -351,6 +367,17 @@
           "time_info": "[03时16分 ~ 04时02分]"
         },
         {
+          "title": "特朗普索赔50亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A2%E8%B5%9450%E4%BA%BF%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
+        },
+        {
           "title": "特朗普：美国将申办2035年世博会",
           "url": "https://wallstreetcn.com/livenews/3042278",
           "source": "华尔街见闻-快讯",
@@ -384,6 +411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时02分]"
+        },
+        {
+          "title": "泽连斯基突然赴达沃斯见特朗普",
+          "url": "https://www.toutiao.com/trending/7598321670687834153/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
         },
         {
           "title": "特朗普在达沃斯启动“和平委员会”",
@@ -426,7 +464,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -437,7 +475,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -448,7 +486,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -470,7 +508,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -503,7 +541,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -536,7 +574,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -580,7 +618,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -602,7 +640,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -613,7 +651,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -635,9 +673,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普：将对所有与伊朗进行贸易往来国家加征25%关税",
+          "url": "https://flash.jin10.com/detail/20260123075504663800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感激涕零。 欧洲团结一致，迫使特朗普在格陵兰吞并欲望方面改弦更张。 欧洲是北约的一部分，（欧洲自身）需要能够捍卫自己（的利益）。 必须在防务、竞争方面强化欧洲的韧性。",
@@ -657,7 +706,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -671,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "特朗普：将对所有与伊朗进行贸易往来国家加征25%关税",
+          "url": "https://wallstreetcn.com/livenews/3042386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "特朗普称将申办2035年世博会 身兼数职的鲁比奥再迎新头衔",
@@ -690,7 +750,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -701,7 +761,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -712,7 +772,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -734,7 +794,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -756,9 +816,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美众议院未通过旨在限制特朗普对委再动武的决议",
+          "url": "https://wallstreetcn.com/livenews/3042380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     },
@@ -945,8 +1016,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[03时16分 ~ 08时47分]"
         }
       ]
     }
