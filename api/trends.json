@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T22:02:31.064542+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-01-24T23:02:31.764442+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -83,8 +83,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时15分 ~ 22时02分]"
+          "appearance_count": 11,
+          "time_info": "[14时15分 ~ 23时02分]"
         },
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -97,8 +97,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时54分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[11时54分 ~ 23时02分]"
         },
         {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
@@ -279,6 +279,17 @@
           "time_info": "[04时02分 ~ 08时45分]"
         },
         {
+          "title": "美国财政部：特朗普将出席特朗普账户峰会",
+          "url": "https://wallstreetcn.com/livenews/3043301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260124023137303800",
           "source": "金十数据",
@@ -337,6 +348,17 @@
           "time_info": "[17时11分 ~ 21时24分]"
         },
         {
+          "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
+          "url": "https://wallstreetcn.com/livenews/3043300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
           "url": "https://wallstreetcn.com/livenews/3043204",
           "source": "华尔街见闻-快讯",
@@ -350,17 +372,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时48分 ~ 14时15分]"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3043290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
@@ -405,6 +416,19 @@
           "time_info": "[10时48分 ~ 13时12分]"
         },
         {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 23时02分]"
+        },
+        {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
           "url": "https://wallstreetcn.com/livenews/3043151",
           "source": "华尔街见闻-快讯",
@@ -427,18 +451,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时45分]"
-        },
-        {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 21时24分]"
         },
         {
           "title": "英首相说特朗普言论极具侮辱性",
@@ -488,6 +500,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3043290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时02分]"
         },
         {
           "title": "特朗普政府正在考虑全面封锁古巴石油进口",
@@ -590,6 +614,18 @@
           "time_info": "[10时48分 ~ 12时26分]"
         },
         {
+          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448273",
           "source": "澎湃新闻",
@@ -600,6 +636,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时45分 ~ 11时54分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时02分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -662,26 +710,37 @@
           "time_info": "[02时17分 ~ 03时16分]"
         },
         {
-          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
-          "source": "澎湃新闻",
+          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
+          "url": "https://flash.jin10.com/detail/20260124214240253800",
+          "source": "金十数据",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 22时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260124214134476800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "23时02分"
+        },
+        {
+          "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
+          "url": "https://wallstreetcn.com/livenews/3043293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
@@ -750,6 +809,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "媒体：特朗普的胜利清单写满“抢钱”",
+          "url": "https://www.toutiao.com/trending/7598842591137792038/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "特朗普2.0对日本有何影响",
           "url": "https://www.toutiao.com/trending/7598484923627867702/",
           "source": "今日头条",
@@ -803,18 +873,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3043291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -831,6 +890,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时12分 ~ 18时02分]"
+        },
+        {
+          "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3043291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时02分]"
         },
         {
           "title": "周五（1月23日），彭博电动汽车价格回报指数涨0.86%，报3716.46点，本周累计上涨3.07%，整体持续走高。",
