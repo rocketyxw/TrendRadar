@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T08:52:07.871126+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-01-26T11:07:46.609268+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 08时52分]"
+        },
+        {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 11时07分]"
         },
         {
           "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
@@ -42,18 +55,6 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
-          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
-          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时52分]"
-        },
-        {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
           "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
           "source": "澎湃新闻",
@@ -66,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 11时07分]"
         },
         {
           "title": "美国财长贝森特：特朗普重视北约。 特朗普高度专注于打造最强大的北约。",
@@ -162,6 +163,17 @@
           "time_info": "[00时02分 ~ 06时02分]"
         },
         {
+          "title": "一天过去，特朗普从愤怒变成“非常难过”",
+          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 11时07分]"
+        },
+        {
           "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
           "url": "https://flash.jin10.com/detail/20260125220223986800",
           "source": "金十数据",
@@ -189,17 +201,6 @@
           "time_info": "[00时02分 ~ 06时02分]"
         },
         {
-          "title": "一天过去，特朗普从愤怒变成“非常难过”",
-          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 08时52分]"
-        },
-        {
           "title": "美国参议院民主党领导人Chuck Schumer告知共和党：敦促（总统特朗普所属共和党支持）修改国土安全部（DHS）预算的立法草案。 民主党不希望推进现行国土安全部融资草案。 要求共和党在截止日期之前推进五分拨款草案的立法程序。",
           "url": "https://wallstreetcn.com/livenews/3043405",
           "source": "华尔街见闻-快讯",
@@ -209,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         },
         {
           "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
@@ -266,7 +278,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -288,7 +300,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -321,7 +333,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -332,7 +344,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -388,7 +400,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -423,7 +435,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -434,7 +446,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         }
