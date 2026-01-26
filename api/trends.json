@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T14:20:54.356894+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-01-26T15:20:04.616441+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -67,8 +67,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 14时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 15时20分]"
         },
         {
           "title": "美国财长贝森特：特朗普重视北约。 特朗普高度专注于打造最强大的北约。",
@@ -159,18 +172,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 14时20分]"
         },
         {
           "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
@@ -286,6 +287,17 @@
           "time_info": "[05时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
           "title": "特朗普达沃斯演讲有何深意",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%BC%94%E8%AE%B2%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
           "source": "bilibili 热搜",
@@ -391,7 +403,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -553,11 +565,12 @@
           "url": "https://www.zhihu.com/question/1993355026530317494",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时20分]"
         }
       ]
     }
