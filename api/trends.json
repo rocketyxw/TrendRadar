@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:14:47.472083+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2026-01-27T20:21:06.676636+08:00",
+  "total_titles_processed": 1898,
   "failed_sources": [],
   "trends": [
     {
@@ -88,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时02分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[07时02分 ~ 20时21分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -128,6 +128,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时49分 ~ 14时18分]"
+        },
+        {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 20时21分]"
         },
         {
           "title": "特朗普为何对韩国加征关税",
@@ -197,18 +212,15 @@
           "time_info": "10时59分"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            18,
-            16,
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时14分]"
+          "time_info": "[17时21分 ~ 20时21分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -306,17 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时02分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时14分]"
         },
         {
           "title": "特朗普宣布对韩国加征关税",
@@ -850,18 +851,43 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 22,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "中国汽车出口第一目的国易主",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "开回去太累 12306托运汽车订单火爆",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%9E%E5%8E%BB%E5%A4%AA%E7%B4%AF+12306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 20时21分]"
+        },
         {
           "title": "12306托运汽车订单火爆",
           "url": "https://s.weibo.com/weibo?q=%2312306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时21分]"
         },
         {
           "title": "汽车爱好者打卡“长春第一冰锅”漂移绕圈，运营方：设计角度不会翻车",
@@ -876,19 +902,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时18分 ~ 16时16分]"
-        },
-        {
-          "title": "开回去太累 12306托运汽车订单火爆",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%9E%E5%8E%BB%E5%A4%AA%E7%B4%AF+12306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时14分]"
         },
         {
           "title": "周一（1月26日），彭博电动汽车价格回报指数跌0.36%，报3695.94点。",
@@ -938,15 +951,48 @@
           "time_info": "16时16分"
         },
         {
+          "title": "通用汽车第四季度净销售额和营收452.9亿美元，预估453.7亿美元。 第四季度调整后每股收益2.51美元，预估2.28美元。 通用汽车预计2026年净利润103亿美元至117亿美元。 通用汽车预计2026年调整后EBIT 130亿美元至150亿美元。 通用汽车预计2026年调整后每股收益11美元至13美元。 通用汽车预计2026年资本支出100亿美元至120亿美元。 通用汽车批准新的60亿美元股票回购授权。 通用汽车美股盘前涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3044761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "通用汽车(GM.N)美股盘前涨幅扩大至6.3%，四季度核心利润高于预期。",
+          "url": "https://flash.jin10.com/detail/20260127193856675800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "德国汽车协会主席：印欧贸易协定传递强烈信号",
           "url": "https://flash.jin10.com/detail/20260127183239342800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "通用汽车(GM.N)预计2026年资本支出为100亿至120亿美元，其中包括电池电芯制造合资企业。",
+          "url": "https://flash.jin10.com/detail/20260127193652364800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "现代汽车股价跌幅收窄；最新报479,500韩元，下跌2.6%。",
@@ -960,6 +1006,39 @@
           "time_info": "08时50分"
         },
         {
+          "title": "通用汽车(GM.N)预计2026年与电动汽车相关的费用将大幅减少。",
+          "url": "https://flash.jin10.com/detail/20260127193520291800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "通用汽车(GM.N)美股股价抹去跌幅，财报发布后上涨1.4%。",
+          "url": "https://flash.jin10.com/detail/20260127193457686800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "通用汽车(GM.N)预计2026年汽车业务经营现金流为190亿至230亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127193433670800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "理想汽车：今年会调整关闭少量低效门店",
           "url": "https://wallstreetcn.com/livenews/3044568",
           "source": "华尔街见闻-快讯",
@@ -969,6 +1048,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "通用汽车(GM.N)美股盘前下跌1.1%。",
+          "url": "https://flash.jin10.com/detail/20260127193408024800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美韩贸易摩擦升级 韩国汽车与芯片产业前景蒙阴影",
@@ -982,6 +1072,17 @@
           "time_info": "14时18分"
         },
         {
+          "title": "通用汽车(GM.N)四季度亏损33.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127193338682800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "欧洲汽车制造商协会：12月电动汽车在欧盟新注册车辆中占比达67%。",
           "url": "https://flash.jin10.com/detail/20260127130221169800",
           "source": "金十数据",
@@ -991,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "通用汽车(GM.N)四季度营收452.9亿美元，上年同期477.02亿美元，市场预期454.13亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127193323244800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "欧洲汽车制造商协会：比亚迪12月欧盟新车注册量增长167%，特斯拉12月欧盟新车注册量下降32%。",
@@ -1004,6 +1116,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "通用汽车(GM.N)批准新的60亿美元股票回购授权。",
+          "url": "https://flash.jin10.com/detail/20260127193114640800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "欧洲汽车制造商协会：欧盟12月新车注册量增长5.8%，至963,319辆。",
           "url": "https://flash.jin10.com/detail/20260127130125192800",
           "source": "金十数据",
@@ -1013,6 +1136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "通用汽车(GM.N)预计2026年调整后每股收益为11美元至13美元，市场预期为11.79美元。",
+          "url": "https://flash.jin10.com/detail/20260127193048146800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "欧洲汽车制造商协会：12月特斯拉(TSLA.O)在欧盟、英国和欧洲自由贸易联盟的市场份额降至3%，比亚迪为2.4%；特斯拉纯电动车市场份额为11.4%。",
@@ -1161,7 +1295,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1183,7 +1317,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1230,6 +1364,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 20时21分]"
+        },
+        {
+          "title": "DeepSeek开源OCR 2模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            13,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 20时21分]"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
+          "url": "https://wallstreetcn.com/livenews/3044481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
@@ -1283,48 +1472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时14分]"
-        },
-        {
-          "title": "DeepSeek开源OCR 2模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时14分]"
-        },
-        {
-          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
-          "url": "https://wallstreetcn.com/livenews/3044481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
         }
       ]
     }
