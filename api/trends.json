@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-01-29T22:34:36.990241+08:00",
-  "total_titles_processed": 2201,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-01-29T23:23:49.265141+08:00",
+  "total_titles_processed": 2296,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -146,6 +144,21 @@
           "time_info": "[13时01分 ~ 17时31分]"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时23分]"
+        },
+        {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2273451",
           "source": "财联社热门",
@@ -162,19 +175,15 @@
           "time_info": "[08时55分 ~ 15时33分]"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            14,
-            13,
-            12,
-            11
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[22时31分 ~ 23时23分]"
         },
         {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
@@ -188,17 +197,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时24分 ~ 21时51分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时34分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -302,8 +300,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[22时31分 ~ 23时23分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -417,7 +415,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -508,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美国边境事务主管：特朗普承认移民执法行动需要改进",
+          "url": "https://wallstreetcn.com/livenews/3046552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "能源情报集团记者阿蒙娜•巴克尔：该地区所有国家都警告特朗普不要攻击伊朗，称任何袭击都会迅速蔓延到伊朗境外。",
@@ -637,7 +646,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -662,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "伊朗议会议长：难以信任特朗普",
+          "url": "https://wallstreetcn.com/livenews/3046543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美国国务卿鲁比奥：作为总司令，美国总统特朗普从未排除任何选项，但目前在委内瑞拉，唯一的军事存在形式将是驻在大使馆的海军卫队。",
@@ -692,7 +712,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -739,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "美股稀土矿商和关键矿物公司下跌，美国稀土(USAR.O)下跌14.5%，Mp Materials(MP.N)下跌9%，Critical Metals(CRML.O)下跌13%。有报道称美国总统特朗普政府放弃关键矿物价格下限后。",
+          "url": "https://flash.jin10.com/detail/20260129225856450800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "特朗普暗示可以操控美元汇率",
@@ -820,11 +851,12 @@
             8,
             10,
             9,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时42分 ~ 22时34分]"
+          "appearance_count": 14,
+          "time_info": "[13时42分 ~ 23时23分]"
         },
         {
           "title": "中国新能源汽车持续领跑全球",
@@ -834,8 +866,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时50分 ~ 22时34分]"
+          "appearance_count": 5,
+          "time_info": "[21时50分 ~ 23时23分]"
         },
         {
           "title": "现代汽车：丰田2025年从日本出口到美国的汽车数量增至615,204辆。",
@@ -1237,22 +1269,24 @@
           "ranks": [
             14,
             19,
-            17
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时22分 ~ 22时34分]"
+          "appearance_count": 7,
+          "time_info": "[19时22分 ~ 23时23分]"
         },
         {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
           "url": "https://www.zhihu.com/question/1999888901490304692",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时50分 ~ 22时34分]"
+          "appearance_count": 5,
+          "time_info": "[21时50分 ~ 23时23分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -1309,8 +1343,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时34分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时23分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
