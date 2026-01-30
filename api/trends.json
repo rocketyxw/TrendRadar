@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:03:36.341767+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-01-30T14:33:23.393624+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 101,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -69,13 +69,37 @@
           "time_info": "[11时19分 ~ 11时20分]"
         },
         {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 14时33分]"
+        },
+        {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 14时33分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将于周五美国东部时间上午11点（北京时间周六零点）签署行政命令。",
           "url": "https://flash.jin10.com/detail/20260130123131643800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -108,18 +132,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -146,6 +159,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "美国总统特朗普：（谈及联邦执法人员枪杀亚历克斯·普雷蒂事件）美国移民和海关执法局官员当时“冷静而沉着”。",
+          "url": "https://flash.jin10.com/detail/20260130142933819800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "特朗普起诉自己的政府部门 索赔100亿美元",
           "url": "https://flash.jin10.com/detail/20260130083048645800",
           "source": "金十数据",
@@ -168,16 +192,27 @@
           "time_info": "08时55分"
         },
         {
-          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
-          "url": "https://www.cls.cn/detail/2275048",
-          "source": "财联社热门",
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时03分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
@@ -230,6 +265,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时17分]"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普：下周将宣布美联储主席人选。",
@@ -295,6 +341,17 @@
           "time_info": "[01时28分 ~ 03时23分]"
         },
         {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 14时33分]"
+        },
+        {
           "title": "特朗普讲话不到一小时，现货黄金反弹100美元",
           "url": "https://flash.jin10.com/detail/20260130014047592800",
           "source": "金十数据",
@@ -305,17 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时23分]"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时03分]"
         },
         {
           "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
@@ -342,18 +388,6 @@
           "time_info": "[04时17分 ~ 05时19分]"
         },
         {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时03分]"
-        },
-        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
           "source": "凤凰网",
@@ -363,28 +397,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时03分]"
-        },
-        {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时03分]"
         },
         {
           "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
@@ -935,6 +947,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "特朗普：今晚将知道政府关门的进展如何。派了一个小组前往伊朗。",
           "url": "https://wallstreetcn.com/livenews/3046801",
           "source": "华尔街见闻-快讯",
@@ -1007,7 +1030,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -1298,6 +1321,18 @@
           "time_info": "05时19分"
         },
         {
+          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1999568077138973825",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 14时33分]"
+        },
+        {
           "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3046680",
           "source": "华尔街见闻-快讯",
@@ -1308,17 +1343,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时16分]"
-        },
-        {
-          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1999568077138973825",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
         },
         {
           "title": "中信证券：人形机器人处于技术验证期，商业化落地时间相比新能源汽车将缩短",
