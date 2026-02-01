@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T04:02:47.300198+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-02-02T05:12:31.067155+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -48,11 +48,12 @@
           "ranks": [
             5,
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时12分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -62,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
@@ -73,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -84,8 +85,41 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
+        },
+        {
+          "title": "据华盛顿邮报：一位伊朗外交官表示，在目前情况下，任何谈判都不可能。特朗普提出的谈判条件既不切实际，也毫无谈判的余地。",
+          "url": "https://flash.jin10.com/detail/20260202042610304800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "特朗普称希望与伊朗“能够达成协议”",
+          "url": "https://flash.jin10.com/detail/20260202040920171800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "特朗普再次表态：将与古巴达成协议",
+          "url": "https://flash.jin10.com/detail/20260202040727434800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -134,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
@@ -149,8 +183,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
@@ -160,8 +194,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
@@ -171,19 +205,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
           "url": "https://flash.jin10.com/detail/20260201204302915800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "小鹏汽车：2026年1月共交付新车20011台。",
@@ -193,8 +228,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
@@ -204,8 +239,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "比亚迪电动汽车已获准在加拿大销售",
@@ -234,8 +269,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -245,8 +280,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         }
       ]
     },
@@ -262,8 +297,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         }
       ]
     }
