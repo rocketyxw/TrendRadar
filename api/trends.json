@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T03:16:35.095117+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-02-02T04:02:47.300198+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -47,11 +47,12 @@
           "source": "微博",
           "ranks": [
             5,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时02分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
@@ -72,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -83,8 +84,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -94,8 +95,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
@@ -105,8 +106,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
@@ -116,8 +117,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         }
       ]
     },
@@ -133,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
@@ -144,11 +145,12 @@
             7,
             12,
             14,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
@@ -158,8 +160,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
@@ -169,8 +171,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
@@ -180,8 +182,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "小鹏汽车：2026年1月共交付新车20011台。",
@@ -191,8 +193,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
@@ -202,8 +204,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "比亚迪电动汽车已获准在加拿大销售",
@@ -232,8 +234,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -243,8 +245,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         }
       ]
     },
@@ -260,8 +262,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时02分]"
         }
       ]
     }
