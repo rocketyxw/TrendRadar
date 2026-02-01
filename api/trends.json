@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-01T07:12:05.981015+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-02-01T09:05:12.606568+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
           "url": "https://www.cls.cn/detail/2276487",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 09时05分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 09时05分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -38,8 +40,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 09时05分]"
+        },
+        {
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时16分 ~ 09时05分]"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
@@ -48,22 +61,24 @@
           "ranks": [
             6,
             8,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时05分]"
         },
         {
           "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
           "url": "https://flash.jin10.com/detail/20260131213021035800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时05分]"
         },
         {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
@@ -83,22 +98,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时10分 ~ 07时12分]"
-        },
-        {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
-          "ranks": [
+            2,
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 07时12分]"
+          "appearance_count": 4,
+          "time_info": "[05时10分 ~ 09时05分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -112,15 +117,27 @@
           "time_info": "[00时13分 ~ 01时14分]"
         },
         {
+          "title": "特朗普称正与伊朗进行对话",
+          "url": "https://flash.jin10.com/detail/20260201082730474800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
           "url": "https://wallstreetcn.com/livenews/3047726",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时12分]"
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 09时05分]"
         },
         {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
@@ -133,6 +150,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 02时16分]"
+        },
+        {
+          "title": "特朗普称美伊正谈判",
+          "url": "https://wallstreetcn.com/livenews/3047731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
@@ -191,11 +219,12 @@
           "url": "https://wallstreetcn.com/articles/3764643",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时10分 ~ 07时12分]"
+          "appearance_count": 6,
+          "time_info": "[05时10分 ~ 09时05分]"
         }
       ]
     },
@@ -213,8 +242,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 09时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
+          "url": "https://wallstreetcn.com/livenews/3047736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     }
