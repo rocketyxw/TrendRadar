@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T16:29:06.592261+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-02-02T17:34:25.544657+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -107,6 +107,17 @@
           "time_info": "[00时14分 ~ 07时14分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时47分 ~ 17时34分]"
+        },
+        {
           "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
           "url": "https://www.cls.cn/detail/2277005",
           "source": "财联社热门",
@@ -118,17 +129,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时37分 ~ 16时29分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 16时29分]"
         },
         {
           "title": "如果特朗普下令美军入侵加拿大，会怎样？",
@@ -181,7 +181,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -506,8 +506,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 16时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 17时34分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -537,8 +537,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 16时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 17时34分]"
         }
       ]
     }
