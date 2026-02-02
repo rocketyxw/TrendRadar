@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T11:38:11.753069+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-02-02T13:19:46.608302+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时19分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -95,6 +95,17 @@
           "time_info": "[00时14分 ~ 07时14分]"
         },
         {
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 13时19分]"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://news.ifeng.com/c/8qMd74BpD5R",
           "source": "凤凰网",
@@ -106,17 +117,6 @@
           "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 11时38分]"
-        },
-        {
           "title": "自己欠一屁股债，还吹能帮联合国要账，特朗普玩的哪出？",
           "url": "https://news.ifeng.com/c/8qPag9MDs73",
           "source": "凤凰网",
@@ -126,6 +126,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时37分 ~ 11时38分]"
+        },
+        {
+          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
+          "url": "https://news.ifeng.com/c/8qPOoB0E678",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 13时19分]"
+        },
+        {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -187,18 +210,6 @@
           "time_info": "[05时12分 ~ 07时14分]"
         },
         {
-          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
-          "url": "https://news.ifeng.com/c/8qPOoB0E678",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 11时38分]"
-        },
-        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://flash.jin10.com/detail/20260202040727434800",
           "source": "金十数据",
@@ -224,6 +235,29 @@
           "time_info": "[06时12分 ~ 07时14分]"
         },
         {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 13时19分]"
+        },
+        {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 13时19分]"
+        },
+        {
           "title": "特朗普：正与伊朗进行对话",
           "url": "https://www.cls.cn/detail/2276668",
           "source": "财联社热门",
@@ -236,6 +270,18 @@
           "time_info": "[07时14分 ~ 08时59分]"
         },
         {
+          "title": "特朗普回应被爱泼斯坦案文件提及",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 13时19分]"
+        },
+        {
           "title": "美媒曝特朗普要建巨型凯旋门，白宫回应",
           "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
           "source": "凤凰网",
@@ -245,39 +291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时58分 ~ 08时59分]"
-        },
-        {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普回应被爱泼斯坦案文件提及",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 11时38分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -308,7 +321,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
@@ -327,8 +340,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时19分]"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
@@ -414,7 +427,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -438,7 +451,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
@@ -454,11 +467,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 13时19分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -487,8 +501,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时19分]"
         }
       ]
     }
