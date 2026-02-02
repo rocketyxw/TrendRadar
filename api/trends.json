@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:33:19.162570+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-02-02T19:27:51.277712+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时47分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时47分 ~ 19时27分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -324,7 +324,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -360,12 +360,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
@@ -481,6 +492,17 @@
           "time_info": "[00时14分 ~ 02时17分]"
         },
         {
+          "title": "现代汽车印度高管：将评估向欧盟出口汽车的可行性。",
+          "url": "https://flash.jin10.com/detail/20260202183744440800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "恒生科技指数日内跌幅扩大至3%，华虹半导体跌超10%，小鹏汽车跌超8%，蔚来、比亚迪股份跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3048012",
           "source": "华尔街见闻-快讯",
@@ -501,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "现代汽车印度高管：预计贵金属、铜、铝等大宗商品价格将飙升。",
+          "url": "https://flash.jin10.com/detail/20260202181943887800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         }
       ]
     },
@@ -550,8 +583,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 18时33分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 19时27分]"
         }
       ]
     }
