@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T21:55:49.579652+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2026-02-03T22:36:53.472856+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时55分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时36分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时36分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -42,20 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 21时55分]"
-        },
-        {
-          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
-          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时55分]"
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 22时36分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -138,8 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时55分]"
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时36分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
