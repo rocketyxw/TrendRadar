@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T06:18:15.117046+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-02-04T07:18:08.365674+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时18分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -41,26 +41,15 @@
           "time_info": "[00时38分 ~ 06时18分]"
         },
         {
-          "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
-          "url": "https://flash.jin10.com/detail/20260204060246322800",
-          "source": "金十数据",
+          "title": "特朗普签署拨款法案，结束政府部分“停摆”",
+          "url": "https://news.ifeng.com/c/8qRFXQoY4Em",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "美国总统特朗普重申对医疗保险行业的批零。",
-          "url": "https://wallstreetcn.com/livenews/3049354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -85,17 +74,6 @@
           "time_info": "00时38分"
         },
         {
-          "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
-          "url": "https://wallstreetcn.com/livenews/3049351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "英国首相斯塔默于当地时间今天下午与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260204045437679800",
           "source": "金十数据",
@@ -105,6 +83,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "特朗普称有问题的是比尔盖茨那些人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时23分 ~ 07时18分]"
         },
         {
           "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
@@ -133,6 +124,42 @@
           "time_info": "[02时50分 ~ 04时23分]"
         },
         {
+          "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
+          "url": "https://flash.jin10.com/detail/20260204060246322800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "美国总统特朗普重申对医疗保险行业的批零。",
+          "url": "https://wallstreetcn.com/livenews/3049354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
+          "url": "https://wallstreetcn.com/livenews/3049351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
           "url": "https://wallstreetcn.com/livenews/3049273",
           "source": "华尔街见闻-快讯",
@@ -144,18 +171,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时50分 ~ 04时23分]"
-        },
-        {
-          "title": "特朗普称有问题的是比尔盖茨那些人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 06时18分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -210,7 +225,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -243,7 +258,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -276,7 +291,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -287,7 +302,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -298,7 +313,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -309,9 +324,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://wallstreetcn.com/livenews/3049367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "哥伦比亚总统佩特罗：已请美国总统特朗普斡旋与厄瓜多尔总统诺沃亚在贸易和毒品问题上的争端。",
@@ -364,9 +390,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "美国总统特朗普：是时候翻过爱泼斯坦丑闻这一页了。",
+          "url": "https://flash.jin10.com/detail/20260204061551878800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "美国总统特朗普：我觉得哥伦比亚总统佩特罗很棒。",
@@ -375,7 +412,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -397,7 +434,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -419,7 +456,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -441,7 +478,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -452,7 +489,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -463,9 +500,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "美伊会谈前生两起摩擦 特朗普：本周的谈判仍在继续",
+          "url": "https://flash.jin10.com/detail/20260204060809275800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "美国里士满联储主席Barkin：我既担心通胀，又担心就业。 需求和GDP数据都出现鼓舞人心的迹象。 期待与（总统特朗普的美联储主席提名人）凯文·沃什共事。 （现阶段的）生产力问题与20世纪90年代的现象是有区别的。 企业之间有韧性，并不存在（通胀）重新加速的问题。",
@@ -493,7 +541,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -626,7 +674,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -653,13 +701,24 @@
           "time_info": "05时23分"
         },
         {
+          "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20260204062113821800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：非常高兴地欢迎迪伦·斯坎迪纳罗（Dylan Scandinaro）加入OpenAI，担任我们的应变准备（Preparedness）主管。",
           "url": "https://flash.jin10.com/detail/20260204053929054800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -697,11 +756,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[01时43分 ~ 07时18分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
