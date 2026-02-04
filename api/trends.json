@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:37:09.884492+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-02-04T16:26:28.861009+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -35,11 +35,23 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时25分 ~ 15时37分]"
+          "time_info": "[13时03分 ~ 16时26分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -53,26 +65,29 @@
           "time_info": "[00时38分 ~ 06时18分]"
         },
         {
-          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 15时37分]"
-        },
-        {
           "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
           "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时25分 ~ 15时37分]"
+          "time_info": "[13时03分 ~ 16时26分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -129,18 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 15时37分]"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -306,7 +309,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -452,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)首席执行官：希望与美国总统特朗普政府达成一致的肥胖症药物医保覆盖将于今年“年中左右”启动。",
+          "url": "https://flash.jin10.com/detail/20260204152741614800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国政府结束部分停摆，美伊局势再度紧张！黄金重回5000美元上方；“特朗普亲信”再度呼吁降息超一个百分点……后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1008,19 +1022,8 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "道达尔能源：道达尔能源与Tikehau资本共同打造电动汽车充电基础设施合资投资平台。合资企业旨在在比利时和荷兰的城市提供电动汽车充电服务。该平台由两家合作伙伴平等拥有。",
-          "url": "https://flash.jin10.com/detail/20260204152239604800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
         {
           "title": "消息人士：福特汽车(F.N)正与吉利就一项合作进行谈判，该合作可能涉及允许后者使用福特在欧洲的工厂空间。据悉谈判还包括建立一个潜在的技术共享框架，内容涵盖自动驾驶等车辆技术。",
           "url": "https://flash.jin10.com/detail/20260204123732007800",
@@ -1044,6 +1047,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时54分 ~ 13时04分]"
+        },
+        {
+          "title": "道达尔能源：道达尔能源与Tikehau资本共同打造电动汽车充电基础设施合资投资平台。合资企业旨在在比利时和荷兰的城市提供电动汽车充电服务。该平台由两家合作伙伴平等拥有。",
+          "url": "https://flash.jin10.com/detail/20260204152239604800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 16时26分]"
         },
         {
           "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
@@ -1077,7 +1092,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -1091,6 +1106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "我国发布88项汽车安全相关强制性国家标准",
+          "url": "https://wallstreetcn.com/livenews/3049684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "据报道，载有哥伦比亚总统古斯塔沃·佩特罗的汽车抵达白宫。",
@@ -1110,7 +1136,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -1150,11 +1176,12 @@
             10,
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时43分 ~ 15时37分]"
+          "appearance_count": 19,
+          "time_info": "[01时43分 ~ 16时26分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
