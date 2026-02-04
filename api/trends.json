@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T19:25:09.568940+08:00",
-  "total_titles_processed": 1795,
+  "generated_at": "2026-02-04T20:29:37.337030+08:00",
+  "total_titles_processed": 1896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -724,6 +724,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "特朗普回应爱泼斯坦案：我是清白的",
+          "url": "https://www.toutiao.com/trending/7602412254818140203/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "美伊会谈前生两起摩擦 特朗普：本周的谈判仍在继续",
           "url": "https://flash.jin10.com/detail/20260204060809275800",
           "source": "金十数据",
@@ -1080,8 +1091,20 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
+          "url": "https://www.zhihu.com/question/2002346311593264005",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 20时29分]"
+        },
         {
           "title": "据日经新闻：丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。",
           "url": "https://flash.jin10.com/detail/20260204170430484800",
@@ -1116,18 +1139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时54分 ~ 13时04分]"
-        },
-        {
-          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
-          "url": "https://www.zhihu.com/question/2002346311593264005",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 19时25分]"
         },
         {
           "title": "道达尔能源：道达尔能源与Tikehau资本共同打造电动汽车充电基础设施合资投资平台。合资企业旨在在比利时和荷兰的城市提供电动汽车充电服务。该平台由两家合作伙伴平等拥有。",
@@ -1201,6 +1212,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "锐新科技：正在筹划以发行股份及支付现金方式购买芜湖德恒汽车装备有限公司并募集配套资金事项，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3049865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "我国发布88项汽车安全相关强制性国家标准",
           "url": "https://wallstreetcn.com/livenews/3049684",
           "source": "华尔街见闻-快讯",
@@ -1218,7 +1240,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1270,7 +1292,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
@@ -1284,8 +1306,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时43分 ~ 19时25分]"
+          "appearance_count": 25,
+          "time_info": "[01时43分 ~ 20时29分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -1297,6 +1319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国参议院Warren等参议员敦促美国联邦贸易委员会（FTC）审查科技行业的人工智能相关交易，涉及英伟达、Meta和谷歌。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3049876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
