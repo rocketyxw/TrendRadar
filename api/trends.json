@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T13:11:47.844576+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-02-05T14:42:20.477934+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 14时42分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 13时11分]"
+          "appearance_count": 13,
+          "time_info": "[01时36分 ~ 14时42分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 14时42分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -105,6 +105,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时58分 ~ 11时29分]"
+        },
+        {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 14时42分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -178,18 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 05时23分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 13时11分]"
         },
         {
           "title": "美国总统特朗普：我认为沃什明白我想要降低利率，如果他曾表示想要加息，就不会得到这份工作。",
@@ -437,7 +438,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -458,6 +459,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 22,
       "titles": [
+        {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 14时42分]"
+        },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
           "url": "https://wallstreetcn.com/livenews/3050135",
@@ -481,18 +494,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 13时11分]"
-        },
-        {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
           "url": "https://flash.jin10.com/detail/20260205055519813800",
           "source": "金十数据",
@@ -513,8 +514,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 14时42分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -577,6 +578,17 @@
           "time_info": "[06时14分 ~ 07时16分]"
         },
         {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时42分]"
+        },
+        {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
           "url": "https://wallstreetcn.com/livenews/3050103",
           "source": "华尔街见闻-快讯",
@@ -620,17 +632,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
         },
         {
           "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
@@ -713,7 +714,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
@@ -740,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "中央一号文件“点名”新能源汽车",
+          "url": "https://www.toutiao.com/trending/7603022074356957235/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
@@ -785,9 +797,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "沃尔沃汽车第四季度营收943.8亿瑞典克朗，市场预期1,018.3亿瑞典克朗。 第四季度营业利润18.9亿瑞典克朗，市场预期46亿瑞典克朗。 第四季度每股收益0.43瑞典克朗，市场预期1.24瑞典克朗。 第四季度销量195,700辆，市场预期196,850辆。 第四季度纯电动汽车（BEV）销量46,700辆。",
+          "url": "https://wallstreetcn.com/livenews/3050397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
@@ -821,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "沃尔沃汽车：2026年汽车行业将充满挑战，整体高端市场预计萎缩。",
+          "url": "https://flash.jin10.com/detail/20260205140850218800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "多地“上新”汽车补贴福利 冲刺春节消费旺季",
