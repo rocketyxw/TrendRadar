@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T15:24:19.034557+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-02-07T16:16:57.546703+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[00时30分 ~ 07时14分]"
         },
         {
+          "title": "特朗普：下周将再与伊朗谈判",
+          "url": "https://news.ifeng.com/c/8qXmcNhCn2E",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
+        },
+        {
           "title": "美伊谈判前特朗普发李小龙视频",
           "url": "https://www.douyin.com/hot/2391580",
           "source": "抖音",
@@ -49,17 +60,6 @@
           "time_info": "[00时30分 ~ 07时14分]"
         },
         {
-          "title": "特朗普：下周将再与伊朗谈判",
-          "url": "https://news.ifeng.com/c/8qXmcNhCn2E",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
-        },
-        {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://www.cls.cn/detail/2283610",
           "source": "财联社热门",
@@ -69,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
@@ -84,6 +84,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时30分 ~ 07时14分]"
+        },
+        {
+          "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
+          "url": "https://news.ifeng.com/c/8qXgc9osPZh",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时16分]"
         },
         {
           "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
@@ -109,17 +120,6 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
-          "url": "https://news.ifeng.com/c/8qXgc9osPZh",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 15时24分]"
-        },
-        {
           "title": "特朗普称美俄乌会谈“可能会有事发生”",
           "url": "https://flash.jin10.com/detail/20260207104748240800",
           "source": "金十数据",
@@ -127,11 +127,55 @@
             1,
             8,
             10,
-            16
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
+        },
+        {
+          "title": "特朗普称美俄乌会谈“可能会有事发生”",
+          "url": "https://wallstreetcn.com/livenews/3051678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            9,
+            11,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
+        },
+        {
+          "title": "美伊核谈判暂时结束，伊朗外长称「氛围很好」，特朗普称「下周继续谈」，目前进展如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2003133394834432173",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
+          "time_info": "[12时59分 ~ 16时16分]"
+        },
+        {
+          "title": "舒默否认提议用特朗普命名宾州车站",
+          "url": "https://flash.jin10.com/detail/20260207113549639800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 16时16分]"
         },
         {
           "title": "阿根廷外长：特朗普和米莱将继续探讨降低阿根廷铝材和钢材关税的问题。",
@@ -145,45 +189,93 @@
           "time_info": "01时33分"
         },
         {
-          "title": "特朗普称美俄乌会谈“可能会有事发生”",
-          "url": "https://wallstreetcn.com/livenews/3051678",
+          "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
+          "url": "https://wallstreetcn.com/livenews/3051670",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            7,
             9,
-            11,
+            13,
+            16,
+            18,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
+        },
+        {
+          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
+          "url": "https://wallstreetcn.com/livenews/3051669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14,
+            17,
+            19,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
+        },
+        {
+          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
+        },
+        {
+          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
+          "url": "https://www.zhihu.com/question/2001670984583902597",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
+        },
+        {
+          "title": "特朗普称下周将再次与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3051664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17,
+            20,
+            22,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
+        },
+        {
+          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            15,
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
-        },
-        {
-          "title": "舒默否认提议用特朗普命名宾州车站",
-          "url": "https://flash.jin10.com/detail/20260207113549639800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 15时24分]"
-        },
-        {
-          "title": "美伊核谈判暂时结束，伊朗外长称「氛围很好」，特朗普称「下周继续谈」，目前进展如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2003133394834432173",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 15时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时16分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -238,90 +330,17 @@
           "time_info": "[08时54分 ~ 14时27分]"
         },
         {
-          "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
-          "url": "https://wallstreetcn.com/livenews/3051670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            16,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
-          "url": "https://wallstreetcn.com/livenews/3051669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14,
-            17,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
+          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            16,
-            15,
             14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
-          "url": "https://www.zhihu.com/question/2001670984583902597",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普称下周将再次与伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3051664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             13,
-            17,
-            20,
-            22,
-            25
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时24分]"
+          "time_info": "[12时59分 ~ 16时16分]"
         },
         {
           "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
@@ -386,19 +405,6 @@
           "time_info": "[11时15分 ~ 14时27分]"
         },
         {
-          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 15时24分]"
-        },
-        {
           "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
           "url": "https://flash.jin10.com/detail/20260207034858058800",
           "source": "金十数据",
@@ -408,6 +414,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时20分 ~ 07时14分]"
+        },
+        {
+          "title": "美国总统特朗普发文称，预计到其本届任期结束时，道琼斯指数将达到10万点。",
+          "url": "https://wallstreetcn.com/livenews/3051691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 16时16分]"
         },
         {
           "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
@@ -449,19 +469,6 @@
           "time_info": "[06时11分 ~ 08时54分]"
         },
         {
-          "title": "美国总统特朗普发文称，预计到其本届任期结束时，道琼斯指数将达到10万点。",
-          "url": "https://wallstreetcn.com/livenews/3051691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 15时24分]"
-        },
-        {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
           "url": "https://wallstreetcn.com/livenews/3051532",
           "source": "华尔街见闻-快讯",
@@ -472,6 +479,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时33分]"
+        },
+        {
+          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
+          "url": "https://wallstreetcn.com/articles/3765201",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时16分]"
         },
         {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
@@ -544,17 +562,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 12时59分]"
-        },
-        {
-          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
-          "url": "https://wallstreetcn.com/articles/3765201",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
         },
         {
           "title": "美国财长贝森特：特朗普账户或是其最伟大的政治遗产。",
@@ -724,11 +731,12 @@
             10,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时16分]"
         },
         {
           "title": "OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。（Semafor）",
@@ -933,6 +941,18 @@
           "time_info": "[00时30分 ~ 08时54分]"
         },
         {
+          "title": "汽车飞机二合一！国内首款首飞成功",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%A3%9E%E6%9C%BA%E4%BA%8C%E5%90%88%E4%B8%80%EF%BC%81%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%BE%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 16时16分]"
+        },
+        {
           "title": "比亚迪汽车为什么不搞 24 小时耐力测试？",
           "url": "https://www.zhihu.com/question/2002523570601993002",
           "source": "知乎",
@@ -943,18 +963,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 07时14分]"
-        },
-        {
-          "title": "汽车飞机二合一！国内首款首飞成功",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%A3%9E%E6%9C%BA%E4%BA%8C%E5%90%88%E4%B8%80%EF%BC%81%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%BE%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 15时24分]"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年汽车产量同比下降11.8%，至67.3万辆。",
@@ -999,11 +1007,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            24
+            24,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时16分]"
         }
       ]
     },
@@ -1017,11 +1026,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时16分]"
         }
       ]
     }
