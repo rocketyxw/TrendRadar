@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T16:19:00.616606+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-02-08T17:19:57.506410+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 16时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 17时19分]"
         },
         {
           "title": "特朗普支持媒体公司Nexstar吞并Tegna",
@@ -369,8 +369,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 17时19分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
@@ -406,11 +406,12 @@
             13,
             19,
             16,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 15时31分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 17时19分]"
         },
         {
           "title": "加拿大总理公开表示进口中国汽车",
@@ -452,11 +453,12 @@
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时19分]"
         }
       ]
     }
