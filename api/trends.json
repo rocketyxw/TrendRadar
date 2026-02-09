@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T06:23:57.486942+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-02-10T07:27:04.604555+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[01时41分 ~ 07时27分]"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -42,17 +43,6 @@
           "time_info": "02时40分"
         },
         {
-          "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
-          "url": "https://flash.jin10.com/detail/20260210055913441800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
           "url": "https://flash.jin10.com/detail/20260210020706988800",
           "source": "金十数据",
@@ -70,9 +60,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
+          "url": "https://flash.jin10.com/detail/20260210055913441800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时27分]"
         },
         {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
@@ -98,6 +100,61 @@
           "time_info": "[01时41分 ~ 05时29分]"
         },
         {
+          "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
+          "url": "https://flash.jin10.com/detail/20260210070836785800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "美国总统特朗普：共和党应该在中期选举中“大获全胜”。 美国形势不错，将不得不在中期选举中“推销它”。",
+          "url": "https://wallstreetcn.com/livenews/3052547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "美国总统特朗普声称：将与加拿大启动关于密歇根大桥的磋商。",
+          "url": "https://wallstreetcn.com/livenews/3052545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "美联储理事米兰：美联储缩减资产负债表（缩表）之前还需采取许多步骤。 如果货币政策没有（被总统特朗普）政治化，会有更好的结果。 如果保留美联储独立性，美联储就应该坚持其核心使命。",
+          "url": "https://wallstreetcn.com/livenews/3052543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "美国总统特朗普：在获得“全额补偿”之前，将不允许安大略省与密歇根州之间的大桥通车。",
+          "url": "https://flash.jin10.com/detail/20260210065107652800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。 随着特朗普第二次当选为美国总统而出现的加密货币（投资）热潮已经在一定程度上消退。 风险造成主流公司卖出比特币。",
           "url": "https://wallstreetcn.com/livenews/3052476",
           "source": "华尔街见闻-快讯",
@@ -109,6 +166,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "美国总统特朗普：将立即就双边问题与加拿大展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260210064635825800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "美联储理事沃勒：特朗普引发的加密货币热潮可能正在消退",
           "url": "https://wallstreetcn.com/livenews/3052476",
           "source": "华尔街见闻-快讯",
@@ -118,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普：若沃什履职得当，美国经济可增长15%",
+          "url": "https://wallstreetcn.com/livenews/3052529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "美国汽车工人联合会：1月13日冲撞美国总统特朗普的工人未受纪律处分，仍保留工作。",
@@ -145,8 +224,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[01时41分 ~ 07时27分]"
         },
         {
           "title": "据日经新闻：本田汽车(HMC.N)将向研发部门提供资金，以委托研究的方式开展研发工作，由旗下子公司负责为新产品生成设计方案。",
