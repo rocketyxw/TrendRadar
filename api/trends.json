@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T13:22:55.398125+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-02-09T14:52:21.304029+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -126,15 +126,16 @@
           "time_info": "[05时15分 ~ 06时15分]"
         },
         {
-          "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
-          "url": "https://flash.jin10.com/detail/20260209115712332800",
-          "source": "金十数据",
+          "title": "特朗普大骂美国冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E7%BE%8E%E5%9B%BD%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            25,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时52分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -143,7 +144,18 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时52分]"
+        },
+        {
+          "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
+          "url": "https://flash.jin10.com/detail/20260209115712332800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -157,17 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普大骂美国冬奥运动员",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E7%BE%8E%E5%9B%BD%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
         }
       ]
     },
@@ -232,7 +233,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
@@ -240,7 +241,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -255,6 +256,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时15分 ~ 13时22分]"
+        },
+        {
+          "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
+          "url": "https://wallstreetcn.com/livenews/3052107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         }
       ]
     }
