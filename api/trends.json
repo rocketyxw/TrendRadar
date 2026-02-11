@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T18:37:29.600195+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-02-11T19:36:00.399166+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时49分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 19时36分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -42,17 +55,15 @@
           "time_info": "[09时06分 ~ 17时40分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 19时36分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -111,17 +122,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时54分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         },
         {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
@@ -267,6 +267,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时28分 ~ 09时06分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 19时36分]"
         },
         {
           "title": "特朗普表面祝贺高市私下大发雷霆",
@@ -473,6 +485,17 @@
           "time_info": "[03时54分 ~ 04时33分]"
         },
         {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
+        },
+        {
           "title": "爱泼斯坦文件中特朗普出现超百万次",
           "url": "https://www.toutiao.com/trending/7605393743562149395/",
           "source": "今日头条",
@@ -545,18 +568,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -696,7 +708,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "福特汽车四季度调整后每股收益（EPS）为0.13美元，分析师预期0.18美元。",
@@ -781,6 +793,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "福特汽车(F.N)：激烈竞争和产能过剩很可能对经通胀调整后的价格构成压力。",
+          "url": "https://flash.jin10.com/detail/20260211190825029800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
           "url": "https://wallstreetcn.com/livenews/3053236",
           "source": "华尔街见闻-快讯",
@@ -790,6 +813,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "福特汽车(F.N)：由于成本仍居高不下，行业价格是否会完全回落至疫情前水平尚不明朗。",
+          "url": "https://flash.jin10.com/detail/20260211190806546800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "福特汽车(F.N)：预计在2026年降低约10亿美元的关税成本。",
+          "url": "https://flash.jin10.com/detail/20260211190755586800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "福特汽车(F.N)：我们已经观察到新车和二手车价格有所下降，尤其是在电动车领域。",
+          "url": "https://flash.jin10.com/detail/20260211190744712800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "纽约联储：第四季度汽车贷款、信用卡贷款和房屋净值信贷额度贷款的违约转移率保持稳定。",
@@ -959,6 +1015,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 15时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
         }
       ]
     }
