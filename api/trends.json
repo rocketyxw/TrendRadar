@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-11T23:47:13.639169+08:00",
-  "total_titles_processed": 1929,
+  "generated_at": "2026-02-12T00:50:18.200654+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
-          "url": "https://news.ifeng.com/c/8qdRnTGCb87",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 07时29分]"
-        },
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
           "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
@@ -26,1020 +15,70 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时37分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 20时36分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 07时29分]"
-        },
-        {
-          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
-          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 17时40分]"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://news.ifeng.com/c/8qetZSIVPBA",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时37分]"
-        },
-        {
-          "title": "特朗普发帖后 CNN都看不下去了",
-          "url": "https://www.toutiao.com/trending/7604706291541704723/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 16时33分]"
-        },
-        {
-          "title": "墨西哥比索触及日内低点，此前墨西哥总统辛鲍姆称，不认为特朗普会退出《美墨加协定》。",
-          "url": "https://flash.jin10.com/detail/20260211233235538800",
+          "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
+          "url": "https://flash.jin10.com/detail/20260212002408203800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
-          "url": "https://wallstreetcn.com/livenews/3053247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时32分"
+          "time_info": "00时50分"
         },
         {
-          "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
-          "url": "https://wallstreetcn.com/livenews/3053209",
-          "source": "华尔街见闻-快讯",
+          "title": "据华盛顿邮报：特朗普政府从洛杉矶、芝加哥和波特兰撤回国民警卫队。",
+          "url": "https://flash.jin10.com/detail/20260212002128389800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时48分 ~ 05时32分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
-          "url": "https://wallstreetcn.com/livenews/3053222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 05时32分]"
-        },
-        {
-          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
-          "url": "https://wallstreetcn.com/livenews/3053206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时33分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
-          "url": "https://wallstreetcn.com/livenews/3053221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普：伊朗不会拥有核武器或导弹",
-          "url": "https://wallstreetcn.com/livenews/3053205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
-          "url": "https://www.cls.cn/detail/2286531",
-          "source": "财联社热门",
-          "ranks": [
-            12,
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 15时03分]"
-        },
-        {
-          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
-          "url": "https://flash.jin10.com/detail/20260211034403957800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时32分]"
-        },
-        {
-          "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
-          "url": "https://flash.jin10.com/detail/20260211023104811800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时54分]"
-        },
-        {
-          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
-          "url": "https://www.cls.cn/detail/2286509",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 14时01分]"
-        },
-        {
-          "title": "美国总统特朗普预计，下周将与伊朗举行第二轮会谈。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3053203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时33分]"
-        },
-        {
-          "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
-          "url": "https://flash.jin10.com/detail/20260211030702917800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 05时32分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
-          "url": "https://wallstreetcn.com/livenews/3053211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普承认自己犯了大错",
-          "url": "https://www.toutiao.com/trending/7605365293166362662/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 09时06分]"
-        },
-        {
-          "title": "特朗普：伊朗不会拥有核武器或导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%B8%8D%E4%BC%9A%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%E6%88%96%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 09时06分]"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 19时36分]"
-        },
-        {
-          "title": "特朗普表面祝贺高市私下大发雷霆",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "美国总统特朗普：我认为2026年将会很棒。",
-          "url": "https://flash.jin10.com/detail/20260211050353108800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时27分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗希望达成协议，不达成协议是愚蠢的。",
-          "url": "https://flash.jin10.com/detail/20260211055436114800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
-          "url": "https://wallstreetcn.com/livenews/3053241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时27分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗希望达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3053268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "美国总统特朗普：政府裁员之后，就业数据依旧良好。",
-          "url": "https://wallstreetcn.com/livenews/3053265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
-          "url": "https://wallstreetcn.com/livenews/3053180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时48分]"
-        },
-        {
-          "title": "美国白宫：特朗普今天早些时候与加拿大总理卡尼通话，并明确阐述了他的立场。",
-          "url": "https://flash.jin10.com/detail/20260211030331166800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时33分]"
-        },
-        {
-          "title": "美国总统特朗普：我们的就业数据非常好。",
-          "url": "https://flash.jin10.com/detail/20260211054343619800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
-          "url": "https://flash.jin10.com/detail/20260211030322937800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时33分]"
-        },
-        {
-          "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
-          "url": "https://flash.jin10.com/detail/20260211053946147800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "美国总统特朗普：希望最高法院（在关税问题上）做出对国家有利的判决。",
-          "url": "https://wallstreetcn.com/livenews/3053258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。",
-          "url": "https://flash.jin10.com/detail/20260211052951060800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
           "url": "https://www.zhihu.com/question/2004862099634016476",
           "source": "知乎",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
-          "url": "https://flash.jin10.com/detail/20260211025108837800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时33分]"
-        },
-        {
-          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。 我们的利率应该比当前水平低2个点（即200个百分点）。",
-          "url": "https://wallstreetcn.com/livenews/3053255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "美国白宫：特朗普将于明日在白宫与以色列总理内塔尼亚胡举行双边会晤。",
-          "url": "https://flash.jin10.com/detail/20260211024859257800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时33分]"
-        },
-        {
-          "title": "美国白宫：特朗普将于周五前往北卡罗来纳州。",
-          "url": "https://flash.jin10.com/detail/20260211024803205800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普在爱泼斯坦案文件出现100万次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
-        },
-        {
-          "title": "爱泼斯坦文件中特朗普出现超百万次",
-          "url": "https://www.toutiao.com/trending/7605393743562149395/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 17时40分]"
-        },
-        {
-          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
-          "url": "https://news.ifeng.com/c/8qeou7377qN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
-          "url": "https://flash.jin10.com/detail/20260211022808666800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
-          "url": "https://flash.jin10.com/detail/20260211061349478800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "特朗普：反对以色列推进约旦河西岸吞并举措",
-          "url": "https://wallstreetcn.com/livenews/3053235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "墨西哥比索跌至日内低点，此前报道称特朗普考虑退出美墨加协定。",
-          "url": "https://wallstreetcn.com/livenews/3053734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "释新闻｜特朗普威胁阻止一座美加跨境大桥开通，发生了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582663",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
-          "url": "https://flash.jin10.com/detail/20260211022551688800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-11）",
-          "url": "https://flash.jin10.com/detail/20260211181613310800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
-          "url": "https://flash.jin10.com/detail/20260211122756306800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "卡塔尔埃米尔与特朗普通话，讨论地区局势发展。",
-          "url": "https://flash.jin10.com/detail/20260211154826994800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "特朗普称若美伊谈判失败，可能再派一个航母打击群前往中东",
-          "url": "https://flash.jin10.com/detail/20260211022239268800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "特朗普：或向中东再派一支航母打击群",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%96%E5%90%91%E4%B8%AD%E4%B8%9C%E5%86%8D%E6%B4%BE%E4%B8%80%E6%94%AF%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4",
-          "source": "百度热搜",
-          "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "据AXIOS网站：特朗普称，如果谈判失败，他可能会派遣第二艘航母打击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260211021733708800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "美众议院以微弱优势否决动议 特朗普关税决议可提全院表决",
-          "url": "https://flash.jin10.com/detail/20260211111638705800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
-          "url": "https://wallstreetcn.com/livenews/3053143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         },
         {
-          "title": "据Punchbowl：美国众议院否决了一项旨在阻止议员提出挑战特朗普关税决议的规则。",
-          "url": "https://flash.jin10.com/detail/20260211110924095800",
+          "title": "据AXIOS网站：特朗普与以色列总理内塔尼亚胡的会面已经开始。",
+          "url": "https://flash.jin10.com/detail/20260212000731076800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "00时50分"
         },
         {
-          "title": "国会山警告特朗普的财政路径不可持续",
-          "url": "https://wallstreetcn.com/livenews/3053828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "墨西哥比索跌至日内低点，消息称特朗普据悉考虑退出美墨加协定。",
-          "url": "https://flash.jin10.com/detail/20260211200850711800",
+          "title": "以色列总理内塔尼亚胡抵达白宫与特朗普就伊朗问题举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260212000328760800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "约翰逊阻挠失败，美国众议院本周稍晚料推进针对特朗普关税的相关投票",
-          "url": "https://wallstreetcn.com/livenews/3053410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：不认为美国总统特朗普会退出美国墨西哥加拿大贸易协议（USMCA）。",
-          "url": "https://wallstreetcn.com/livenews/3053826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
-          "url": "https://wallstreetcn.com/livenews/3053536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "美国总统特朗普私下权衡是否退出他亲自谈判达成的美墨加贸易协定。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3053722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
-          "url": "https://wallstreetcn.com/livenews/3053247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "美国总统特朗普：美国应该承担更低的借债成本。 美国应该对债务支付更低的成本。 因此，美国应该支付（全球）最低的利率。",
-          "url": "https://wallstreetcn.com/livenews/3053820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美国总统特朗普：非农数据很棒，远超预期。",
-          "url": "https://wallstreetcn.com/livenews/3053819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "报道：特朗普将指示五角大楼与燃煤发电厂签订合同，以期重振煤炭行业",
-          "url": "https://wallstreetcn.com/livenews/3053396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "福特汽车四季度调整后每股收益（EPS）为0.13美元，分析师预期0.18美元。",
-          "url": "https://wallstreetcn.com/livenews/3053245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时27分]"
-        },
-        {
-          "title": "福特汽车财报遭遇四年最大“爆冷”：关税成本拖累，但看好2026年复苏",
-          "url": "https://wallstreetcn.com/livenews/3053270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "消息人士：随着电动汽车亏损加剧，斯泰兰蒂斯(STLA.N)寻求退出与三星的电池合资企业。",
-          "url": "https://flash.jin10.com/detail/20260211030806295800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 05时32分]"
-        },
-        {
-          "title": "葛卫东耗资10亿“做多”江淮汽车 尊界“产品大年”或成破局关键｜速读公告",
-          "url": "https://www.cls.cn/detail/2286355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 09时06分]"
-        },
-        {
-          "title": "随着电动汽车亏损越来越大，斯泰兰蒂斯集团Stellantis寻求推出与Samsung SDI的合资公司。",
-          "url": "https://wallstreetcn.com/livenews/3053217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时33分]"
-        },
-        {
-          "title": "据汽车新闻网站Electrek：特斯拉(TSLA.O)500英里续航电动半挂卡车定价29万美元。",
-          "url": "https://flash.jin10.com/detail/20260211002040523800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "00时50分"
         },
         {
-          "title": "福特汽车全球销量首次落后于比亚迪",
-          "url": "https://wallstreetcn.com/livenews/3053280",
+          "title": "墨西哥比索兑美元刷新日低，此前墨西哥总统辛鲍姆置评美国总统特朗普和美墨加贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3053849",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "福特汽车(F.N)：激烈竞争和产能过剩很可能对经通胀调整后的价格构成压力。",
-          "url": "https://flash.jin10.com/detail/20260211190825029800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
-          "url": "https://wallstreetcn.com/livenews/3053236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "福特汽车(F.N)：由于成本仍居高不下，行业价格是否会完全回落至疫情前水平尚不明朗。",
-          "url": "https://flash.jin10.com/detail/20260211190806546800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "福特汽车(F.N)：预计在2026年降低约10亿美元的关税成本。",
-          "url": "https://flash.jin10.com/detail/20260211190755586800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "福特汽车(F.N)：我们已经观察到新车和二手车价格有所下降，尤其是在电动车领域。",
-          "url": "https://flash.jin10.com/detail/20260211190744712800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "纽约联储：第四季度汽车贷款、信用卡贷款和房屋净值信贷额度贷款的违约转移率保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260211000152142800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "雷军：小米汽车工厂有六七百台机器人",
-          "url": "https://www.toutiao.com/trending/7605427131748765210/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "美国进入严重逾期状态的汽车贷款占比升至5.2%，略低于2010年创下的纪录",
-          "url": "https://wallstreetcn.com/livenews/3053169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "1月份我国汽车行业保持平稳运行",
-          "url": "https://wallstreetcn.com/livenews/3053466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "特斯拉领导层最新变动：任命欧洲高管负责全球电动汽车销售",
-          "url": "https://wallstreetcn.com/livenews/3053168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "随着电动汽车亏损加剧，欧洲车企Stellantis寻求退出与三星的合资项目",
-          "url": "https://wallstreetcn.com/livenews/3053217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "美国交通部提议，联邦资助的电动汽车充电站最高可要求100%使用美国本土生产的零部件。",
-          "url": "https://flash.jin10.com/detail/20260210235924538800",
-          "source": "金十数据",
-          "ranks": [
-            27
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1049,56 +88,40 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
           "url": "https://www.zhihu.com/question/2004971546536585165",
           "source": "知乎",
           "ranks": [
-            15,
-            8,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时35分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "UP主实测DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时07分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
           "url": "https://www.cls.cn/detail/2287578",
           "source": "财联社热门",
           "ranks": [
-            13,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时07分 ~ 23时47分]"
-        },
-        {
-          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
-          "url": "https://wallstreetcn.com/articles/3765457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -1108,111 +131,36 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时07分 ~ 23时47分]"
-        },
-        {
-          "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
-          "url": "https://wallstreetcn.com/livenews/3053713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "蚂蚁开源全模态大模型Ming-Flash-Omni 2.0 性能对标Gemini 2.5 Pro",
-          "url": "https://wallstreetcn.com/livenews/3053495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
-          "url": "https://flash.jin10.com/detail/20260211023723066800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时54分]"
-        },
-        {
-          "title": "谷歌：Fitbit的个人健康教练现将在更多国家推出，包括英国、加拿大、澳大利亚、新西兰和新加坡。",
-          "url": "https://flash.jin10.com/detail/20260211012335531800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "欧盟委员会声明：欧盟无条件批准谷歌公司320亿美元收购Wiz的网络安全交易。 这笔交易不会对欧洲经济区（EEA）构成竞争顾虑。",
-          "url": "https://wallstreetcn.com/livenews/3053139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         },
         {
-          "title": "谷歌：Fitbit的个人健康教练体验正向全球更多用户扩展。",
-          "url": "https://flash.jin10.com/detail/20260211012231222800",
-          "source": "金十数据",
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "00时50分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "汽车",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI创始人奥尔特曼：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
-          "url": "https://flash.jin10.com/detail/20260211131557627800",
+          "title": "消息人士称，随着初始质量提升，福特汽车(F.N)将全公司奖金上调至130%。",
+          "url": "https://flash.jin10.com/detail/20260212002919163800",
           "source": "金十数据",
           "ranks": [
-            6,
-            18
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 15时03分]"
-        },
-        {
-          "title": "OpenAI创始人Altman：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
-          "url": "https://wallstreetcn.com/livenews/3053451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 15时03分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         }
       ]
     }
