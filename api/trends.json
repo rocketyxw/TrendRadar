@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T15:41:27.385833+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-02-13T16:29:46.218718+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 15时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 16时29分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 16时29分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -76,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 16时29分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -87,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 16时29分]"
         },
         {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
@@ -141,6 +141,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 16时29分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -253,19 +267,6 @@
           "time_info": "[01时48分 ~ 02时43分]"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时41分]"
-        },
-        {
           "title": "美国总统特朗普：并不知晓美国商务部长卢特尼克访问爱泼斯坦岛。",
           "url": "https://flash.jin10.com/detail/20260213031103498800",
           "source": "金十数据",
@@ -288,6 +289,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时51分 ~ 14时43分]"
+        },
+        {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 16时29分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -340,18 +354,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时42分 ~ 05时22分]"
-        },
-        {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 15时41分]"
         },
         {
           "title": "美国总统特朗普：我正努力让美国不建设风电场。",
@@ -644,7 +646,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
@@ -722,6 +724,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "法国财政部长莱叙尔：到2035年，法国将拥有700万辆电动汽车，是目前数量的五倍。",
+          "url": "https://flash.jin10.com/detail/20260213155006552800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "印度汽车行业组织SIAM：印度1月国内乘用车销量为449,616辆。",
           "url": "https://flash.jin10.com/detail/20260213132930608800",
           "source": "金十数据",
@@ -731,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "法国财政部长莱叙尔：将与业界会面，讨论在明年预算中为电气化提供支持，我们将继续支持企业电动汽车车队。",
+          "url": "https://flash.jin10.com/detail/20260213154947786800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "中国汽车流通协会：1月全国二手车市场交易量同比增长18.33%",
@@ -905,11 +929,12 @@
             12,
             15,
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 15时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 16时29分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -926,8 +951,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 15时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 16时29分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -948,22 +973,36 @@
           "url": "https://www.toutiao.com/trending/7606192815403437609/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时29分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
           "url": "https://www.zhihu.com/question/2005557043939993512",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时29分]"
+        },
+        {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时29分]"
         },
         {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
@@ -972,18 +1011,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "DeepSeek回应被指冷淡",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
