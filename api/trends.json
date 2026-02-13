@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T05:24:59.485838+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-02-14T06:20:56.663593+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "中方回应特朗普或将4月访华",
@@ -19,8 +19,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时20分]"
         },
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -30,8 +30,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时24分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时20分]"
+        },
+        {
+          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
+          "url": "https://flash.jin10.com/detail/20260214031056570800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时20分]"
+        },
+        {
+          "title": "美国总统特朗普：希望与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030526351800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时20分]"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030421669800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时20分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -58,18 +94,6 @@
           "time_info": "02时29分"
         },
         {
-          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
-          "url": "https://flash.jin10.com/detail/20260214031056570800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时24分]"
-        },
-        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -79,18 +103,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 03时34分]"
-        },
-        {
-          "title": "美国总统特朗普：希望与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030526351800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时24分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -105,18 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时33分 ~ 04时23分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030421669800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时24分]"
         },
         {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
@@ -161,6 +161,18 @@
           "time_info": "[01时33分 ~ 04时23分]"
         },
         {
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 06时20分]"
+        },
+        {
           "title": "美国总统特朗普重申：与北约关系良好。",
           "url": "https://wallstreetcn.com/livenews/3055341",
           "source": "华尔街见闻-快讯",
@@ -186,15 +198,39 @@
           "time_info": "[02时29分 ~ 03时34分]"
         },
         {
-          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
-          "source": "澎湃新闻",
+          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
+          "url": "https://flash.jin10.com/detail/20260214023919171800",
+          "source": "金十数据",
           "ranks": [
-            9
+            13,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时33分 ~ 05时24分]"
+          "time_info": "[03时34分 ~ 06时20分]"
+        },
+        {
+          "title": "美国总统特朗普：通胀报告非常棒。",
+          "url": "https://flash.jin10.com/detail/20260214023609797800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时20分]"
+        },
+        {
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时20分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -236,41 +272,6 @@
           "time_info": "[03时34分 ~ 05时24分]"
         },
         {
-          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
-          "url": "https://flash.jin10.com/detail/20260214023919171800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时24分]"
-        },
-        {
-          "title": "美国总统特朗普：通胀报告非常棒。",
-          "url": "https://flash.jin10.com/detail/20260214023609797800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时24分]"
-        },
-        {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
           "url": "https://wallstreetcn.com/livenews/3055310",
           "source": "华尔街见闻-快讯",
@@ -293,6 +294,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普证实美军将向中东地区派出第二艘航母",
+          "url": "https://wallstreetcn.com/livenews/3055352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时20分]"
         },
         {
           "title": "美国总统特朗普：当前谈判格陵兰问题。",
@@ -386,17 +399,6 @@
           "time_info": "01时33分"
         },
         {
-          "title": "特朗普证实美军将向中东地区派出第二艘航母",
-          "url": "https://wallstreetcn.com/livenews/3055352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
           "title": "美国总统特朗普：目前正在就格陵兰岛问题进行谈判。",
           "url": "https://flash.jin10.com/detail/20260214005621423800",
           "source": "金十数据",
@@ -406,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3055375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "美国总统特朗普：（谈欧洲）我们相处得很好；我们正在谈判。",
@@ -609,19 +622,42 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国国土安全部（DHS）围绕移民与海关执法局（ICE）追踪问题传唤谷歌、Meta、Reddit、以及Discord。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3055385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
           "url": "https://www.zhihu.com/question/2005579925827130176",
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 06时20分]"
+        },
+        {
+          "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
+          "url": "https://wallstreetcn.com/livenews/3055379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
@@ -649,7 +685,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -675,12 +711,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
+          "url": "https://wallstreetcn.com/livenews/3055377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
@@ -691,8 +738,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时20分]"
+        },
+        {
+          "title": "周五（2月13日），彭博电动汽车价格回报指数跌0.18%，报3635.96点。 本周，该指数累计上涨3.31%，周一至周四持续上涨，周四纽约中午至周五曾显著地回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3055370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "阿里巴巴(BABA.N)、蔚来汽车(NIO.N)、百度(BIDU.O)股价有所回升，日内跌幅收窄。",
@@ -718,11 +776,12 @@
           "ranks": [
             4,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时20分]"
         }
       ]
     }
