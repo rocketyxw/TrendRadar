@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T20:21:30.927435+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-02-15T21:37:58.729645+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时09分 ~ 19时13分]"
+        },
+        {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时37分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
@@ -92,17 +103,6 @@
           "time_info": "[12时09分 ~ 16时18分]"
         },
         {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时21分]"
-        },
-        {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
           "url": "https://news.ifeng.com/c/8qk233NwWlu",
           "source": "凤凰网",
@@ -132,11 +132,12 @@
             11,
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 20时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 21时37分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -174,11 +175,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时37分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -191,6 +193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时14分]"
+        },
+        {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时37分]"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
@@ -214,17 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猴",
@@ -252,8 +254,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 20时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时09分 ~ 21时37分]"
         },
         {
           "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
@@ -277,11 +279,12 @@
             7,
             14,
             19,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 20时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时31分 ~ 21时37分]"
         },
         {
           "title": "新国标拟增加汽车实体操纵件相关要求 工业和信息化部公开征求意见",
@@ -293,11 +296,12 @@
             16,
             19,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 20时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时31分 ~ 21时37分]"
         },
         {
           "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
@@ -309,11 +313,12 @@
             17,
             20,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 20时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时31分 ~ 21时37分]"
         },
         {
           "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
@@ -322,11 +327,12 @@
           "ranks": [
             7,
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时37分]"
         },
         {
           "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
@@ -334,22 +340,24 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时37分]"
         },
         {
           "title": "即将春节了，在不改变发动机硬件的前提下，有没有什么汽车养护策略？",
           "url": "https://www.zhihu.com/question/2006141796971983323",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时37分]"
         }
       ]
     },
@@ -367,8 +375,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 20时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 21时37分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -453,6 +461,19 @@
           "time_info": "[00时14分 ~ 12时10分]"
         },
         {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时37分]"
+        },
+        {
           "title": "DeepSeek“变冷淡”不是翻车",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
           "source": "百度热搜",
@@ -464,24 +485,12 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时19分 ~ 19时13分]"
-        },
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时21分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
@@ -493,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     }
