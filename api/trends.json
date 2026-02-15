@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-16T01:16:05.490198+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-02-16T02:18:39.489792+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
           "url": "https://news.ifeng.com/c/8qlaP330gp4",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -26,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -37,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
@@ -48,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
@@ -59,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
@@ -70,8 +71,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时18分]"
+        },
+        {
+          "title": "奥巴马回应被特朗普恶搞成猿猴",
+          "url": "https://www.douyin.com/hot/2401829",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     },
@@ -84,11 +96,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32616242",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
@@ -99,8 +112,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
@@ -110,8 +123,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时18分]"
         }
       ]
     },
@@ -127,19 +140,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
           "url": "https://www.zhihu.com/question/2004209286281205228",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 02时18分]"
         }
       ]
     },
@@ -155,8 +169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         }
       ]
     },
@@ -173,8 +187,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         }
       ]
     }
