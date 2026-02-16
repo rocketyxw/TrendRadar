@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T21:58:18.334704+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-02-16T22:37:29.326992+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -310,8 +310,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时39分 ~ 21时58分]"
+          "appearance_count": 15,
+          "time_info": "[11时39分 ~ 22时37分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -413,11 +413,12 @@
             7,
             9,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时14分 ~ 21时58分]"
+          "appearance_count": 26,
+          "time_info": "[00时14分 ~ 22时37分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -456,8 +457,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时58分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时37分]"
         },
         {
           "title": "千问3.5成本仅为谷歌大模型5%",
