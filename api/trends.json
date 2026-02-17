@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:42:23.915712+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-02-17T15:42:06.663612+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 15时42分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -272,7 +272,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -384,6 +384,18 @@
           "time_info": "[06时16分 ~ 08时59分]"
         },
         {
+          "title": "现在的汽车怎么掉价那么快，为什么？",
+          "url": "https://www.zhihu.com/question/1968985160482535223",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 15时42分]"
+        },
+        {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
           "url": "https://www.zhihu.com/question/2005295793721081957",
           "source": "知乎",
@@ -393,17 +405,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时58分 ~ 08时59分]"
-        },
-        {
-          "title": "现在的汽车怎么掉价那么快，为什么？",
-          "url": "https://www.zhihu.com/question/1968985160482535223",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         },
         {
           "title": "英媒：欧盟推动汽车供应链本土化 电动车70%零部件须“欧洲制造”",
@@ -511,8 +512,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 14时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 15时42分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -526,8 +527,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 14时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 15时42分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
