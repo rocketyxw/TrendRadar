@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T11:33:45.785203+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-02-17T13:17:26.439671+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -31,17 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时25分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
-          "url": "https://wallstreetcn.com/livenews/3055873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -153,6 +142,19 @@
           "time_info": "[00时29分 ~ 02时26分]"
         },
         {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时17分]"
+        },
+        {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
           "url": "https://flash.jin10.com/detail/20260217040455048800",
           "source": "金十数据",
@@ -165,16 +167,29 @@
           "time_info": "[05时18分 ~ 06时16分]"
         },
         {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
+          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
+          "url": "https://wallstreetcn.com/livenews/3055873",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时59分 ~ 11时33分]"
+          "time_info": "[11时33分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时17分]"
         },
         {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
@@ -199,18 +214,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时18分]"
-        },
-        {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 11时33分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -247,6 +250,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时30分 ~ 02时26分]"
+        },
+        {
+          "title": "市场消息：越南最高领导人将于本周三启程前往美国，出席特朗普 “和平委员会” 的首次会议。",
+          "url": "https://flash.jin10.com/detail/20260217122724799800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "美国总统特朗普：得州参议院共和党的初选是最艰难的选战之一；支持得州参议院共和党初选的所有三位候选人。",
@@ -321,7 +335,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -405,7 +419,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -468,11 +482,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 11时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 13时17分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -485,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 11时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 13时17分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
