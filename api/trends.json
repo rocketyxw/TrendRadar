@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T05:44:39.906583+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-02-18T06:18:24.241424+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 06时18分]"
         },
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时39分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[02时39分 ~ 06时18分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时18分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -53,6 +53,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "特朗普涉台最新表态，台当局和日本都慌了",
+          "url": "https://news.ifeng.com/c/8qpOucjNxj3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时39分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时39分 ~ 06时18分]"
         },
         {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
@@ -89,28 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普涉台最新表态，台当局和日本都慌了",
-          "url": "https://news.ifeng.com/c/8qpOucjNxj3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 05时44分]"
-        },
-        {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 05时44分]"
         },
         {
           "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
@@ -174,6 +174,17 @@
           "time_info": "[03时39分 ~ 04时23分]"
         },
         {
+          "title": "惠誉：预计特朗普政府将在必要时动用其他权力征收关税。",
+          "url": "https://flash.jin10.com/detail/20260218054627557800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
           "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
           "source": "凤凰网",
@@ -191,7 +202,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -213,7 +224,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -224,7 +235,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -235,7 +246,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -257,7 +268,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -268,7 +279,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -279,7 +290,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -290,7 +301,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
@@ -325,6 +336,18 @@
           "time_info": "[03时39分 ~ 04时23分]"
         },
         {
+          "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
+          "url": "https://wallstreetcn.com/livenews/3056132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时18分]"
+        },
+        {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
           "url": "https://wallstreetcn.com/livenews/3056046",
           "source": "华尔街见闻-快讯",
@@ -335,17 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时45分]"
-        },
-        {
-          "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
-          "url": "https://wallstreetcn.com/livenews/3056132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
         }
       ]
     },
@@ -358,11 +370,12 @@
           "url": "https://wallstreetcn.com/livenews/3056121",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时18分]"
         }
       ]
     }
