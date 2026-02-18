@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T19:31:37.200890+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-02-18T20:31:24.176884+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -46,6 +46,17 @@
           "time_info": "[00时43分 ~ 07时17分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 20时31分]"
+        },
+        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时39分 ~ 09时01分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时31分]"
         },
         {
           "title": "特朗普称希拉里精神错乱",
@@ -284,6 +284,18 @@
           "time_info": "[02时40分 ~ 03时39分]"
         },
         {
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://wallstreetcn.com/livenews/3056288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时31分]"
+        },
+        {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
           "url": "https://flash.jin10.com/detail/20260218023219855800",
           "source": "金十数据",
@@ -318,6 +330,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时23分]"
+        },
+        {
+          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
+          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "据路透社/IPSOS民调，特朗普的整体支持率维持在38%的总统低点。",
@@ -359,7 +382,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -392,18 +415,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-          "url": "https://wallstreetcn.com/livenews/3056288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -510,7 +522,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
@@ -560,6 +572,18 @@
           "time_info": "[05时44分 ~ 06时18分]"
         },
         {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时31分]"
+        },
+        {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
           "url": "https://wallstreetcn.com/livenews/3056046",
           "source": "华尔街见闻-快讯",
@@ -584,15 +608,15 @@
           "time_info": "[11时37分 ~ 13时18分]"
         },
         {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3056294",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌计划在美国和印度之间建设新的光纤线路",
+          "url": "https://flash.jin10.com/detail/20260218194454103800",
+          "source": "金十数据",
           "ranks": [
-            8
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时31分"
+          "time_info": "20时31分"
         },
         {
           "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
@@ -609,7 +633,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
@@ -622,8 +646,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时37分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[11时37分 ~ 20时31分]"
+        },
+        {
+          "title": "优步：投资超过1亿美元开发新的高容量电动汽车充电枢纽。",
+          "url": "https://flash.jin10.com/detail/20260218200049908800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "日本出口额创下三年多来最快增速 芯片出口及汽车出口大幅增长",
@@ -666,7 +701,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
