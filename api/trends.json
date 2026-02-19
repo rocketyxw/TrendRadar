@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T14:45:01.357300+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-02-19T15:41:34.529796+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 15时41分]"
         },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 15时41分]"
         },
         {
           "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
@@ -50,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
         },
         {
           "title": "美媒：特朗普的和平委员会将承诺50亿美元用于重建加沙",
@@ -80,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -141,6 +130,29 @@
           "time_info": "11时36分"
         },
         {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 15时41分]"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时41分]"
+        },
+        {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
           "url": "https://wallstreetcn.com/livenews/3056519",
           "source": "华尔街见闻-快讯",
@@ -163,17 +175,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时21分]"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时45分]"
         },
         {
           "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
@@ -574,7 +575,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -613,11 +614,12 @@
           "ranks": [
             4,
             13,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 15时41分]"
         },
         {
           "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
@@ -719,6 +721,20 @@
           "time_info": "[00时47分 ~ 09时01分]"
         },
         {
+          "title": "春节假期前3天新能源汽车充电需求旺盛，高速公路充电基础设施运行平稳",
+          "url": "https://wallstreetcn.com/livenews/3056561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 15时41分]"
+        },
+        {
           "title": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
           "url": "https://wallstreetcn.com/livenews/3056407",
           "source": "华尔街见闻-快讯",
@@ -730,19 +746,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 02时35分]"
-        },
-        {
-          "title": "春节假期前3天新能源汽车充电需求旺盛，高速公路充电基础设施运行平稳",
-          "url": "https://wallstreetcn.com/livenews/3056561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时45分]"
         },
         {
           "title": "周三（2月18日），彭博电动汽车价格回报指数涨0.92%，报3639.09点，亚太盘初以来持续走高。 成分股Aurora Innovation涨5.8%，Panasonic株式会社收涨5.38%，意法半导体法国巴黎股价收涨3.84%，优美科欧股收涨3.67%，MobilEye则跌约1.7%，巴拉德动力系统股份跌2%，文远知行跌4.1%。",
@@ -785,7 +788,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
