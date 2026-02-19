@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T22:47:14.758124+08:00",
-  "total_titles_processed": 1831,
+  "generated_at": "2026-02-19T23:36:17.759641+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 74,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -69,9 +69,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
+        },
+        {
+          "title": "美国总统特朗普：全世界都在等着哈马斯，它是唯一阻碍我们前进的因素。",
+          "url": "https://flash.jin10.com/detail/20260219231311773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
+          "url": "https://wallstreetcn.com/livenews/3056683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "美国总统特朗普：必须解决与黎巴嫩的问题。",
+          "url": "https://flash.jin10.com/detail/20260219231300377800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美媒：特朗普的和平委员会将承诺50亿美元用于重建加沙",
@@ -94,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "美国总统特朗普：我认为没有必要派士兵去加沙作战。",
+          "url": "https://flash.jin10.com/detail/20260219231156454800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -158,20 +202,53 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
         {
-          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
-          "url": "https://wallstreetcn.com/livenews/3056653",
+          "title": "美国总统特朗普：加沙不再是激进主义和恐怖主义的温床。",
+          "url": "https://flash.jin10.com/detail/20260219231149143800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "美国总统特朗普：我才不在乎诺贝尔奖。",
+          "url": "https://wallstreetcn.com/livenews/3056680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "美国总统特朗普：已有超过70亿美元用于加沙救援行动。",
+          "url": "https://flash.jin10.com/detail/20260219231144473800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "美国总统特朗普：挪威将主办一场关于“和平委员会”的活动。",
+          "url": "https://wallstreetcn.com/livenews/3056679",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时47分"
+          "time_info": "23时36分"
         },
         {
           "title": "美多家团体起诉特朗普政府撤销气候危害认定",
@@ -210,6 +287,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时21分]"
+        },
+        {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3056653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时36分]"
         },
         {
           "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
@@ -308,6 +397,39 @@
           "time_info": "[03时39分 ~ 04时25分]"
         },
         {
+          "title": "美国总统特朗普：看来哈马斯要放下武器了，但我们还得弄清楚。",
+          "url": "https://flash.jin10.com/detail/20260219231139490800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "美国总统特朗普：必须解决黎巴嫩的问题。 联合国为支持加沙而募集20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "美国总统特朗普：致力于实现一个治理得当的加沙。",
+          "url": "https://flash.jin10.com/detail/20260219231117267800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美国总统特朗普：我将在国情咨文中谈到经济问题。",
           "url": "https://flash.jin10.com/detail/20260219043351935800",
           "source": "金十数据",
@@ -319,15 +441,37 @@
           "time_info": "05时25分"
         },
         {
+          "title": "美国总统特朗普：必须与伊朗达成一份具有实质性意义的协议。 伊朗不可以拥有核武器。 我们与伊朗还需付出努力。 或许十天能了解中东和平状况。 认为哈马斯会放弃武装，否则他们将遭到严厉袭击。",
+          "url": "https://wallstreetcn.com/livenews/3056674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美国总统特朗普在“和平委员会”召开的首次会议上发表讲话。",
           "url": "https://flash.jin10.com/detail/20260219223603423800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
+        },
+        {
+          "title": "美国总统特朗普：今天晚些时候将与联合国秘书长古特雷斯通话。",
+          "url": "https://flash.jin10.com/detail/20260219230915461800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "特朗普政府扩大了移民与海关执法局拘留合法难民的权力。",
@@ -341,6 +485,17 @@
           "time_info": "19时30分"
         },
         {
+          "title": "美国总统特朗普：伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260219230900663800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3056468",
           "source": "华尔街见闻-快讯",
@@ -350,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们确实还有一些与伊朗相关的工作要做。",
+          "url": "https://flash.jin10.com/detail/20260219230832569800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -363,6 +529,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国总统特朗普：认为哈马斯会放弃武器，否则将遭到严厉打击。",
+          "url": "https://flash.jin10.com/detail/20260219230633297800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美国总统特朗普声称：将在国情咨文中谈论经济形势。",
           "url": "https://wallstreetcn.com/livenews/3056466",
           "source": "华尔街见闻-快讯",
@@ -372,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：越南非常棒。",
+          "url": "https://wallstreetcn.com/livenews/3056669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美国高级官员：特朗普的国家安全顾问今天在白宫战情室会议上讨论了伊朗问题。",
@@ -416,6 +604,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国总统特朗普：将在大约10天内找到伊朗问题的答案。",
+          "url": "https://flash.jin10.com/detail/20260219230556172800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "美国总统特朗普：目前中东地区处于和平状态。",
+          "url": "https://flash.jin10.com/detail/20260219230506510800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
@@ -528,6 +738,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "美国总统特朗普：正与伊朗进行良好的对话，我们必须与伊朗达成一项有意义的协议。",
+          "url": "https://flash.jin10.com/detail/20260219230223305800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
           "url": "https://flash.jin10.com/detail/20260219024522146800",
           "source": "金十数据",
@@ -561,6 +782,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "美国总统特朗普：乌克兰、俄罗斯和欧洲都喜欢美国特使威特科夫。",
+          "url": "https://flash.jin10.com/detail/20260219225958625800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普随时准备介入华盛顿特区的供水危机。",
           "url": "https://flash.jin10.com/detail/20260219024439079800",
           "source": "金十数据",
@@ -592,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "美国总统特朗普：越南太令人惊叹了。",
+          "url": "https://flash.jin10.com/detail/20260219225430423800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     },
@@ -608,8 +851,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时30分 ~ 22时47分]"
+          "appearance_count": 7,
+          "time_info": "[19时30分 ~ 23时36分]"
         },
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
@@ -721,7 +964,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
@@ -786,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "美国国际贸易委员会将调查美墨加协定的汽车原产地规则。",
+          "url": "https://flash.jin10.com/detail/20260219230623673800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "俄罗斯官员：利佩茨克州“Motorinvest”汽车厂的一间车间屋顶坍塌，可能有人员被困在废墟下。",
@@ -940,11 +1194,12 @@
           "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时36分]"
         }
       ]
     }
