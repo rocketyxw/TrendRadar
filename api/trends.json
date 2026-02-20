@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T15:40:08.182951+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-02-20T16:27:53.583402+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 15时40分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 16时27分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时27分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -51,8 +51,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 15时40分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 16时27分]"
+        },
+        {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 16时27分]"
         },
         {
           "title": "特朗普赞叹中国仪仗队",
@@ -67,27 +78,28 @@
           "time_info": "[13时10分 ~ 15时40分]"
         },
         {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 15时40分]"
-        },
-        {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
           "url": "https://wallstreetcn.com/articles/3765884",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 16时27分]"
+        },
+        {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时40分]"
+          "time_info": "[13时10分 ~ 16时27分]"
         },
         {
           "title": "美国总统特朗普：石油和天然气正在增产。",
@@ -101,15 +113,28 @@
           "time_info": "06时19分"
         },
         {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
+          "title": "特朗普称奥巴马涉外星人言论泄密",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时27分]"
         },
         {
           "title": "美伊局势继续升级，特朗普下“最后通牒”，10到15天内是协议最后期限，更有美媒爆料其考虑有限打击以逼伊朗达成协议；今日晚些时候，美国将公布美联储青睐的12月PCE通胀数据，当前，黄金价格在5000美元附近徘徊，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -160,30 +185,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 04时20分]"
-        },
-        {
-          "title": "特朗普称奥巴马涉外星人言论泄密",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 15时40分]"
-        },
-        {
-          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 15时40分]"
         },
         {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
@@ -311,6 +312,19 @@
           "time_info": "[04时20分 ~ 05时20分]"
         },
         {
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时27分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
           "url": "https://flash.jin10.com/detail/20260220034222845800",
           "source": "金十数据",
@@ -362,18 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时20分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时40分]"
         },
         {
           "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
@@ -1287,8 +1289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时27分]"
         },
         {
           "title": "Gemini3.1 Pro上线",
