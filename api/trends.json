@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T08:59:25.828301+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-02-23T11:38:20.490914+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时38分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -47,11 +47,12 @@
           "url": "https://news.ifeng.com/c/8qxUeFL6TqS",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时38分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -61,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时38分]"
         },
         {
           "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
@@ -83,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时38分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -162,15 +163,15 @@
           "time_info": "[01时16分 ~ 07时14分]"
         },
         {
-          "title": "连锁反应来了，印度打脸特朗普",
-          "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
+          "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
+          "url": "https://news.ifeng.com/c/8qyOjcC9kzZ",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "11时38分"
         },
         {
           "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
@@ -179,7 +180,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -195,6 +196,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
+          "url": "https://news.ifeng.com/c/8qyRMnxS2f3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
           "url": "https://flash.jin10.com/detail/20260222213944275800",
           "source": "金十数据",
@@ -205,6 +217,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 04时02分]"
+        },
+        {
+          "title": "连锁反应来了，印度打脸特朗普",
+          "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 11时38分]"
         },
         {
           "title": "美媒：特朗普倾向未来几天对伊实施初步打击 未来数月可能发动更大规模攻击",
@@ -242,6 +266,30 @@
           "time_info": "[00时14分 ~ 01时16分]"
         },
         {
+          "title": "男子持枪闯入特朗普住所被击毙",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 11时38分]"
+        },
+        {
+          "title": "连锁反应来了 印度打脸特朗普",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 11时38分]"
+        },
+        {
           "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
           "url": "https://wallstreetcn.com/livenews/3057256",
           "source": "华尔街见闻-快讯",
@@ -254,24 +302,24 @@
           "time_info": "[00时14分 ~ 01时16分]"
         },
         {
+          "title": "美国总统特朗普：我们赢得太多了，这不公平。",
+          "url": "https://flash.jin10.com/detail/20260223104454862800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
           "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
           "url": "https://flash.jin10.com/detail/20260223081143529800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "连锁反应来了 印度打脸特朗普",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -282,7 +330,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -293,7 +341,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -307,17 +355,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "男子持枪闯入特朗普住所被击毙",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
-          "source": "百度热搜",
+          "title": "金十图示：2026年02月23日（周一）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260223110625760800",
+          "source": "金十数据",
           "ranks": [
-            30
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "11时38分"
+        },
+        {
+          "title": "有博主说汽车后备箱最怕「米酒、海鲜、菜籽油」洒出来，味道祛除不掉，这是真的吗？",
+          "url": "https://www.zhihu.com/question/2005389727063303883",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 11时38分]"
+        },
+        {
+          "title": "韩汽车数据研究所：韩国二三十岁人群新车购买率去年跌至十年最低",
+          "url": "https://flash.jin10.com/detail/20260223095909289800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     },
@@ -333,8 +409,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时38分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -387,23 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "有博主说汽车后备箱最怕「米酒、海鲜、菜籽油」洒出来，味道祛除不掉，这是真的吗？",
-          "url": "https://www.zhihu.com/question/2005389727063303883",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
         }
       ]
     }
