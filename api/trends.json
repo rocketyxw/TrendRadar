@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T20:33:23.287980+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-02-23T22:11:35.560227+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -138,11 +138,25 @@
             14,
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时50分 ~ 20时33分]"
+          "appearance_count": 10,
+          "time_info": "[14时50分 ~ 22时11分]"
+        },
+        {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 22时11分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -160,19 +174,6 @@
           "time_info": "[02时18分 ~ 08时59分]"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 20时33分]"
-        },
-        {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
           "url": "https://flash.jin10.com/detail/20260222222304008800",
           "source": "金十数据",
@@ -185,6 +186,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时12分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 22时11分]"
         },
         {
           "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
@@ -247,20 +263,6 @@
           "time_info": "[08时59分 ~ 15时46分]"
         },
         {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时33分]"
-        },
-        {
           "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
           "url": "https://flash.jin10.com/detail/20260223084819049800",
           "source": "金十数据",
@@ -289,7 +291,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -311,7 +313,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -322,7 +324,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -333,7 +335,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -477,7 +479,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -491,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美国总统特朗普：我们赢得太多了，这不公平。",
@@ -532,9 +545,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "鉴于特朗普的关税风险，欧盟拟冻结对与美国贸易协议的批准程序",
@@ -576,7 +600,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -669,8 +693,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 20时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 22时11分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
@@ -678,11 +702,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时33分]"
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 22时11分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
