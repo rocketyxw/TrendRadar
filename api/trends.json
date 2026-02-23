@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T22:46:23.277607+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-02-23T23:37:02.735529+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -119,6 +119,19 @@
           "time_info": "[08时59分 ~ 16时34分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 23时37分]"
+        },
+        {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
           "url": "https://www.cls.cn/detail/2292246",
           "source": "财联社热门",
@@ -129,6 +142,21 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时14分 ~ 18时38分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 23时37分]"
         },
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -143,36 +171,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时50分 ~ 22时46分]"
-        },
-        {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 22时46分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 22时46分]"
+          "appearance_count": 13,
+          "time_info": "[14时50分 ~ 23时37分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -303,7 +303,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -314,7 +314,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -358,7 +358,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -423,6 +423,30 @@
           "time_info": "[06时12分 ~ 07时14分]"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时11分 ~ 23时37分]"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时11分 ~ 23时37分]"
+        },
+        {
           "title": "连锁反应来了 印度打脸特朗普",
           "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -484,30 +508,6 @@
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 22时46分]"
-        },
-        {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 22时46分]"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://wallstreetcn.com/livenews/3057362",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -548,7 +548,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -570,7 +570,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -630,6 +630,17 @@
           "time_info": "19时31分"
         },
         {
+          "title": "特朗普：加征关税无需得到美国国会批准",
+          "url": "https://wallstreetcn.com/livenews/3057530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "韩国产业部长：将在政府应对特朗普关税的举措中反映商界的意见。",
           "url": "https://flash.jin10.com/detail/20260223073724073800",
           "source": "金十数据",
@@ -683,12 +694,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "现货黄金短线拉升，特朗普称玩花招的国家将面临更高的关税",
+          "url": "https://wallstreetcn.com/livenews/3057521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "特朗普：作为总统，我不必向国会争取关税的批准",
+          "url": "https://flash.jin10.com/detail/20260223225359135800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "美国总统特朗普：作为总统，我无需再回到国会以获得关税的批准。",
+          "url": "https://flash.jin10.com/detail/20260223225050426800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "男子花5600元套中汽车使用权商家反悔",
@@ -725,11 +769,27 @@
           "ranks": [
             25,
             27,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 22时46分]"
+          "appearance_count": 7,
+          "time_info": "[18时38分 ~ 23时37分]"
+        },
+        {
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24,
+            21,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时31分 ~ 23时37分]"
         },
         {
           "title": "据港交所公告，贝莱德在长城汽车(02333.HK)H股的多头持仓于2月17日从7.68%增至8.22%。",
@@ -757,20 +817,6 @@
         },
         {
           "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时46分]"
-        },
-        {
-          "title": "问界汽车回应惠州车辆起火",
           "url": "https://www.toutiao.com/trending/7608861809327947795/",
           "source": "今日头条",
           "ranks": [
@@ -779,6 +825,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：欧盟不应质疑这项贸易协议，而应继续大力倡导改善跨大西洋贸易的框架条件。",
+          "url": "https://flash.jin10.com/detail/20260223230220508800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：关税协议若终止，可能很快导致我方企业面临更高关税。",
+          "url": "https://flash.jin10.com/detail/20260223230159288800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：从德国汽车工业的角度来看，贸易和关税政策的稳定性至关重要。",
+          "url": "https://flash.jin10.com/detail/20260223230138109800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：可能会对德国出口导向型经济产生严重后果。",
+          "url": "https://flash.jin10.com/detail/20260223230118545800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：欧洲议会暂停批准与美国贸易协定的计划，可能促使美国政府从根本上重新考虑甚至终止已达成的关税协议。",
+          "url": "https://flash.jin10.com/detail/20260223230100975800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "韩汽车数据研究所：韩国二三十岁人群新车购买率去年跌至十年最低",
@@ -790,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：（就美国关税）我们期待美国与欧盟展开迅速而建设性的对话，以防止局势进一步升级，并尽快提供亟需的明确性。",
+          "url": "https://flash.jin10.com/detail/20260223225952683800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         }
       ]
     },
