@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T17:40:50.748685+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-02-23T18:38:50.263206+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 17时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 18时38分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -127,8 +127,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 17时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 18时38分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -206,6 +206,18 @@
           "time_info": "[01时16分 ~ 07时14分]"
         },
         {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时50分 ~ 18时38分]"
+        },
+        {
           "title": "男子持枪闯入特朗普住所被击毙",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
           "source": "百度热搜",
@@ -220,16 +232,16 @@
           "time_info": "[08时59分 ~ 15时46分]"
         },
         {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            12
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时50分 ~ 17时40分]"
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时38分]"
         },
         {
           "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
@@ -243,15 +255,15 @@
           "time_info": "08时59分"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
+          "title": "市场消息：欧盟因美国总统特朗普的关税风险拟冻结对美贸易协议的批准。",
+          "url": "https://flash.jin10.com/detail/20260223182731191800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "18时38分"
         },
         {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
@@ -288,6 +300,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 04时02分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时38分]"
         },
         {
           "title": "美媒：特朗普倾向未来几天对伊实施初步打击 未来数月可能发动更大规模攻击",
@@ -337,18 +362,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时45分 ~ 16时34分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时40分]"
         },
         {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
@@ -409,6 +422,17 @@
           "time_info": "14时50分"
         },
         {
+          "title": "市场消息：在美国最高法院推翻特朗普征收关税的决定后，印度正研究此举对与美国双边贸易协定的影响。",
+          "url": "https://flash.jin10.com/detail/20260223181405516800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "美国总统特朗普：我们赢得太多了，这不公平。",
           "url": "https://flash.jin10.com/detail/20260223104454862800",
           "source": "金十数据",
@@ -467,7 +491,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "有博主说汽车后备箱最怕「米酒、海鲜、菜籽油」洒出来，味道祛除不掉，这是真的吗？",
@@ -483,27 +507,29 @@
           "time_info": "[08时59分 ~ 15时46分]"
         },
         {
-          "title": "据港交所公告，贝莱德在长城汽车(02333.HK)H股的多头持仓于2月17日从7.68%增至8.22%。",
-          "url": "https://flash.jin10.com/detail/20260223173136709800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "男子花5600元套中汽车使用权商家反悔",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B15600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时38分]"
+        },
+        {
+          "title": "据港交所公告，贝莱德在长城汽车(02333.HK)H股的多头持仓于2月17日从7.68%增至8.22%。",
+          "url": "https://flash.jin10.com/detail/20260223173136709800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时38分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）全球汽车制造商市值变化",
@@ -524,7 +550,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -538,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "男子5600元套中汽车使用权 商家反悔",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%905600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83+%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -554,8 +591,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 17时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 18时38分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
