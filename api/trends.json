@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T02:45:05.982716+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-02-24T03:49:15.571103+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 03时49分]"
         },
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 03时49分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
@@ -37,8 +38,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 03时49分]"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 03时49分]"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 03时49分]"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -63,39 +88,28 @@
           "time_info": "00时51分"
         },
         {
-          "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
-          "url": "https://wallstreetcn.com/livenews/3057611",
+          "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
+          "url": "https://wallstreetcn.com/livenews/3057619",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "03时49分"
         },
         {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
+          "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
+          "url": "https://wallstreetcn.com/livenews/3057600",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            3,
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 02时45分]"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 02时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 03时49分]"
         },
         {
           "title": "COMEX黄金期货涨3%，欧美主权债价格涨幅扩大，特朗普重燃贸易不确定性，投资者寻求避险",
@@ -122,28 +136,29 @@
           "time_info": "[00时51分 ~ 02时06分]"
         },
         {
-          "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
-          "url": "https://wallstreetcn.com/livenews/3057600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 02时45分]"
-        },
-        {
           "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
           "url": "https://wallstreetcn.com/livenews/3057598",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 03时49分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
+          "url": "https://wallstreetcn.com/livenews/3057611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时06分 ~ 02时45分]"
+          "time_info": "[02时45分 ~ 03时49分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：参议院民主党将阻止特朗普关税延期。",
@@ -205,6 +220,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
+          "url": "https://wallstreetcn.com/livenews/3057622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
+          "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
+          "url": "https://flash.jin10.com/detail/20260224001507325800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
+          "url": "https://flash.jin10.com/detail/20260224031211079800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
+          "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
+          "url": "https://flash.jin10.com/detail/20260224030646410800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
       "match_count": 3,
       "titles": [
@@ -217,8 +282,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 03时49分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
@@ -230,8 +295,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 03时49分]"
         },
         {
           "title": "沃尔沃将因电池起火隐患而召回4万辆电动汽车。（路透）",
@@ -239,23 +304,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
-          "url": "https://flash.jin10.com/detail/20260224001507325800",
-          "source": "金十数据",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
