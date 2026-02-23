@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T19:31:41.037279+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-02-23T20:33:23.287980+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 19时31分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 20时33分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -131,6 +131,20 @@
           "time_info": "[00时14分 ~ 18时38分]"
         },
         {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时50分 ~ 20时33分]"
+        },
+        {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
           "url": "https://wallstreetcn.com/livenews/3057287",
           "source": "华尔街见闻-快讯",
@@ -146,6 +160,19 @@
           "time_info": "[02时18分 ~ 08时59分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 20时33分]"
+        },
+        {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
           "url": "https://flash.jin10.com/detail/20260222222304008800",
           "source": "金十数据",
@@ -158,19 +185,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时50分 ~ 19时31分]"
         },
         {
           "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
@@ -219,18 +233,6 @@
           "time_info": "[01时16分 ~ 07时14分]"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时31分]"
-        },
-        {
           "title": "男子持枪闯入特朗普住所被击毙",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
           "source": "百度热搜",
@@ -243,6 +245,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时59分 ~ 15时46分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 20时33分]"
         },
         {
           "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
@@ -267,6 +283,17 @@
           "time_info": "18时38分"
         },
         {
+          "title": "特朗普：最高法在无意间给予了我更多的权力",
+          "url": "https://flash.jin10.com/detail/20260223201801511800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
           "url": "https://flash.jin10.com/detail/20260223062904190800",
           "source": "金十数据",
@@ -278,17 +305,37 @@
           "time_info": "07时14分"
         },
         {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：我们可以利用许可证对外国采取绝对严厉的措施。",
+          "url": "https://flash.jin10.com/detail/20260223200904902800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 19时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "特朗普：我可以用许可证向外国收费。 可以利用许可证对外国采取绝对严厉的措施。",
+          "url": "https://wallstreetcn.com/livenews/3057463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "美国总统特朗普：（谈关税）其他关税“完全可以以一种更具威力且更为蛮横的方式加以使用”。",
+          "url": "https://flash.jin10.com/detail/20260223200733570800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "欲闯特朗普私宅被击毙男子身份曝光",
@@ -424,6 +471,17 @@
           "time_info": "[00时14分 ~ 01时16分]"
         },
         {
+          "title": "美国总统特朗普：（谈关税）美国最高法院“在无意中且未察觉的情况下”赋予总统比裁决前“强大得多的权力”。",
+          "url": "https://flash.jin10.com/detail/20260223200557720800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "特朗普大厦将落地黄金海岸 成为澳大利亚最高建筑之一",
           "url": "https://flash.jin10.com/detail/20260223134320639800",
           "source": "金十数据",
@@ -452,7 +510,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -468,13 +526,24 @@
           "time_info": "08时59分"
         },
         {
+          "title": "特朗普关税被判违法 华尔街投行：哪些美股公司最受益？",
+          "url": "https://www.cls.cn/detail/2292391",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "鉴于特朗普的关税风险，欧盟拟冻结对与美国贸易协议的批准程序",
           "url": "https://flash.jin10.com/detail/20260223184821705800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -496,9 +565,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-23）",
+          "url": "https://flash.jin10.com/detail/20260223194006365800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "金十整理：本周重要事件与数据预告——特朗普国情咨文、美伊局势、英伟达财报",
@@ -536,11 +616,12 @@
             18,
             1,
             5,
-            2
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 20时33分]"
         },
         {
           "title": "有博主说汽车后备箱最怕「米酒、海鲜、菜籽油」洒出来，味道祛除不掉，这是真的吗？",
@@ -584,11 +665,24 @@
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%905600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83+%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时33分]"
+        },
+        {
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时31分]"
+          "time_info": "[19时31分 ~ 20时33分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
@@ -611,17 +705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
-        },
-        {
-          "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         }
       ]
     },
@@ -638,8 +721,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 19时31分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 20时33分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
