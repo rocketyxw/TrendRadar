@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T22:11:35.560227+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-02-23T22:46:23.277607+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -139,11 +139,12 @@
             12,
             9,
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时50分 ~ 22时11分]"
+          "appearance_count": 11,
+          "time_info": "[14时50分 ~ 22时46分]"
         },
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -155,8 +156,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 22时11分]"
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 22时46分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 22时46分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -186,21 +202,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 22时11分]"
         },
         {
           "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
@@ -296,6 +297,28 @@
           "time_info": "20时33分"
         },
         {
+          "title": "市场消息：美国法官永久禁止公布特别检察官关于特朗普涉密文件案的报告。",
+          "url": "https://flash.jin10.com/detail/20260223221216873800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "特朗普计划对高级别工作者进行绩效评级改革。根据拟议规则，工作者无法质疑低评级。新提案同样覆盖科学家及专业工作者。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3057511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
           "url": "https://flash.jin10.com/detail/20260223062904190800",
           "source": "金十数据",
@@ -327,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "特朗普：墨西哥必须加大力度打击贩毒集团和毒品。",
+          "url": "https://wallstreetcn.com/livenews/3057509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美国总统特朗普：（谈关税）其他关税“完全可以以一种更具威力且更为蛮横的方式加以使用”。",
@@ -450,6 +484,30 @@
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://wallstreetcn.com/livenews/3057362",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -484,6 +542,17 @@
           "time_info": "20时33分"
         },
         {
+          "title": "美国总统特朗普：墨西哥必须在打击贩毒集团和毒品方面加大力度。",
+          "url": "https://flash.jin10.com/detail/20260223220846985800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "特朗普大厦将落地黄金海岸 成为澳大利亚最高建筑之一",
           "url": "https://flash.jin10.com/detail/20260223134320639800",
           "source": "金十数据",
@@ -495,15 +564,15 @@
           "time_info": "14时50分"
         },
         {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
+          "title": "市场消息：美国总统特朗普计划对高级别员工的工作评级进行大修。",
+          "url": "https://flash.jin10.com/detail/20260223220756298800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时11分"
+          "time_info": "22时46分"
         },
         {
           "title": "美国总统特朗普：我们赢得太多了，这不公平。",
@@ -548,17 +617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
-        },
-        {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
         },
         {
           "title": "鉴于特朗普的关税风险，欧盟拟冻结对与美国贸易协议的批准程序",
@@ -661,6 +719,19 @@
           "time_info": "[08时59分 ~ 15时46分]"
         },
         {
+          "title": "男子5600元套中汽车使用权 商家反悔",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%905600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83+%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 22时46分]"
+        },
+        {
           "title": "据港交所公告，贝莱德在长城汽车(02333.HK)H股的多头持仓于2月17日从7.68%增至8.22%。",
           "url": "https://flash.jin10.com/detail/20260223173136709800",
           "source": "金十数据",
@@ -685,29 +756,18 @@
           "time_info": "[11时38分 ~ 13时21分]"
         },
         {
-          "title": "男子5600元套中汽车使用权 商家反悔",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%905600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83+%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 22时11分]"
-        },
-        {
           "title": "问界汽车回应惠州车辆起火",
           "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
             28,
             24,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 22时11分]"
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时46分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
