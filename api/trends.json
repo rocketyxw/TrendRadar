@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T06:30:11.293935+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-02-24T07:53:27.929393+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 45,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -27,19 +27,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 06时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
           "url": "https://wallstreetcn.com/articles/3765969",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 06时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -50,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 06时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -63,19 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 06时30分]"
-        },
-        {
-          "title": "美国国会预算办公室主任斯瓦格尔：静待特朗普政府作出决定，一旦获得最新预测数据将及时公布。",
-          "url": "https://flash.jin10.com/detail/20260224061914251800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -98,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "美国国会预算办公室（CBO）主任Swagel：正追踪特朗普政府的关税计划。 一旦掌握情况，将（针对联邦政府赤字问题）提供最新预期。 将静观特朗普政府会做出怎样的决定。",
-          "url": "https://wallstreetcn.com/livenews/3057679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -159,6 +138,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时30分]"
+        },
+        {
+          "title": "美国国会预算办公室主任斯瓦格尔：静待特朗普政府作出决定，一旦获得最新预测数据将及时公布。",
+          "url": "https://flash.jin10.com/detail/20260224061914251800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时53分]"
         },
         {
           "title": "COMEX黄金期货涨3%，欧美主权债价格涨幅扩大，特朗普重燃贸易不确定性，投资者寻求避险",
@@ -222,6 +213,42 @@
           "time_info": "[05时33分 ~ 06时30分]"
         },
         {
+          "title": "美国国会预算办公室（CBO）主任Swagel：正追踪特朗普政府的关税计划。 一旦掌握情况，将（针对联邦政府赤字问题）提供最新预期。 将静观特朗普政府会做出怎样的决定。",
+          "url": "https://wallstreetcn.com/livenews/3057679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时53分]"
+        },
+        {
+          "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260224055403039800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://wallstreetcn.com/livenews/3057674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时53分]"
+        },
+        {
           "title": "据华尔街日报记者：五角大楼向特朗普总统表达了对卷入与伊朗的长期军事行动的担忧，并指出正在考虑的战争计划存在风险，包括美国及其盟国的人员伤亡、防空力量削弱以及军队不堪重负。",
           "url": "https://flash.jin10.com/detail/20260224045821374800",
           "source": "金十数据",
@@ -282,15 +309,26 @@
           "time_info": "[02时06分 ~ 02时45分]"
         },
         {
-          "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
-          "url": "https://flash.jin10.com/detail/20260224055403039800",
-          "source": "金十数据",
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时30分"
+          "time_info": "07时53分"
+        },
+        {
+          "title": "联邦快递起诉美国，在最高法院推翻总统特朗普关税政策之后寻求政府全额退款。",
+          "url": "https://wallstreetcn.com/livenews/3057695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "美国众议院议长约翰逊称：不认为特朗普政府应该退还关税款项。（CNN）",
@@ -304,15 +342,26 @@
           "time_info": "04时31分"
         },
         {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://wallstreetcn.com/livenews/3057674",
+          "title": "美国总统特朗普将于周五访问德克萨斯州Corpus Christi，发表“以能源和经济为主题”的演讲。（MS Now）",
+          "url": "https://wallstreetcn.com/livenews/3057693",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时30分"
+          "time_info": "07时53分"
+        },
+        {
+          "title": "欧盟警告称特朗普的新关税政策违反了贸易协定",
+          "url": "https://flash.jin10.com/detail/20260224065522123800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "欧盟警告称：美国总统特朗普的最新关税政策破坏双边贸易协议。",
@@ -321,9 +370,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "美媒：特朗普政府考虑对六大行业征收新的国家安全关税 涵盖电池、生铁与铁质配件等",
+          "url": "https://flash.jin10.com/detail/20260224065013551800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府正在考虑对六种行业征收新的“国家安全关税”。",
+          "url": "https://flash.jin10.com/detail/20260224064535357800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "报道：特朗普考虑对大约六个行业加征关税",
+          "url": "https://wallstreetcn.com/livenews/3057690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
@@ -354,9 +436,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "美媒：尽管特朗普发文 但并无美国医院船奉命前往格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260224062743419800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "机构：特朗普关税引发不确定性，金价有望再创新高",
@@ -414,6 +507,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "欧盟警告称：特朗普的新关税政策破坏了双方贸易协定",
+          "url": "https://wallstreetcn.com/livenews/3057673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "美国总统特朗普所谓的“和平委员会”研究为加沙发行稳定币。 关于“加沙稳定币”的谈判还处于初级阶段。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3057572",
           "source": "华尔街见闻-快讯",
@@ -423,6 +527,76 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "男子5600元套中汽车使用权 商家反悔",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%905600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83+%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            17,
+            24,
+            25,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 07时53分]"
+        },
+        {
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时30分]"
+        },
+        {
+          "title": "理想汽车加入欧盟中国商会",
+          "url": "https://wallstreetcn.com/livenews/3057702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "周一（2月23日），彭博电动汽车价格回报指数涨0.34%，报3634.40点，北京时间09:30短线显著拉升，23:34开启一波短线下挫行情。",
+          "url": "https://wallstreetcn.com/livenews/3057660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时30分]"
+        },
+        {
+          "title": "沃尔沃将因电池起火隐患而召回4万辆电动汽车。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3057559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     },
@@ -472,64 +646,6 @@
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "男子5600元套中汽车使用权 商家反悔",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%905600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83+%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            17,
-            24,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 06时30分]"
-        },
-        {
-          "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            23,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时30分]"
-        },
-        {
-          "title": "周一（2月23日），彭博电动汽车价格回报指数涨0.34%，报3634.40点，北京时间09:30短线显著拉升，23:34开启一波短线下挫行情。",
-          "url": "https://wallstreetcn.com/livenews/3057660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时30分]"
-        },
-        {
-          "title": "沃尔沃将因电池起火隐患而召回4万辆电动汽车。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3057559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
