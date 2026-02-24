@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T00:52:24.156081+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-25T01:48:09.885442+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时48分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时48分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -37,19 +37,53 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时48分]"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
+          "url": "https://flash.jin10.com/detail/20260225011114735800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "01时48分"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
+          "url": "https://flash.jin10.com/detail/20260225011033725800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
+          "url": "https://wallstreetcn.com/livenews/3058275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
           "url": "https://flash.jin10.com/detail/20260225004034013800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时48分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -59,19 +93,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时48分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时48分]"
         },
         {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
           "url": "https://flash.jin10.com/detail/20260225002755971800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时48分]"
         },
         {
           "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
@@ -102,22 +148,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "飞行汽车来了 一次亮相4款",
+          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时48分]"
+        },
+        {
           "title": "世贸组织：专家组将审查印度对电池和电动汽车的措施。 美国对税收抵免报告提出上诉。",
           "url": "https://wallstreetcn.com/livenews/3058239",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "飞行汽车来了 一次亮相4款",
-          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -138,18 +185,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
+          "url": "https://wallstreetcn.com/livenews/3058274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
           "url": "https://wallstreetcn.com/livenews/3058254",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时48分]"
         }
       ]
     }
