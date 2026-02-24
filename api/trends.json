@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T11:31:22.599641+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-02-24T13:17:04.894824+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -50,11 +50,12 @@
           "ranks": [
             8,
             7,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 11时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 13时17分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -79,8 +80,42 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时31分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时17分]"
+        },
+        {
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普10%全球关税生效",
+          "url": "https://flash.jin10.com/detail/20260224130914633800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "特朗普10%全球关税正式生效，实施15%关税的时间表尚未确定。",
+          "url": "https://wallstreetcn.com/livenews/3057877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -92,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "市场消息：特朗普10%的全球关税生效。",
+          "url": "https://flash.jin10.com/detail/20260224130528485800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "摩根士丹利：美国最高法院对特朗普关税政策的判决结果不至于在短期内改变赤字路径。 特朗普政府可能会挖空心思，从其他方面重新实施关税。 这将让投资者预计短期赤字路径“不至于发生实质性变化”。",
@@ -239,16 +285,16 @@
           "time_info": "[02时06分 ~ 03时49分]"
         },
         {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            5
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时31分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
@@ -275,6 +321,17 @@
           "time_info": "[06时30分 ~ 07时53分]"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时17分]"
+        },
+        {
           "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
           "url": "https://flash.jin10.com/detail/20260224055403039800",
           "source": "金十数据",
@@ -285,18 +342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时31分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -407,17 +452,6 @@
           "time_info": "[02时06分 ~ 02时45分]"
         },
         {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
           "title": "联邦快递起诉美国，在最高法院推翻总统特朗普关税政策之后寻求政府全额退款。",
           "url": "https://wallstreetcn.com/livenews/3057695",
           "source": "华尔街见闻-快讯",
@@ -495,6 +529,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
+          "url": "https://flash.jin10.com/detail/20260224123615325800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "报道：特朗普考虑对大约六个行业加征关税",
           "url": "https://wallstreetcn.com/livenews/3057690",
           "source": "华尔街见闻-快讯",
@@ -523,7 +568,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -663,7 +708,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "男子5600元套中汽车使用权 商家反悔",
@@ -708,6 +753,28 @@
           "time_info": "07时53分"
         },
         {
+          "title": "欧洲汽车制造商协会（ACEA）：欧洲汽车销量1月下降3.5%，至961,382辆。",
+          "url": "https://wallstreetcn.com/livenews/3057876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：大众集团1月欧盟新车注册量下降3.7%、特斯拉下降1.6%、日产下降16%、比亚迪增长175%、斯特兰蒂斯增长9.1%、宝马下降3.3%、梅赛德斯-奔驰增长4%、丰田下降14%、上汽集团下降0.8%。",
+          "url": "https://flash.jin10.com/detail/20260224130244588800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "周一（2月23日），彭博电动汽车价格回报指数涨0.34%，报3634.40点，北京时间09:30短线显著拉升，23:34开启一波短线下挫行情。",
           "url": "https://wallstreetcn.com/livenews/3057660",
           "source": "华尔街见闻-快讯",
@@ -718,6 +785,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时30分]"
+        },
+        {
+          "title": "欧洲汽车制造商协会：1月份电动汽车在欧盟新注册车辆中所占份额为67.7%。",
+          "url": "https://flash.jin10.com/detail/20260224130235977800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：1月份，欧盟、英国和欧洲自由贸易联盟的乘用车注册量同比下降3.5%。",
+          "url": "https://flash.jin10.com/detail/20260224130034848800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：欧盟1月新车注册量下降3.9%，至799,625辆。1月，特斯拉在欧盟、英国和欧洲自由贸易联盟的市场份额降至0.8%，而比亚迪为1.9%；特斯拉纯电动车市场份额为4.3%。",
+          "url": "https://flash.jin10.com/detail/20260224130023406800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "沃尔沃将因电池起火隐患而召回4万辆电动汽车。（路透）",
