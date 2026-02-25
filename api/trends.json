@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T20:33:34.085902+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-02-25T22:15:59.213688+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
@@ -92,6 +92,29 @@
           "time_info": "[00时52分 ~ 07时20分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 22时15分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -112,29 +135,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时45分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 20时33分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 20时33分]"
         },
         {
           "title": "特朗普：伊朗正研制能打到美国的导弹",
@@ -159,6 +159,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时53分 ~ 14时47分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 22时15分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -295,19 +309,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时53分 ~ 15时46分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 20时33分]"
         },
         {
           "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
@@ -662,7 +663,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -739,7 +740,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -882,6 +883,21 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
+          "url": "https://www.cls.cn/detail/2294647",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 22时15分]"
+        },
+        {
           "title": "飞行汽车来了 一次亮相4款",
           "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
           "source": "百度热搜",
@@ -897,21 +913,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时52分 ~ 07时20分]"
-        },
-        {
-          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
-          "url": "https://www.cls.cn/detail/2294647",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时33分]"
         },
         {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
