@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:47:13.282716+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-02-25T15:46:13.552669+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 14时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 15时46分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -53,8 +53,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时47分 ~ 14时47分]"
+          "appearance_count": 17,
+          "time_info": "[01时47分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 15时46分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -80,16 +92,15 @@
           "time_info": "[12时12分 ~ 14时47分]"
         },
         {
-          "title": "特朗普：100%错误",
-          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时47分]"
+          "time_info": "[14时46分 ~ 15时46分]"
         },
         {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
@@ -103,15 +114,15 @@
           "time_info": "[13时53分 ~ 14时47分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时46分 ~ 14时47分]"
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -216,6 +227,30 @@
           "time_info": "[09时02分 ~ 13时53分]"
         },
         {
+          "title": "多数美国人称特朗普愈发反复无常",
+          "url": "https://www.toutiao.com/trending/7609682757731647524/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 15时46分]"
+        },
+        {
           "title": "中方回应特朗普3月31日将访问中国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -289,17 +324,6 @@
           "time_info": "[00时52分 ~ 01时48分]"
         },
         {
-          "title": "多数美国人称特朗普愈发反复无常",
-          "url": "https://www.toutiao.com/trending/7609682757731647524/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 14时47分]"
-        },
-        {
           "title": "白宫：特朗普对伊朗首选方案是外交",
           "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
           "source": "百度热搜",
@@ -311,17 +335,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 14时47分]"
         },
         {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
@@ -393,6 +406,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 02时43分]"
+        },
+        {
+          "title": "美议员称宁愿瞎也不想听特朗普演说",
+          "url": "https://www.toutiao.com/trending/7610278765754794003/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -478,7 +502,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
