@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T22:15:59.213688+08:00",
-  "total_titles_processed": 1851,
+  "generated_at": "2026-02-25T22:52:26.985636+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -80,6 +80,18 @@
           "time_info": "[14时46分 ~ 16时34分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 22时52分]"
+        },
+        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
@@ -90,18 +102,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时52分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 22时15分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -171,8 +171,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 22时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 22时52分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -221,6 +221,17 @@
           "time_info": "19时31分"
         },
         {
+          "title": "墨西哥总统：曾与美国总统特朗普通话，“让其了解针对墨西哥的情况”。",
+          "url": "https://flash.jin10.com/detail/20260225223331337800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "特朗普：首选通过外交手段解决伊朗核问题",
           "url": "https://wallstreetcn.com/livenews/3058565",
           "source": "华尔街见闻-快讯",
@@ -263,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
+          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国总统特朗普：向美国武装部队投入创纪录资金。",
@@ -880,7 +902,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
@@ -894,8 +916,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 22时15分]"
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 22时52分]"
         },
         {
           "title": "飞行汽车来了 一次亮相4款",
@@ -913,6 +935,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时52分 ~ 07时20分]"
+        },
+        {
+          "title": "宝马集团董事长齐普策随德国总理访华：全球紧密协作才能促进汽车产业繁荣共享",
+          "url": "https://wallstreetcn.com/livenews/3058928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
