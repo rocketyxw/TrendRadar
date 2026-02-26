@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T15:43:15.593848+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-02-26T16:32:02.451012+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 16时32分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -63,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 16时32分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -105,6 +105,17 @@
           "time_info": "[02时46分 ~ 05时24分]"
         },
         {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 16时32分]"
+        },
+        {
           "title": "美国多州政府和企业：特朗普，退钱！",
           "url": "https://news.ifeng.com/c/8r3Sel2aFh4",
           "source": "凤凰网",
@@ -114,17 +125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 13时15分]"
-        },
-        {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 15时43分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -185,6 +185,17 @@
           "time_info": "[08时55分 ~ 08时56分]"
         },
         {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
           "url": "https://www.toutiao.com/trending/7611003629566168602/",
           "source": "今日头条",
@@ -194,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普顾问希望以色列先动手打伊朗",
+          "url": "https://www.toutiao.com/trending/7610052654202437668/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "特朗普“赢学演讲”传递何种信号",
@@ -290,6 +312,19 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 16时32分]"
+        },
+        {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
           "url": "https://wallstreetcn.com/livenews/3059014",
           "source": "华尔街见闻-快讯",
@@ -314,18 +349,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时23分]"
-        },
-        {
-          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
-          "url": "https://www.cls.cn/detail/2295271",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 15时43分]"
         },
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
@@ -625,7 +648,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
