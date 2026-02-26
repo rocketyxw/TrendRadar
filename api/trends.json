@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T13:15:15.231786+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-02-26T14:43:58.559726+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时43分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -83,11 +83,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时43分]"
         },
         {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
@@ -206,6 +207,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
           "url": "https://wallstreetcn.com/livenews/3058987",
           "source": "华尔街见闻-快讯",
@@ -234,7 +246,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -270,6 +282,148 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时23分]"
+        },
+        {
+          "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时23分]"
+        },
+        {
+          "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
+          "url": "https://wallstreetcn.com/livenews/3058967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260226141522219800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "马来西亚总理：与Alphabet和谷歌的总裁兼首席投资官Ruth Porat及其团队进行了视频会议。我们讨论了谷歌在马来西亚的20亿美元投资进展。该项目进展顺利，超出了最初的预期。",
+          "url": "https://flash.jin10.com/detail/20260226141504282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
+          "url": "https://flash.jin10.com/detail/20260226020343871800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "谷歌：将扩大在三星电子设备上的通话诈骗检测功能。",
+          "url": "https://flash.jin10.com/detail/20260226020309815800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
+          "url": "https://flash.jin10.com/detail/20260225235511423800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、Meta Platforms(META.O)、微软(MSFT.O)、xAI、甲骨文(ORCL.N)和OpenAI将签署协议，为人工智能数据中心建设自己的电力供应。",
+          "url": "https://flash.jin10.com/detail/20260226015415624800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "消息人士：在欧盟提出反垄断指控后，谷歌(GOOG.O)将测试搜索引擎结果的调整。新提案将提升搜索结果中竞争对手的曝光度。新提案即将在欧洲推出，最初将适用于住宿搜索。",
+          "url": "https://flash.jin10.com/detail/20260226015315151800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、甲骨文(ORCL.N)将签署数据中心协议。",
+          "url": "https://flash.jin10.com/detail/20260226014721010800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
@@ -402,115 +556,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3059014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时46分 ~ 04时23分]"
-        },
-        {
-          "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3059009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时46分 ~ 04时23分]"
-        },
-        {
-          "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
-          "url": "https://wallstreetcn.com/livenews/3058967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
-          "url": "https://flash.jin10.com/detail/20260226020343871800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "谷歌：将扩大在三星电子设备上的通话诈骗检测功能。",
-          "url": "https://flash.jin10.com/detail/20260226020309815800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
-          "url": "https://flash.jin10.com/detail/20260225235511423800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、Meta Platforms(META.O)、微软(MSFT.O)、xAI、甲骨文(ORCL.N)和OpenAI将签署协议，为人工智能数据中心建设自己的电力供应。",
-          "url": "https://flash.jin10.com/detail/20260226015415624800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "消息人士：在欧盟提出反垄断指控后，谷歌(GOOG.O)将测试搜索引擎结果的调整。新提案将提升搜索结果中竞争对手的曝光度。新提案即将在欧洲推出，最初将适用于住宿搜索。",
-          "url": "https://flash.jin10.com/detail/20260226015315151800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、甲骨文(ORCL.N)将签署数据中心协议。",
-          "url": "https://flash.jin10.com/detail/20260226014721010800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
       "match_count": 6,
       "titles": [
@@ -521,11 +566,12 @@
           "ranks": [
             11,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 14时43分]"
         },
         {
           "title": "小汽车翻入沟渠 一家6口砸车窗救人",
@@ -567,7 +613,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
