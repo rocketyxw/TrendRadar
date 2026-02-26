@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T11:27:39.876436+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-02-26T13:15:15.231786+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 11时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 13时15分]"
         },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时19分]"
+        },
+        {
+          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
+          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时15分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -67,15 +78,16 @@
           "time_info": "[03时43分 ~ 05时24分]"
         },
         {
-          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
-          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
-          "source": "凤凰网",
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
           "ranks": [
-            4
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
@@ -90,6 +102,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时46分 ~ 05时24分]"
+        },
+        {
+          "title": "美国多州政府和企业：特朗普，退钱！",
+          "url": "https://news.ifeng.com/c/8r3Sel2aFh4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时15分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -150,26 +173,26 @@
           "time_info": "[08时55分 ~ 08时56分]"
         },
         {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
+          "title": "特朗普把国情咨文演讲开成吹牛大会",
+          "url": "https://www.toutiao.com/trending/7611003629566168602/",
+          "source": "今日头条",
           "ranks": [
-            7
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
-          "title": "美国多州政府和企业：特朗普，退钱！",
-          "url": "https://news.ifeng.com/c/8r3Sel2aFh4",
-          "source": "凤凰网",
+          "title": "特朗普“赢学演讲”传递何种信号",
+          "url": "https://www.toutiao.com/trending/7611002490305121819/",
+          "source": "今日头条",
           "ranks": [
-            7
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "市场消息：特朗普目前正在与泽连斯基通电话。",
@@ -203,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
+          "url": "https://wallstreetcn.com/livenews/3059242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "国际货币基金组织（IMF）：美国（总统特朗普挑起的）关税风险造成动荡。",
@@ -328,7 +362,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -339,7 +373,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -350,7 +384,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -478,8 +512,21 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "丰田汽车最新财报净利润暴跌 43%，CFO 近健太接任社长，此次人事变动是出于哪些考量？",
+          "url": "https://www.zhihu.com/question/2009187744631497288",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 13时15分]"
+        },
         {
           "title": "小汽车翻入沟渠 一家6口砸车窗救人",
           "url": "https://www.toutiao.com/trending/7610693729093124146/",
@@ -498,21 +545,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
-        },
-        {
-          "title": "丰田汽车最新财报净利润暴跌 43%，CFO 近健太接任社长，此次人事变动是出于哪些考量？",
-          "url": "https://www.zhihu.com/question/2009187744631497288",
-          "source": "知乎",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时27分]"
         },
         {
           "title": "周三（2月25日），彭博电动汽车价格回报指数涨1.77%，报3758.97点，亚太早盘持续上涨，北京时间10:00以来持续高位震荡。",
@@ -524,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "丰田：1月份母公司全球汽车产量同比下降6.0%，至735,097辆。1月份日本本土仅面向本国市场的汽车产量同比下降6.1%，至249,827辆。",
+          "url": "https://flash.jin10.com/detail/20260226123035777800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "美国电动汽车公司Rivian(RIVN.O)与CrunchLabs宣布达成独家合作伙伴关系。",
