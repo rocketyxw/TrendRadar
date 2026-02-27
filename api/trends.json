@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:31:54.986652+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2026-02-27T23:28:25.583643+08:00",
+  "total_titles_processed": 2084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -72,8 +72,22 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时29分 ~ 23时28分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9,
+            14,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时29分 ~ 22时31分]"
+          "time_info": "[16时27分 ~ 23时28分]"
         },
         {
           "title": "胡锡进：特朗普将自己置于矛盾境地",
@@ -88,18 +102,15 @@
           "time_info": "[21时50分 ~ 22时31分]"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
+          "title": "特朗普媒体科技集团考虑将“Truth Social”分拆出来",
+          "url": "https://flash.jin10.com/detail/20260227231735776800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            9,
-            14,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 22时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -119,18 +130,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "特朗普政府周五面临首个重大关税退税法定期限",
-          "url": "https://wallstreetcn.com/livenews/3060363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -234,15 +234,28 @@
           "time_info": "[06时21分 ~ 07时19分]"
         },
         {
+          "title": "特朗普政府周五面临首个重大关税退税法定期限",
+          "url": "https://wallstreetcn.com/livenews/3060363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时28分]"
+        },
+        {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时31分]"
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时28分]"
         },
         {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
@@ -318,7 +331,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -428,7 +441,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -513,7 +526,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "硅谷“最贵华人”被OpenAI挖走",
@@ -609,6 +622,18 @@
           "time_info": "[21时51分 ~ 22时31分]"
         },
         {
+          "title": "据华尔街日报报道，Sam Altman（OpenAI的CEO）与美国国防部合作，研究模型是否可用。 但双方尚未签署任何协议。 Altman呼吁五角大楼与Anthropic缓和争端。",
+          "url": "https://wallstreetcn.com/livenews/3060358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时28分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
           "source": "金十数据",
@@ -619,6 +644,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时23分]"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时28分]"
         },
         {
           "title": "OpenAI：承诺消耗约2吉瓦的训练算力。",
@@ -643,6 +679,17 @@
           "time_info": "21时51分"
         },
         {
+          "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
+          "url": "https://wallstreetcn.com/livenews/3060380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "OpenAI：Trinium4预计将于2027年开始交付。",
           "url": "https://flash.jin10.com/detail/20260227213537292800",
           "source": "金十数据",
@@ -652,17 +699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
-        },
-        {
-          "title": "据华尔街日报报道，Sam Altman（OpenAI的CEO）与美国国防部合作，研究模型是否可用。 但双方尚未签署任何协议。 Altman呼吁五角大楼与Anthropic缓和争端。",
-          "url": "https://wallstreetcn.com/livenews/3060358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
         },
         {
           "title": "微软(MSFT.O)：新融资不会改变与OpenAI的关系。",
@@ -704,7 +740,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -726,7 +762,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -770,7 +806,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -792,7 +828,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -836,7 +872,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -847,7 +883,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -869,7 +905,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -907,24 +943,13 @@
           "time_info": "21时51分"
         },
         {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：希望与亚马逊(AMZN.O)建立长期、深入的合作关系。",
           "url": "https://flash.jin10.com/detail/20260227215545958800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -935,7 +960,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         }
@@ -1122,7 +1147,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -1253,6 +1278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "新能源汽车开征“里程税”？多地回应",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E2%80%9C%E9%87%8C%E7%A8%8B%E7%A8%8E%E2%80%9D%EF%BC%9F%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "雷军谈小米汽车电池工厂：希望将先进电池制造能力复制给整个产业链",
