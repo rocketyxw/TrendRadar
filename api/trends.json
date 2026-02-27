@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T07:19:11.264783+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-02-27T08:57:49.898379+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 08时57分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 08时57分]"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -174,7 +175,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -245,6 +246,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "美媒：特朗普政府加紧制定策略 谋划保留关税收入",
           "url": "https://flash.jin10.com/detail/20260227010102008800",
           "source": "金十数据",
@@ -265,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "特朗普周四听取了有关伊朗军事选项的简报。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3059856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "特朗普威胁驱逐教父饰演者",
@@ -292,7 +315,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
@@ -341,6 +364,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时23分]"
+        },
+        {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
@@ -401,8 +435,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
@@ -433,9 +478,38 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
+          "url": "https://www.cls.cn/detail/2296081",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 07时19分]"
+        },
+        {
+          "title": "全球汽车销量前10出炉 中国3家上榜",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E5%87%BA%E7%82%89+%E4%B8%AD%E5%9B%BD3%E5%AE%B6%E4%B8%8A%E6%A6%9C",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
@@ -454,24 +528,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
-          "url": "https://www.cls.cn/detail/2296081",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时19分]"
         }
       ]
     }
