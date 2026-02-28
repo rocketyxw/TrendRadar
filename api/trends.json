@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T18:02:25.655519+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-02-28T19:02:25.873150+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 132,
+      "match_count": 133,
       "titles": [
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时04分 ~ 18时02分]"
+          "appearance_count": 11,
+          "time_info": "[11时04分 ~ 19时02分]"
         },
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时50分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时50分 ~ 19时02分]"
         },
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时50分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时50分 ~ 19时02分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -83,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时50分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时50分 ~ 19时02分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -98,6 +98,18 @@
           "time_info": "[00时25分 ~ 07时14分]"
         },
         {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 19时02分]"
+        },
+        {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
           "source": "澎湃新闻",
@@ -108,18 +120,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 06时12分]"
-        },
-        {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时24分 ~ 18时02分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -150,7 +150,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -182,11 +182,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://www.douyin.com/hot/2414412",
+          "source": "抖音",
+          "ranks": [
+            2,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 19时02分]"
         },
         {
           "title": "特朗普：尚未就对伊动武作最终决定",
@@ -231,18 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        },
-        {
-          "title": "特朗普宣布打击伊朗",
-          "url": "https://www.douyin.com/hot/2414412",
-          "source": "抖音",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时02分]"
         },
         {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
@@ -476,6 +478,20 @@
           "time_info": "[07时14分 ~ 08时50分]"
         },
         {
+          "title": "特朗普称美军对伊朗进行军事打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 19时02分]"
+        },
+        {
           "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
           "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
           "source": "凤凰网",
@@ -512,19 +528,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时17分]"
-        },
-        {
-          "title": "特朗普称美军对伊朗进行军事打击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时02分]"
         },
         {
           "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
@@ -697,6 +700,18 @@
           "time_info": "[07时14分 ~ 08时50分]"
         },
         {
+          "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
+          "url": "https://www.zhihu.com/question/2011106976499724764",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "美国总统特朗普谈及得州水危机，称：我们将处理这个问题。",
           "url": "https://wallstreetcn.com/livenews/3060558",
           "source": "华尔街见闻-快讯",
@@ -815,6 +830,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时17分]"
+        },
+        {
+          "title": "特朗普：等行动结束接管伊朗政府",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%AD%89%E8%A1%8C%E5%8A%A8%E7%BB%93%E6%9D%9F%E6%8E%A5%E7%AE%A1%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普表示将彻底摧毁伊朗海军",
@@ -1045,7 +1072,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1136,17 +1163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
-        },
-        {
-          "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
-          "url": "https://www.zhihu.com/question/2011106976499724764",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "美国总统特朗普：（谈卢特尼克和爱泼斯坦调查）他会做他想做的任何事。",
@@ -1281,17 +1297,6 @@
           "time_info": "16时14分"
         },
         {
-          "title": "特朗普：等行动结束接管伊朗政府",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%AD%89%E8%A1%8C%E5%8A%A8%E7%BB%93%E6%9D%9F%E6%8E%A5%E7%AE%A1%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
           "url": "https://flash.jin10.com/detail/20260228022930909800",
           "source": "金十数据",
@@ -1323,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国总统特朗普预计将于当地时间周六上午再次向全国发表讲话。（AXIOS)",
+          "url": "https://wallstreetcn.com/livenews/3060783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：我们将摧毁伊朗的导弹，并把他们的导弹产业“夷为平地”。",
@@ -1386,7 +1402,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1537,7 +1553,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -1552,8 +1568,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时17分 ~ 18时02分]"
+          "appearance_count": 17,
+          "time_info": "[05时17分 ~ 19时02分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1590,11 +1606,12 @@
             16,
             13,
             18,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 19时02分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -1746,6 +1763,17 @@
           "time_info": "08时50分"
         },
         {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
           "url": "https://wallstreetcn.com/livenews/3060380",
           "source": "华尔街见闻-快讯",
@@ -1819,8 +1847,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时50分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时50分 ~ 19时02分]"
         },
         {
           "title": "手机集体涨价后 汽车会是下一个吗",
@@ -1944,7 +1972,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
