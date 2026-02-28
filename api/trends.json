@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T15:18:08.004812+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-02-28T16:14:59.899222+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 119,
       "titles": [
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时50分 ~ 16时14分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -25,22 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 15时18分]"
-        },
-        {
-          "title": "特朗普扬言：美国或“友好接管”古巴",
-          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
-          "source": "凤凰网",
-          "ranks": [
+            2,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 16时14分]"
         },
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -52,8 +43,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时50分 ~ 16时14分]"
+        },
+        {
+          "title": "特朗普扬言：美国或“友好接管”古巴",
+          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 15时18分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -81,6 +83,20 @@
           "time_info": "[00时25分 ~ 07时14分]"
         },
         {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时50分 ~ 16时14分]"
+        },
+        {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
           "source": "澎湃新闻",
@@ -93,17 +109,15 @@
           "time_info": "[00时25分 ~ 06时12分]"
         },
         {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            12,
-            11
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 15时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -128,6 +142,18 @@
           "time_info": "00时25分"
         },
         {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 16时14分]"
+        },
+        {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
           "url": "https://flash.jin10.com/detail/20260228011403179800",
           "source": "金十数据",
@@ -137,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://www.douyin.com/hot/2414412",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
@@ -233,16 +270,16 @@
           "time_info": "[11时04分 ~ 14时21分]"
         },
         {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
+          "title": "“特朗普的安全芭比”，危险了",
+          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            13
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时24分 ~ 15时18分]"
+          "time_info": "[14时20分 ~ 16时14分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：得达成有意义的协议才行。",
@@ -412,17 +449,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 08时50分]"
-        },
-        {
-          "title": "“特朗普的安全芭比”，危险了",
-          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 15时18分]"
         },
         {
           "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
@@ -752,6 +778,17 @@
           "time_info": "08时50分"
         },
         {
+          "title": "特朗普就袭击伊朗发声",
+          "url": "https://news.ifeng.com/c/8r77KSKCykg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "据华尔街日报：美国共和党人敦促特朗普叫停英国在迪戈加西亚岛建设军事基地的计划。",
           "url": "https://flash.jin10.com/detail/20260228032207190800",
           "source": "金十数据",
@@ -840,6 +877,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "特朗普称美军对伊朗进行军事打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国总统特朗普：国务卿鲁比奥正“在非常高的层面”处理古巴问题。",
           "url": "https://flash.jin10.com/detail/20260228020403832800",
           "source": "金十数据",
@@ -860,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国总统特朗普：（对伊斯兰革命卫队表示）你们应该放下武器。你们将获得公正对待和完全豁免，否则你们将面临“必死无疑”的结局。",
+          "url": "https://flash.jin10.com/detail/20260228155141610800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美国总统特朗普：联邦住房金融局（FHFA）局长Bill Pulte是一个金融“天才”。",
@@ -939,6 +998,28 @@
           "time_info": "07时14分"
         },
         {
+          "title": "美国总统特朗普表示，此次对伊朗打击将使美方出现人员伤亡。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3060682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗政权支持恐怖主义，压迫其人民。",
+          "url": "https://flash.jin10.com/detail/20260228154551293800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "特朗普媒体在2025年合并净亏损7.123亿美元。 期内调整后EBITDA亏损6.644亿美元。 期末金融资产规模25亿美元。",
           "url": "https://wallstreetcn.com/livenews/3060532",
           "source": "华尔街见闻-快讯",
@@ -959,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普呼吁伊朗政权更迭。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3060680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美国总统特朗普：（谈卢特尼克和爱泼斯坦调查）他会做他想做的任何事。",
@@ -1016,6 +1108,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美国总统特朗普：美国人可能遭受损失，我们可能会有人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260228153829528800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国总统特朗普称，周五预计将举行更多伊朗相关谈判。（路透）",
           "url": "https://wallstreetcn.com/livenews/3060450",
           "source": "华尔街见闻-快讯",
@@ -1049,6 +1152,28 @@
           "time_info": "08时50分"
         },
         {
+          "title": "美国总统特朗普：美国已采取一切可能的措施，以最大程度降低驻该地区美军人员的风险。",
+          "url": "https://flash.jin10.com/detail/20260228153814038800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "美国总统特朗普：我们将彻底摧毁伊朗的海军。",
+          "url": "https://flash.jin10.com/detail/20260228153808526800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
           "url": "https://flash.jin10.com/detail/20260228022930909800",
           "source": "金十数据",
@@ -1058,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们将确保伊朗不会获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260228153726543800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美国总统特朗普：（谈及与爱泼斯坦案件相关的文件，宣称）我已经被证明无罪。",
@@ -1071,6 +1207,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美国总统特朗普：我们将摧毁伊朗的导弹，并把他们的导弹产业“夷为平地”。",
+          "url": "https://flash.jin10.com/detail/20260228153720603800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国总统特朗普：尚未就伊朗问题做决定。 对他们的谈判方式不满意。 他们正在与我们对话。 伊朗不能拥有核武器。 伊朗并没有说出那句关键的话——不发展核武器。",
           "url": "https://wallstreetcn.com/livenews/3060445",
           "source": "华尔街见闻-快讯",
@@ -1082,6 +1229,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美国总统特朗普：我们的目标是通过消除伊朗政权的迫切威胁来保护美国民众。",
+          "url": "https://flash.jin10.com/detail/20260228153644862800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国总统特朗普：或许我们会友好地接管古巴。",
           "url": "https://wallstreetcn.com/livenews/3060444",
           "source": "华尔街见闻-快讯",
@@ -1091,6 +1249,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "特朗普称伊朗正在研制威胁美国的远程导弹",
+          "url": "https://wallstreetcn.com/livenews/3060672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "特朗普：不想打 但有时候不得不打",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%83%B3%E6%89%93+%E4%BD%86%E6%9C%89%E6%97%B6%E5%80%99%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "特朗普透露美伊将继续谈判 并警告“有时候不得不打”",
@@ -1115,6 +1295,28 @@
           "time_info": "03时25分"
         },
         {
+          "title": "美国总统特朗普：伊朗正在研发威胁美国及其他国家的远程导弹。",
+          "url": "https://flash.jin10.com/detail/20260228153639209800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗试图重建其核计划。",
+          "url": "https://flash.jin10.com/detail/20260228153617484800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国总统特朗普：（对购房者）再等等，你们会得到一个非常低的利率。",
           "url": "https://flash.jin10.com/detail/20260228014328865800",
           "source": "金十数据",
@@ -1126,6 +1328,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美国总统特朗普：伊朗永远不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260228153519303800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国总统特朗普：（对购房者）省点钱，再等一等。",
           "url": "https://flash.jin10.com/detail/20260228014313723800",
           "source": "金十数据",
@@ -1135,6 +1348,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国总统特朗普：不久前，美国在伊朗发动了重大作战行动。",
+          "url": "https://flash.jin10.com/detail/20260228153204357800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "美国总统特朗普称，美军已经开始对伊朗进行军事打击。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3060668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美国总统特朗普：伊朗最好聪明点，达成协议。",
@@ -1166,8 +1401,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时17分 ~ 15时18分]"
+          "appearance_count": 14,
+          "time_info": "[05时17分 ~ 16时14分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1180,8 +1415,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时24分 ~ 15时18分]"
+          "appearance_count": 19,
+          "time_info": "[01时24分 ~ 16时14分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1205,6 +1440,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 16时14分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -1296,18 +1544,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时45分 ~ 14时21分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 15时18分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -1413,8 +1649,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时50分 ~ 16时14分]"
+        },
+        {
+          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            13,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时50分 ~ 16时14分]"
         },
         {
           "title": "手机集体涨价后 汽车会是下一个吗",
@@ -1427,20 +1678,6 @@
             13,
             10,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 15时18分]"
-        },
-        {
-          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 8,
