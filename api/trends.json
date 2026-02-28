@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:21:15.482652+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-02-28T15:18:08.004812+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 15时18分]"
+        },
+        {
+          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297916",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 15时18分]"
+        },
+        {
+          "title": "特朗普扬言：美国或“友好接管”古巴",
+          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 15时18分]"
+        },
+        {
+          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
+          "url": "https://wallstreetcn.com/articles/3766396",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 15时18分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -45,42 +81,6 @@
           "time_info": "[00时25分 ~ 07时14分]"
         },
         {
-          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297916",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 14时21分]"
-        },
-        {
-          "title": "特朗普扬言：美国或“友好接管”古巴",
-          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 14时21分]"
-        },
-        {
-          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
-          "url": "https://wallstreetcn.com/articles/3766396",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 14时21分]"
-        },
-        {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
           "source": "澎湃新闻",
@@ -91,6 +91,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 06时12分]"
+        },
+        {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 15时18分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -113,18 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 14时21分]"
         },
         {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
@@ -199,7 +200,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -230,6 +231,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时04分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：得达成有意义的协议才行。",
@@ -401,6 +414,17 @@
           "time_info": "[07时14分 ~ 08时50分]"
         },
         {
+          "title": "“特朗普的安全芭比”，危险了",
+          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 15时18分]"
+        },
+        {
           "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
           "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
           "source": "凤凰网",
@@ -450,17 +474,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时17分]"
-        },
-        {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时21分]"
         },
         {
           "title": "意大利总理不赞同特朗普对欧征关税，呼吁欧盟与美国建立自由贸易区",
@@ -606,17 +619,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 08时50分]"
-        },
-        {
-          "title": "“特朗普的安全芭比”，危险了",
-          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "美国总统特朗普谈及得州水危机，称：我们将处理这个问题。",
@@ -833,7 +835,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1164,8 +1166,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时17分 ~ 14时21分]"
+          "appearance_count": 13,
+          "time_info": "[05时17分 ~ 15时18分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1178,8 +1180,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时24分 ~ 14时21分]"
+          "appearance_count": 18,
+          "time_info": "[01时24分 ~ 15时18分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1296,6 +1298,18 @@
           "time_info": "[12时45分 ~ 14时21分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 15时18分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
           "url": "https://wallstreetcn.com/livenews/3060587",
           "source": "华尔街见闻-快讯",
@@ -1307,17 +1321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时45分 ~ 14时21分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -1338,7 +1341,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1410,8 +1413,51 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 15时18分]"
+        },
+        {
+          "title": "手机集体涨价后 汽车会是下一个吗",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7,
+            9,
+            13,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 15时18分]"
+        },
+        {
+          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 15时18分]"
+        },
+        {
+          "title": "小米展示新一代SU7汽车机械门把手",
+          "url": "https://www.toutiao.com/trending/7611078565454695942/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 15时18分]"
         },
         {
           "title": "小米汽车或将推出超跑车型",
@@ -1426,55 +1472,15 @@
           "time_info": "[12时45分 ~ 14时21分]"
         },
         {
-          "title": "手机集体涨价后 汽车会是下一个吗",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7,
-            9,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 14时21分]"
-        },
-        {
-          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 14时21分]"
-        },
-        {
           "title": "2月汽车经销商库存预警指数同环比均下降",
           "url": "https://wallstreetcn.com/livenews/3060608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
-        },
-        {
-          "title": "小米展示新一代SU7汽车机械门把手",
-          "url": "https://www.toutiao.com/trending/7611078565454695942/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时21分]"
         },
         {
           "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
@@ -1538,6 +1544,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "deepseek崩了",
+          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         }
       ]
     },
