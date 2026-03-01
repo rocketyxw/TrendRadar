@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T20:21:05.531277+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2026-03-01T21:32:40.196655+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时10分 ~ 20时21分]"
+          "appearance_count": 14,
+          "time_info": "[12时10分 ~ 21时32分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时10分 ~ 20时21分]"
+          "appearance_count": 14,
+          "time_info": "[12时10分 ~ 21时32分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -70,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时10分 ~ 20时21分]"
+          "appearance_count": 14,
+          "time_info": "[12时10分 ~ 21时32分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -314,6 +314,18 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时10分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
           "url": "https://www.zhihu.com/question/2011109082719859902",
           "source": "知乎",
@@ -387,17 +399,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时10分 ~ 20时21分]"
         },
         {
           "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
@@ -902,6 +903,17 @@
           "time_info": "12时11分"
         },
         {
+          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
+          "url": "https://flash.jin10.com/detail/20260301201929437800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "卡塔尔国家媒体：卡塔尔埃米尔接到美国总统特朗普的电话。",
           "url": "https://flash.jin10.com/detail/20260301050014158800",
           "source": "金十数据",
@@ -919,7 +931,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -971,7 +983,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -1089,7 +1101,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1111,7 +1123,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1144,9 +1156,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "汽车着火变“火车”拖尾前行",
+          "url": "https://www.toutiao.com/trending/7611384887648911402/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "零跑汽车：2月交付量为28067台。",
@@ -1193,8 +1216,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 20时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时02分 ~ 21时32分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
