@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:32:40.196655+08:00",
-  "total_titles_processed": 1755,
+  "generated_at": "2026-03-01T22:14:19.770169+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时10分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时10分 ~ 22时14分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时10分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时10分 ~ 22时14分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -67,11 +67,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时10分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时10分 ~ 22时14分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -142,6 +143,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时10分 ~ 22时14分]"
         },
         {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
@@ -312,18 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时10分 ~ 21时32分]"
         },
         {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
@@ -909,7 +911,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1167,7 +1169,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1213,11 +1215,12 @@
             8,
             12,
             14,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时02分 ~ 21时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时02分 ~ 22时14分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
