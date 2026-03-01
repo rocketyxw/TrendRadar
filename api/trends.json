@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T18:13:26.638741+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-03-01T19:11:09.008627+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 82,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 18时13分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时11分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 18时13分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时11分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -60,6 +60,18 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时02分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时11分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -85,18 +97,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时01分 ~ 09时04分]"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 18时13分]"
         },
         {
           "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
@@ -526,6 +526,17 @@
           "time_info": "[06时10分 ~ 07时02分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
+        },
+        {
           "title": "白宫发照片：特朗普监控美对伊朗行动",
           "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%8F%91%E7%85%A7%E7%89%87%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%91%E6%8E%A7%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -948,6 +959,175 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "多地辟谣新能源汽车开征“里程税”",
+          "url": "https://www.toutiao.com/trending/7611466049162919955/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时04分]"
+        },
+        {
+          "title": "多地辟谣新能源汽车开征里程税",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E9%87%8C%E7%A8%8B%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时04分]"
+        },
+        {
+          "title": "长城汽车2月海外销售42,675台，1-2月累计销售82,953台。 2月新能源车销售12,744台，1-2月累计销售30,773台。",
+          "url": "https://wallstreetcn.com/livenews/3061140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "上汽集团：2月整车合计销量269,465辆，同比下降8.64%；其中新能源汽车71,340辆，同比下降17.18%。",
+          "url": "https://wallstreetcn.com/livenews/3061119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时11分]"
+        },
+        {
+          "title": "长城汽车：2月新能源车销售12,744台，1-2月累计销售30,773台。",
+          "url": "https://wallstreetcn.com/livenews/3061092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时13分]"
+        },
+        {
+          "title": "小鹏汽车：2月交付15,256辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3061081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时17分]"
+        },
+        {
+          "title": "理想汽车：2026年2月交付26,421辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3061048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时31分]"
+        },
+        {
+          "title": "北汽蓝谷：北京新能源汽车股份有限公司2026年2月销量7364辆，同比增长18.26%。",
+          "url": "https://wallstreetcn.com/livenews/3061121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
+          "title": "小米汽车：2月，小米汽车交付量超过20000台。 同时，我们正在为新一代SU7大规模量产做准备。",
+          "url": "https://wallstreetcn.com/livenews/3061022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "蔚来汽车2月份交付20,797辆汽车，同比增长57.6%。 2026年迄今交付47,979辆，同比增长77.3%。 截至2026年2月28日，本公司累计交付量达1,045,571辆。",
+          "url": "https://wallstreetcn.com/livenews/3061132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "小鹏汽车(09868.HK)：2月交付15,256辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260301144537594800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "吉利汽车2月汽车销量206160辆。 2月纯电动汽车销量67832辆。 2月插电式混动汽车销量49656辆。",
+          "url": "https://wallstreetcn.com/livenews/3061129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "零跑汽车：2月交付量为28067台。",
+          "url": "https://wallstreetcn.com/livenews/3061034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "2026年2月，小米汽车交付量超过20000台。",
+          "url": "https://flash.jin10.com/detail/20260301080841728800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 13,
       "titles": [
@@ -968,8 +1148,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 18时13分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 19时11分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -1103,140 +1283,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "多地辟谣新能源汽车开征“里程税”",
-          "url": "https://www.toutiao.com/trending/7611466049162919955/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时04分]"
-        },
-        {
-          "title": "多地辟谣新能源汽车开征里程税",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E9%87%8C%E7%A8%8B%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时04分]"
-        },
-        {
-          "title": "上汽集团：2月整车合计销量269,465辆，同比下降8.64%；其中新能源汽车71,340辆，同比下降17.18%。",
-          "url": "https://wallstreetcn.com/livenews/3061119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时13分]"
-        },
-        {
-          "title": "长城汽车：2月新能源车销售12,744台，1-2月累计销售30,773台。",
-          "url": "https://wallstreetcn.com/livenews/3061092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时13分]"
-        },
-        {
-          "title": "小鹏汽车：2月交付15,256辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3061081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时17分]"
-        },
-        {
-          "title": "理想汽车：2026年2月交付26,421辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3061048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时31分]"
-        },
-        {
-          "title": "北汽蓝谷：北京新能源汽车股份有限公司2026年2月销量7364辆，同比增长18.26%。",
-          "url": "https://wallstreetcn.com/livenews/3061121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "小米汽车：2月，小米汽车交付量超过20000台。 同时，我们正在为新一代SU7大规模量产做准备。",
-          "url": "https://wallstreetcn.com/livenews/3061022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "小鹏汽车(09868.HK)：2月交付15,256辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260301144537594800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "零跑汽车：2月交付量为28067台。",
-          "url": "https://wallstreetcn.com/livenews/3061034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "2026年2月，小米汽车交付量超过20000台。",
-          "url": "https://flash.jin10.com/detail/20260301080841728800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
         }
       ]
     }
