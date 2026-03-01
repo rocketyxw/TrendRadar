@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T15:25:36.901085+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-03-01T16:16:59.226645+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 09时04分]"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 16时16分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -34,16 +46,18 @@
           "time_info": "[00时02分 ~ 15时25分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            9,
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 16时16分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -71,20 +85,6 @@
           "time_info": "[07时01分 ~ 09时04分]"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 15时25分]"
-        },
-        {
           "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%B7%B2%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
@@ -105,6 +105,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 16时16分]"
         },
         {
           "title": "特朗普称哈梅内伊“已死”",
@@ -175,18 +187,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时10分 ~ 05时10分]"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 15时25分]"
         },
         {
           "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
@@ -400,6 +400,19 @@
           "time_info": "[03时12分 ~ 06时10分]"
         },
         {
+          "title": "特朗普：若伊朗发动猛烈行动 美将以“前所未见的强大力量”回击",
+          "url": "https://wallstreetcn.com/livenews/3061070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时16分]"
+        },
+        {
           "title": "特朗普监控伊朗行动照片曝光",
           "url": "https://www.toutiao.com/trending/7611449201683353107/",
           "source": "今日头条",
@@ -461,18 +474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普：若伊朗发动猛烈行动 美将以“前所未见的强大力量”回击",
-          "url": "https://wallstreetcn.com/livenews/3061070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时25分]"
         },
         {
           "title": "俄罗斯驻联合国大使：美国总统特朗普称袭击伊朗旨在阻止伊朗获得核武器的说法毫无根据。",
@@ -602,6 +603,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美媒称特朗普政府“暂停”对台军售",
+          "url": "https://www.toutiao.com/trending/7611080988840280107/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美广播机构称正向伊朗境内播放特朗普呼吁政权更迭的内容",
           "url": "https://wallstreetcn.com/livenews/3060912",
           "source": "华尔街见闻-快讯",
@@ -707,7 +719,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -806,7 +818,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -950,11 +962,12 @@
             9,
             8,
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 15时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 16时16分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -1093,7 +1106,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -1135,11 +1148,23 @@
           "url": "https://wallstreetcn.com/livenews/3061081",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时16分]"
+        },
+        {
+          "title": "长城汽车：2月新能源车销售12,744台，1-2月累计销售30,773台。",
+          "url": "https://wallstreetcn.com/livenews/3061092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "16时16分"
         },
         {
           "title": "小米汽车：2月，小米汽车交付量超过20000台。 同时，我们正在为新一代SU7大规模量产做准备。",
@@ -1159,7 +1184,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
