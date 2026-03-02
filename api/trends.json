@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-02T08:57:40.209262+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-03-02T11:26:53.213595+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
           "url": "https://wallstreetcn.com/articles/3766454",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 11时26分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -102,6 +103,29 @@
           "time_info": "[06时11分 ~ 07时13分]"
         },
         {
+          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
+          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 11时26分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
           "url": "https://flash.jin10.com/detail/20260301234818748800",
           "source": "金十数据",
@@ -113,17 +137,6 @@
           "time_info": "00时14分"
         },
         {
-          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
-          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
           "title": "美国总统特朗普：（谈伊朗行动）我们一口气干掉了48个领导人，而且进展迅速。",
           "url": "https://flash.jin10.com/detail/20260301234546415800",
           "source": "金十数据",
@@ -133,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "据ABC新闻：特朗普在谈及哈梅内伊之死时表示，我赶在他干掉我之前先干掉了他。他们试了两次。嗯，我先得手了。",
+          "url": "https://flash.jin10.com/detail/20260302110855426800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，对伊朗的军事行动“进度超前”。",
@@ -171,6 +195,18 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
+          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
+          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时11分 ~ 11时26分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普已乘坐空军一号离开棕榈滩，前往白宫，预计将于当地时间下午6点45分（北京时间周一早上7点45分）抵达。",
           "url": "https://flash.jin10.com/detail/20260302053518222800",
           "source": "金十数据",
@@ -207,17 +243,6 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
-          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
-          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时11分 ~ 08时57分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -242,6 +267,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 11时26分]"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普表示，美国清楚目前还剩下多少目标需要打击。",
@@ -288,6 +325,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "美国总统特朗普：拥有远程导弹和核武器的伊朗政权将对每一个美国人构成严重威胁。",
           "url": "https://flash.jin10.com/detail/20260302051405670800",
           "source": "金十数据",
@@ -297,17 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
-          "url": "https://wallstreetcn.com/articles/3766474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
         },
         {
           "title": "美国总统特朗普：美国将为美国士兵的丧生复仇。",
@@ -330,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：我认为阿拉伯国家不需要与美国一起对伊朗发动攻击。",
+          "url": "https://flash.jin10.com/detail/20260302110019150800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "美国总统特朗普：美国已基本摧毁伊朗海军总部。",
@@ -420,6 +468,28 @@
           "time_info": "02时16分"
         },
         {
+          "title": "据ABC新闻：特朗普称，这次袭击非常成功，大部分候选人都被击倒了。他们都死了。第二名和第三名也都死了。",
+          "url": "https://flash.jin10.com/detail/20260302105424539800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "据ABC新闻：特朗普声称他考虑过的伊朗领导层人选均已身亡。",
+          "url": "https://flash.jin10.com/detail/20260302105347195800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "特朗普：对伊朗行动将持续至目标得以实现",
           "url": "https://flash.jin10.com/detail/20260302060723437800",
           "source": "金十数据",
@@ -437,7 +507,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -459,7 +529,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -484,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "机构：地缘政治冲突很少产生长远影响 特朗普政府将希望在中期选举前结束冲突",
+          "url": "https://flash.jin10.com/detail/20260302104749737800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普在谈及与伊朗谈判的时机时表示，我不能告诉你。",
@@ -536,7 +617,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -576,29 +657,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "汽车",
+      "match_count": 2,
       "titles": [
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "金十图示：2026年03月02日（周一）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260302110527812800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            15,
-            16,
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
         {
           "title": "吉利汽车2月销量20.6万辆",
           "url": "https://www.toutiao.com/trending/7611722125195444267/",
@@ -610,6 +682,44 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 04时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4下周上线？原生多模态架构 技术报告同步开放",
+          "url": "https://www.cls.cn/detail/2298837",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            15,
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 11时26分]"
         }
       ]
     }
