@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T02:29:42.562264+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-03-03T03:29:40.058276+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
         },
         {
           "title": "外交部回应特朗普3月访华能否成行",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -74,28 +74,6 @@
           "time_info": "[00时28分 ~ 01时36分]"
         },
         {
-          "title": "特朗普称对伊朗军事行动可能持续4至5周",
-          "url": "https://wallstreetcn.com/livenews/3062094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "美国联邦上诉法院驳回特朗普政府延期请求，关税退款诉讼程序重启",
-          "url": "https://wallstreetcn.com/livenews/3062092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
           "url": "https://wallstreetcn.com/articles/3766483",
           "source": "华尔街见闻",
@@ -103,20 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时29分]"
-        },
-        {
-          "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
-          "url": "https://wallstreetcn.com/livenews/3062086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -126,8 +92,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：美国总统特朗普有权对“去银行”问题感到愤怒。 但特朗普在这个问题上的诉讼得不到好处。",
+          "url": "https://wallstreetcn.com/livenews/3062112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         },
         {
           "title": "中方回应特朗普3月访华能否成行",
@@ -138,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
         },
         {
           "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
@@ -149,8 +126,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
         },
         {
           "title": "特朗普称不达目标不停战",
@@ -162,8 +139,45 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
+        },
+        {
+          "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
+          "url": "https://wallstreetcn.com/livenews/3062086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 03时29分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动可能持续4至5周",
+          "url": "https://wallstreetcn.com/livenews/3062094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时29分]"
+        },
+        {
+          "title": "美国联邦上诉法院驳回特朗普政府延期请求，关税退款诉讼程序重启",
+          "url": "https://wallstreetcn.com/livenews/3062092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时29分]"
         },
         {
           "title": "特朗普称同意与伊朗新领导层对话",
@@ -200,6 +214,17 @@
           "time_info": "[01时36分 ~ 02时29分]"
         },
         {
+          "title": "特朗普3月访华能否成行？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时29分]"
+        },
+        {
           "title": "报道：阿联酋和卡塔尔私下游说盟友，劝特朗普缩短对伊军事行动",
           "url": "https://wallstreetcn.com/livenews/3062064",
           "source": "华尔街见闻-快讯",
@@ -210,6 +235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时29分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：如果伊朗冲突不延长，就不会出现严重通货膨胀。 通胀可能会是（美国总统特朗普）经济的“败笔”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3062107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         },
         {
           "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
@@ -243,17 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
-        },
-        {
-          "title": "特朗普3月访华能否成行？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
         },
         {
           "title": "美国总统特朗普：我们对伊朗对阿拉伯国家的袭击感到惊讶。",
@@ -295,7 +320,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -333,6 +358,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "据国家通讯社：约旦国王阿卜杜拉向美国总统特朗普强调，坚决反对伊朗对其领土及该地区多个国家的袭击。",
+          "url": "https://flash.jin10.com/detail/20260303022627195800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
           "title": "美国总统特朗普：拥有核武器的伊朗对美国而言是不可容忍的。这是我们最后一次最佳打击机会。我们的目标明确，包括了摧毁伊朗导弹能力。",
           "url": "https://flash.jin10.com/detail/20260303005223492800",
           "source": "金十数据",
@@ -342,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "据国家通讯社：约旦国王阿卜杜拉接获美国总统特朗普来电。约旦国王阿卜杜拉向美国总统特朗普强调，必须努力实现地区全面平静。",
+          "url": "https://flash.jin10.com/detail/20260303022557330800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         }
       ]
     }
