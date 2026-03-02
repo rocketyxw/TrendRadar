@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T22:34:50.422528+08:00",
-  "total_titles_processed": 2087,
+  "generated_at": "2026-03-02T23:31:51.970915+08:00",
+  "total_titles_processed": 2181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 88,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -28,20 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时40分 ~ 22时34分]"
-        },
-        {
-          "title": "“不得不说，特朗普的计划落空了”",
-          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
           "appearance_count": 12,
-          "time_info": "[13时10分 ~ 22时34分]"
+          "time_info": "[14时40分 ~ 23时31分]"
         },
         {
           "title": "外交部回应特朗普3月访华能否成行",
@@ -52,8 +40,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 22时34分]"
+          "appearance_count": 10,
+          "time_info": "[16时35分 ~ 23时31分]"
+        },
+        {
+          "title": "“不得不说，特朗普的计划落空了”",
+          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时10分 ~ 23时31分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -67,8 +67,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 22时34分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 23时31分]"
+        },
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时36分 ~ 23时31分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -92,21 +106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时26分 ~ 22时34分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时36分 ~ 22时34分]"
+          "appearance_count": 14,
+          "time_info": "[11时26分 ~ 23时31分]"
         },
         {
           "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
@@ -118,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时10分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[13时10分 ~ 23时31分]"
         },
         {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
@@ -149,8 +150,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时10分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[13时10分 ~ 23时31分]"
         },
         {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
@@ -313,7 +314,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -352,6 +353,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时12分]"
+        },
+        {
+          "title": "中方回应特朗普3月访华能否成行",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 23时31分]"
+        },
+        {
+          "title": "特朗普，还有一仗？",
+          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 23时31分]"
         },
         {
           "title": "特朗普政府将于周二向国会作伊朗问题的简报",
@@ -402,30 +427,6 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
-          "title": "中方回应特朗普3月访华能否成行",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 22时34分]"
-        },
-        {
-          "title": "特朗普，还有一仗？",
-          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 22时34分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -456,22 +457,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时31分]"
         },
         {
           "title": "特朗普称打死伊朗领导层48人，以总理称进一步升级行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32681273",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时31分]"
         },
         {
           "title": "特朗普能在伊朗速胜吗",
@@ -692,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "特朗普将于北京时间零点就伊朗问题发表讲话",
+          "url": "https://wallstreetcn.com/livenews/3062015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普称，针对伊朗方面的行动进展迅速。“没人能相信我们取得的成功会如此之大”。",
@@ -1139,7 +1153,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         }
