@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T15:34:30.875003+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-03-03T16:26:20.111522+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -78,6 +78,18 @@
           "time_info": "[00时28分 ~ 08时59分]"
         },
         {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普3月访华能否成行？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
           "source": "澎湃新闻",
@@ -94,18 +106,6 @@
           "time_info": "[02时29分 ~ 15时34分]"
         },
         {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 15时34分]"
-        },
-        {
           "title": "特朗普，还有一仗？",
           "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
           "source": "凤凰网",
@@ -116,6 +116,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 08时59分]"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 16时26分]"
         },
         {
           "title": "中方回应特朗普3月访华能否成行",
@@ -149,20 +163,6 @@
           "time_info": "[00时28分 ~ 08时59分]"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 15时34分]"
-        },
-        {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
           "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
           "source": "凤凰网",
@@ -171,8 +171,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 16时26分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -231,13 +231,24 @@
           "time_info": "08时59分"
         },
         {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 16时26分]"
+        },
+        {
           "title": "美国总统特朗普：英美关系“已不如从前”。美国与法国、德国的关系是“所有国家中最牢固的”。（英国太阳报）",
           "url": "https://wallstreetcn.com/livenews/3062526",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -253,17 +264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时29分]"
-        },
-        {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 15时34分]"
         },
         {
           "title": "特朗普称对伊朗军事行动可能持续4至5周",
@@ -305,6 +305,18 @@
           "time_info": "[03时29分 ~ 05时23分]"
         },
         {
+          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普称同意与伊朗新领导层对话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
           "source": "澎湃新闻",
@@ -336,6 +348,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
+          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时26分]"
+        },
+        {
+          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
+          "url": "https://www.cls.cn/detail/2300728",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时26分]"
         },
         {
           "title": "摩根大通CEO戴蒙：如果伊朗冲突不延长，就不会出现严重通货膨胀。 通胀可能会是（美国总统特朗普）经济的“败笔”。（CNBC）",
@@ -374,17 +410,6 @@
           "time_info": "[01时36分 ~ 02时29分]"
         },
         {
-          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
           "title": "美媒：特朗普主张对伊朗开战的多项理由不成立",
           "url": "https://flash.jin10.com/detail/20260303083406982800",
           "source": "金十数据",
@@ -396,6 +421,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "特朗普：遗憾看到美英关系已不复往昔",
+          "url": "https://flash.jin10.com/detail/20260303160213607800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "周一（3月2日），降息赢家指数跌1.99%，报96.33点。 “特朗普关税输家”指数跌2.25%，报111.90点。 “特朗普金融指数”涨0.69%，报155.57点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.40%，报12.94点。",
           "url": "https://wallstreetcn.com/livenews/3062170",
           "source": "华尔街见闻-快讯",
@@ -405,17 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
-          "url": "https://www.cls.cn/detail/2300728",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
@@ -471,17 +496,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
-        },
-        {
-          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "美国总统特朗普：伊朗政权的弹道导弹计划发展迅速，已经具备打击欧洲的能力。",
@@ -556,7 +570,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -652,8 +666,21 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 16时26分]"
+        },
         {
           "title": "港股新能源汽车股午后持续走低，零跑汽车、小鹏汽车跌超5%，蔚来跌4.7%。",
           "url": "https://wallstreetcn.com/livenews/3062421",
@@ -664,18 +691,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
-        },
-        {
-          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 15时34分]"
         },
         {
           "title": "韩股遭遇持续抛售，现代汽车股价日内跌幅达10%。",
@@ -734,6 +749,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "恒生科技指数日内再次跌超1%，零跑汽车跌超5%，小鹏汽车、蔚来跌超4%，华虹半导体、小米跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3062398",
           "source": "华尔街见闻-快讯",
@@ -743,12 +769,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "起亚株式会社2月汽车销量下降2.8％。",
+          "url": "https://wallstreetcn.com/livenews/3062545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -761,6 +798,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时16分]"
+        },
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
