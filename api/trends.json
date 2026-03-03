@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T19:23:27.582036+08:00",
-  "total_titles_processed": 1818,
+  "generated_at": "2026-03-03T20:29:27.925254+08:00",
+  "total_titles_processed": 1914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时31分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时31分 ~ 20时29分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时09分 ~ 19时23分]"
+          "appearance_count": 10,
+          "time_info": "[13时09分 ~ 20时29分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时59分 ~ 19时23分]"
+          "appearance_count": 13,
+          "time_info": "[08时59分 ~ 20时29分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -132,6 +132,17 @@
           "time_info": "[02时29分 ~ 15时34分]"
         },
         {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时09分 ~ 20时29分]"
+        },
+        {
           "title": "特朗普，还有一仗？",
           "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
           "source": "凤凰网",
@@ -173,17 +184,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 08时59分]"
-        },
-        {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时09分 ~ 19时23分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -253,6 +253,17 @@
           "time_info": "[17时29分 ~ 17时31分]"
         },
         {
+          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "克林顿称特朗普曾提及与爱泼斯坦“有过美好时光”",
           "url": "https://flash.jin10.com/detail/20260303084946784800",
           "source": "金十数据",
@@ -274,6 +285,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时34分 ~ 19时23分]"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普：英美关系“已不如从前”。美国与法国、德国的关系是“所有国家中最牢固的”。（英国太阳报）",
@@ -349,18 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时34分 ~ 16时26分]"
-        },
-        {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "特朗普：没有必要对伊朗采取地面军事行动",
@@ -554,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2011830146605274886",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "美国总统特朗普：伊朗政权的弹道导弹计划发展迅速，已经具备打击欧洲的能力。",
@@ -752,17 +785,6 @@
           "time_info": "13时09分"
         },
         {
-          "title": "韩股遭遇持续抛售，现代汽车股价日内跌幅达10%。",
-          "url": "https://flash.jin10.com/detail/20260303124854529800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
           "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
           "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
           "source": "澎湃新闻",
@@ -772,8 +794,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时29分]"
+        },
+        {
+          "title": "韩股遭遇持续抛售，现代汽车股价日内跌幅达10%。",
+          "url": "https://flash.jin10.com/detail/20260303124854529800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "周一（3月2日），彭博电动汽车价格回报指数跌0.68%，报3698.86点。",
@@ -870,8 +903,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时29分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
