@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:19:27.100984+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-03-06T20:26:15.661902+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时52分 ~ 19时19分]"
+          "appearance_count": 19,
+          "time_info": "[01时52分 ~ 20时26分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -72,11 +72,25 @@
           "url": "https://news.ifeng.com/c/8rGDBDdQi38",
           "source": "凤凰网",
           "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 20时26分]"
+        },
+        {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时31分 ~ 20时26分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -88,6 +102,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 13时06分]"
+        },
+        {
+          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
+          "url": "https://www.cls.cn/detail/2304727",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时26分]"
         },
         {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
@@ -122,19 +149,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时43分 ~ 15时31分]"
-        },
-        {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 19时19分]"
         },
         {
           "title": "特朗普政府正在权衡降低油价的所有选项",
@@ -245,19 +259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        },
-        {
-          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
-          "url": "https://www.cls.cn/detail/2304727",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时19分]"
         },
         {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
@@ -386,6 +387,17 @@
           "time_info": "[15时31分 ~ 17时26分]"
         },
         {
+          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
+          "url": "https://wallstreetcn.com/articles/3766863",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时26分]"
+        },
+        {
           "title": "美国24州联合起诉特朗普政府",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -396,6 +408,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 13时06分]"
+        },
+        {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
@@ -528,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
-        },
-        {
-          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
-          "url": "https://wallstreetcn.com/articles/3766863",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -776,8 +788,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时58分 ~ 19时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时58分 ~ 20时26分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
