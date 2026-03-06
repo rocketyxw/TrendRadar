@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T16:23:23.283597+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-03-06T17:26:44.278812+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时52分 ~ 16时23分]"
+          "appearance_count": 14,
+          "time_info": "[01时52分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 17时26分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -42,29 +54,18 @@
           "time_info": "[01时52分 ~ 07时43分]"
         },
         {
-          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
-          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 16时23分]"
-        },
-        {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
           "url": "https://www.cls.cn/detail/2304524",
           "source": "财联社热门",
           "ranks": [
             9,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 17时26分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 13时06分]"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 17时26分]"
         },
         {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时43分 ~ 15时31分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 16时23分]"
         },
         {
           "title": "特朗普政府正在权衡降低油价的所有选项",
@@ -334,6 +335,31 @@
           "time_info": "[04时26分 ~ 06时18分]"
         },
         {
+          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
+          "url": "https://www.cls.cn/detail/2304532",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时26分]"
+        },
+        {
           "title": "美国24州联合起诉特朗普政府",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -346,16 +372,15 @@
           "time_info": "[11时58分 ~ 13时06分]"
         },
         {
-          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
-          "url": "https://www.cls.cn/detail/2304532",
+          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
+          "url": "https://www.cls.cn/detail/2304727",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时31分 ~ 16时23分]"
+          "time_info": "[16时23分 ~ 17时26分]"
         },
         {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
@@ -367,17 +392,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 01时53分]"
-        },
-        {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 16时23分]"
         },
         {
           "title": "美国总统特朗普：挑选（伊朗）新领导人进程尚处初期，伊朗最高领袖哈梅内伊之子当选可能性不大。",
@@ -510,17 +524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        },
-        {
-          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
-          "url": "https://www.cls.cn/detail/2304727",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "美国总统特朗普将于美东时间周五14:30（北京时间次日03:30）会见国防部长赫格塞思和内政部长伯格姆。",
@@ -677,6 +680,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "油价重回“特朗普压力区” 美国汽油创18个月新高",
+          "url": "https://flash.jin10.com/detail/20260306165925730800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "特朗普：即将采取进一步措施缓解油市压力",
           "url": "https://flash.jin10.com/detail/20260306061148335800",
           "source": "金十数据",
@@ -724,8 +738,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 17时26分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -859,7 +873,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         }
