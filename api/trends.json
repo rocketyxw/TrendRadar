@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T20:20:03.990325+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2026-03-07T21:32:08.761545+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时08分 ~ 20时20分]"
+          "appearance_count": 16,
+          "time_info": "[11时08分 ~ 21时32分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -113,28 +113,6 @@
           "time_info": "08时54分"
         },
         {
-          "title": "哥伦比亚总统佩特罗：特朗普必须远离内塔尼亚胡和那些向地球上的孩子发射导弹的人。",
-          "url": "https://flash.jin10.com/detail/20260307195848555800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
-          "url": "https://wallstreetcn.com/livenews/3065718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
           "url": "https://flash.jin10.com/detail/20260307034359509800",
           "source": "金十数据",
@@ -183,6 +161,18 @@
           "time_info": "[06时16分 ~ 07时17分]"
         },
         {
+          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
+          "url": "https://wallstreetcn.com/livenews/3065718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 21时32分]"
+        },
+        {
           "title": "据法新社：美国燃油价格上涨可能引发特朗普的国内危机。",
           "url": "https://flash.jin10.com/detail/20260307124912015800",
           "source": "金十数据",
@@ -193,6 +183,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时23分]"
+        },
+        {
+          "title": "哥伦比亚总统佩特罗：特朗普必须远离内塔尼亚胡和那些向地球上的孩子发射导弹的人。",
+          "url": "https://flash.jin10.com/detail/20260307195848555800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
@@ -313,6 +315,17 @@
           "time_info": "[12时53分 ~ 13时31分]"
         },
         {
+          "title": "特朗普说伊朗今天将遭极猛烈打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E4%BB%8A%E5%A4%A9%E5%B0%86%E9%81%AD%E6%9E%81%E7%8C%9B%E7%83%88%E6%89%93%E5%87%BB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普政府将允许在美国出售部分委内瑞拉黄金",
           "url": "https://wallstreetcn.com/livenews/3065393",
           "source": "华尔街见闻-快讯",
@@ -352,7 +365,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -440,6 +453,17 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时10分 ~ 21时32分]"
+        },
+        {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
           "url": "https://wallstreetcn.com/livenews/3065420",
           "source": "华尔街见闻-快讯",
@@ -463,17 +487,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 02时27分]"
-        },
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 20时20分]"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
