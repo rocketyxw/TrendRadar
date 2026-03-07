@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T18:12:16.694067+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-03-07T19:10:19.412985+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时08分 ~ 18时12分]"
+          "appearance_count": 12,
+          "time_info": "[11时08分 ~ 19时10分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -312,6 +313,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
+          "url": "https://flash.jin10.com/detail/20260307180738661800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "白宫：美国总统特朗普签署行政命令，打击针对美国人的网络犯罪、欺诈和掠夺性骗局。",
           "url": "https://flash.jin10.com/detail/20260307024524681800",
           "source": "金十数据",
@@ -392,7 +404,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -440,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
