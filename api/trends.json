@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T17:17:49.391708+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-03-07T18:12:16.694067+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3766927",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时08分 ~ 17时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时08分 ~ 18时12分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
