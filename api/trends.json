@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:20:21.432810+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-03-07T16:16:00.974159+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时08分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时08分 ~ 16时16分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -123,6 +123,18 @@
           "time_info": "[04时18分 ~ 08时54分]"
         },
         {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 16时16分]"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
           "url": "https://flash.jin10.com/detail/20260307033923007800",
           "source": "金十数据",
@@ -168,18 +180,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时18分 ~ 07时17分]"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 15时20分]"
         },
         {
           "title": "特朗普称美军工企业同意将“精良级”武器产量“翻两番”",
@@ -466,7 +466,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "长城汽车董事长魏建军就「海报抄袭」致歉，称愿担责，对长城汽车有何影响？如何评价老板亲自灭火的公关操作？",
@@ -498,6 +498,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 08时54分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：由于发动机熄火会增加碰撞风险，通用汽车(GM.N)召回11,787辆美国境内车辆。",
+          "url": "https://flash.jin10.com/detail/20260307160554612800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "周五（3月6日），彭博电动汽车价格回报指数跌0.06%，报3513.26点，本周累计下跌5.66%。",
