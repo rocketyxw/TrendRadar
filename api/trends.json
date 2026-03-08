@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T15:23:46.102918+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-03-08T16:17:01.696796+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 15时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 16时17分]"
+        },
+        {
+          "title": "英国可能部署航母至中东，特朗普：不需要",
+          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 16时17分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -77,15 +88,18 @@
           "time_info": "[07时11分 ~ 07时12分]"
         },
         {
-          "title": "英国可能部署航母至中东，特朗普：不需要",
-          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
-          "source": "凤凰网",
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
           "ranks": [
-            7
+            13,
+            17,
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 16时17分]"
         },
         {
           "title": "特朗普称已排除库尔德武装参战可能",
@@ -108,19 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时23分]"
         },
         {
           "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
@@ -261,6 +262,19 @@
           "time_info": "[05时10分 ~ 08时58分]"
         },
         {
+          "title": "美国总统特朗普：现在就通过《拯救美国法案》。这才是大家关心的重点！",
+          "url": "https://flash.jin10.com/detail/20260308135054523800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时17分]"
+        },
+        {
           "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
           "url": "https://wallstreetcn.com/livenews/3065812",
           "source": "华尔街见闻-快讯",
@@ -284,18 +298,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时10分 ~ 07时12分]"
-        },
-        {
-          "title": "美国总统特朗普：现在就通过《拯救美国法案》。这才是大家关心的重点！",
-          "url": "https://flash.jin10.com/detail/20260308135054523800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时23分]"
         },
         {
           "title": "特朗普：伊朗下任领导人需要对美以表现友好",
