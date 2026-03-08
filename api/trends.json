@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T17:17:51.988949+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-03-08T18:13:21.926710+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -41,6 +41,19 @@
           "time_info": "[00时13分 ~ 06时02分]"
         },
         {
+          "title": "王毅回应特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时04分 ~ 18时13分]"
+        },
+        {
           "title": "特朗普：目前无计划在伊朗部署地面部队",
           "url": "https://news.ifeng.com/c/8rJig12CHog",
           "source": "凤凰网",
@@ -53,19 +66,6 @@
           "time_info": "[08时58分 ~ 15时23分]"
         },
         {
-          "title": "王毅回应特朗普访华",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时04分 ~ 17时17分]"
-        },
-        {
           "title": "英国可能部署航母至中东，特朗普：不需要",
           "url": "https://news.ifeng.com/c/8rJVEzbISO2",
           "source": "凤凰网",
@@ -73,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 18时13分]"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -88,8 +88,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 17时17分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 18时13分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -325,6 +325,30 @@
           "time_info": "[11时27分 ~ 13时05分]"
         },
         {
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "url": "https://wallstreetcn.com/articles/3766963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时13分]"
+        },
+        {
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时13分]"
+        },
+        {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
           "url": "https://flash.jin10.com/detail/20260308004445538800",
           "source": "金十数据",
@@ -358,15 +382,15 @@
           "time_info": "08时58分"
         },
         {
-          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
-          "url": "https://wallstreetcn.com/articles/3766963",
+          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
+          "url": "https://wallstreetcn.com/articles/3766970",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "18时13分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -411,17 +435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -520,7 +533,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
