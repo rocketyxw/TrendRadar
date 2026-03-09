@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T00:44:10.515636+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-10T01:38:42.791007+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -26,8 +26,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时38分]"
+        },
+        {
+          "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
+          "url": "https://flash.jin10.com/detail/20260310011925949800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国白宫：特朗普正在评估所有可能的油价应对方案。",
+          "url": "https://flash.jin10.com/detail/20260310011623908800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
           "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
@@ -37,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -48,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
@@ -59,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "报道：特朗普考虑实施出口限制和税收豁免，来平抑油价",
@@ -69,7 +91,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -80,7 +102,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -91,9 +113,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美国总统特朗普将于美东时间周一17:30举行新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3066647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
           "title": "特朗普考虑抑制能源价格 选项包括限制美国石油出口等",
@@ -102,7 +135,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -113,7 +146,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         }
@@ -121,8 +154,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
+          "url": "https://wallstreetcn.com/livenews/3066654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
         {
           "title": "OpenAI：企业用户和教育用户面临的沟通错误偏高。",
           "url": "https://wallstreetcn.com/livenews/3066617",
@@ -130,9 +174,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "OpenAI：同意收购AI安全初创公司PromptFoo。",
+          "url": "https://flash.jin10.com/detail/20260310010121184800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         }
       ]
     },
@@ -148,8 +203,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时38分]"
         }
       ]
     }
