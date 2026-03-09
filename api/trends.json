@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T07:13:15.136877+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-03-09T08:58:33.413376+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时58分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时58分]"
         },
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
@@ -88,9 +88,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "油价飙升 美媒：特朗普正面临越来越多的问题",
+          "url": "https://flash.jin10.com/detail/20260309085313681800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
@@ -99,7 +110,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -247,6 +258,17 @@
           "time_info": "[05时12分 ~ 06时02分]"
         },
         {
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
           "title": "知情人士：特朗普政府拟与古巴达成经济协议",
           "url": "https://flash.jin10.com/detail/20260309031144229800",
           "source": "金十数据",
@@ -280,13 +302,24 @@
           "time_info": "01时13分"
         },
         {
+          "title": "伊朗高官：特朗普不懂伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%87%82%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
           "title": "伊朗高官说特朗普不懂伊朗",
           "url": "https://wallstreetcn.com/livenews/3065934",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -313,6 +346,28 @@
           "time_info": "00时14分"
         },
         {
+          "title": "评论员谈中国回绝特朗普“G2之邀”",
+          "url": "https://www.toutiao.com/trending/7614888612266311722/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "据CBS：美国国防部长赫格塞思表示，特朗普将“设定伊朗投降的条件”。",
+          "url": "https://flash.jin10.com/detail/20260309081624843800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
           "title": "美国参议员汤姆·蒂利斯要求特朗普立即解雇国土安全顾问斯蒂芬·米勒。",
           "url": "https://flash.jin10.com/detail/20260308230009882800",
           "source": "金十数据",
@@ -327,7 +382,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
@@ -341,8 +396,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时58分]"
         },
         {
           "title": "伊朗首都等地临时就汽车加油设限",
@@ -354,6 +409,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 04时02分]"
+        },
+        {
+          "title": "现代汽车领跌韩国汽车股板块，最新跌幅达9.4%。",
+          "url": "https://flash.jin10.com/detail/20260309082059825800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     }
