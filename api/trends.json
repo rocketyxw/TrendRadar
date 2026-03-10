@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T19:23:58.093300+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-03-10T20:31:51.000950+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 117,
+      "match_count": 125,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时53分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[08时53分 ~ 20时31分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -76,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时53分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[08时53分 ~ 20时31分]"
         },
         {
           "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
@@ -107,6 +107,32 @@
           "time_info": "[07时16分 ~ 16时26分]"
         },
         {
+          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
+          "url": "https://www.cls.cn/detail/2308078",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时32分 ~ 20时31分]"
+        },
+        {
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时04分 ~ 20时31分]"
+        },
+        {
           "title": "特朗普：将与以总理共同作出停战决定",
           "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
           "source": "凤凰网",
@@ -125,8 +151,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时18分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时18分 ~ 20时31分]"
         },
         {
           "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
@@ -142,21 +168,6 @@
           "time_info": "[07时16分 ~ 16时26分]"
         },
         {
-          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
-          "url": "https://www.cls.cn/detail/2308078",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时32分 ~ 19时23分]"
-        },
-        {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
           "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
           "source": "凤凰网",
@@ -169,17 +180,6 @@
           "time_info": "[00时43分 ~ 11时18分]"
         },
         {
-          "title": "美媒最新民调：特朗普支持率下滑至44%",
-          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时04分 ~ 19时23分]"
-        },
-        {
           "title": "美以伊战争｜特朗普：战争已基本结束",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -189,6 +189,22 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 06时16分]"
+        },
+        {
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
+          "ranks": [
+            15,
+            22,
+            24,
+            25,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 20时31分]"
         },
         {
           "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
@@ -214,22 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时26分 ~ 17时32分]"
-        },
-        {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            15,
-            22,
-            24,
-            25,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 19时23分]"
         },
         {
           "title": "美以伊战争｜伊媒头版：特朗普，直视他们的眼睛！",
@@ -312,6 +312,28 @@
           "time_info": "08时53分"
         },
         {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
           "url": "https://flash.jin10.com/detail/20260310011925949800",
           "source": "金十数据",
@@ -365,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
@@ -630,6 +663,17 @@
           "time_info": "[08时53分 ~ 11时18分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国总统特朗普：将向众议院共和党人捐款100万美元。",
           "url": "https://flash.jin10.com/detail/20260310053120275800",
           "source": "金十数据",
@@ -658,7 +702,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -716,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：（谈穆杰塔巴·哈梅内伊）他最好听听特朗普的话。至于他的地位，我现在无法评论。",
+          "url": "https://flash.jin10.com/detail/20260310202222700800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "美国总统特朗普：美国正在打击伊朗的无人机制造基地，随着军事行动的持续，伊朗将“很快完蛋”。",
@@ -784,6 +839,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美国国防部长赫格塞思：美国处于“非常有利的地位”，为美国总统特朗普提供了最大选择空间。",
+          "url": "https://flash.jin10.com/detail/20260310202142671800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯总统普京“希望（在国际局势中）非常具有建设性”。",
           "url": "https://wallstreetcn.com/livenews/3066770",
           "source": "华尔街见闻-快讯",
@@ -804,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "特朗普称有可能有条件同伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3067289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "普京提建议后特朗普称很快停火",
@@ -1114,6 +1191,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "伊朗最高安全官员回应特朗普：伊朗人民不畏惧威胁",
+          "url": "https://wallstreetcn.com/livenews/3067276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国总统特朗普：我认为他们选择穆杰塔巴·哈梅内伊担任伊朗新领导人是一个大错误。",
           "url": "https://flash.jin10.com/detail/20260310013945933800",
           "source": "金十数据",
@@ -1348,8 +1436,23 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
+          "url": "https://www.cls.cn/detail/2308117",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 20时31分]"
+        },
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
           "url": "https://www.zhihu.com/question/2014397594542040051",
@@ -1361,22 +1464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 19时23分]"
-        },
-        {
-          "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
-          "url": "https://www.cls.cn/detail/2308117",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 19时23分]"
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 20时31分]"
         },
         {
           "title": "武汉女子用159元发票抽中一辆汽车",
@@ -1395,6 +1484,17 @@
           "time_info": "[00时43分 ~ 07时16分]"
         },
         {
+          "title": "新能源汽车“涨价潮”来了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时31分]"
+        },
+        {
           "title": "金十图示：2026年03月10日（周二）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260310110800355800",
           "source": "金十数据",
@@ -1404,17 +1504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
-        },
-        {
-          "title": "新能源汽车“涨价潮”来了",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
@@ -1439,6 +1528,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时27分]"
+        },
+        {
+          "title": "吉利汽车做对了什么，为什么卖得这么好？",
+          "url": "https://www.zhihu.com/question/2006401962061616095",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时31分]"
         },
         {
           "title": "大众汽车首席执行官：还需加大努力，我们的成本仍然过高。",
@@ -1480,7 +1581,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1491,9 +1592,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "封测龙头长电科技临港工厂投产：面向汽车电子与机器人应用",
+          "url": "https://wallstreetcn.com/livenews/3067288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "雷诺：目标到2030年每年销售超过200万辆汽车，其中一半销往欧洲以外地区。",
@@ -1518,17 +1630,6 @@
           "time_info": "14时33分"
         },
         {
-          "title": "吉利汽车做对了什么，为什么卖得这么好？",
-          "url": "https://www.zhihu.com/question/2006401962061616095",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "大众汽车首席财务官：预计今年全球客户需求将基本保持稳定。",
           "url": "https://flash.jin10.com/detail/20260310170728463800",
           "source": "金十数据",
@@ -1546,7 +1647,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1557,7 +1658,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1568,7 +1669,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1579,7 +1680,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1590,7 +1691,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1601,7 +1702,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1612,7 +1713,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
