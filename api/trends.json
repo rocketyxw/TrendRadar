@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T15:32:26.416525+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-03-10T16:26:48.220951+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 109,
+      "match_count": 112,
       "titles": [
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -53,8 +53,30 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 16时26分]"
+        },
+        {
+          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时16分 ~ 15时32分]"
+          "time_info": "[08时53分 ~ 16时26分]"
+        },
+        {
+          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307815",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 16时26分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -68,15 +90,17 @@
           "time_info": "[00时43分 ~ 08时53分]"
         },
         {
-          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
+          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307782",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 16时26分]"
         },
         {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
@@ -91,15 +115,17 @@
           "time_info": "[00时43分 ~ 11时18分]"
         },
         {
-          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307815",
+          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
+          "url": "https://www.cls.cn/detail/2307862",
           "source": "财联社热门",
           "ranks": [
-            2
+            5,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时53分 ~ 15时32分]"
+          "time_info": "[11时18分 ~ 16时26分]"
         },
         {
           "title": "美以伊战争｜特朗普：战争已基本结束",
@@ -113,32 +139,6 @@
           "time_info": "[04时19分 ~ 06时16分]"
         },
         {
-          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307782",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 15时32分]"
-        },
-        {
-          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
-          "url": "https://www.cls.cn/detail/2307862",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 15时32分]"
-        },
-        {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
           "url": "https://wallstreetcn.com/articles/3767083",
           "source": "华尔街见闻",
@@ -147,8 +147,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 15时32分]"
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 16时26分]"
         },
         {
           "title": "美以伊战争｜伊媒头版：特朗普，直视他们的眼睛！",
@@ -160,6 +160,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 13时04分]"
+        },
+        {
+          "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
+          "url": "https://www.cls.cn/detail/2307809",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 16时26分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -215,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "美以伊战争｜特朗普考虑接替穆杰塔巴人选，中方表态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
@@ -294,17 +319,26 @@
           "time_info": "08时53分"
         },
         {
-          "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
-          "url": "https://www.cls.cn/detail/2307809",
-          "source": "财联社热门",
+          "title": "加州州长连批特朗普政府：对伊朗“非法”动武 民众为高油价“埋单”",
+          "url": "https://wallstreetcn.com/livenews/3067158",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            8,
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "美媒：特朗普没有对伊朗的“战后计划”",
+          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
+          "source": "凤凰网",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时53分 ~ 15时32分]"
+          "time_info": "[11时18分 ~ 16时26分]"
         },
         {
           "title": "据媒体报道，特朗普认为针对伊朗的战事已基本接近尾声。美军行动进展已大幅领先于最初预估的4至5周时间表。 原油价格日内转跌，WTI原油价格跌约2%。",
@@ -318,6 +352,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时32分 ~ 05时21分]"
+        },
+        {
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 16时26分]"
         },
         {
           "title": "金十提示：美国总统特朗普在共和党成员问题会议上发表讲话。",
@@ -358,17 +403,6 @@
           "time_info": "[08时53分 ~ 14时33分]"
         },
         {
-          "title": "美媒：特朗普没有对伊朗的“战后计划”",
-          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 15时32分]"
-        },
-        {
           "title": "WTI原油期货跌超5.5%，至81.27美元，亚太盘初还曾涨至119.50美元。 据CCTV国际时讯，特朗普称战争已基本结束。",
           "url": "https://wallstreetcn.com/livenews/3066713",
           "source": "华尔街见闻-快讯",
@@ -392,17 +426,6 @@
           "time_info": "[05时20分 ~ 07时16分]"
         },
         {
-          "title": "美媒最新民调：特朗普支持率下滑至44%",
-          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 15时32分]"
-        },
-        {
           "title": "普京与特朗普通电话讨论伊朗局势",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%E8%AE%A8%E8%AE%BA%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
           "source": "百度热搜",
@@ -414,6 +437,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时53分 ~ 13时04分]"
+        },
+        {
+          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
+          "url": "https://www.cls.cn/detail/2307968",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时26分]"
+        },
+        {
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
+          "ranks": [
+            15,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时26分]"
+        },
+        {
+          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
+          "url": "https://www.cls.cn/detail/2308078",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时26分]"
         },
         {
           "title": "特朗普称对伊朗战事“已基本结束”",
@@ -512,29 +571,6 @@
           "time_info": "[02时34分 ~ 03时32分]"
         },
         {
-          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
-          "url": "https://www.cls.cn/detail/2307968",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时32分]"
-        },
-        {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时32分]"
-        },
-        {
           "title": "普京与特朗普通电话讨论伊朗局势",
           "url": "https://www.toutiao.com/trending/7614555226485948458/",
           "source": "今日头条",
@@ -567,17 +603,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
-          "url": "https://www.cls.cn/detail/2308078",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
         },
         {
           "title": "克里姆林宫：美国总统特朗普已致电俄罗斯总统普京，讨论伊朗和乌克兰问题。美国总统特朗普再次表示希望乌克兰冲突尽快结束。通话持续约一小时，富有建设性，务实且坦诚。",
@@ -630,7 +655,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -718,7 +743,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1020,6 +1045,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "特朗普被曝“遭顾问催促”从伊朗战事中脱身",
+          "url": "https://wallstreetcn.com/livenews/3067136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美国总统特朗普：我认为他们选择穆杰塔巴·哈梅内伊担任伊朗新领导人是一个大错误。",
           "url": "https://flash.jin10.com/detail/20260310013945933800",
           "source": "金十数据",
@@ -1273,18 +1309,6 @@
           "time_info": "11时18分"
         },
         {
-          "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3066719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时21分]"
-        },
-        {
           "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
           "url": "https://www.cls.cn/detail/2308117",
           "source": "财联社热门",
@@ -1293,8 +1317,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时26分]"
         },
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -1305,8 +1329,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时26分]"
+        },
+        {
+          "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3066719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时32分]"
+          "time_info": "[04时19分 ~ 05时21分]"
         },
         {
           "title": "最高法报告明确醉酒后启用辅助驾驶要承担刑事责任，如何解读？对智能汽车行业意味着什么？",
@@ -1348,7 +1384,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1359,7 +1395,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
