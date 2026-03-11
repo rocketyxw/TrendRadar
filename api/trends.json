@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T19:24:44.584770+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-03-11T20:31:07.286661+08:00",
+  "total_titles_processed": 1834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -87,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时16分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时16分 ~ 20时31分]"
         },
         {
           "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
@@ -113,8 +113,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时16分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时16分 ~ 20时31分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -122,11 +122,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时16分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时16分 ~ 20时31分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -138,8 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[08时54分 ~ 20时31分]"
         },
         {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
@@ -217,6 +218,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：美国总统特朗普周二与国际足联代表通话。",
+          "url": "https://flash.jin10.com/detail/20260311201219196800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：美国总统特朗普告诉国际足联，欢迎伊朗在美国举行的世界杯上参赛。",
+          "url": "https://flash.jin10.com/detail/20260311201129117800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -300,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普政府重启全球入境计划，该计划可加快低风险旅客的美国海关和移民通关手续。",
+          "url": "https://flash.jin10.com/detail/20260311200902602800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "美国白宫：（关于伊朗学校遇袭的声明）特朗普将接受调查结果，无论结果如何。",
@@ -531,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "市场消息：两名以色列官员称，以色列评估认为，美国总统特朗普尚未接近下令结束战争。",
+          "url": "https://flash.jin10.com/detail/20260311195046381800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
@@ -828,7 +873,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "brahma AI与谷歌云构建合作伙伴关系。",
@@ -852,6 +897,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时15分]"
+        },
+        {
+          "title": "Gemini五连绝世",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时31分]"
         },
         {
           "title": "谷歌公司发布Gemini Embedding 2。",
