@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:05:46.331968+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-03-11T14:36:26.202129+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -96,8 +96,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时05分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 14时36分]"
         },
         {
           "title": "美以伊战争｜英媒：特朗普想要脱身，没那么容易",
@@ -106,9 +106,44 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
@@ -146,51 +181,29 @@
           "time_info": "[01时36分 ~ 03时31分]"
         },
         {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 05时20分]"
-        },
-        {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时05分]"
-        },
-        {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
-          "ranks": [
             7,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时05分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 14时36分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
           "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时05分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 14时36分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -201,8 +214,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时17分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 14时36分]"
+        },
+        {
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时20分 ~ 05时20分]"
         },
         {
           "title": "美国总统特朗普：这是一项历史性的3000亿美元交易。",
@@ -475,7 +500,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 21,
       "titles": [
         {
           "title": "新能源汽车涨价潮来临",
@@ -529,6 +554,28 @@
           "time_info": "[03时30分 ~ 08时54分]"
         },
         {
+          "title": "麦格理集团：将蔚来汽车(09866.HK)目标价由47.00港元上调至51.00港元；将蔚来汽车(NIO.N)目标价从6.10美元上调至6.50美元。",
+          "url": "https://flash.jin10.com/detail/20260311142509268800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "中汽协：特斯拉中国2月出口2万辆电动汽车。",
+          "url": "https://flash.jin10.com/detail/20260311142402255800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "新能源汽车“涨价潮”来了",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -555,6 +602,17 @@
           "time_info": "[04时21分 ~ 05时20分]"
         },
         {
+          "title": "中汽协：2月新能源汽车销量同比下滑14.2%，1-2月新能源汽车销量同比下降6.9%。",
+          "url": "https://flash.jin10.com/detail/20260311141456320800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "恒生科技指数涨超1%，蔚来涨近17%，小鹏汽车涨超6%，华虹半导体涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3067726",
           "source": "华尔街见闻-快讯",
@@ -564,6 +622,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "中汽协：2月新能源汽车产销分别完成69.4万辆和76.5万辆，同比分别下降21.8%和14.2%",
+          "url": "https://wallstreetcn.com/livenews/3067826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "中汽协官员：受伊朗冲突的影响，担心3月汽车出口到中东的数据不会特别好。",
+          "url": "https://flash.jin10.com/detail/20260311141105058800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "维权投资者Starboard建仓3.5亿美元美国最大二手车零售商CarMax股份。 Starboard认为在即将上任的CEO Keith Barr的领导下，这家二手车零售商有望加速转型。Starboard希望借助自身在汽车交易市场的投资经验来提升CarMax的业绩。 Starboard认为，CarMax可以通过提升客户体验（包括提高车辆翻新效率）以及削减超3亿美元的管理运营开支来提升业绩。（彭博）",
@@ -588,6 +668,39 @@
           "time_info": "11时17分"
         },
         {
+          "title": "中汽协：1-2月汽车销量同比下降8.8%。",
+          "url": "https://flash.jin10.com/detail/20260311140400582800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "中汽协：2月汽车销量同比下降15.2%。",
+          "url": "https://flash.jin10.com/detail/20260311140340212800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "中汽协数据显示，2月，汽车出口67.2万辆，环比下降1.4%，同比增长52.4%。",
+          "url": "https://wallstreetcn.com/livenews/3067819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "美股周二收盘，道指初步收跌0.07%，标普500指数跌0.2%，纳指微涨。纳斯达克中国金龙指数收涨近2%，蔚来汽车(NIO.N)涨15%。",
           "url": "https://flash.jin10.com/detail/20260311040210694800",
           "source": "金十数据",
@@ -599,6 +712,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "中汽协数据显示，2月，汽车产销分别完成167.2万辆和180.5万辆，环比分别下降31.7%和23.1%，同比分别下降20.5%和15.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "业内人士谈小米汽车被销售嘲讽",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E9%94%80%E5%94%AE%E5%98%B2%E8%AE%BD%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -608,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "这些汽车新坑需警惕",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B1%BD%E8%BD%A6%E6%96%B0%E5%9D%91%E9%9C%80%E8%AD%A6%E6%83%95",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
@@ -673,7 +808,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -684,7 +819,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         }
