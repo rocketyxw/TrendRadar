@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-11T07:16:26.945647+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-03-11T08:54:53.779039+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时16分]"
-        },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
           "url": "https://wallstreetcn.com/articles/3766990",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 08时54分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -104,7 +105,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -146,6 +147,17 @@
           "time_info": "[06时15分 ~ 07时16分]"
         },
         {
+          "title": "如何应对特朗普？收下这本“懂王交易手册”",
+          "url": "https://wallstreetcn.com/articles/3767103",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 08时54分]"
+        },
+        {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
           "url": "https://wallstreetcn.com/livenews/3067576",
           "source": "华尔街见闻-快讯",
@@ -181,15 +193,15 @@
           "time_info": "03时31分"
         },
         {
-          "title": "如何应对特朗普？收下这本“懂王交易手册”",
-          "url": "https://wallstreetcn.com/articles/3767103",
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "08时54分"
         },
         {
           "title": "美国白宫：（关于伊朗学校遇袭的声明）特朗普将接受调查结果，无论结果如何。",
@@ -220,7 +232,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -371,7 +383,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "新能源汽车涨价潮来临",
@@ -421,8 +433,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时30分 ~ 07时16分]"
+          "appearance_count": 6,
+          "time_info": "[03时30分 ~ 08时54分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -431,11 +443,12 @@
           "ranks": [
             17,
             18,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 08时54分]"
         },
         {
           "title": "周二（3月10日），彭博电动汽车价格回报指数涨2.28%，报3581.07点，亚太盘初以来持续走高，北京时间01:17以来略微回吐部分涨幅。",
@@ -450,6 +463,17 @@
           "time_info": "[04时21分 ~ 05时20分]"
         },
         {
+          "title": "维权投资者Starboard建仓3.5亿美元美国最大二手车零售商CarMax股份。 Starboard认为在即将上任的CEO Keith Barr的领导下，这家二手车零售商有望加速转型。Starboard希望借助自身在汽车交易市场的投资经验来提升CarMax的业绩。 Starboard认为，CarMax可以通过提升客户体验（包括提高车辆翻新效率）以及削减超3亿美元的管理运营开支来提升业绩。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美股周二收盘，道指初步收跌0.07%，标普500指数跌0.2%，纳指微涨。纳斯达克中国金龙指数收涨近2%，蔚来汽车(NIO.N)涨15%。",
           "url": "https://flash.jin10.com/detail/20260311040210694800",
           "source": "金十数据",
@@ -459,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "业内人士谈小米汽车被销售嘲讽",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E9%94%80%E5%94%AE%E5%98%B2%E8%AE%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     },
