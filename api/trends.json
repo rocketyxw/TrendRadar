@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T18:27:06.722138+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-03-11T19:24:44.584770+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
@@ -87,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时16分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时16分 ~ 19时24分]"
         },
         {
           "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
@@ -113,8 +113,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时16分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时16分 ~ 19时24分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -125,8 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时16分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时16分 ~ 19时24分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -138,8 +138,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时54分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 19时24分]"
         },
         {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
@@ -171,8 +171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时24分]"
         },
         {
           "title": "美以伊战争｜英媒：特朗普想要脱身，没那么容易",
@@ -352,7 +352,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
