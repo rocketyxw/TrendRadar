@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T00:46:11.568752+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T01:40:23.157847+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时40分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时40分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时40分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -48,8 +48,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时40分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
+          "url": "https://flash.jin10.com/detail/20260313010502775800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         }
       ]
     },
@@ -64,7 +75,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
         },
@@ -75,7 +86,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
         }
