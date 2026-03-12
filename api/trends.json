@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-03-12T21:54:14.715377+08:00",
-  "total_titles_processed": 1958,
+  "generated_at": "2026-03-12T22:39:26.122441+08:00",
+  "total_titles_processed": 2054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 87,
       "titles": [
-        {
-          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
-          "url": "https://wallstreetcn.com/articles/3767268",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时16分 ~ 21时54分]"
-        },
         {
           "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
           "url": "https://www.cls.cn/detail/2310747",
@@ -31,8 +18,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时28分 ~ 21时54分]"
+          "appearance_count": 10,
+          "time_info": "[16时28分 ~ 22时39分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[06时16分 ~ 22时39分]"
         },
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -80,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时26分 ~ 21时54分]"
+          "appearance_count": 15,
+          "time_info": "[11时26分 ~ 22时39分]"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -116,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 21时54分]"
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 22时39分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -216,6 +216,18 @@
           "time_info": "00时37分"
         },
         {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时28分 ~ 22时39分]"
+        },
+        {
           "title": "特朗普：美国在伊朗没有采取可以采取的某些行动。",
           "url": "https://flash.jin10.com/detail/20260312002714882800",
           "source": "金十数据",
@@ -312,18 +324,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时15分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 21时54分]"
         },
         {
           "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
@@ -846,6 +846,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "美国总统特朗普的司法部提交诉讼，要求阻止加州的电动汽车政策。",
+          "url": "https://wallstreetcn.com/livenews/3068989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "特朗普再次威胁将切断与西班牙贸易往来",
           "url": "https://flash.jin10.com/detail/20260312024400952800",
           "source": "金十数据",
@@ -866,6 +877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "美国能源部长赖特：美国总统特朗普担心短期内能源价格走高。",
+          "url": "https://flash.jin10.com/detail/20260312220842654800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗行动）我们击毁了58艘伊朗海军舰艇。",
@@ -973,7 +995,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -992,7 +1014,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "汽车开多久换，性价比最高？",
@@ -1063,7 +1085,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -1154,6 +1176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "美国司法部提起诉讼，旨在阻止加州的电动汽车强制性规定。",
+          "url": "https://flash.jin10.com/detail/20260312220703615800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计2026年第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 预计2026年第一季度车辆交付量为85,000至90,000辆，同比减少8.5%至3.1%。 理想汽车美股盘前下跌近3%。",
