@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-13T05:22:03.028906+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-03-13T06:14:18.476578+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 16,
       "titles": [
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时14分]"
+        },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
@@ -19,15 +30,16 @@
           "time_info": "[00时45分 ~ 05时22分]"
         },
         {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时14分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -37,19 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时22分]"
-        },
-        {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时14分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -90,22 +91,24 @@
           "url": "https://flash.jin10.com/detail/20260313045000353800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时14分]"
         },
         {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
           "url": "https://wallstreetcn.com/livenews/3069156",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时14分]"
         },
         {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
@@ -114,7 +117,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -125,7 +128,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -195,11 +198,12 @@
           "url": "https://wallstreetcn.com/livenews/3069149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时14分]"
         },
         {
           "title": "马斯克：Digital Optimus将适用于所有配备AI4的汽车。",
