@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T22:34:30.635371+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2026-03-13T23:32:04.823024+08:00",
+  "total_titles_processed": 2144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 63,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -54,6 +54,17 @@
           "time_info": "[00时45分 ~ 07时17分]"
         },
         {
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时32分]"
+        },
+        {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
           "url": "https://wallstreetcn.com/articles/3767380",
           "source": "华尔街见闻",
@@ -64,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时24分 ~ 22时34分]"
+          "appearance_count": 14,
+          "time_info": "[11时24分 ~ 23时32分]"
         },
         {
           "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
@@ -96,17 +107,6 @@
           "time_info": "[00时45分 ~ 16时25分]"
         },
         {
-          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
-          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时34分]"
-        },
-        {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
           "url": "https://www.cls.cn/detail/2311436",
           "source": "财联社热门",
@@ -119,6 +119,44 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时57分 ~ 16时25分]"
+        },
+        {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时32分]"
+        },
+        {
+          "title": "美以伊战争｜伊朗战局如何收场？特朗普哪边都想哄",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 23时32分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -200,6 +238,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "Cameco Corp一度下跌8.9%，Energy Fuels Inc.一度下跌4.4%，特朗普称目前重点不在于获取伊朗铀材料。",
+          "url": "https://wallstreetcn.com/livenews/3069903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国总统特朗普：我们拥有无与伦比的火力、无限的弹药和充足的时间——看看今天伊朗会发生什么。",
           "url": "https://flash.jin10.com/detail/20260313124216025800",
           "source": "金十数据",
@@ -247,30 +296,27 @@
           "time_info": "[07时17分 ~ 13时08分]"
         },
         {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
+          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
+          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            19,
-            15,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时32分]"
         },
         {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
-          "source": "凤凰网",
+          "title": "以色列总统称特朗普攻击国家主权",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BB%E5%87%BB%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[22时34分 ~ 23时32分]"
         },
         {
           "title": "中方就特朗普访华计划准备进展如何？外交部回应",
@@ -308,6 +354,18 @@
           "time_info": "[04时21分 ~ 05时22分]"
         },
         {
+          "title": "美国总统特朗普谈论“Save America Act”，称：（国会山）领导层必须找到（足够多的支持）票数。",
+          "url": "https://wallstreetcn.com/livenews/3069869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时32分]"
+        },
+        {
           "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2015341795039475528",
           "source": "知乎",
@@ -332,17 +390,6 @@
           "time_info": "[05时22分 ~ 06时14分]"
         },
         {
-          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
-          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时34分]"
-        },
-        {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
           "url": "https://wallstreetcn.com/livenews/3069156",
           "source": "华尔街见闻-快讯",
@@ -355,35 +402,13 @@
           "time_info": "[05时22分 ~ 06时14分]"
         },
         {
-          "title": "以色列总统称特朗普攻击国家主权",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BB%E5%87%BB%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "美国总统特朗普谈论“Save America Act”，称：（国会山）领导层必须找到（足够多的支持）票数。",
-          "url": "https://wallstreetcn.com/livenews/3069869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
           "title": "市场消息：美国总统特朗普政府提议让巴西接收在美国被捕的外国人。",
           "url": "https://flash.jin10.com/detail/20260313222101323800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -394,7 +419,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -438,7 +463,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -493,7 +518,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -515,7 +540,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -575,6 +600,28 @@
           "time_info": "20时28分"
         },
         {
+          "title": "美国总统特朗普：一旦伊朗战争结束，（美国）经济就会迅速反弹。",
+          "url": "https://wallstreetcn.com/livenews/3069886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "特朗普：我们在无人机防御方面不需要乌克兰的帮助。",
+          "url": "https://flash.jin10.com/detail/20260313230019786800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
           "url": "https://flash.jin10.com/detail/20260313010502775800",
           "source": "金十数据",
@@ -584,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普表示，他的政府将“研究”暂停实施《琼斯法》。",
+          "url": "https://wallstreetcn.com/livenews/3069883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
@@ -614,7 +672,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -650,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "特朗普在德克萨斯州参议院共和党初选中表示，我想做点什么。",
+          "url": "https://flash.jin10.com/detail/20260313225257097800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
@@ -802,11 +871,12 @@
           "url": "https://www.zhihu.com/question/2014783631814580088",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时34分 ~ 23时32分]"
         }
       ]
     },
