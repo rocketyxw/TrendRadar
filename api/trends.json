@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T19:21:57.716731+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2026-03-13T20:28:43.303465+08:00",
+  "total_titles_processed": 1829,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -20,6 +20,17 @@
           "time_info": "[00时45分 ~ 07时17分]"
         },
         {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 20时28分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 05时22分]"
-        },
-        {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 19时21分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -52,6 +52,34 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 07时17分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时07分 ~ 20时28分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 20时28分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -67,32 +95,15 @@
           "time_info": "[00时45分 ~ 16时25分]"
         },
         {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8,
-            5,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时07分 ~ 19时21分]"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时28分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -107,17 +118,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时57分 ~ 16时25分]"
-        },
-        {
-          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
-          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时21分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -170,7 +170,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -210,6 +210,17 @@
           "time_info": "13时08分"
         },
         {
+          "title": "美媒曝特朗普在七国集团会议上“吹嘘”伊朗“即将投降”",
+          "url": "https://wallstreetcn.com/livenews/3069750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
           "source": "澎湃新闻",
@@ -222,6 +233,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时17分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时28分]"
         },
         {
           "title": "中方就特朗普访华计划准备进展如何？外交部回应",
@@ -245,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时28分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -295,29 +330,6 @@
           "time_info": "[05时22分 ~ 06时14分]"
         },
         {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时21分]"
-        },
-        {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "日本首相高市早苗：将巩固与特朗普的信任关系。 将在美峰会中阐述日本在中东问题上的立场。 强化基本面能增强日元的信心。",
           "url": "https://wallstreetcn.com/livenews/3069422",
           "source": "华尔街见闻-快讯",
@@ -340,13 +352,24 @@
           "time_info": "13时08分"
         },
         {
+          "title": "美国国防部长赫格塞思：关于特朗普政府低估伊朗战争对霍尔木兹海峡影响的报道真是荒谬。",
+          "url": "https://flash.jin10.com/detail/20260313201610106800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗局势）未来一周将对他们予以迎头痛击。",
           "url": "https://flash.jin10.com/detail/20260313190732526800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -357,7 +380,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -368,9 +391,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：特朗普将决定时机。",
+          "url": "https://flash.jin10.com/detail/20260313201328729800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
@@ -401,7 +435,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -426,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：一切都掌握在特朗普手中。",
+          "url": "https://flash.jin10.com/detail/20260313201129808800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
@@ -489,7 +534,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
