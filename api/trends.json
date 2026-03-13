@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T11:24:47.292574+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-03-13T13:08:06.156230+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -55,6 +55,17 @@
           "time_info": "[00时45分 ~ 08时57分]"
         },
         {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时08分]"
+        },
+        {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
           "url": "https://flash.jin10.com/detail/20260313030815962800",
           "source": "金十数据",
@@ -77,27 +88,28 @@
           "time_info": "04时21分"
         },
         {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
             1,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时24分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时08分]"
+        },
+        {
+          "title": "美国总统特朗普：我们拥有无与伦比的火力、无限的弹药和充足的时间——看看今天伊朗会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260313124216025800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
@@ -106,11 +118,59 @@
           "ranks": [
             15,
             12,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时08分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时24分]"
+          "time_info": "[11时24分 ~ 13时08分]"
+        },
+        {
+          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普炮轰鲍威尔：现在立刻降息",
+          "url": "https://www.toutiao.com/trending/7616231966203379758/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -149,16 +209,15 @@
           "time_info": "[05时22分 ~ 06时14分]"
         },
         {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时24分]"
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
@@ -173,15 +232,15 @@
           "time_info": "[05时22分 ~ 06时14分]"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗的一切都在被摧毁",
+          "url": "https://flash.jin10.com/detail/20260313123158096800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "13时08分"
         },
         {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
@@ -223,20 +282,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "11时24分"
         },
         {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
@@ -307,7 +355,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -318,7 +366,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
