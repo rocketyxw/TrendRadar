@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T21:37:59.238196+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-03-14T22:18:49.997248+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -19,18 +19,6 @@
           "time_info": "[00时24分 ~ 07时16分]"
         },
         {
-          "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
-          "url": "https://wallstreetcn.com/articles/3767499",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时05分 ~ 21时37分]"
-        },
-        {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
           "url": "https://wallstreetcn.com/articles/3767517",
           "source": "华尔街见闻",
@@ -39,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时27分 ~ 21时37分]"
+          "appearance_count": 10,
+          "time_info": "[15时27分 ~ 22时18分]"
+        },
+        {
+          "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
+          "url": "https://wallstreetcn.com/articles/3767499",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时05分 ~ 22时18分]"
         },
         {
           "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时55分 ~ 21时37分]"
+          "appearance_count": 15,
+          "time_info": "[08时55分 ~ 22时18分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -68,6 +68,17 @@
           "time_info": "[00时24分 ~ 04时20分]"
         },
         {
+          "title": "伊朗早已预判并准备摊牌，特朗普会先眨眼",
+          "url": "https://news.ifeng.com/c/8rUHC0I1TgI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时18分]"
+        },
+        {
           "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
           "url": "https://www.cls.cn/detail/2312864",
           "source": "财联社热门",
@@ -77,19 +88,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时55分 ~ 21时37分]"
-        },
-        {
-          "title": "伊朗早已预判并准备摊牌，特朗普会先眨眼",
-          "url": "https://news.ifeng.com/c/8rUHC0I1TgI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 21时37分]"
+          "appearance_count": 15,
+          "time_info": "[08时55分 ~ 22时18分]"
         },
         {
           "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
@@ -99,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时31分 ~ 21时37分]"
+          "appearance_count": 12,
+          "time_info": "[14时31分 ~ 22时18分]"
         },
         {
           "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
@@ -175,11 +175,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时18分 ~ 21时37分]"
+          "appearance_count": 14,
+          "time_info": "[11时18分 ~ 22时18分]"
         },
         {
           "title": "美以伊战争丨特朗普或把美防长当人肉盾牌",
@@ -204,6 +205,17 @@
           "time_info": "[05时22分 ~ 07时16分]"
         },
         {
+          "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
+          "url": "https://news.ifeng.com/c/8rUH3IUe3be",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时18分]"
+        },
+        {
           "title": "美以伊战争丨美防长喊话特朗普盟友：赶紧买了CNN",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -213,17 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 17时21分]"
-        },
-        {
-          "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
-          "url": "https://news.ifeng.com/c/8rUH3IUe3be",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 21时37分]"
         },
         {
           "title": "美以伊战争｜特朗普承认：美以目标可能不太一样",
@@ -252,6 +253,17 @@
           "time_info": "[13时05分 ~ 17时21分]"
         },
         {
+          "title": "特朗普：许多国家将与美国一同派遣军舰，保证霍尔木兹海峡通航",
+          "url": "https://flash.jin10.com/detail/20260314220737849800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "特朗普宣布对伊朗石油出口枢纽哈尔克岛发动空袭。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3070053",
           "source": "华尔街见闻-快讯",
@@ -263,6 +275,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "特朗普否认5架美军加油机被毁",
+          "url": "https://wallstreetcn.com/livenews/3070180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "特朗普承认美以对结束战争目标不同",
           "url": "https://flash.jin10.com/detail/20260314082854992800",
           "source": "金十数据",
@@ -272,6 +295,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "找个台阶下吧！特朗普顾问：是时候“宣布胜利并撤出”伊朗了",
+          "url": "https://wallstreetcn.com/articles/3767518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "美军何时护航油轮通过霍尔木兹海峡？特朗普最新表态：很快",
@@ -323,18 +358,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 11时18分]"
-        },
-        {
-          "title": "找个台阶下吧！特朗普顾问：是时候“宣布胜利并撤出”伊朗了",
-          "url": "https://wallstreetcn.com/articles/3767518",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 21时37分]"
         },
         {
           "title": "特朗普放松对委内瑞拉石油和化肥的制裁 以缓解美国通胀压力",
@@ -435,6 +458,18 @@
           "time_info": "[04时20分 ~ 05时22分]"
         },
         {
+          "title": "最新民调显示特朗普支持率下滑，分析师：市场应关注中期选举风险",
+          "url": "https://flash.jin10.com/detail/20260314204257827800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时18分]"
+        },
+        {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：总统特朗普让社区银行可以染指抵押贷款。",
           "url": "https://wallstreetcn.com/livenews/3069993",
           "source": "华尔街见闻-快讯",
@@ -507,6 +542,18 @@
           "time_info": "[11时18分 ~ 13时05分]"
         },
         {
+          "title": "特朗普：民主党拒绝履行国会协议致TSA员工停薪",
+          "url": "https://flash.jin10.com/detail/20260314201705454800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时18分]"
+        },
+        {
           "title": "周五（3月13日），降息赢家指数跌0.54%，报87.04点，本周累计下跌4.66%，整体冲高回落，周二纽约中午之前持续走高，随后持续走低。 “特朗普关税输家”指数累跌4.30%，报100.96点，整体冲高回落。 “特朗普金融指数”累跌4.32%，报143.74点。 散户抱团概念股指数/迷因股（meme stock）指数累跌0.85%，报12.39点。",
           "url": "https://wallstreetcn.com/livenews/3070008",
           "source": "华尔街见闻-快讯",
@@ -528,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "特朗普再度怒斥“假媒体” 称美军五架加油机被毁报道纯属捏造",
+          "url": "https://flash.jin10.com/detail/20260314213948076800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美国总统特朗普放松对委内瑞拉石油和化肥的制裁。（Axios）",
@@ -552,15 +610,15 @@
           "time_info": "03时24分"
         },
         {
-          "title": "最新民调显示特朗普支持率下滑，分析师：市场应关注中期选举风险",
-          "url": "https://flash.jin10.com/detail/20260314204257827800",
+          "title": "美国总统特朗普：五架空中加油机中有四架几乎没有受损，现已恢复执勤。",
+          "url": "https://flash.jin10.com/detail/20260314213726297800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时37分"
+          "time_info": "22时18分"
         },
         {
           "title": "消息人士：特朗普政府严重低估伊朗关闭霍尔木兹海峡的意愿",
@@ -572,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美国总统特朗普：沙特阿拉伯的一个基地几天前遭到了袭击，但飞机并未被“击中”或“摧毁”。",
+          "url": "https://flash.jin10.com/detail/20260314213656454800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美媒曝特朗普在七国集团会议上“吹嘘”伊朗“即将投降”",
@@ -660,17 +729,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        },
-        {
-          "title": "特朗普：民主党拒绝履行国会协议致TSA员工停薪",
-          "url": "https://flash.jin10.com/detail/20260314201705454800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普签署关于降低住房监管的命令。 前述关于减少抵押贷款监管的命令。（美联社）",
@@ -818,6 +876,49 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
+          "url": "https://wallstreetcn.com/livenews/3070090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            16,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 18时16分]"
+        },
+        {
+          "title": "我的报废汽车去哪了",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E6%8A%A5%E5%BA%9F%E6%B1%BD%E8%BD%A6%E5%8E%BB%E5%93%AA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
+          "url": "https://www.zhihu.com/question/2014785530991236759",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -848,38 +949,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时18分 ~ 15时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
-          "url": "https://wallstreetcn.com/livenews/3070090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            16,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 18时16分]"
-        },
-        {
-          "title": "我的报废汽车去哪了",
-          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E6%8A%A5%E5%BA%9F%E6%B1%BD%E8%BD%A6%E5%8E%BB%E5%93%AA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
         }
       ]
     },
