@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T11:18:48.538766+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-03-14T13:05:47.726985+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -58,11 +58,12 @@
           "source": "凤凰网",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 13时05分]"
         },
         {
           "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
@@ -72,11 +73,12 @@
             7,
             9,
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 13时05分]"
         },
         {
           "title": "美国总统特朗普拒绝俄罗斯总统普京关于“将伊朗铀转移至俄罗斯”的提议。",
@@ -101,15 +103,28 @@
           "time_info": "08时55分"
         },
         {
-          "title": "特朗普政府已启动美国石油储备释放程序",
-          "url": "https://flash.jin10.com/detail/20260314110424639800",
-          "source": "金十数据",
+          "title": "特朗普声称伊朗已被“彻底击败”",
+          "url": "https://wallstreetcn.com/livenews/3070086",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
+          "url": "https://wallstreetcn.com/articles/3767495",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时05分]"
         },
         {
           "title": "特朗普宣布对伊朗石油出口枢纽哈尔克岛发动空袭。（新华社）",
@@ -134,6 +149,30 @@
           "time_info": "08时55分"
         },
         {
+          "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
+          "url": "https://wallstreetcn.com/articles/3767499",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
+          "url": "https://www.cls.cn/detail/2312864",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时05分]"
+        },
+        {
           "title": "美军何时护航油轮通过霍尔木兹海峡？特朗普最新表态：很快",
           "url": "https://wallstreetcn.com/livenews/3070052",
           "source": "华尔街见闻-快讯",
@@ -145,6 +184,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 11时18分]"
+        },
+        {
+          "title": "特朗普政府已启动美国石油储备释放程序",
+          "url": "https://flash.jin10.com/detail/20260314110424639800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 13时05分]"
         },
         {
           "title": "美国总统特朗普：我非常喜欢墨西哥总统辛鲍姆。 墨西哥在由毒贩们经营。",
@@ -173,18 +224,6 @@
           "time_info": "[07时16分 ~ 11时18分]"
         },
         {
-          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
-          "url": "https://wallstreetcn.com/articles/3767495",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时18分]"
-        },
-        {
           "title": "特朗普放松对委内瑞拉石油和化肥的制裁 以缓解美国通胀压力",
           "url": "https://flash.jin10.com/detail/20260314040738808800",
           "source": "金十数据",
@@ -209,6 +248,31 @@
           "time_info": "[04时20分 ~ 07时16分]"
         },
         {
+          "title": "特朗普被曝拒绝普京提议，反对将伊朗浓缩铀运往俄罗斯",
+          "url": "https://news.ifeng.com/c/8rQgMCfEnth",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时05分]"
+        },
+        {
+          "title": "特朗普承认美以对结束战争目标不同",
+          "url": "https://wallstreetcn.com/livenews/3070060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时05分]"
+        },
+        {
           "title": "美国总统特朗普拒绝了俄罗斯总统普京关于“将伊朗的铀转移至俄罗斯”的建议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3070019",
           "source": "华尔街见闻-快讯",
@@ -220,18 +284,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时16分]"
-        },
-        {
-          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
-          "url": "https://www.cls.cn/detail/2312864",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时18分]"
         },
         {
           "title": "特朗普：美军下周将“猛烈空袭”伊朗，拒绝谈论“夺岛”，不需要乌克兰的反无人机技术",
@@ -258,18 +310,6 @@
           "time_info": "[04时20分 ~ 05时22分]"
         },
         {
-          "title": "特朗普承认美以对结束战争目标不同",
-          "url": "https://wallstreetcn.com/livenews/3070060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时18分]"
-        },
-        {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：总统特朗普让社区银行可以染指抵押贷款。",
           "url": "https://wallstreetcn.com/livenews/3069993",
           "source": "华尔街见闻-快讯",
@@ -282,15 +322,15 @@
           "time_info": "[04时20分 ~ 05时22分]"
         },
         {
-          "title": "特朗普被曝拒绝普京提议，反对将伊朗浓缩铀运往俄罗斯",
-          "url": "https://news.ifeng.com/c/8rQgMCfEnth",
-          "source": "凤凰网",
+          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
+          "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时18分]"
+          "time_info": "[11时18分 ~ 13时05分]"
         },
         {
           "title": "美国检察官：特朗普政府将对法官的美联储传票判决结果提起上诉",
@@ -317,6 +357,29 @@
           "time_info": "[08时55分 ~ 11时18分]"
         },
         {
+          "title": "据华尔街日报：知情人士称，鉴于民调显示特朗普总统在疫苗问题上的举措不受欢迎，他身边的助手决定在管理小罗伯特·F·肯尼迪领导的美国卫生与公众服务部方面发挥更积极作用。",
+          "url": "https://flash.jin10.com/detail/20260314100443746800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 13时05分]"
+        },
+        {
+          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
+          "url": "https://www.cls.cn/detail/2312740",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 13时05分]"
+        },
+        {
           "title": "周五（3月13日），降息赢家指数跌0.54%，报87.04点，本周累计下跌4.66%，整体冲高回落，周二纽约中午之前持续走高，随后持续走低。 “特朗普关税输家”指数累跌4.30%，报100.96点，整体冲高回落。 “特朗普金融指数”累跌4.32%，报143.74点。 散户抱团概念股指数/迷因股（meme stock）指数累跌0.85%，报12.39点。",
           "url": "https://wallstreetcn.com/livenews/3070008",
           "source": "华尔街见闻-快讯",
@@ -338,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "特朗普对哈尔克岛发动空袭",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "美国总统特朗普放松对委内瑞拉石油和化肥的制裁。（Axios）",
@@ -362,17 +436,6 @@
           "time_info": "03时24分"
         },
         {
-          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
           "title": "消息人士：特朗普政府严重低估伊朗关闭霍尔木兹海峡的意愿",
           "url": "https://flash.jin10.com/detail/20260314004306680800",
           "source": "金十数据",
@@ -390,7 +453,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -404,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：假新闻媒体讨厌报道美国军方在对抗伊朗方面的出色表现，而伊朗已经完全被击败了，且想要达成协议——但这不是我会接受的协议！",
+          "url": "https://flash.jin10.com/detail/20260314115534678800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "【美总统被曝拒绝俄总统将伊朗浓缩铀运往俄罗斯提议】13日获悉，有消息人士称，在本周与美国总统特朗普的一次通话中，俄罗斯总统普京提议将伊朗的浓缩铀运往俄罗斯，以此作为结束这场战争协议的一部分，特朗普拒绝了这一提议。 消息人士称，普京在与特朗普通话中就如何结束美伊冲突提出了多项建议，将浓缩铀运往俄罗斯的提议便是其中之一。一位美国官员表示，“这并非俄方首次提出此类建议，但此前均未获接受。美方的立场是：我们必须亲眼确认这批浓缩铀已得到妥善保管并处于安全状态。” 据悉，确保伊朗450公斤丰度为60%的浓缩铀的安全是美国和以色列在这场战争中的关键目标之一。 目前尚不清楚伊朗方面是否会在当前局势下接受俄方的这一提议。（央视）",
@@ -426,28 +500,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，鉴于民调显示特朗普总统在疫苗问题上的举措不受欢迎，他身边的助手决定在管理小罗伯特·F·肯尼迪领导的美国卫生与公众服务部方面发挥更积极作用。",
-          "url": "https://flash.jin10.com/detail/20260314100443746800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
-          "url": "https://www.cls.cn/detail/2312740",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         },
         {
           "title": "美国总统特朗普：（谈海军护航霍尔木兹海峡）很快就会发生。",
@@ -481,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "特朗普顾问呼吁尽快结束伊朗战争：现在是抽身而退的好时候",
+          "url": "https://flash.jin10.com/detail/20260314112744773800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "美国总统特朗普签署关于降低住房监管的命令。 前述关于减少抵押贷款监管的命令。（美联社）",
@@ -555,7 +618,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -613,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "特朗普称若有必要将持续袭击伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%8B%A5%E6%9C%89%E5%BF%85%E8%A6%81%E5%B0%86%E6%8C%81%E7%BB%AD%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     },
@@ -639,11 +713,12 @@
           "url": "https://wallstreetcn.com/livenews/3070070",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 13时05分]"
         }
       ]
     },
