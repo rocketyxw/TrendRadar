@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T16:54:53.368898+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-03-16T17:52:16.996772+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
@@ -161,8 +161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时00分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时00分 ~ 17时52分]"
         },
         {
           "title": "中方回应特朗普涉访华言论",
@@ -172,8 +172,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时00分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时00分 ~ 17时52分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -184,8 +184,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 16时54分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 17时52分]"
+        },
+        {
+          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016791283864138046",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 17时52分]"
+        },
+        {
+          "title": "民调：特朗普正将美国盟友推向中国",
+          "url": "https://www.toutiao.com/trending/7617510305036795923/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时12分 ~ 17时52分]"
         },
         {
           "title": "特朗普称“可能还会再炸几次，只是为了开心”，伊朗外长回应",
@@ -223,30 +249,26 @@
           "time_info": "[14时12分 ~ 14时13分]"
         },
         {
-          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
-          "url": "https://www.zhihu.com/question/2016791283864138046",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 16时54分]"
-        },
-        {
-          "title": "民调：特朗普正将美国盟友推向中国",
-          "url": "https://www.toutiao.com/trending/7617510305036795923/",
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
           "source": "今日头条",
           "ranks": [
-            29,
-            5,
-            21
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时12分 ~ 16时54分]"
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普会投入地面部队吗？",
+          "url": "https://news.ifeng.com/c/8rXXAfLW18s",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时52分]"
         },
         {
           "title": "日本共同社报道称，日本外务大臣茂木敏充和美国国务卿鲁比奥很可能讨论美国总统特朗普关于向霍尔木兹海峡派遣护航舰艇的请求。",
@@ -260,26 +282,28 @@
           "time_info": "14时13分"
         },
         {
-          "title": "中美就特朗普总统访华事保持着沟通",
-          "url": "https://www.toutiao.com/trending/7616995731195052086/",
-          "source": "今日头条",
+          "title": "特朗普威胁将取消访华 中方回应",
+          "url": "https://www.douyin.com/hot/2432550",
+          "source": "抖音",
           "ranks": [
-            2
+            9,
+            8,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时00分 ~ 17时52分]"
         },
         {
-          "title": "特朗普会投入地面部队吗？",
-          "url": "https://news.ifeng.com/c/8rXXAfLW18s",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016900692145637068",
+          "source": "知乎",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时52分"
         },
         {
           "title": "美石油巨头警告特朗普政府：能源危机恐加剧",
@@ -291,6 +315,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
+          "url": "https://www.cls.cn/detail/2314062",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时52分]"
         },
         {
           "title": "据华尔街日报：特朗普政府计划最快于本周宣布，多个国家已同意组成联盟，为通过霍尔木兹海峡的船只提供护航。不过各方仍在讨论这些行动应在伊朗敌对行动结束之前还是之后启动。",
@@ -305,16 +341,15 @@
           "time_info": "[05时17分 ~ 06时15分]"
         },
         {
-          "title": "特朗普威胁将取消访华 中方回应",
-          "url": "https://www.douyin.com/hot/2432550",
-          "source": "抖音",
+          "title": "中方：中美就特朗普访华保持着沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时00分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时00分 ~ 17时52分]"
         },
         {
           "title": "英国首相府：英国首相斯塔默今晚与美国总统特朗普、加拿大总理卡尼进行了通话。",
@@ -330,15 +365,28 @@
           "time_info": "[04时15分 ~ 06时15分]"
         },
         {
-          "title": "中方：中美就特朗普访华保持着沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
+          "title": "中方回应特朗普呼吁多国派军舰护航",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%A4%9A%E5%9B%BD%E6%B4%BE%E5%86%9B%E8%88%B0%E6%8A%A4%E8%88%AA%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时00分 ~ 16时54分]"
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时52分]"
+        },
+        {
+          "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775654",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时52分]"
         },
         {
           "title": "特朗普：美以对伊目标总体一致，具体目标可能不同",
@@ -350,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股期货走高，WTI原油涨2.2%，现货黄金跌破5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "深套伊朗，特朗普“浮亏加仓”，袭击哈尔克是对是错？丨Hi，今天怎么看？",
@@ -369,18 +428,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
-          "url": "https://www.cls.cn/detail/2314062",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -446,7 +494,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -468,29 +516,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "中方回应特朗普呼吁多国派军舰护航",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%A4%9A%E5%9B%BD%E6%B4%BE%E5%86%9B%E8%88%B0%E6%8A%A4%E8%88%AA%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775654",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -609,11 +635,12 @@
           "url": "https://www.cls.cn/detail/2314007",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时52分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）全球汽车制造商市值变化",
