@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T05:27:01.611404+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-03-17T06:21:48.752634+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 62,
       "titles": [
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 06时21分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 06时21分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 06时21分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 06时21分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 06时21分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -83,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 06时21分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -96,11 +96,12 @@
             7,
             18,
             22,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 06时21分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -110,19 +111,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 06时21分]"
         },
         {
-          "title": "特朗普暗示袭击哈尔克岛石油设施",
-          "url": "https://flash.jin10.com/detail/20260317051712836800",
-          "source": "金十数据",
+          "title": "美以伊战争丨特朗普暗示袭击哈尔克岛石油设施",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时21分"
         },
         {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
@@ -136,26 +137,49 @@
           "time_info": "01时51分"
         },
         {
-          "title": "万斯称支持特朗普对伊行动 批评媒体挑拨关系",
-          "url": "https://flash.jin10.com/detail/20260317050625478800",
-          "source": "金十数据",
+          "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
+          "url": "https://wallstreetcn.com/livenews/3071191",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时21分"
         },
         {
-          "title": "美国总统特朗普：我认为我可以对古巴做任何事情，无论是让它自由，还是把它拿下。",
-          "url": "https://flash.jin10.com/detail/20260317050036634800",
+          "title": "特朗普称他将“有幸拿下古巴”",
+          "url": "https://wallstreetcn.com/livenews/3071184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "多国表示不参与霍尔木兹海峡护航 特朗普抱怨盟友“不帮忙”",
+          "url": "https://flash.jin10.com/detail/20260317055555501800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普暗示袭击哈尔克岛石油设施",
+          "url": "https://flash.jin10.com/detail/20260317051712836800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普在肯尼迪中心讲话，宣称：将讨论中东问题。",
@@ -168,6 +192,78 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时51分]"
+        },
+        {
+          "title": "万斯称支持特朗普对伊行动 批评媒体挑拨关系",
+          "url": "https://flash.jin10.com/detail/20260317050625478800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为我可以对古巴做任何事情，无论是让它自由，还是把它拿下。",
+          "url": "https://flash.jin10.com/detail/20260317050036634800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普宣称：最高法院的关税判决结果不会改变（自己挑起的）关税。 （最高法院否决之后）我从另外一个方面再次挑起关税。",
+          "url": "https://wallstreetcn.com/livenews/3071166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
+          "url": "https://flash.jin10.com/detail/20260317045819803800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普承认伊朗报复范围超出预期",
+          "url": "https://flash.jin10.com/detail/20260317045813169800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：最高法院关于关税的裁决不会改变关税政策。我会以不同的方式重新开始征收关税。",
+          "url": "https://flash.jin10.com/detail/20260317045000093800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时21分]"
         },
         {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
@@ -225,28 +321,6 @@
           "time_info": "01时51分"
         },
         {
-          "title": "美国总统特朗普宣称：最高法院的关税判决结果不会改变（自己挑起的）关税。 （最高法院否决之后）我从另外一个方面再次挑起关税。",
-          "url": "https://wallstreetcn.com/livenews/3071166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
-          "url": "https://flash.jin10.com/detail/20260317045819803800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
           "title": "美国总统特朗普：美联储应立即召开特别会议降息。",
           "url": "https://flash.jin10.com/detail/20260317002907185800",
           "source": "金十数据",
@@ -256,17 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "特朗普承认伊朗报复范围超出预期",
-          "url": "https://flash.jin10.com/detail/20260317045813169800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
         },
         {
           "title": "特朗普称美方已打击伊朗逾7000个目标",
@@ -289,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "特朗普成立联邦福利欺诈特别工作组 由万斯领导",
+          "url": "https://flash.jin10.com/detail/20260317052518543800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：大公司正在进入委内瑞拉，将迅速提升委内瑞拉的石油生产。",
@@ -335,6 +409,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "特朗普再就结束战争给出模糊时间表：很快，但不是本周",
+          "url": "https://flash.jin10.com/detail/20260317051846700800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "美国总统特朗普：真主党一直是个问题。",
           "url": "https://flash.jin10.com/detail/20260317011359200800",
           "source": "金十数据",
@@ -344,17 +429,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
-        },
-        {
-          "title": "美国总统特朗普：最高法院关于关税的裁决不会改变关税政策。我会以不同的方式重新开始征收关税。",
-          "url": "https://flash.jin10.com/detail/20260317045000093800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
         },
         {
           "title": "特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全",
@@ -429,7 +503,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -462,7 +536,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -484,7 +558,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -506,7 +580,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -605,7 +679,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -627,7 +701,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
@@ -656,7 +730,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -667,7 +741,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
@@ -715,8 +789,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 06时21分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
