@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-16T07:17:37.192433+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-03-16T09:05:50.001566+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
-          "url": "https://wallstreetcn.com/articles/3767534",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时17分]"
-        },
         {
           "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -30,6 +19,18 @@
           "time_info": "[00时17分 ~ 07时17分]"
         },
         {
+          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
+          "url": "https://wallstreetcn.com/articles/3767534",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时05分]"
+        },
+        {
           "title": "特朗普点名日本护航，高市早苗压力陡增",
           "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
           "source": "凤凰网",
@@ -37,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时05分]"
         },
         {
           "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
@@ -49,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时05分]"
         },
         {
           "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
@@ -60,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时05分]"
         },
         {
           "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
@@ -71,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时05分]"
         },
         {
           "title": "特朗普呼吁多国派遣军舰护航，回应来了",
@@ -82,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时05分]"
         },
         {
           "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
@@ -92,11 +93,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时05分]"
         },
         {
           "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
@@ -128,11 +130,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时05分]"
         },
         {
           "title": "特朗普称“可能还会再炸几次，只是为了开心”，伊朗外长回应",
@@ -154,7 +157,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -184,13 +187,57 @@
           "time_info": "[04时15分 ~ 06时15分]"
         },
         {
+          "title": "特朗普：美以对伊目标总体一致，具体目标可能不同",
+          "url": "https://flash.jin10.com/detail/20260316085624563800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普称美国可能很快与古巴达成协议",
+          "url": "https://wallstreetcn.com/livenews/3070463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普称将先处理伊朗问题，再推进与古巴的协议",
+          "url": "https://flash.jin10.com/detail/20260316084925081800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗核计划）不会有核武器。这只是开始，我们还会得到更多让步。",
+          "url": "https://flash.jin10.com/detail/20260316084339151800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "据华尔街日报：埃克森美孚、雪佛龙、康菲石油公司首席执行官警告美国总统特朗普的官员，伊朗战争扰乱霍尔木兹海峡将加剧能源危机。",
           "url": "https://flash.jin10.com/detail/20260316061016846800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -201,9 +248,64 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在与古巴谈判，但我们会先处理伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260316082146876800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：我认为古巴问题很快就会有进展。",
+          "url": "https://flash.jin10.com/detail/20260316082102029800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普威胁北约盟友，要求协助霍尔木兹海峡通航",
+          "url": "https://wallstreetcn.com/livenews/3070444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：（谈古巴）我认为我们很快就会达成协议，或者采取必要行动。",
+          "url": "https://flash.jin10.com/detail/20260316081825739800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在与伊朗方面对话，但我认为他们还没有做好准备。",
+          "url": "https://flash.jin10.com/detail/20260316081444267800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
