@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T18:38:22.687441+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2026-03-17T19:34:59.450682+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 100,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 19时34分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -188,8 +188,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时47分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[14时47分 ~ 19时34分]"
+        },
+        {
+          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 19时34分]"
         },
         {
           "title": "美以伊战争丨特朗普施压，鸠山由纪夫喊话高市早苗",
@@ -201,19 +215,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 18时38分]"
         },
         {
           "title": "中方回应特朗普称推迟一个月访华",
@@ -236,6 +237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 09时07分]"
+        },
+        {
+          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时34分]"
         },
         {
           "title": "美以伊战争丨特朗普暗示袭击哈尔克岛石油设施",
@@ -271,6 +283,19 @@
           "time_info": "13时16分"
         },
         {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 19时34分]"
+        },
+        {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
           "url": "https://flash.jin10.com/detail/20260317014030515800",
           "source": "金十数据",
@@ -293,30 +318,6 @@
           "time_info": "17时42分"
         },
         {
-          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 18时38分]"
-        },
-        {
           "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
           "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
           "source": "澎湃新闻",
@@ -328,6 +329,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时06分 ~ 13时16分]"
+        },
+        {
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://www.cls.cn/detail/2315375",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时34分]"
         },
         {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
@@ -412,18 +426,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时19分]"
-        },
-        {
-          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
-          "url": "https://www.cls.cn/detail/2315375",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时38分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -521,6 +523,17 @@
           "time_info": "13时16分"
         },
         {
+          "title": "特朗普再抱怨英国“放马后炮”",
+          "url": "https://wallstreetcn.com/livenews/3071636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260317003357598800",
           "source": "金十数据",
@@ -604,7 +617,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -662,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普邀请生物燃料生产商参加下周的活动。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3071628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "美国总统特朗普：大公司正在进入委内瑞拉，将迅速提升委内瑞拉的石油生产。",
@@ -1151,11 +1175,12 @@
             6,
             9,
             14,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 18时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 19时34分]"
         },
         {
           "title": "雷军回应苏炳添代言小米汽车：他姓SU",
@@ -1265,7 +1290,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
@@ -1317,7 +1342,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
@@ -1333,11 +1358,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时38分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时34分]"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
