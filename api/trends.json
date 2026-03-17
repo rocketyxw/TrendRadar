@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T00:52:17.065242+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-18T01:51:07.553641+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -15,41 +15,77 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "美国总统特朗普：古巴正与国务卿卢比奥对话。",
-          "url": "https://wallstreetcn.com/livenews/3071801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时51分]"
         },
         {
           "title": "特朗普称将接管古巴",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E6%8E%A5%E7%AE%A1%E5%8F%A4%E5%B7%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时51分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗行动进展迅速，远超计划，预计几周内会有结论。",
+          "url": "https://flash.jin10.com/detail/20260318014629718800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普夸赞美国股市表现。",
+          "url": "https://flash.jin10.com/detail/20260318014614651800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争进展顺利。今天我们过得很充实，击中了多个目标。",
+          "url": "https://flash.jin10.com/detail/20260318014202431800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：古巴正与国务卿卢比奥对话。",
+          "url": "https://wallstreetcn.com/livenews/3071801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时51分]"
         },
         {
           "title": "美国总统特朗普：我们本来就无需支持乌克兰。",
           "url": "https://wallstreetcn.com/livenews/3071797",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时51分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -59,19 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "美国总统特朗普谈论法国总统马克龙，声称：他很快就会下台。",
-          "url": "https://wallstreetcn.com/livenews/3071796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时51分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -81,8 +106,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时51分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -90,6 +115,17 @@
           "source": "凤凰网",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时51分]"
+        },
+        {
+          "title": "美国总统特朗普谈论法国总统马克龙，声称：他很快就会下台。",
+          "url": "https://wallstreetcn.com/livenews/3071796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -173,6 +209,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://wallstreetcn.com/livenews/3071810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
           "title": "美国总统特朗普：伊朗战争很快就会结束。而战争一结束，油价就会断崖式下跌。",
           "url": "https://flash.jin10.com/detail/20260318002215549800",
           "source": "金十数据",
@@ -182,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "特朗普称伊朗两名高级官员“已被清除”",
+          "url": "https://wallstreetcn.com/livenews/3071809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "美国总统特朗普：欧洲发生了非常糟糕的事情，他们最好对移民和能源采取行动，否则欧洲将不复存在。",
@@ -226,6 +284,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
+          "url": "https://wallstreetcn.com/livenews/3071826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
+          "url": "https://wallstreetcn.com/livenews/3071811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
+          "url": "https://flash.jin10.com/detail/20260318010850842800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         }
       ]
     },
