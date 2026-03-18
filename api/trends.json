@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T13:56:03.820239+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-03-18T14:46:27.669238+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 14时46分]"
+        },
+        {
+          "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
+          "url": "https://wallstreetcn.com/articles/3767756",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时21分 ~ 14时46分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -79,20 +93,6 @@
           "time_info": "[00时52分 ~ 05时25分]"
         },
         {
-          "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
-          "url": "https://wallstreetcn.com/articles/3767756",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时21分 ~ 13时56分]"
-        },
-        {
           "title": "美以伊战争丨特朗普：不担心伊朗会成为另一个越南",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -100,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 14时46分]"
         },
         {
           "title": "国台办回应特朗普或将批准对台军售案",
@@ -111,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 14时46分]"
         },
         {
           "title": "美国总统特朗普：伊朗行动进展迅速，远超计划，预计几周内会有结论。",
@@ -159,6 +159,18 @@
           "time_info": "01时51分"
         },
         {
+          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
+          "url": "https://www.cls.cn/detail/2316165",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 14时46分]"
+        },
+        {
           "title": "特朗普谈反恐中心主任辞职：他走人是好事",
           "url": "https://flash.jin10.com/detail/20260318032156939800",
           "source": "金十数据",
@@ -171,16 +183,16 @@
           "time_info": "[03时45分 ~ 04时26分]"
         },
         {
-          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
-          "url": "https://www.cls.cn/detail/2316165",
-          "source": "财联社热门",
+          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
+          "url": "https://news.ifeng.com/c/8radF7mAvMh",
+          "source": "凤凰网",
           "ranks": [
             7,
             9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时02分 ~ 13时56分]"
+          "time_info": "[12时11分 ~ 14时46分]"
         },
         {
           "title": "美国总统特朗普：古巴正与国务卿卢比奥对话。",
@@ -231,16 +243,38 @@
           "time_info": "[00时52分 ~ 01时51分]"
         },
         {
-          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
-          "url": "https://news.ifeng.com/c/8radF7mAvMh",
+          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
+          "url": "https://news.ifeng.com/c/8raajLUudf0",
           "source": "凤凰网",
           "ranks": [
-            7,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时46分]"
+        },
+        {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时46分]"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时46分]"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -256,38 +290,15 @@
           "time_info": "[02时47分 ~ 04时26分]"
         },
         {
-          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
-          "url": "https://news.ifeng.com/c/8raajLUudf0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时56分]"
-        },
-        {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时56分]"
-        },
-        {
-          "title": "特朗普称应考虑美国退出北约的可能性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时56分]"
+          "time_info": "[13时55分 ~ 14时46分]"
         },
         {
           "title": "特朗普称对北约很失望",
@@ -336,17 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时45分]"
-        },
-        {
-          "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
@@ -579,11 +579,12 @@
           "url": "https://www.cls.cn/detail/2316434",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 14时46分]"
         },
         {
           "title": "周二（3月17日），彭博电动汽车价格回报指数涨0.16%，报3620.52点，亚太早盘曾显著走高、迅速在北京时间10:06刷新日高至3655.93点。",
@@ -604,7 +605,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -670,7 +671,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -692,7 +693,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         }
@@ -711,8 +712,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时46分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -767,7 +768,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -843,11 +844,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时46分]"
         }
       ]
     }
