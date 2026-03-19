@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T16:28:30.632009+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-03-19T17:32:06.340438+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 06时20分]"
+        },
+        {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 17时32分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -92,19 +105,6 @@
           "time_info": "[00时37分 ~ 09时02分]"
         },
         {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 16时28分]"
-        },
-        {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
           "url": "https://www.cls.cn/detail/2316670",
           "source": "财联社热门",
@@ -126,6 +126,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -185,6 +207,17 @@
           "time_info": "[09时01分 ~ 13时49分]"
         },
         {
+          "title": "高市早苗访美与特朗普如何“面对面”？",
+          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时32分]"
+        },
+        {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
           "url": "https://wallstreetcn.com/livenews/3072708",
           "source": "华尔街见闻-快讯",
@@ -209,15 +242,15 @@
           "time_info": "[05时24分 ~ 06时20分]"
         },
         {
-          "title": "高市早苗访美与特朗普如何“面对面”？",
-          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
-          "source": "凤凰网",
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时28分]"
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "特朗普豁免执行《琼斯法》遏制高油价",
@@ -252,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美前反恐中心主任辞职后首发声：大量关键意见根本传不到特朗普耳边！",
+          "url": "https://flash.jin10.com/detail/20260319171537924800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "全球LNG命脉被炸、市场恐慌，特朗普澄清不知情：再犯就夷平南帕尔斯气田！",
@@ -315,7 +359,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -353,6 +397,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://wallstreetcn.com/livenews/3073117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
           "url": "https://flash.jin10.com/detail/20260319051642306800",
           "source": "金十数据",
@@ -367,19 +422,8 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "标普全球：预计在剔除电动汽车相关亏损后，盈利能力和现金流将于2027财年开始恢复。",
-          "url": "https://flash.jin10.com/detail/20260319141929890800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
         {
           "title": "舒淇代言小米汽车 SU7谐音梗成真",
           "url": "https://www.toutiao.com/trending/7618063303169261587/",
@@ -388,11 +432,12 @@
             13,
             12,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 16时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 17时32分]"
         },
         {
           "title": "雷军官宣舒淇成小米汽车品牌代言人",
@@ -405,8 +450,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 17时32分]"
+        },
+        {
+          "title": "标普全球：预计在剔除电动汽车相关亏损后，盈利能力和现金流将于2027财年开始恢复。",
+          "url": "https://flash.jin10.com/detail/20260319141929890800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "央国企高端新能源汽车第一股上市",
@@ -467,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "指引更明确 市场监管总局发布2026版汽车召回用户指南",
+          "url": "https://wallstreetcn.com/livenews/3073143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "标普全球：将本田汽车评级下调至“BBB+”；展望稳定。",
@@ -530,7 +597,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -552,7 +619,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -601,13 +668,24 @@
           "time_info": "13时49分"
         },
         {
+          "title": "金杯汽车：控股子公司获8.86亿元乘用车内饰项目定点",
+          "url": "https://flash.jin10.com/detail/20260319170455652800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "岚图汽车上市 武汉上空现祝贺飞艇",
           "url": "https://www.toutiao.com/trending/7618802943983124506/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
