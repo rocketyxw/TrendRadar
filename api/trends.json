@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T20:32:52.053498+08:00",
-  "total_titles_processed": 1928,
+  "generated_at": "2026-03-19T22:02:38.106720+08:00",
+  "total_titles_processed": 2046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -58,6 +58,29 @@
           "time_info": "[00时37分 ~ 07时20分]"
         },
         {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 22时02分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 22时02分]"
+        },
+        {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
           "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
@@ -105,17 +128,6 @@
           "time_info": "[00时37分 ~ 09时02分]"
         },
         {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时32分]"
-        },
-        {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
           "url": "https://www.cls.cn/detail/2316670",
           "source": "财联社热门",
@@ -126,17 +138,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 07时20分]"
-        },
-        {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时32分]"
         },
         {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
@@ -205,6 +206,18 @@
           "time_info": "07时20分"
         },
         {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 22时02分]"
+        },
+        {
           "title": "高市早苗访美与特朗普如何“面对面”？",
           "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
           "source": "凤凰网",
@@ -214,6 +227,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时39分 ~ 18时28分]"
+        },
+        {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 22时02分]"
         },
         {
           "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
@@ -227,28 +252,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 13时49分]"
-        },
-        {
-          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
-          "url": "https://wallstreetcn.com/articles/3767896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时26分]"
-        },
-        {
-          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
-          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时32分]"
         },
         {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
@@ -296,6 +299,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 00时53分]"
+        },
+        {
+          "title": "被特朗普抱怨不积极，默茨最新表态",
+          "url": "https://news.ifeng.com/c/8rd2LaEzlmg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国加州州长纽森：特朗普把世界上最伟大的办公室变成了最大的骗局。他的遗产将是腐败和贪婪。",
@@ -353,6 +367,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "美国参议院委员会投票通过美国总统特朗普提名的国土安全部长人选马奎恩·马林。",
+          "url": "https://flash.jin10.com/detail/20260319214142182800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美国加州州长纽森：唐纳德·特朗普想让美国倒退。如果我们不站出来，我们将失去这个国家。",
           "url": "https://flash.jin10.com/detail/20260319064615377800",
           "source": "金十数据",
@@ -370,9 +395,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "美国国家情报总监加巴德：美国总统特朗普提出的对伊目标与以色列的目标不同。",
+          "url": "https://flash.jin10.com/detail/20260319213810870800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国参议院少数党领袖舒默：特朗普在中东发动了一场战争，但现在他试图逃避代价，把账单留给美国人民，而这场战争似乎没有结束的迹象。鲁比奥和赫格塞斯需要公开宣誓作证。美国人民应当得到答案，也应当获得问责。",
@@ -455,7 +491,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "舒淇代言小米汽车 SU7谐音梗成真",
@@ -535,6 +571,18 @@
           "time_info": "[00时37分 ~ 00时53分]"
         },
         {
+          "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
+          "url": "https://www.zhihu.com/question/2017200053643650106",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 22时02分]"
+        },
+        {
           "title": "岚图汽车历时5个月正式登陆港交所",
           "url": "https://www.toutiao.com/trending/7618788040982400555/",
           "source": "今日头条",
@@ -597,7 +645,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -668,17 +716,6 @@
           "time_info": "01时52分"
         },
         {
-          "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
-          "url": "https://www.zhihu.com/question/2017200053643650106",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
           "title": "舒淇官宣代言小米汽车",
           "url": "https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%AE%98%E5%AE%A3%E4%BB%A3%E8%A8%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -718,7 +755,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -765,6 +802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "美国电动汽车公司Rivian获优步投资后股价上涨7.5%。",
+          "url": "https://flash.jin10.com/detail/20260319213223683800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
@@ -791,11 +839,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 22时02分]"
         }
       ]
     },
