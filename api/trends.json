@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T02:31:36.130909+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-03-21T03:38:14.417435+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时38分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时38分]"
         },
         {
           "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时38分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时38分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -60,8 +60,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时38分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -71,8 +71,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时38分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -82,8 +82,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 03时38分]"
+        },
+        {
+          "title": "【美国防官员已为向伊朗部署地面部队制定详尽方案】3月20日获悉，美国国防部官员已为向伊朗部署美国地面部队制定了详尽的准备方案。据悉，特朗普一直在权衡是否要在该地区部署地面部队。目前尚不清楚他会在何种情况下授权动用地面部队。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3074307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
@@ -96,6 +107,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时28分]"
+        },
+        {
+          "title": "美国内政部长伯古姆：特朗普的能源战略正是为此时刻而设。",
+          "url": "https://flash.jin10.com/detail/20260321031857561800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "特朗普：如果现在停战，伊朗重建将需要10年",
@@ -115,7 +137,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -151,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普拒绝就有关哈尔克岛计划的报道发表评论。",
+          "url": "https://flash.jin10.com/detail/20260321030452828800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "特朗普：想和伊朗谈，但对方没领导人了",
