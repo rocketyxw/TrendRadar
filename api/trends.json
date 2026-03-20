@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T20:29:01.235732+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2026-03-20T21:52:35.463503+08:00",
+  "total_titles_processed": 1951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[05时26分 ~ 20时29分]"
+          "appearance_count": 19,
+          "time_info": "[05时26分 ~ 21时52分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -197,6 +197,17 @@
           "time_info": "13时10分"
         },
         {
+          "title": "特朗普：北约抱怨油价，却不愿在霍尔木兹海峡问题上提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/3074200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
           "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
           "source": "澎湃新闻",
@@ -259,6 +270,17 @@
           "time_info": "[00时43分 ~ 01时46分]"
         },
         {
+          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
+          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 21时52分]"
+        },
+        {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作偷袭珍珠港",
           "url": "https://wallstreetcn.com/livenews/3073556",
           "source": "华尔街见闻-快讯",
@@ -272,15 +294,16 @@
           "time_info": "[04时24分 ~ 06时15分]"
         },
         {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 21时52分]"
         },
         {
           "title": "高市见特朗普时逞强说英语",
@@ -328,17 +351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时15分]"
-        },
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -409,6 +421,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "特朗普批北约“纸老虎”：不愿协助开海峡，转头怨高油价",
+          "url": "https://flash.jin10.com/detail/20260320214852937800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "美国总统特朗普：与日本的讨论也涉及阿拉斯加的能源和石油。",
           "url": "https://flash.jin10.com/detail/20260320001609739800",
           "source": "金十数据",
@@ -453,6 +476,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美国总统特朗普：对北约来说，这（参与行动）简直太容易了，而且风险极小。他们是懦夫，我们会永远铭记这一点！",
+          "url": "https://flash.jin10.com/detail/20260320214710798800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "特朗普把美袭击伊朗比作偷袭珍珠港",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E7%BE%8E%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%AF%94%E4%BD%9C%E5%81%B7%E8%A2%AD%E7%8F%8D%E7%8F%A0%E6%B8%AF",
           "source": "百度热搜",
@@ -473,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "美国总统特朗普：北约当初不愿参与阻止伊朗发展核武器的战争。如今这场战争已经取得军事胜利，对他们来说几乎没有任何危险，他们却抱怨被迫承担高油价，也不愿协助打通霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260320214618343800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "美国总统特朗普：在袭击伊朗之前未告知盟友，目的是保持出其不意的因素。",
@@ -508,6 +553,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美国总统特朗普：没有美国，北约就是一只纸老虎。",
+          "url": "https://flash.jin10.com/detail/20260320214442112800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "美国多州联合起诉特朗普政府撤销气候危害认定",
           "url": "https://wallstreetcn.com/livenews/3074070",
           "source": "华尔街见闻-快讯",
@@ -528,6 +584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "特朗普呼吁美国国会采取行动，“立即”通过农业法案。",
+          "url": "https://wallstreetcn.com/livenews/3074182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "特朗普翻旧账,日首相颜面尽失",
@@ -635,7 +702,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -690,7 +757,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -709,7 +776,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "小米新一代 SU7 发布，王传福、李想、何小鹏纷纷到场助阵，怎样解读？小米汽车在行业内有怎样的影响力？",
@@ -858,6 +925,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "美股集体低开，道指跌0.26%、标普500指数跌0.29%、纳指跌0.47%。超微电脑跌超26%；戴尔科技涨超5%；联邦快递上涨7.6%，创下5月12日以来最大涨幅，公司第三财季业绩超预期并上调全财年盈利指引；小鹏汽车跌超3%，此前发布四季度业绩。",
+          "url": "https://wallstreetcn.com/livenews/3074189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "小鹏汽车(09868.HK)：2025财政年度净亏损为人民币11.4亿元（1.6亿美元），相较而言，去年则为人民币57.9亿元。",
           "url": "https://flash.jin10.com/detail/20260320170619882800",
           "source": "金十数据",
@@ -959,6 +1037,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3073607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
+          "url": "https://flash.jin10.com/detail/20260320063632572800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
+          "url": "https://flash.jin10.com/detail/20260320063627057800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "xAI派工程师上门服务，争夺OpenAI企业客户",
+          "url": "https://wallstreetcn.com/livenews/3074174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -997,45 +1125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3073607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
-          "url": "https://flash.jin10.com/detail/20260320063632572800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
-          "url": "https://flash.jin10.com/detail/20260320063627057800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
         }
       ]
     },
