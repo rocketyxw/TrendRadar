@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T20:20:51.411010+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-03-21T21:35:10.171322+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "美日领导人会晤，特朗普只想聊伊朗",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时17分 ~ 20时20分]"
+          "appearance_count": 19,
+          "time_info": "[07时17分 ~ 21时35分]"
         },
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -46,8 +46,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时00分 ~ 20时20分]"
+          "appearance_count": 16,
+          "time_info": "[13时00分 ~ 21时35分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -72,8 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时17分 ~ 20时20分]"
+          "appearance_count": 19,
+          "time_info": "[07时17分 ~ 21时35分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -105,8 +105,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时28分 ~ 20时20分]"
+          "appearance_count": 28,
+          "time_info": "[00时28分 ~ 21时35分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -120,8 +120,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 20时20分]"
+          "appearance_count": 17,
+          "time_info": "[11时13分 ~ 21时35分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -187,8 +187,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时54分 ~ 20时20分]"
+          "appearance_count": 18,
+          "time_info": "[08时54分 ~ 21时35分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -216,6 +216,18 @@
           "time_info": "[05时19分 ~ 06时15分]"
         },
         {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
           "url": "https://flash.jin10.com/detail/20260321041434327800",
           "source": "金十数据",
@@ -237,6 +249,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "伊朗官员誓言要给特朗普“一个教训”",
+          "url": "https://flash.jin10.com/detail/20260321211515397800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
+          "url": "https://flash.jin10.com/detail/20260321211140614800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "江学勤教授预警：特朗普或启动全美征兵",
+          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 21时35分]"
         },
         {
           "title": "【美国防官员已为向伊朗部署地面部队制定详尽方案】3月20日获悉，美国国防部官员已为向伊朗部署美国地面部队制定了详尽的准备方案。据悉，特朗普一直在权衡是否要在该地区部署地面部队。目前尚不清楚他会在何种情况下授权动用地面部队。（央视）",
@@ -262,18 +307,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时01分 ~ 15时25分]"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 18时14分]"
         },
         {
           "title": "特朗普：我的支持率达到了前所未有的100%",
@@ -388,17 +421,6 @@
           "time_info": "[04时18分 ~ 07时17分]"
         },
         {
-          "title": "江学勤教授预警：特朗普或启动全美征兵",
-          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时20分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普仍然侧重于在伊朗（实现）“全面”胜利。 国防部预计，完成任务（还）需要4-6周时间。",
           "url": "https://wallstreetcn.com/livenews/3074371",
           "source": "华尔街见闻-快讯",
@@ -436,6 +458,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时17分 ~ 11时13分]"
+        },
+        {
+          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
+          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "特朗普：撤出驻西班牙和德国美军是“合理的”",
@@ -803,7 +836,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "大连一辆泵车侧翻砸中多辆汽车",
@@ -825,11 +858,12 @@
           "ranks": [
             8,
             14,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时35分]"
         },
         {
           "title": "周五（3月20日），彭博电动汽车价格回报指数跌0.83%，报3481.29点，本周累计下跌2.66%。",
@@ -888,6 +922,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "伊朗战争引发油价飙升，美国民众对电动汽车的兴趣激增",
+          "url": "https://flash.jin10.com/detail/20260321201742306800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "纳斯达克中国金龙指数跌幅扩大至2%，金山云(KC.O)跌10%、禾赛跌6.7%、小鹏汽车(XPEV.N)跌6%。",
           "url": "https://flash.jin10.com/detail/20260320232951948800",
           "source": "金十数据",
@@ -923,26 +968,28 @@
           "time_info": "[01时27分 ~ 13时01分]"
         },
         {
-          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
-          "url": "https://flash.jin10.com/detail/20260321200202568800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3074453",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 21时35分]"
+        },
+        {
+          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
+          "url": "https://flash.jin10.com/detail/20260321200202568800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 21时35分]"
         }
       ]
     }
