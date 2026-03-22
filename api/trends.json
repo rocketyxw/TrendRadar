@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T17:20:59.751811+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-03-22T18:15:36.155615+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -38,8 +38,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 17时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 18时15分]"
+        },
+        {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 18时15分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -52,18 +64,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 07时13分]"
-        },
-        {
-          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
-          "url": "https://wallstreetcn.com/articles/3768068",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时39分 ~ 17时20分]"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -153,6 +153,17 @@
           "time_info": "[03时15分 ~ 06时12分]"
         },
         {
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 18时15分]"
+        },
+        {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
           "url": "https://flash.jin10.com/detail/20260322014423191800",
           "source": "金十数据",
@@ -166,17 +177,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时19分 ~ 07时13分]"
-        },
-        {
-          "title": "英国内阁大臣里德：（在被问及英国对美国总统特朗普48小时伊朗最后通牒的立场时）美国总统特朗普只是在代表他自己发言。",
-          "url": "https://flash.jin10.com/detail/20260322164923102800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
@@ -205,15 +205,15 @@
           "time_info": "[03时15分 ~ 07时13分]"
         },
         {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
+          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
+          "source": "凤凰网",
           "ranks": [
-            13
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 17时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
@@ -223,8 +223,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 18时15分]"
+        },
+        {
+          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
+          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 18时15分]"
+        },
+        {
+          "title": "英国内阁大臣里德：（在被问及英国对美国总统特朗普48小时伊朗最后通牒的立场时）美国总统特朗普只是在代表他自己发言。",
+          "url": "https://flash.jin10.com/detail/20260322164923102800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时15分]"
         },
         {
           "title": "特朗普威胁派移民执法人员负责机场安保",
@@ -237,17 +260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 11时39分]"
-        },
-        {
-          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
-          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 17时20分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -319,6 +331,28 @@
           "time_info": "[11时39分 ~ 13时15分]"
         },
         {
+          "title": "若特朗普兑现威胁 伊朗天然气发电厂恐遭袭击",
+          "url": "https://flash.jin10.com/detail/20260322173327101800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
+          "url": "https://www.cls.cn/detail/2320568",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "特朗普要求伊朗开放霍尔木兹海峡 威胁摧毁发电厂",
           "url": "https://flash.jin10.com/detail/20260322080327874800",
           "source": "金十数据",
@@ -340,11 +374,12 @@
           "url": "https://www.toutiao.com/trending/7619982956676779556/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时15分]"
         },
         {
           "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
