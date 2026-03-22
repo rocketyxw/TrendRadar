@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:35:42.116047+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-03-22T15:31:59.656500+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 14时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 15时31分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -82,11 +82,12 @@
           "ranks": [
             8,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 14时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 15时31分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -100,6 +101,18 @@
           "time_info": "[01时15分 ~ 04时02分]"
         },
         {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时31分]"
+        },
+        {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
           "url": "https://www.cls.cn/detail/2320222",
           "source": "财联社热门",
@@ -110,18 +123,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 09时02分]"
-        },
-        {
-          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
-          "url": "https://wallstreetcn.com/articles/3768068",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时35分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -171,11 +172,24 @@
             2,
             9,
             14,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 15时31分]"
+        },
+        {
+          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时31分]"
         },
         {
           "title": "特朗普威胁派移民执法人员负责机场安保",
@@ -190,16 +204,15 @@
           "time_info": "[09时02分 ~ 11时39分]"
         },
         {
-          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时35分]"
+          "time_info": "[13时14分 ~ 15时31分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -211,17 +224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时39分 ~ 13时15分]"
-        },
-        {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 14时35分]"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂，为什么选择攻击民用设施而不是军事目标？伊朗会妥协吗？",
@@ -246,6 +248,17 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时31分]"
+        },
+        {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
           "url": "https://flash.jin10.com/detail/20260321233624665800",
           "source": "金十数据",
@@ -256,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时15分]"
+        },
+        {
+          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
+          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时31分]"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡",
@@ -280,28 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 13时15分]"
-        },
-        {
-          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
-          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
-          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡 威胁摧毁发电厂",
@@ -371,7 +373,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
