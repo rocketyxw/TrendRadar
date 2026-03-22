@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T16:19:37.339576+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-03-22T17:20:59.751811+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 16时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 17时20分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 17时20分]"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -98,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 16时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 17时20分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -123,6 +123,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 09时02分]"
+        },
+        {
+          "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
+          "url": "https://wallstreetcn.com/livenews/3074479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            14,
+            18,
+            21,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 17时20分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -151,20 +168,15 @@
           "time_info": "[02时19分 ~ 07时13分]"
         },
         {
-          "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
-          "url": "https://wallstreetcn.com/livenews/3074479",
-          "source": "华尔街见闻-快讯",
+          "title": "英国内阁大臣里德：（在被问及英国对美国总统特朗普48小时伊朗最后通牒的立场时）美国总统特朗普只是在代表他自己发言。",
+          "url": "https://flash.jin10.com/detail/20260322164923102800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            9,
-            14,
-            18,
-            21,
-            23
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 16时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
@@ -200,8 +212,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 17时20分]"
+        },
+        {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 17时20分]"
         },
         {
           "title": "特朗普威胁派移民执法人员负责机场安保",
@@ -216,17 +239,6 @@
           "time_info": "[09时02分 ~ 11时39分]"
         },
         {
-          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
-          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时19分]"
-        },
-        {
           "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
           "url": "https://news.ifeng.com/c/8rhITNvbPgx",
           "source": "凤凰网",
@@ -234,8 +246,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 17时20分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -320,6 +332,46 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "油价震荡波及汽车业了吗",
+          "url": "https://www.toutiao.com/trending/7619982956676779556/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
+          "url": "https://flash.jin10.com/detail/20260322113616560800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时35分]"
+        },
+        {
+          "title": "极星汽车再次明确不做油车和混动车",
+          "url": "https://www.toutiao.com/trending/7619703872278560831/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -348,35 +400,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 02时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
-          "url": "https://flash.jin10.com/detail/20260322113616560800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 14时35分]"
-        },
-        {
-          "title": "极星汽车再次明确不做油车和混动车",
-          "url": "https://www.toutiao.com/trending/7619703872278560831/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         }
       ]
     }
