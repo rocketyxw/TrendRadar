@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T22:05:50.274706+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-03-23T23:49:16.758936+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 91,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -104,8 +104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时03分 ~ 22时05分]"
+          "appearance_count": 11,
+          "time_info": "[14时03分 ~ 23时49分]"
         },
         {
           "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
@@ -226,6 +226,21 @@
           "time_info": "[03时17分 ~ 05时15分]"
         },
         {
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            12,
+            15,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 23时49分]"
+        },
+        {
           "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
           "source": "澎湃新闻",
@@ -239,36 +254,33 @@
           "time_info": "[15时53分 ~ 20时36分]"
         },
         {
-          "title": "美以伊战争丨特朗普称与伊朗对话了，后者否认",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 22时05分]"
-        },
-        {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            12,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 22时05分]"
-        },
-        {
           "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
           "url": "https://wallstreetcn.com/articles/3768172",
           "source": "华尔街见闻",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 23时49分]"
+        },
+        {
+          "title": "特朗普：美伊过去两天已进行对话",
+          "url": "https://www.cls.cn/detail/2321845",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 23时49分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普称与伊朗对话了，后者否认",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -285,17 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 14时03分]"
-        },
-        {
-          "title": "特朗普：美伊过去两天已进行对话",
-          "url": "https://www.cls.cn/detail/2321845",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 22时05分]"
         },
         {
           "title": "美议员要求特朗普政府官员国会作证",
@@ -350,13 +351,24 @@
           "time_info": "[00时15分 ~ 05时15分]"
         },
         {
+          "title": "特朗普称同伊朗已形成协议要点",
+          "url": "https://news.ifeng.com/c/8rjkr1dHi8W",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国总统特朗普：（谈及机场建设时）非常欢迎马斯克提出的出资提议，就让他去办吧。",
           "url": "https://flash.jin10.com/detail/20260323215935127800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -370,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "报道：特朗普女婿库什纳麾下基金资产升至62亿美元，中东资本加持",
+          "url": "https://wallstreetcn.com/livenews/3075293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁：若发电站遭袭将全面关闭霍尔木兹海峡",
@@ -391,9 +414,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "据英国天空新闻：以色列消息人士称，以色列对特朗普的声明持“保留意见”。",
+          "url": "https://flash.jin10.com/detail/20260323231710400800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "特朗普：已指示暂停对伊朗发电厂和能源基础设施的一切军事打击，为期五天",
@@ -435,7 +469,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -488,6 +522,18 @@
           "time_info": "[00时15分 ~ 04时12分]"
         },
         {
+          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
+          "url": "https://www.cls.cn/detail/2321917",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时49分]"
+        },
+        {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
           "url": "https://flash.jin10.com/detail/20260323042752009800",
           "source": "金十数据",
@@ -507,8 +553,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 22时05分]"
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 23时49分]"
+        },
+        {
+          "title": "特朗普称美伊进行了富有成效的对话",
+          "url": "https://www.toutiao.com/trending/7619517736586821695/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 23时49分]"
+        },
+        {
+          "title": "特朗普威胁摧毁伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2321403",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 23时49分]"
+        },
+        {
+          "title": "特朗普称美伊已对话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B7%B2%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 23时49分]"
         },
         {
           "title": "特朗普称推迟5天打击伊朗发电站",
@@ -523,27 +605,16 @@
           "time_info": "[19时35分 ~ 20时36分]"
         },
         {
-          "title": "特朗普称美伊进行了富有成效的对话",
-          "url": "https://www.toutiao.com/trending/7619517736586821695/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 22时05分]"
-        },
-        {
-          "title": "特朗普威胁摧毁伊朗发电设施，外交部回应",
-          "url": "https://www.cls.cn/detail/2321403",
+          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2321966",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时35分 ~ 20时36分]"
+          "time_info": "[22时05分 ~ 23时49分]"
         },
         {
           "title": "特朗普借电视短剧嘲讽英国首相",
@@ -557,16 +628,16 @@
           "time_info": "[12时14分 ~ 14时03分]"
         },
         {
-          "title": "特朗普称美伊已对话",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B7%B2%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=13&Refer=top",
+          "title": "伊朗称特朗普推迟袭击表态为心理战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E8%BF%9F%E8%A2%AD%E5%87%BB%E8%A1%A8%E6%80%81%E4%B8%BA%E5%BF%83%E7%90%86%E6%88%98%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13,
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时36分 ~ 22时05分]"
+          "time_info": "[22时05分 ~ 23时49分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -591,15 +662,26 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
-          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
-          "url": "https://www.cls.cn/detail/2321917",
-          "source": "财联社热门",
+          "title": "特朗普称同伊朗已形成协议要点",
+          "url": "https://www.toutiao.com/trending/7620316859677786155/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "23时49分"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美” 已形成协议要点",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国总统特朗普：伊朗现在确实还剩下一些其他领导人。",
@@ -608,7 +690,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -622,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "特朗普称同伊朗已形成协议要点",
+          "url": "https://www.cls.cn/detail/2322071",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "特朗普再次左右市场，黄金亚欧盘多空双杀！瀑布行情跌完了吗？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
@@ -641,7 +734,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -674,7 +767,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -718,7 +811,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -729,31 +822,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
         {
-          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2321966",
-          "source": "财联社热门",
+          "title": "美国能源部长Wright：（美国）“可能会再次释放战略石油储备（SPR）”，但不可能发生这种情况。 如果我们（特朗普政府）想要这样做，将要求（石油/天然气）行业提高产量。",
+          "url": "https://wallstreetcn.com/livenews/3075276",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "伊朗称特朗普推迟袭击表态为心理战",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E8%BF%9F%E8%A2%AD%E5%87%BB%E8%A1%A8%E6%80%81%E4%B8%BA%E5%BF%83%E7%90%86%E6%88%98%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "23时49分"
         },
         {
           "title": "特朗普：美伊对话取得良好进展 推迟五天对伊军事打击",
@@ -784,9 +866,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "据AXIOS：一位以色列高级官员表示，以色列对特朗普关于接触进展顺利且已达成15项协议要点的表态感到惊讶。",
+          "url": "https://flash.jin10.com/detail/20260323230220446800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "因特朗普发表暂停对伊朗打击的言论，欧洲天然气价格下跌8.9%。",
@@ -798,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "欧洲斯托克600指数大幅上涨并转为当日上涨，涨0.1%，美国总统特朗普表示，已将针对伊朗发电厂和能源基础设施的“任何及所有”军事打击推迟五天。",
@@ -820,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "芝加哥小麦价格下跌，此前特朗普宣称推迟对伊朗能源设施的打击",
+          "url": "https://wallstreetcn.com/livenews/3075269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "在美国总统特朗普表示对伊朗的打击被推迟后，美国国债抹去跌幅。",
@@ -861,7 +976,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -872,7 +987,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -908,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        },
+        {
+          "title": "特朗普称同伊朗已形成协议要点",
+          "url": "https://wallstreetcn.com/livenews/3075260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "特朗普称“推迟5天”打击伊朗发电站",
@@ -960,6 +1086,19 @@
           "time_info": "14时03分"
         },
         {
+          "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
+          "url": "https://www.zhihu.com/question/2019371641231079064",
+          "source": "知乎",
+          "ranks": [
+            10,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 23时49分]"
+        },
+        {
           "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
           "url": "https://wallstreetcn.com/livenews/3074585",
           "source": "华尔街见闻-快讯",
@@ -991,18 +1130,6 @@
           "ranks": [
             20,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 22时05分]"
-        },
-        {
-          "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
-          "url": "https://www.zhihu.com/question/2019371641231079064",
-          "source": "知乎",
-          "ranks": [
-            10,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1118,11 +1245,12 @@
             8,
             15,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 22时05分]"
+          "appearance_count": 13,
+          "time_info": "[09时03分 ~ 23时49分]"
         }
       ]
     },
