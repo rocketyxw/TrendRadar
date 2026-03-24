@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T03:52:18.781153+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-03-25T04:29:22.070601+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时29分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -29,6 +29,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时45分]"
+        },
+        {
+          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时29分]"
+        },
+        {
+          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普“临阵变卦”有何意图",
+          "url": "https://www.toutiao.com/trending/7619698764027166763/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时29分]"
+        },
+        {
+          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时29分]"
         },
         {
           "title": "美国前中情局局长：比起特朗普我更信伊朗",
@@ -64,17 +111,6 @@
           "time_info": "02时44分"
         },
         {
-          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时52分]"
-        },
-        {
           "title": "美国总统特朗普：将研究参议院就政府停摆问题达成的可能协议。",
           "url": "https://flash.jin10.com/detail/20260325022652626800",
           "source": "金十数据",
@@ -86,40 +122,15 @@
           "time_info": "02时44分"
         },
         {
-          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
-          "source": "澎湃新闻",
+          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
+          "url": "https://wallstreetcn.com/articles/3768206",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时52分]"
-        },
-        {
-          "title": "特朗普“临阵变卦”有何意图",
-          "url": "https://www.toutiao.com/trending/7619698764027166763/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时52分]"
-        },
-        {
-          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时52分]"
+          "time_info": "[00时47分 ~ 04时29分]"
         },
         {
           "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
@@ -158,15 +169,28 @@
           "time_info": "[00时47分 ~ 01时45分]"
         },
         {
-          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
-          "url": "https://wallstreetcn.com/articles/3768206",
-          "source": "华尔街见闻",
+          "title": "白宫官员：特朗普政府正与加拿大方面就批准“South Bow”和“Bridger Revival”项目（即“基石XL”管道项目的部分重启工作）进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260325030439715800",
+          "source": "金十数据",
           "ranks": [
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 03时52分]"
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普 ：（谈政府停摆）再看看能否达成和解。",
+          "url": "https://flash.jin10.com/detail/20260325025152465800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：在伊朗取得了巨大成功。",
@@ -202,17 +226,6 @@
           "time_info": "01时45分"
         },
         {
-          "title": "白宫官员：特朗普政府正与加拿大方面就批准“South Bow”和“Bridger Revival”项目（即“基石XL”管道项目的部分重启工作）进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260325030439715800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
           "title": "路透社/益普索民调：在汽油价格飙升背景下，仅有四分之一的美国人认可特朗普应对生活成本问题的方式。",
           "url": "https://flash.jin10.com/detail/20260325011623108800",
           "source": "金十数据",
@@ -224,13 +237,24 @@
           "time_info": "01时45分"
         },
         {
+          "title": "特朗普暗示沙特王储支持对伊战事",
+          "url": "https://flash.jin10.com/detail/20260325033102136800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
           "url": "https://wallstreetcn.com/livenews/3076151",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -241,18 +265,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "美国总统特朗普 ：（谈政府停摆）再看看能否达成和解。",
-          "url": "https://flash.jin10.com/detail/20260325025152465800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -263,7 +276,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -274,7 +287,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -285,7 +298,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -296,7 +309,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -307,7 +320,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -329,7 +342,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -340,7 +353,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -370,8 +383,41 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "据华尔街日报：OpenAI也将停止提供面向开发者的Sora版本，并且不会在ChatGPT中支持视频功能。",
+          "url": "https://flash.jin10.com/detail/20260325035809155800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
+          "url": "https://flash.jin10.com/detail/20260325034535690800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
         {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3076139",
@@ -395,6 +441,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时52分]"
+        },
+        {
+          "title": "据华尔街日报 ：OpenAI公司表示，计划停止其Sora视频平台的应用程序。该产品去年发布时曾风光一时，但此后便从公众视野中淡出。",
+          "url": "https://flash.jin10.com/detail/20260325034504235800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
+          "url": "https://wallstreetcn.com/livenews/3076185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "OpenAI：扩大智能体商务协议（Agentic Commerce Protocol，简称ACP）。 ACP将支持产品发现。 （ACP）在ChatGPT中支持产品发现。",
@@ -461,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "OpenAI料将不再维护文生视频平台Sora的APP。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3076172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "OpenAI：发布基于提示的安全策略，帮助开发者为青少年打造适龄保护措施。",
@@ -573,6 +652,34 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3076182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "据英国金融时报：大众汽车将与以色列“铁穹”制造商达成协议，从汽车业务转向导弹防御业务。",
+          "url": "https://flash.jin10.com/detail/20260325010324115800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -585,25 +692,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据英国金融时报：大众汽车将与以色列“铁穹”制造商达成协议，从汽车业务转向导弹防御业务。",
-          "url": "https://flash.jin10.com/detail/20260325010324115800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时29分]"
         }
       ]
     }
