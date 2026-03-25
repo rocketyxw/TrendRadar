@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T18:36:38.535333+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2026-03-25T19:33:13.225700+08:00",
+  "total_titles_processed": 1811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时19分 ~ 18时36分]"
+          "appearance_count": 14,
+          "time_info": "[07时19分 ~ 19时33分]"
         },
         {
           "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
@@ -126,17 +126,6 @@
           "time_info": "[00时47分 ~ 09时01分]"
         },
         {
-          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
-          "url": "https://wallstreetcn.com/articles/3768206",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时20分]"
-        },
-        {
           "title": "特朗普称已向伊朗提出和平方案，中方回应",
           "url": "https://www.cls.cn/detail/2324238",
           "source": "财联社热门",
@@ -146,8 +135,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 19时33分]"
+        },
+        {
+          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
+          "url": "https://wallstreetcn.com/articles/3768206",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 07时20分]"
         },
         {
           "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
@@ -198,6 +198,19 @@
           "time_info": "15时44分"
         },
         {
+          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
+          "url": "https://www.cls.cn/detail/2323952",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 19时33分]"
+        },
+        {
           "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
           "url": "https://www.cls.cn/detail/2323758",
           "source": "财联社热门",
@@ -208,6 +221,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时18分 ~ 18时36分]"
+        },
+        {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 19时33分]"
         },
         {
           "title": "美国前中情局局长：比起特朗普我更信伊朗",
@@ -238,7 +263,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -252,6 +277,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
+          "url": "https://www.cls.cn/detail/2324118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时33分]"
         },
         {
           "title": "美国总统特朗普：美国国务卿鲁比奥、副总统范斯和其他人正在与伊朗进行谈判。",
@@ -274,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时33分]"
         },
         {
           "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
@@ -324,50 +373,27 @@
           "time_info": "[00时47分 ~ 01时45分]"
         },
         {
-          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
-          "url": "https://www.cls.cn/detail/2323952",
-          "source": "财联社热门",
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时36分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 19时33分]"
         },
         {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
+          "title": "伊朗喊话特朗普：美国已“战略失败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
+            29,
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时36分]"
-        },
-        {
-          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时36分]"
-        },
-        {
-          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
-          "url": "https://www.cls.cn/detail/2324118",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时36分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 19时33分]"
         },
         {
           "title": "白宫官员：特朗普政府正与加拿大方面就批准“South Bow”和“Bridger Revival”项目（即“基石XL”管道项目的部分重启工作）进行磋商。",
@@ -405,17 +431,6 @@
           "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
-          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
           "title": "美国总统特朗普：在伊朗取得了巨大成功。",
           "url": "https://flash.jin10.com/detail/20260325022128210800",
           "source": "金十数据",
@@ -436,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "特朗普谈及3架美军战机在科威特被击落，称其为“小意外”，系被“爱国者”导弹击落",
+          "url": "https://wallstreetcn.com/livenews/3076636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "路透社/益普索民调：美国总统特朗普支持率跌至36%，为重返白宫以来最低水平。",
@@ -664,7 +690,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -689,17 +715,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
-        },
-        {
-          "title": "伊朗喊话特朗普：美国已“战略失败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
         },
         {
           "title": "被特朗普骗了两次之后，伊朗：我们不想再被愚弄！",
@@ -759,23 +774,12 @@
             17,
             4,
             3,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时37分 ~ 18时36分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时37分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[11时37分 ~ 19时33分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -787,6 +791,18 @@
             22,
             18,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时37分 ~ 19时33分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -1070,8 +1086,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时37分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[11时37分 ~ 19时33分]"
         },
         {
           "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
@@ -1083,19 +1099,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 18时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 19时33分]"
         },
         {
           "title": "本田调整战略 索尼与本田叫停联合电动汽车发布计划",
           "url": "https://wallstreetcn.com/livenews/3076604",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时33分]"
         },
         {
           "title": "金十图示：2026年03月25日（周三）全球汽车制造商市值变化",
