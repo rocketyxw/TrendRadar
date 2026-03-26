@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-27T05:20:54.865877+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-03-27T06:15:39.288913+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
           "url": "https://wallstreetcn.com/articles/3768393",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -40,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -54,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -66,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
@@ -79,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
@@ -91,8 +92,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
@@ -102,8 +103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
@@ -114,8 +115,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华保持着沟通",
@@ -140,6 +141,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "美财政部称纸币印特朗普签名“实至名归”",
+          "url": "https://flash.jin10.com/detail/20260327060931474800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "美国总统特朗普：法官和最高法院大法官正在伤害我们。最高法院还伤害了我们的国家。",
           "url": "https://flash.jin10.com/detail/20260326234625661800",
           "source": "金十数据",
@@ -160,6 +172,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
+          "url": "https://wallstreetcn.com/articles/3768496",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时48分 ~ 06时15分]"
         },
         {
           "title": "特朗普：控制伊朗石油是一个选项",
@@ -184,18 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 01时12分]"
-        },
-        {
-          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
-          "url": "https://wallstreetcn.com/articles/3768496",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时48分 ~ 05时20分]"
         },
         {
           "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
@@ -323,6 +336,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "美国总统特朗普：你不能让一个疯子或疯狂的意识形态拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260327053813277800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "特朗普称伊朗允许10艘油轮通行霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3077589",
           "source": "华尔街见闻-快讯",
@@ -334,15 +358,70 @@
           "time_info": "01时12分"
         },
         {
+          "title": "比特币略微走高，特朗普称：伊朗要求七天，“我给了他们十天”",
+          "url": "https://wallstreetcn.com/livenews/3077701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "据美国新闻机构DropSiteNews：特朗普称是伊朗请求他暂停打击伊能源设施，一名伊朗官员否认了这一说法称：“我们没有就美国潜在的袭击提出任何请求。”",
+          "url": "https://flash.jin10.com/detail/20260327053457955800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗请求给多七天时间，我给了他们十天。",
+          "url": "https://flash.jin10.com/detail/20260327052820305800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "美国总统特朗普谈暂停对伊朗能源打击：是伊朗人让我这么做的。",
+          "url": "https://flash.jin10.com/detail/20260327052135478800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "国际油价急剧跳水，特朗普称对伊朗能源设施空袭再推迟10天",
           "url": "https://wallstreetcn.com/livenews/3077681",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普签名将出现在面额100美元的纸币上",
+          "url": "https://flash.jin10.com/detail/20260327052048605800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "特朗普称再推迟10天打击伊朗发电厂",
@@ -351,7 +430,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -362,7 +441,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -406,7 +485,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -417,7 +496,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -428,7 +507,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -439,7 +518,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -461,7 +540,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -472,7 +551,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -577,22 +656,24 @@
           "ranks": [
             14,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时15分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3077691",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时15分]"
         },
         {
           "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
@@ -601,7 +682,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -612,7 +693,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         }
@@ -638,11 +719,12 @@
           "url": "https://www.toutiao.com/trending/7621480761648545798/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "周四（3月26日），彭博电动汽车价格回报指数跌1.56%，报3549.40点，北京时间13:00之前大致持平，随后持续走低。",
@@ -651,7 +733,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         }
@@ -659,7 +741,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -670,8 +752,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 02时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时15分]"
+        },
+        {
+          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
+          "url": "https://www.zhihu.com/question/2015379461017659100",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     }
