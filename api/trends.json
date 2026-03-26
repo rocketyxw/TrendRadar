@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T14:05:22.814019+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-03-26T15:52:30.202423+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
@@ -86,8 +86,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时23分 ~ 14时05分]"
+          "appearance_count": 6,
+          "time_info": "[06时23分 ~ 15时52分]"
+        },
+        {
+          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
+          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 15时52分]"
         },
         {
           "title": "白宫：特朗普将于5月中旬访华",
@@ -101,26 +112,26 @@
           "time_info": "[12时21分 ~ 14时05分]"
         },
         {
-          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
-          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "title": "中方回应特朗普称5月访华",
+          "url": "https://news.ifeng.com/c/8roF6LOhLGd",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 14时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
-          "title": "美方坚称和谈“仍在进行”，伊朗公开回绝特朗普外交倡议",
-          "url": "https://flash.jin10.com/detail/20260326064506289800",
-          "source": "金十数据",
+          "title": "中方回应特朗普称5月中旬访华",
+          "url": "https://www.toutiao.com/trending/7621462030418972210/",
+          "source": "今日头条",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "15时52分"
         },
         {
           "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
@@ -132,8 +143,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 15时52分]"
+        },
+        {
+          "title": "美方坚称和谈“仍在进行”，伊朗公开回绝特朗普外交倡议",
+          "url": "https://flash.jin10.com/detail/20260326064506289800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
@@ -264,6 +286,28 @@
           "time_info": "09时05分"
         },
         {
+          "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
+          "url": "https://wallstreetcn.com/articles/3768421",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "传特朗普团队正研究200美元油价影响？白宫矢口否认！",
+          "url": "https://www.cls.cn/detail/2325422",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "美国总统特朗普：如有必要，将向机场部署国民警卫队。",
           "url": "https://flash.jin10.com/detail/20260326081737390800",
           "source": "金十数据",
@@ -308,6 +352,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "特朗普将于5月14日至15日访华？外交部：中美双方就此事保持着沟通",
+          "url": "https://wallstreetcn.com/livenews/3077220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "沙特王储私下拱火建议美军出动地面部队？特朗普：我们在并肩作战",
           "url": "https://m.thepaper.cn/newsDetail_forward_32826880",
           "source": "澎湃新闻",
@@ -317,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "德国在草拟打击美国部分公司的计划，以防特朗普日后再次施压。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3077217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "白宫：特朗普将于当地时间周四上午10点召开内阁会议。",
@@ -336,7 +402,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
@@ -344,7 +410,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -355,8 +421,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 14时05分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 15时52分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -403,6 +469,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时47分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -530,8 +607,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 15时52分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -578,11 +655,12 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 14时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 15时52分]"
         }
       ]
     }
