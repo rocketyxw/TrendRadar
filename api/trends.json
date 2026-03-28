@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T03:22:01.059150+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-03-29T04:16:20.748398+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "想跑跑不了，特朗普失控",
@@ -38,8 +38,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
+        },
+        {
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
+        },
+        {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
+        },
+        {
+          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
+          "url": "https://www.cls.cn/detail/2327594",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -54,41 +89,6 @@
           "time_info": "[00时19分 ~ 01时19分]"
         },
         {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普谈中国：对中国的成就必须非常尊重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
-        },
-        {
-          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
-          "url": "https://www.cls.cn/detail/2327594",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
-        },
-        {
           "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
           "url": "https://wallstreetcn.com/livenews/3078609",
           "source": "华尔街见闻-快讯",
@@ -96,8 +96,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时16分]"
         }
       ]
     },
@@ -116,8 +116,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -130,8 +130,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -143,8 +143,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
         }
       ]
     },
@@ -159,11 +159,12 @@
           "ranks": [
             6,
             12,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
         }
       ]
     }
