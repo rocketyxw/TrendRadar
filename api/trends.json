@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T14:42:17.002328+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-03-28T15:37:15.733227+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时39分 ~ 14时42分]"
+          "appearance_count": 14,
+          "time_info": "[02时39分 ~ 15时37分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -68,6 +68,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时40分 ~ 09时00分]"
+        },
+        {
+          "title": "特朗普发出威胁：下一个是古巴",
+          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 15时37分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -107,15 +119,17 @@
           "time_info": "[05时23分 ~ 13时17分]"
         },
         {
-          "title": "特朗普发出威胁：下一个是古巴",
-          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
-          "source": "凤凰网",
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
           "ranks": [
-            5
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 15时37分]"
         },
         {
           "title": "美国总统特朗普：古巴是下一个。",
@@ -141,6 +155,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 04时23分]"
+        },
+        {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 15时37分]"
         },
         {
           "title": "美国总统特朗普：共和党应该终止阻挠议事，开始投票！难道他们还没厌倦这些来自激进左派疯子们的胡闹吗？让美国再次伟大！",
@@ -218,6 +243,20 @@
           "time_info": "[04时23分 ~ 07时21分]"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://wallstreetcn.com/livenews/3078530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 15时37分]"
+        },
+        {
           "title": "白宫备忘录：美国总统特朗普指示国土安全部部长和美国行政管理和预算局局长补偿美国运输安全管理局员工。",
           "url": "https://flash.jin10.com/detail/20260328023428762800",
           "source": "金十数据",
@@ -254,31 +293,6 @@
           "time_info": "[03时34分 ~ 04时23分]"
         },
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时42分]"
-        },
-        {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://wallstreetcn.com/livenews/3078530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 14时42分]"
-        },
-        {
           "title": "美国总统特朗普：我们同意向沙特出售F-35战斗机；F-35性能卓越；我们出售的数量非常有限；我们不希望其他国家拥有它们。",
           "url": "https://flash.jin10.com/detail/20260328062812341800",
           "source": "金十数据",
@@ -303,6 +317,47 @@
           "time_info": "[02时39分 ~ 03时34分]"
         },
         {
+          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
+          "url": "https://wallstreetcn.com/livenews/3078529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 15时37分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 15时37分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 15时37分]"
+        },
+        {
           "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
           "url": "https://wallstreetcn.com/livenews/3078486",
           "source": "华尔街见闻-快讯",
@@ -314,30 +369,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 09时00分]"
-        },
-        {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 14时42分]"
-        },
-        {
-          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
-          "url": "https://wallstreetcn.com/livenews/3078529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 14时42分]"
         },
         {
           "title": "美国总统特朗普谈伊朗冲突：差不多结束了，但还没结束。",
@@ -353,17 +384,16 @@
           "time_info": "[09时00分 ~ 13时17分]"
         },
         {
-          "title": "特朗普称霍尔木兹为特朗普海峡",
-          "url": "https://wallstreetcn.com/livenews/3078525",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            15,
-            18
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时34分 ~ 14时42分]"
+          "time_info": "[14时42分 ~ 15时37分]"
         },
         {
           "title": "美国总统特朗普：在国土安全部（DHS）拨款问题上，我理解众议长约翰逊和参议院多数党领袖约翰·图恩（John Thune）。",
@@ -402,18 +432,6 @@
           "time_info": "[03时34分 ~ 04时23分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时42分]"
-        },
-        {
           "title": "美国总统特朗普：我们想要低利率，无通胀。",
           "url": "https://flash.jin10.com/detail/20260328060310031800",
           "source": "金十数据",
@@ -424,6 +442,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 09时00分]"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 15时37分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：我们摧毁了伊朗97%的发射器。",
@@ -531,17 +560,6 @@
           "time_info": "13时17分"
         },
         {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
           "title": "据纽约时报：美国总统特朗普与印度总理莫迪就伊朗局势通了电话，埃隆·马斯克也加入了通话。",
           "url": "https://flash.jin10.com/detail/20260328030555224800",
           "source": "金十数据",
@@ -559,7 +577,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -702,7 +720,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -770,11 +788,12 @@
             19,
             12,
             17,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 14时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 15时37分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -789,8 +808,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 14时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 15时37分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -802,11 +821,12 @@
             15,
             13,
             14,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 14时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 15时37分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -844,11 +864,12 @@
             9,
             16,
             12,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时37分]"
         },
         {
           "title": "周五（3月27日），彭博电动汽车价格回报指数涨0.89%，报3585点，本周累计上涨3.07%。",
