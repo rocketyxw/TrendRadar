@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T02:22:10.337089+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-03-29T03:22:01.059150+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
           "url": "https://wallstreetcn.com/articles/3768633",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
+        },
+        {
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -42,17 +54,6 @@
           "time_info": "[00时19分 ~ 01时19分]"
         },
         {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
           "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -73,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -84,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
         },
         {
           "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
@@ -95,8 +96,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时22分]"
         }
       ]
     },
@@ -111,11 +112,12 @@
           "ranks": [
             17,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -124,11 +126,12 @@
           "ranks": [
             21,
             24,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -136,11 +139,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
         }
       ]
     },
@@ -158,8 +162,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 03时22分]"
         }
       ]
     }
