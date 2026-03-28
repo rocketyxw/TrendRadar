@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T04:16:20.748398+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-03-29T05:19:23.893959+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时19分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时19分]"
         },
         {
           "title": "想跑跑不了，特朗普失控",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时19分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时19分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时19分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时19分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -96,8 +96,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时19分]"
         }
       ]
     },
@@ -116,8 +116,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时19分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -130,8 +130,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时19分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -160,11 +160,12 @@
             6,
             12,
             9,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 05时19分]"
         }
       ]
     }
