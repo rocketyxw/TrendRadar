@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T06:17:30.675326+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-03-30T07:20:46.890912+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -26,30 +26,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
           "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
           "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -64,6 +66,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时17分]"
+        },
+        {
+          "title": "美民主党议员抨击特朗普：为打压油价上涨编造谈判谎言",
+          "url": "https://flash.jin10.com/detail/20260330065703218800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
@@ -92,8 +105,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -105,8 +118,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时20分]"
         }
       ]
     },
@@ -123,8 +136,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -137,8 +150,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时20分]"
         }
       ]
     }
