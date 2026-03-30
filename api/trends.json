@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T07:20:46.890912+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-03-30T09:08:53.122965+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时08分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -47,11 +47,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时08分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -68,15 +69,136 @@
           "time_info": "[00时20分 ~ 06时17分]"
         },
         {
+          "title": "美以伊战争丨美媒：特朗普考虑派兵夺取伊朗900斤铀",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "美民主党议员抨击特朗普：为打压油价上涨编造谈判谎言",
           "url": "https://flash.jin10.com/detail/20260330065703218800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "50州超3200场抗议！反特朗普运动席卷全美",
+          "url": "https://flash.jin10.com/detail/20260330085430017800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普：与伊朗“可能”很快达成停火协议",
+          "url": "https://wallstreetcn.com/livenews/3078835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普：伊朗答应了15项要求中的大部分",
+          "url": "https://flash.jin10.com/detail/20260330085349500800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "“希望夺取伊朗石油” 特朗普称可能占领哈尔克岛",
+          "url": "https://wallstreetcn.com/livenews/3078828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "国际油价短线走低，WTI日内涨幅收窄至1.8%，此前涨3%。特朗普谈到霍尔木兹海峡时表示，伊朗允许20艘油轮通行，将从明天早上开始通行；特朗普表示将与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3078827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普：最想“拿下伊朗石油”，可能夺取哈尔克岛",
+          "url": "https://flash.jin10.com/detail/20260330084350970800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "美国总统特朗普：只要有必要，我们就会一直向美国运输安全管理局的工作人员支付工资。",
+          "url": "https://flash.jin10.com/detail/20260330083903336800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及驶往古巴的俄罗斯油轮）这没什么问题，不管是俄罗斯的还是别的国家。",
+          "url": "https://flash.jin10.com/detail/20260330083711984800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及驶往古巴的俄罗斯油轮）我们不介意有人装上一船货物。",
+          "url": "https://flash.jin10.com/detail/20260330083652733800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "美国总统特朗普：我们将前往提供援助。",
+          "url": "https://flash.jin10.com/detail/20260330083540665800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
@@ -88,12 +210,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国总统特朗普：古巴将在短时间内垮台。",
+          "url": "https://flash.jin10.com/detail/20260330083532244800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "民调：美选民对特朗普不满意率创新高",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%B0%83%EF%BC%9A%E7%BE%8E%E9%80%89%E6%B0%91%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%A1%E6%84%8F%E7%8E%87%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普因伊朗战事陷入四重困境",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%99%B7%E5%85%A5%E5%9B%9B%E9%87%8D%E5%9B%B0%E5%A2%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "WTI原油期货维持日内约3%的涨幅。据华尔街日报，特朗普考虑采取军事行动夺取伊朗的铀，但尚未决定是否就对伊朗的行动下达命令。",
+          "url": "https://wallstreetcn.com/livenews/3078810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -115,11 +281,34 @@
           "ranks": [
             6,
             12,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时08分]"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "DeepSeek公告服务出现重大中断",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%85%AC%E5%91%8A%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
@@ -136,8 +325,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时08分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -150,8 +339,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时08分]"
         }
       ]
     }
