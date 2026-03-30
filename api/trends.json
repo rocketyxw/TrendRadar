@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T16:14:40.635333+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-30T18:04:23.981392+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
         },
         {
           "title": "特朗普：与伊朗“可能”很快达成停火协议",
@@ -78,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
         },
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -87,11 +88,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
         },
         {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
@@ -103,8 +105,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -121,6 +123,17 @@
           "time_info": "[00时20分 ~ 06时17分]"
         },
         {
+          "title": "特朗普说中东冲突或很快停止，外交部回应",
+          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时04分]"
+        },
+        {
           "title": "美以伊战争丨美媒：特朗普考虑派兵夺取伊朗900斤铀",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -130,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "特朗普说中东冲突或很快停止，外交部回应",
-          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         },
         {
           "title": "美民主党议员抨击特朗普：为打压油价上涨编造谈判谎言",
@@ -160,11 +162,37 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
+        },
+        {
+          "title": "特朗普私下问：2028，万斯还是鲁比奥？",
+          "url": "https://news.ifeng.com/c/8rubpGeBu1W",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时14分]"
+          "time_info": "[14时22分 ~ 18时04分]"
+        },
+        {
+          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860751",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 18时04分]"
         },
         {
           "title": "民调：美选民对特朗普不满意率创新高",
@@ -178,30 +206,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时08分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普私下问：2028，万斯还是鲁比奥？",
-          "url": "https://news.ifeng.com/c/8rubpGeBu1W",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时14分]"
-        },
-        {
-          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860751",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时14分]"
         },
         {
           "title": "50州超3200场抗议！反特朗普运动席卷全美",
@@ -243,7 +247,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -298,7 +302,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -397,7 +401,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -462,11 +466,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
         },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
@@ -474,11 +479,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -487,11 +493,12 @@
           "ranks": [
             12,
             19,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时04分]"
         },
         {
           "title": "豆包谈DeepSeek频繁崩溃",
@@ -647,11 +654,12 @@
             14,
             22,
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 16时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 18时04分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -663,11 +671,12 @@
             18,
             21,
             22,
-            25
+            25,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 16时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 18时04分]"
         }
       ]
     }
