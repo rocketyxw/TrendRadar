@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T22:17:23.876152+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-03-30T23:58:40.911546+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -30,6 +30,19 @@
           "time_info": "[00时20分 ~ 07时20分]"
         },
         {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 23时58分]"
+        },
+        {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
           "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
           "source": "澎湃新闻",
@@ -40,19 +53,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 09时08分]"
-        },
-        {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 22时17分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -109,6 +109,17 @@
           "time_info": "[12时37分 ~ 18时04分]"
         },
         {
+          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时58分]"
+        },
+        {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
           "url": "https://wallstreetcn.com/livenews/3078747",
           "source": "华尔街见闻-快讯",
@@ -123,17 +134,6 @@
           "time_info": "[00时20分 ~ 06时17分]"
         },
         {
-          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 22时17分]"
-        },
-        {
           "title": "特朗普说中东冲突或很快停止，外交部回应",
           "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
           "source": "凤凰网",
@@ -143,6 +143,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时14分 ~ 18时04分]"
+        },
+        {
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时58分]"
         },
         {
           "title": "美以伊战争丨美媒：特朗普考虑派兵夺取伊朗900斤铀",
@@ -156,15 +168,26 @@
           "time_info": "09时08分"
         },
         {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
+          "title": "特朗普：对伊朗袭击以色列炼油厂的回应“很快到来”",
+          "url": "https://wallstreetcn.com/livenews/3079498",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时58分"
+        },
+        {
+          "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
+          "url": "https://news.ifeng.com/c/8rvIfVFBMLi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美民主党议员抨击特朗普：为打压油价上涨编造谈判谎言",
@@ -204,6 +227,18 @@
           "time_info": "[14时22分 ~ 18时04分]"
         },
         {
+          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
+          "url": "https://wallstreetcn.com/articles/3768769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时58分]"
+        },
+        {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860751",
           "source": "澎湃新闻",
@@ -240,17 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时45分 ~ 22时17分]"
-        },
-        {
-          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
-          "url": "https://wallstreetcn.com/articles/3768769",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "50州超3200场抗议！反特朗普运动席卷全美",
@@ -317,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普：若达不成协议将“彻底摧毁伊朗所有发电厂、油井及哈尔克岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32862935",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "特朗普：最想“拿下伊朗石油”，可能夺取哈尔克岛",
@@ -471,12 +506,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "鲍威尔：美国联邦公开市场委员会（FOMC）将实现2%通胀目标。 并没有迹象表明美联储过去的债券购买行动引发通胀。 （总统特朗普挑起的）关税对通胀造成一次性影响。 美联储的那些工具对供应冲击并没有实质性的影响。 通胀将在一段时期内错过目标。 通胀预期仍然得到很好的锚定。",
+          "url": "https://wallstreetcn.com/livenews/3079473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -602,13 +648,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "DeepSeek崩溃10多小时为何是“好事”",
+          "url": "https://www.toutiao.com/trending/7622965821714730505/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "英国方面表示，贷款机构面临75亿欧元的汽车贷款赔偿账单，而此前的赔偿金额为82亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260330234920036800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "通用汽车美国密歇根工厂将增加加班时数，以提升燃油皮卡产量",
+          "url": "https://wallstreetcn.com/livenews/3079499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
         {
           "title": "日产汽车：2月份自日本出口至北美市场的汽车数量同比增长7.1%，达到14,126辆。",
           "url": "https://flash.jin10.com/detail/20260330140851234800",
@@ -636,11 +715,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 22时17分]"
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时58分]"
         },
         {
           "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
@@ -745,8 +825,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 22时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 23时58分]"
         }
       ]
     }
