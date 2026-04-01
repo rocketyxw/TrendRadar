@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T01:40:53.283964+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-04-02T02:42:02.909569+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
         },
         {
           "title": "马克龙访日暗讽特朗普",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
         },
         {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
         },
         {
           "title": "市场消息：北约担忧特朗普会削弱联盟，此前美国威胁要退出北约。",
@@ -61,6 +61,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "特朗普称将很快撤出伊朗战事",
+          "url": "https://wallstreetcn.com/articles/3769012",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
+        },
+        {
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
+        },
+        {
+          "title": "特朗普称美军将很快撤出伊朗战事",
+          "url": "https://www.toutiao.com/trending/7622967334319521811/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
+        },
+        {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
+        },
+        {
+          "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869629",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
         },
         {
           "title": "北约担忧美国总统特朗普会削弱这个联盟，此前美国威胁要退出北约。",
@@ -87,61 +145,51 @@
           "time_info": "[00时50分 ~ 01时40分]"
         },
         {
-          "title": "特朗普称将很快撤出伊朗战事",
-          "url": "https://wallstreetcn.com/articles/3769012",
+          "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
+          "url": "https://wallstreetcn.com/articles/3768995",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
-        },
-        {
-          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
-          "source": "澎湃新闻",
-          "ranks": [
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 02时42分]"
         },
         {
-          "title": "特朗普称美军将很快撤出伊朗战事",
-          "url": "https://www.toutiao.com/trending/7622967334319521811/",
-          "source": "今日头条",
+          "title": "马克龙“暗批”特朗普",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E2%80%9C%E6%9A%97%E6%89%B9%E2%80%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
-        },
-        {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
-        },
-        {
-          "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869629",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
+            27,
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 02时42分]"
+        },
+        {
+          "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 02时42分]"
+        },
+        {
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
+          "time_info": "[00时01分 ~ 02时42分]"
         },
         {
           "title": "美国官员：特朗普将重申2-3周内撤离伊朗的时间表",
@@ -156,15 +204,16 @@
           "time_info": "[00时50分 ~ 01时40分]"
         },
         {
-          "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
-          "url": "https://wallstreetcn.com/articles/3768995",
-          "source": "华尔街见闻",
+          "title": "标普500指数涨超1.2%，道指涨429点、涨幅0.9%。 据以色列广播管理局援引以色列消息人士的话称，以色列越来越担心特朗普会对此次行动的成果感到满意，并宣布行动结束。",
+          "url": "https://wallstreetcn.com/livenews/3081056",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时40分]"
+          "time_info": "[01时40分 ~ 02时42分]"
         },
         {
           "title": "标普涨幅收窄至不足1%，道指维持0.9%的涨幅，纳指涨幅收窄至不足1.5%。 据路透报道，美国副总统万斯在巴基斯坦与调停方讨论伊朗问题。 万斯最近一次谈论伊朗问题是在周二。 万斯暗示，如果美国的要求得到满足，总统特朗普对停火持开放态度。 万斯发出严厉信号，宣称特朗普“没有耐心”",
@@ -179,29 +228,6 @@
           "time_info": "[00时01分 ~ 00时50分]"
         },
         {
-          "title": "马克龙“暗批”特朗普",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E2%80%9C%E6%9A%97%E6%89%B9%E2%80%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时40分]"
-        },
-        {
-          "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时40分]"
-        },
-        {
           "title": "美国驻北约大使：是时候让联盟在霍尔木兹海峡部署护卫舰，而不仅仅停留在口头声明上。我们已提出关于联盟可行性的问题，特朗普总统正在考虑所有选项。",
           "url": "https://flash.jin10.com/detail/20260402004417812800",
           "source": "金十数据",
@@ -211,17 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "标普500指数涨超1.2%，道指涨429点、涨幅0.9%。 据以色列广播管理局援引以色列消息人士的话称，以色列越来越担心特朗普会对此次行动的成果感到满意，并宣布行动结束。",
-          "url": "https://wallstreetcn.com/livenews/3081056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时40分"
         },
         {
           "title": "特朗普“撒手不管”霍尔木兹海峡，对油价意味着什么？",
@@ -235,6 +250,28 @@
           "time_info": "00时01分"
         },
         {
+          "title": "白宫官员预告特朗普讲话：将重申可能2-3周结束在伊朗的行动",
+          "url": "https://flash.jin10.com/detail/20260402023057837800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国总统特朗普威胁称，除非欧洲加入霍尔木兹海峡联盟，否则将停止向乌克兰提供武器。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3081068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "芬兰总统办公室：芬兰总统斯图布在与美国总统特朗普的通话中表示，在他看来，一个更加欧洲化的北约正逐渐成型。",
           "url": "https://flash.jin10.com/detail/20260402002921324800",
           "source": "金十数据",
@@ -244,6 +281,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "【特朗普：伊朗目前“已无能力”发展核武器】4月1日获悉，美国总统特朗普表示，他并不关心伊朗的浓缩铀库存，并称相关设施“埋得非常深”。特朗普表示，美国将通过卫星持续监控相关情况，并称伊朗目前“已无能力”发展核武器，同时重申阻止伊朗获得核武器的目标已实现。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3081066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国驻北约大使惠特克：特朗普希望北约能为美国服务。",
+          "url": "https://flash.jin10.com/detail/20260402021051778800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "媒体称特朗普通过万斯开出停火条件：需满足美方“特定要求”",
@@ -257,17 +316,6 @@
           "time_info": "00时50分"
         },
         {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
           "title": "美国总统特朗普：我们是世界上唯一一个愚蠢到允许“出生公民权”的国家。",
           "url": "https://flash.jin10.com/detail/20260402002207139800",
           "source": "金十数据",
@@ -277,6 +325,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "媒体：特朗普曾威胁称若欧洲不加入霍尔木兹海峡联盟，就切断对乌武器供应",
+          "url": "https://flash.jin10.com/detail/20260402015637982800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "据英国金融时报：美国总统特朗普曾威胁称，除非欧洲加入霍尔木兹海峡联盟，否则将停止向乌克兰提供武器。",
+          "url": "https://flash.jin10.com/detail/20260402015048512800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "据Axios记者：美国总统特朗普与沙特王储讨论了与伊朗的战争，并向他简要介绍了关于可能停火的谈判情况。",
@@ -296,9 +366,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "据CNBC：礼来公司首席执行官表示，礼来公司反对将特朗普的药品定价协议立法的举措。",
+          "url": "https://flash.jin10.com/detail/20260402014502915800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "据Axios记者：美国总统特朗普周三与沙特王储通了电话。",
@@ -329,7 +410,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -340,7 +421,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -392,8 +473,41 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "斯泰兰蒂斯集团Stellantis洽谈在闲置的加拿大工厂生产中国电动汽车。",
+          "url": "https://wallstreetcn.com/livenews/3081077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
+          "url": "https://www.zhihu.com/question/1996938316550014245",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时42分]"
+        },
+        {
+          "title": "市场消息：Stellantis(STLA.N)正洽谈在加拿大一家闲置工厂生产中国电动汽车。",
+          "url": "https://flash.jin10.com/detail/20260402023450326800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
         {
           "title": "日产汽车一季度美国销售24.7068万辆，同比下滑7.5%。",
           "url": "https://wallstreetcn.com/livenews/3081039",
@@ -405,17 +519,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时40分]"
-        },
-        {
-          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
-          "url": "https://www.zhihu.com/question/1996938316550014245",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时40分]"
         }
       ]
     },
