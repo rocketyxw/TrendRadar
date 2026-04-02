@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T00:44:43.008384+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-03T01:39:59.594835+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -15,8 +15,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
+          "url": "https://wallstreetcn.com/articles/3769044",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
+          "url": "https://wallstreetcn.com/articles/3769054",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时39分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -30,59 +74,15 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
-          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
-          "url": "https://wallstreetcn.com/articles/3769044",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
-          "url": "https://wallstreetcn.com/livenews/3081713",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：美国司法部长帕姆·邦迪将转任一份在私营部门非常需要且重要的新工作，具体日期将于近期公布，副司法部长托德·布兰奇将接任代理司法部长一职。",
+          "url": "https://flash.jin10.com/detail/20260403011954533800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "01时39分"
         },
         {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
@@ -91,20 +91,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
+          "url": "https://wallstreetcn.com/livenews/3081713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时39分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时39分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -114,8 +127,85 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "特朗普解职美国司法部长邦迪",
+          "url": "https://wallstreetcn.com/livenews/3081730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3081729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
+          "url": "https://flash.jin10.com/detail/20260403010625479800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
+          "url": "https://flash.jin10.com/detail/20260403010200558800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普演说后，美油价差飙升至历史纪录水平",
+          "url": "https://wallstreetcn.com/livenews/3081717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
+          "url": "https://flash.jin10.com/detail/20260403004016648800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     },
@@ -128,11 +218,12 @@
           "url": "https://wallstreetcn.com/livenews/3081712",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时39分]"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
@@ -141,7 +232,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -152,9 +243,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：OpenAI收购TBPN。",
+          "url": "https://flash.jin10.com/detail/20260403012712890800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3081739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     },
@@ -170,19 +289,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时39分]"
         },
         {
           "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
           "url": "https://www.zhihu.com/question/2023111270262465086",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时39分]"
         }
       ]
     }
