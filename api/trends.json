@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T22:34:50.816235+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2026-04-03T23:31:58.378296+08:00",
+  "total_titles_processed": 2023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时06分 ~ 22时34分]"
+          "appearance_count": 18,
+          "time_info": "[09时06分 ~ 23时31分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -89,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时53分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[15时53分 ~ 23时31分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -130,8 +130,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时38分 ~ 22时34分]"
+          "appearance_count": 11,
+          "time_info": "[16时38分 ~ 23时31分]"
         },
         {
           "title": "特朗普讲话后金银直线跳水",
@@ -254,7 +254,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -272,24 +272,24 @@
           "time_info": "[12时16分 ~ 16时38分]"
         },
         {
+          "title": "“再给点时间”！特朗普疯狂叫嚣，扬言要夺石油发大财",
+          "url": "https://flash.jin10.com/detail/20260403224906129800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普在2027财年预算中为美国政府寻求2.164万亿美元自由裁量预算拨款。",
           "url": "https://wallstreetcn.com/livenews/3082250",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "美国现代史上之最！特朗普抛出1.5万亿天价国防预算",
-          "url": "https://flash.jin10.com/detail/20260403221809438800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -314,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "特朗普预算案预计在2027年将获得4640亿美元的关税收入。（外媒更正：非2027财年）",
+          "url": "https://flash.jin10.com/detail/20260403224401371800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "特朗普：针对欺诈的“突袭”在洛杉矶“已经开始”。 万斯现在也是“反欺诈沙皇”。",
@@ -373,6 +384,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时38分]"
+        },
+        {
+          "title": "美国现代史上之最！特朗普抛出1.5万亿天价国防预算",
+          "url": "https://flash.jin10.com/detail/20260403221809438800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时31分]"
         },
         {
           "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
@@ -446,6 +469,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时04分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普又又又临阵退缩了？",
+          "url": "https://news.ifeng.com/c/8s1rQuxF293",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时31分]"
         },
         {
           "title": "特朗普放炸桥视频施压伊朗",
@@ -584,6 +618,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
+          "url": "https://wallstreetcn.com/livenews/3082255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "石破茂爆料特朗普喜欢被奉承",
           "url": "https://www.toutiao.com/trending/7623434338327265307/",
           "source": "今日头条",
@@ -593,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "特朗普的预算案预计2027财年CPI将上涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260403223912210800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国总统特朗普：美国副总统万斯现在负责美国的“欺诈”问题，这是一个庞大而普遍的问题。",
@@ -617,6 +673,17 @@
           "time_info": "21时55分"
         },
         {
+          "title": "特朗普预算案预计2027财年实际GDP增长3.1%。",
+          "url": "https://flash.jin10.com/detail/20260403223852087800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "日本财务大臣片山皋月：特朗普的言论对市场的影响显著。 石油交易和外汇市场的投机行为正在增加。 我们一直以来都在谈论采取大胆的行动，立场是将从各个方面对市场采取行动。 市场波动性正在上升。 货币政策的具体细节由日本央行决定。",
           "url": "https://wallstreetcn.com/livenews/3081866",
           "source": "华尔街见闻-快讯",
@@ -637,17 +704,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
-        },
-        {
-          "title": "特朗普又又又临阵退缩了？",
-          "url": "https://news.ifeng.com/c/8s1rQuxF293",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         },
         {
           "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
@@ -678,9 +734,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "特朗普的预算案拟为美国农业部提供208亿美元的自由裁量预算授权，较2026财年水平减少49亿美元，降幅达19%。",
+          "url": "https://flash.jin10.com/detail/20260403223623930800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "特朗普政府被曝考虑解职更多高官",
@@ -703,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美国2027财年预算：特朗普拟寻求将近2.2万亿美元，预计CPI将上升2.3%",
+          "url": "https://wallstreetcn.com/livenews/3082250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -738,6 +816,28 @@
           "time_info": "12时17分"
         },
         {
+          "title": "特朗普2027财年预算拟为美国卫生与公众服务部的自由裁量预算授权设定为1111亿美元，较2026财年的水平减少158亿美元，降幅为12.5%。",
+          "url": "https://flash.jin10.com/detail/20260403223158627800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "一周热榜精选：特朗普并未TACO再引巨震！鲍威尔发言修正加息预期",
+          "url": "https://flash.jin10.com/detail/20260403223119763800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "日本财务大臣片山皋月：美国总统特朗普的讲话对金融市场产生了重大影响。",
           "url": "https://flash.jin10.com/detail/20260403084218412800",
           "source": "金十数据",
@@ -749,6 +849,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "美国总统特朗普预算案提议开始对运输安全管理局进行私有化。",
+          "url": "https://flash.jin10.com/detail/20260403223004160800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "马克龙批评特朗普，呼吁中等国家团结以制衡美国。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3082149",
           "source": "华尔街见闻-快讯",
@@ -758,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "特朗普2027年预算拟为环保署提供42亿美元的自由预算授权，比2026年减少46亿美元，降幅达52%。",
+          "url": "https://flash.jin10.com/detail/20260403222420452800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "特朗普演说后，美油价差飙升至历史纪录水平",
@@ -791,6 +913,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "特朗普2027财年向美国国家航空航天局申请188亿美元预算，较2026财年水平减少56亿美元，降幅达23%。",
+          "url": "https://flash.jin10.com/detail/20260403222116107800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "支持率不佳 美媒：更多特朗普政府官员恐被解职",
@@ -1046,11 +1179,12 @@
             10,
             4,
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时53分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[15时53分 ~ 23时31分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
@@ -1117,7 +1251,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         }
