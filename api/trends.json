@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T06:16:24.996654+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-04-05T07:19:28.820762+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
@@ -49,8 +49,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
@@ -58,15 +58,16 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时19分]"
         },
         {
-          "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
-          "url": "https://flash.jin10.com/detail/20260405040644929800",
+          "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
+          "url": "https://flash.jin10.com/detail/20260405044003027800",
           "source": "金十数据",
           "ranks": [
             2,
@@ -74,18 +75,31 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时16分]"
+          "time_info": "[06时16分 ~ 07时19分]"
         },
         {
-          "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
-          "url": "https://flash.jin10.com/detail/20260405044003027800",
+          "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
+          "url": "https://flash.jin10.com/detail/20260405040644929800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时19分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时19分"
         },
         {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
@@ -107,11 +121,12 @@
           "ranks": [
             6,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[04时16分 ~ 07时19分]"
         },
         {
           "title": "伊朗媒体：特朗普深陷战争泥潭",
@@ -153,8 +168,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -166,8 +181,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
@@ -175,11 +190,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[04时16分 ~ 07时19分]"
         }
       ]
     }
