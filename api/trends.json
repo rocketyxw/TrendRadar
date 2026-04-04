@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T05:19:58.633791+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-04-05T06:16:24.996654+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "特朗普再警告伊朗：“48小时内”可能采取进一步行动",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -38,19 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
-        },
-        {
-          "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
-          "url": "https://flash.jin10.com/detail/20260405042122287800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
@@ -60,19 +49,43 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时16分]"
+        },
+        {
+          "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
+          "url": "https://flash.jin10.com/detail/20260405042122287800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时16分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
           "url": "https://flash.jin10.com/detail/20260405040644929800",
           "source": "金十数据",
           "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时16分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
+          "url": "https://flash.jin10.com/detail/20260405044003027800",
+          "source": "金十数据",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时19分"
+          "time_info": "06时16分"
         },
         {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
@@ -88,6 +101,19 @@
           "time_info": "[00时20分 ~ 02时23分]"
         },
         {
+          "title": "特朗普就其移民政策发表最新讲话",
+          "url": "https://flash.jin10.com/detail/20260405030425436800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 06时16分]"
+        },
+        {
           "title": "伊朗媒体：特朗普深陷战争泥潭",
           "url": "https://flash.jin10.com/detail/20260405011320855800",
           "source": "金十数据",
@@ -99,18 +125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时16分]"
-        },
-        {
-          "title": "特朗普就其移民政策发表最新讲话",
-          "url": "https://flash.jin10.com/detail/20260405030425436800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时19分]"
         },
         {
           "title": "特朗普再次向伊朗发出48小时最后通牒",
@@ -139,8 +153,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -152,8 +166,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
@@ -164,8 +178,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 06时16分]"
         }
       ]
     }
