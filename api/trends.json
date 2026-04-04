@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T00:20:30.021729+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-05T01:20:25.479166+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
-          "url": "https://flash.jin10.com/detail/20260405000820854800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时20分]"
         },
         {
           "title": "特朗普再警告伊朗：“48小时内”可能采取进一步行动",
@@ -37,30 +26,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时20分]"
+        },
+        {
+          "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
+          "url": "https://flash.jin10.com/detail/20260405000820854800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时20分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
           "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "特朗普再次向伊朗发出48小时最后通牒",
-          "url": "https://flash.jin10.com/detail/20260404220708839800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时20分]"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
@@ -68,6 +59,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普再次向伊朗发出48小时最后通牒",
+          "url": "https://flash.jin10.com/detail/20260404220708839800",
+          "source": "金十数据",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -80,17 +82,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
           "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
           "url": "https://www.zhihu.com/question/2023688646847456234",
           "source": "知乎",
@@ -98,8 +89,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时20分]"
+        },
+        {
+          "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时20分]"
         }
       ]
     }
