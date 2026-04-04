@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T11:33:19.500259+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-04-04T13:17:20.800456+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时30分 ~ 11时33分]"
+          "appearance_count": 10,
+          "time_info": "[03时30分 ~ 13时17分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 09时01分]"
+        },
+        {
+          "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
+          "url": "https://www.zhihu.com/question/2023328039937786913",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时30分 ~ 13时17分]"
         },
         {
           "title": "特朗普又又又临阵退缩了？",
@@ -68,20 +82,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 03时31分]"
-        },
-        {
-          "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
-          "url": "https://www.zhihu.com/question/2023328039937786913",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时30分 ~ 11时33分]"
         },
         {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
@@ -125,17 +125,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
-          "url": "https://flash.jin10.com/detail/20260404110623924800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
           "title": "美国总统特朗普在自家社交媒体平台兜售3月非农就业报告。",
           "url": "https://wallstreetcn.com/livenews/3082341",
           "source": "华尔街见闻-快讯",
@@ -176,15 +165,15 @@
           "time_info": "[03时31分 ~ 07时23分]"
         },
         {
-          "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
-          "url": "https://flash.jin10.com/detail/20260404110124771800",
-          "source": "金十数据",
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://wallstreetcn.com/livenews/3082385",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "13时17分"
         },
         {
           "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
@@ -198,6 +187,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时29分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260404123540502800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "停火斡旋陷僵局，伊朗拒绝与美方伊斯兰堡会面，周五美或有两架战机坠毁，特朗普称战机被击落不影响谈判",
@@ -223,6 +223,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 09时01分]"
+        },
+        {
+          "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
+          "url": "https://flash.jin10.com/detail/20260404110623924800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
+          "url": "https://flash.jin10.com/detail/20260404110124771800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 13时17分]"
         },
         {
           "title": "特朗普发文吹嘘自己创造了一个强大的经济增长引擎",
@@ -391,11 +415,12 @@
             16,
             15,
             20,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 13时17分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -422,11 +447,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时17分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车，有规模但价值太小",
