@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T16:16:04.525968+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-04-06T17:58:01.666433+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 16时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 17时58分]"
         },
         {
           "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
@@ -60,11 +60,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 16时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 17时58分]"
         },
         {
           "title": "美以伊战争丨特朗普：能在4月6日前与伊朗达成协议",
@@ -76,6 +77,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 05时19分]"
+        },
+        {
+          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 17时58分]"
         },
         {
           "title": "下周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
@@ -109,23 +123,24 @@
             9,
             8,
             7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 16时16分]"
-        },
-        {
-          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
-          "url": "https://wallstreetcn.com/articles/3769257",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 16时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 17时58分]"
+        },
+        {
+          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3769299",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 17时58分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -199,18 +214,6 @@
           "source": "凤凰网",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时16分]"
-        },
-        {
-          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3769299",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -301,6 +304,44 @@
           "time_info": "[06时17分 ~ 07时22分]"
         },
         {
+          "title": "发帖飙脏话，特朗普“破防”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909910",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 17时58分]"
+        },
+        {
+          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
+          "url": "https://wallstreetcn.com/articles/3769302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 17时58分]"
+        },
+        {
+          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
+          "url": "https://www.cls.cn/detail/2335621",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 17时58分]"
+        },
+        {
           "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
           "url": "https://wallstreetcn.com/livenews/3082650",
           "source": "华尔街见闻-快讯",
@@ -340,20 +381,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "发帖飙脏话，特朗普“破防”了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909910",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 16时16分]"
-        },
-        {
           "title": "民主党人批特朗普对伊朗的威胁是“精神错乱”",
           "url": "https://flash.jin10.com/detail/20260406085608290800",
           "source": "金十数据",
@@ -365,16 +392,16 @@
           "time_info": "09时09分"
         },
         {
-          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
-          "url": "https://wallstreetcn.com/articles/3769302",
-          "source": "华尔街见闻",
+          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
+          "url": "https://www.cls.cn/detail/2335633",
+          "source": "财联社热门",
           "ranks": [
-            8,
+            9,
             6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时16分]"
+          "time_info": "[14时23分 ~ 17时58分]"
         },
         {
           "title": "特朗普疑似公布对伊朗最后通牒具体时间",
@@ -391,16 +418,16 @@
           "time_info": "[01时20分 ~ 04时18分]"
         },
         {
-          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
-          "url": "https://www.cls.cn/detail/2335621",
-          "source": "财联社热门",
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            13
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时16分]"
+          "time_info": "[14时23分 ~ 17时58分]"
         },
         {
           "title": "特朗普：相信能在6日之前与伊朗达成协议",
@@ -465,16 +492,15 @@
           "time_info": "[00时21分 ~ 01时20分]"
         },
         {
-          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
-          "url": "https://www.cls.cn/detail/2335633",
+          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
+          "url": "https://www.cls.cn/detail/2335649",
           "source": "财联社热门",
           "ranks": [
-            9,
-            6
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 17时58分]"
         },
         {
           "title": "据CNN：美国总统特朗普已经返回白宫。",
@@ -541,17 +567,6 @@
           "time_info": "[02时25分 ~ 04时18分]"
         },
         {
-          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 16时16分]"
-        },
-        {
           "title": "伊朗常驻联合国代表团：特朗普企图将中东拖入无休止战争",
           "url": "https://flash.jin10.com/detail/20260406053401666800",
           "source": "金十数据",
@@ -610,6 +625,17 @@
           "time_info": "[01时20分 ~ 02时25分]"
         },
         {
+          "title": "特朗普发文飙脏话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E9%A3%99%E8%84%8F%E8%AF%9D%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时58分]"
+        },
+        {
           "title": "华尔街日报：特朗普称伊朗开放霍尔木兹海峡的最后期限是周二晚间",
           "url": "https://flash.jin10.com/detail/20260406001833283800",
           "source": "金十数据",
@@ -644,17 +670,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时22分]"
-        },
-        {
-          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
-          "url": "https://www.cls.cn/detail/2335649",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
         },
         {
           "title": "特朗普发帖发了一个时间 媒体：暗示再次推迟“最后通牒”时限",
@@ -699,7 +714,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -850,7 +865,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "莲花汽车称「不受控制的马力不值一提」，如何评价此观点？",
@@ -864,6 +879,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 09时09分]"
+        },
+        {
+          "title": "小米汽车卖不动了吗",
+          "url": "https://www.toutiao.com/trending/7624553671460175935/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时58分]"
         },
         {
           "title": "印度汽车经销商协会联盟（FADA）：经销商警示，经济放缓风险、主机厂供应中断、燃油价格压力，是四至六月季度的主要逆风。",
@@ -1016,8 +1042,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 17时58分]"
         }
       ]
     }
