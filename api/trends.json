@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T14:11:53.210293+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-04-07T16:03:29.966990+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 127,
+      "match_count": 135,
       "titles": [
         {
           "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
@@ -80,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时43分 ~ 14时11分]"
+          "appearance_count": 11,
+          "time_info": "[03时43分 ~ 16时03分]"
         },
         {
           "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
@@ -143,8 +143,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 14时11分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普：该由美国收霍尔木兹海峡“通行费”",
+          "url": "https://www.cls.cn/detail/2335995",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 16时03分]"
         },
         {
           "title": "特朗普：该由美国收霍尔木兹通行费",
@@ -170,15 +181,17 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
-          "title": "特朗普：该由美国收霍尔木兹海峡“通行费”",
-          "url": "https://www.cls.cn/detail/2335995",
+          "title": "特朗普：伊朗可在一夜内被击溃 或许就是7日晚上",
+          "url": "https://www.cls.cn/detail/2335931",
           "source": "财联社热门",
           "ranks": [
-            3
+            8,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 16时03分]"
         },
         {
           "title": "美以伊战争丨特朗普：被迫炸毁2架深陷沙地运输机",
@@ -209,7 +222,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -264,9 +277,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "伊朗回应特朗普最新威胁：绝不退缩",
+          "url": "https://news.ifeng.com/c/8s88buQ3UeO",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "以色列总理警告特朗普勿仓促停火",
@@ -291,16 +315,15 @@
           "time_info": "09时07分"
         },
         {
-          "title": "特朗普：伊朗可在一夜内被击溃 或许就是7日晚上",
-          "url": "https://www.cls.cn/detail/2335931",
-          "source": "财联社热门",
+          "title": "特朗普再次点名北约、澳大利亚、日本、韩国：都不帮忙",
+          "url": "https://news.ifeng.com/c/8s7g98ajJNp",
+          "source": "凤凰网",
           "ranks": [
-            8,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 14时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "美国总统特朗普将于十分钟后在椭圆形办公室与军方共同举行新闻发布会。",
@@ -508,6 +531,18 @@
           "time_info": "[09时07分 ~ 14时11分]"
         },
         {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 16时03分]"
+        },
+        {
           "title": "美国总统特朗普谈及攫取伊朗石油，称：“胜利者”享有“战利品”。",
           "url": "https://wallstreetcn.com/livenews/3082931",
           "source": "华尔街见闻-快讯",
@@ -545,6 +580,56 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普“最后期限”强压伊朗 国际油价基准双双跳涨",
+          "url": "https://www.cls.cn/detail/2335954",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 16时03分]"
+        },
+        {
+          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普再发威胁：若伊朗不立即“投降”将打击民用设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2335992",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普再发威胁：7日20时是“最后期限”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 16时03分]"
         },
         {
           "title": "美国总统特朗普：我不想摧毁伊朗的基础设施。我们最不想做的就是重建发电厂。",
@@ -619,18 +704,6 @@
           "time_info": "[00时34分 ~ 01时35分]"
         },
         {
-          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/articles/3769330",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 14时11分]"
-        },
-        {
           "title": "特朗普最后通牒将到期，全世界都在屏息等待",
           "url": "https://news.ifeng.com/c/8s7eb3ChIcW",
           "source": "凤凰网",
@@ -676,18 +749,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普“最后期限”强压伊朗 国际油价基准双双跳涨",
-          "url": "https://www.cls.cn/detail/2335954",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 14时11分]"
         },
         {
           "title": "美国总统特朗普：正在让威特科夫和库什纳进行沟通。",
@@ -773,28 +834,6 @@
           "time_info": "[03时44分 ~ 04时27分]"
         },
         {
-          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 14时11分]"
-        },
-        {
-          "title": "特朗普再发威胁：若伊朗不立即“投降”将打击民用设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2335992",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 14时11分]"
-        },
-        {
           "title": "美国总统特朗普：我没有丧失MAGA，MAGA喜欢我正在做的事。",
           "url": "https://wallstreetcn.com/livenews/3082883",
           "source": "华尔街见闻-快讯",
@@ -805,18 +844,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时35分]"
-        },
-        {
-          "title": "特朗普再发威胁：7日20时是“最后期限”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 14时11分]"
         },
         {
           "title": "特朗普称如果让他选择，他会拿走伊朗的石油",
@@ -891,6 +918,17 @@
           "time_info": "[02时39分 ~ 03时44分]"
         },
         {
+          "title": "特朗普：一夜之间就能拿下伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 16时03分]"
+        },
+        {
           "title": "特朗普承认被迫炸毁2架运输机",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E8%A2%AB%E8%BF%AB%E7%82%B8%E6%AF%812%E6%9E%B6%E8%BF%90%E8%BE%93%E6%9C%BA",
           "source": "bilibili 热搜",
@@ -900,6 +938,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "中方回应特朗普威胁一夜击毁伊朗",
+          "url": "https://news.ifeng.com/c/8s8A2GH42fc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "特朗普称不担心轰炸民用设施构成战争罪",
+          "url": "https://wallstreetcn.com/livenews/3083283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "特朗普自曝威胁退出北约真相",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E5%A8%81%E8%83%81%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "美国总统特朗普：北约极力不愿提供帮助。",
@@ -968,6 +1039,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "美国总统特朗普：北约是纸老虎，普京并不怕北约，他怕的是我们。",
           "url": "https://flash.jin10.com/detail/20260407023024141800",
           "source": "金十数据",
@@ -999,6 +1081,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "美国总统特朗普：我给他们机会了，但他们没有抓住。",
@@ -1254,17 +1347,6 @@
           "time_info": "05时27分"
         },
         {
-          "title": "特朗普：一夜之间就能拿下伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
           "title": "美国总统特朗普：（谈伊朗石油）首先我是个商人，胜者将得到战利品。",
           "url": "https://flash.jin10.com/detail/20260407022122071800",
           "source": "金十数据",
@@ -1441,6 +1523,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "特朗普再对伊朗发出军事威胁，外交部：冲突升级不符合任何一方的利益",
+          "url": "https://flash.jin10.com/detail/20260407152303918800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "伊朗代表：特朗普“战争性言论”可能煽动恐怖主义",
           "url": "https://wallstreetcn.com/livenews/3083026",
           "source": "华尔街见闻-快讯",
@@ -1477,8 +1570,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "博通美股盘前涨2.6%，公司将为谷歌供应TPU芯片、为Anthropic提供算力。",
+          "url": "https://wallstreetcn.com/livenews/3083288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
         {
           "title": "博通(AVGO.O)公司与谷歌(GOOG.O)达成至2031年的长期TPU和网络供应协议。",
           "url": "https://flash.jin10.com/detail/20260407052400392800",
