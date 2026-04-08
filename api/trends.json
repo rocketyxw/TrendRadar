@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T01:56:03.024803+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-04-09T02:58:57.788010+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "威胁“摧毁文明”不到12小时，特朗普接受停火两周提议，伊朗称伊美谈判10日开始",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "距离“最后期限”不到一个半小时，特朗普同意与伊朗停火两周",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "美副总统万斯：美伊停火为“脆弱休战” 特朗普“急于看到进展”",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "特朗普威胁对向伊朗供武国家加税",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "特朗普提议与伊朗联合管理霍尔木兹海峡",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
@@ -70,19 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普对伊朗发出了一个“非常强大的威胁”。",
-          "url": "https://wallstreetcn.com/livenews/3084517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "据华尔街日报：海湾国家担心特朗普停火后伊朗变得更加大胆。",
@@ -107,6 +96,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "【内塔尼亚胡：临时停火“并非战争的结束”】以色列总理内塔尼亚胡8日晚发表视频讲话称，美国总统特朗普与伊朗达成的临时停火是与以色列协调的结果。这“并非战争的结束”，而是以方所有既定目标实现过程中的一个阶段。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3084533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "特朗普：考虑与伊朗“合资经营”霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3084464",
           "source": "华尔街见闻-快讯",
@@ -125,8 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -136,8 +136,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普对伊朗发出了一个“非常强大的威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3084517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 02时58分]"
         },
         {
           "title": "特朗普最后一刻TACO：中间人来回传话，一天内多轮修改方案，伊朗高层最终拍板，幕后一片混乱",
@@ -147,8 +159,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
@@ -158,8 +170,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "特朗普宣布对伊朗武器供应国加征 50% 关税，如何看待这一表态？可能带来哪些影响？",
@@ -169,8 +181,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
+        },
+        {
+          "title": "白宫证实特朗普已考虑退出北约",
+          "url": "https://flash.jin10.com/detail/20260409023902796800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "白宫新闻秘书莱维特：北约经受了考验，但他们失败了。美国总统特朗普期待与北约秘书长吕特进行坦诚对话。",
@@ -179,7 +202,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -190,9 +213,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "白宫：特朗普将与吕特讨论退出北约事宜",
+          "url": "https://wallstreetcn.com/livenews/3084526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "报道：特朗普未反对以色列继续对抗真主党",
@@ -223,7 +257,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -234,7 +268,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -250,6 +284,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "【白宫：美伊首轮会谈将于11日上午在伊斯兰堡举行】美国白宫新闻秘书莱维特8日在记者会上说，美国和伊朗将于当地时间11日上午在巴基斯坦首都伊斯兰堡举行首轮会谈，美方团队将由副总统万斯、总统特朗普的特使威特科夫和女婿库什纳率领。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3084520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "奥地利总统谈及中东局势，称：很高兴各方意识到，战争言论和升级行动无法解决冲突。 （美国总统特朗普）最近几天发出的威胁令人震惊。",
           "url": "https://wallstreetcn.com/livenews/3084452",
           "source": "华尔街见闻-快讯",
@@ -259,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：围绕霍尔木兹海峡收费成立合资公司是美国总统特朗普的某个建议。 尚未完全接受伊朗收取通行费。 美国不希望霍尔木兹海峡受到任何限制，包括收费。",
+          "url": "https://wallstreetcn.com/livenews/3084518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "特朗普：停火“不包括”黎巴嫩和黎真主党",
@@ -278,7 +334,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -300,7 +356,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -311,7 +367,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -333,9 +389,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "白宫回应特朗普“文明消亡”争议言论：强硬威胁促使伊朗让步",
+          "url": "https://flash.jin10.com/detail/20260409021304965800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "特朗普称美伊预计“很快举行”面对面会谈",
@@ -360,11 +427,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时58分]"
         }
       ]
     }
