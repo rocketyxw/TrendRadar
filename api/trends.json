@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T11:44:30.928334+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-04-09T13:43:45.475065+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 80,
       "titles": [
         {
           "title": "威胁“摧毁文明”不到12小时，特朗普接受停火两周提议，伊朗称伊美谈判10日开始",
@@ -83,11 +83,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 11时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 13时43分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -116,11 +117,12 @@
           "url": "https://www.zhihu.com/question/2025299647992709378",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时05分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 13时43分]"
         },
         {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
@@ -141,8 +143,46 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 13时43分]"
+        },
+        {
+          "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
+          "url": "https://news.ifeng.com/c/8sB098ZojvN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时44分]"
+          "time_info": "[11时44分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
+          "url": "https://news.ifeng.com/c/8sBBnRWw3el",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 13时43分]"
+        },
+        {
+          "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
+          "url": "https://wallstreetcn.com/articles/3769466",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时59分 ~ 13时43分]"
         },
         {
           "title": "美媒：石油行业抵制特朗普的伊朗和平计划",
@@ -189,17 +229,6 @@
           "time_info": "00时05分"
         },
         {
-          "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
-          "url": "https://news.ifeng.com/c/8sB098ZojvN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
           "title": "法国总统马克龙：已告知伊朗总统佩泽希齐扬和美国总统特朗普，他们接受停火的决定是最佳选择。",
           "url": "https://flash.jin10.com/detail/20260409045505102800",
           "source": "金十数据",
@@ -209,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
-        },
-        {
-          "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
-          "url": "https://news.ifeng.com/c/8sBBnRWw3el",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         },
         {
           "title": "据一位北约消息人士透露，美国总统特朗普与北约秘书长吕特的会晤仍在进行中。吕特已经在白宫逗留90多分钟了。",
@@ -242,20 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
-          "url": "https://wallstreetcn.com/articles/3769466",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时59分 ~ 11时44分]"
         },
         {
           "title": "【内塔尼亚胡：临时停火“并非战争的结束”】以色列总理内塔尼亚胡8日晚发表视频讲话称，美国总统特朗普与伊朗达成的临时停火是与以色列协调的结果。这“并非战争的结束”，而是以方所有既定目标实现过程中的一个阶段。（新华社）",
@@ -331,6 +335,18 @@
           "time_info": "[07时00分 ~ 07时28分]"
         },
         {
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 13时43分]"
+        },
+        {
           "title": "因未获伊朗战争支持，美国总统特朗普考虑惩罚某些北约国家。",
           "url": "https://flash.jin10.com/detail/20260409040702671800",
           "source": "金十数据",
@@ -379,6 +395,18 @@
           "time_info": "[07时00分 ~ 07时28分]"
         },
         {
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 13时43分]"
+        },
+        {
           "title": "美国副总统万斯：伊朗人必须采取下一步行动，否则美国总统特朗普将有重返战争的选择。",
           "url": "https://flash.jin10.com/detail/20260409033730491800",
           "source": "金十数据",
@@ -389,6 +417,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时30分]"
+        },
+        {
+          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
+          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 13时43分]"
         },
         {
           "title": "从惊魂到TACO--特朗普震惊世界的12小时",
@@ -403,16 +442,15 @@
           "time_info": "[07时28分 ~ 08时58分]"
         },
         {
-          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
-          "url": "https://wallstreetcn.com/articles/3769486",
+          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
+          "url": "https://wallstreetcn.com/articles/3769503",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时44分]"
+          "time_info": "[11时44分 ~ 13时43分]"
         },
         {
           "title": "白宫：特朗普将与吕特讨论退出北约事宜",
@@ -425,6 +463,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时55分]"
+        },
+        {
+          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025238372327723742",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 13时43分]"
+        },
+        {
+          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 13时43分]"
         },
         {
           "title": "【白宫：美伊首轮会谈将于11日上午在伊斯兰堡举行】美国白宫新闻秘书莱维特8日在记者会上说，美国和伊朗将于当地时间11日上午在巴基斯坦首都伊斯兰堡举行首轮会谈，美方团队将由副总统万斯、总统特朗普的特使威特科夫和女婿库什纳率领。（新华社）",
@@ -451,6 +512,17 @@
           "time_info": "[07时00分 ~ 07时28分]"
         },
         {
+          "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
+          "url": "https://news.ifeng.com/c/8sBFKpB7gj3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "白宫证实特朗普已考虑退出北约",
           "url": "https://flash.jin10.com/detail/20260409023902796800",
           "source": "金十数据",
@@ -462,15 +534,15 @@
           "time_info": "02时58分"
         },
         {
-          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
-          "url": "https://wallstreetcn.com/articles/3769534",
-          "source": "华尔街见闻",
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://www.cls.cn/detail/2338839",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时44分"
+          "time_info": "13时43分"
         },
         {
           "title": "市场消息：法国总统马克龙表示希望停火能得到尊重，包括在黎巴嫩。马克龙与伊朗总统佩泽希齐扬和美国总统特朗普进行了交谈。",
@@ -493,17 +565,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
-          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         },
         {
           "title": "白宫新闻秘书莱维特：北约经受了考验，但他们失败了。美国总统特朗普期待与北约秘书长吕特进行坦诚对话。",
@@ -539,17 +600,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
-          "url": "https://wallstreetcn.com/articles/3769503",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：特朗普对伊朗发出了非常严重的威胁。",
           "url": "https://flash.jin10.com/detail/20260409014803108800",
           "source": "金十数据",
@@ -567,7 +617,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -605,24 +655,13 @@
           "time_info": "00时05分"
         },
         {
-          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025238372327723742",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
           "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
           "url": "https://wallstreetcn.com/livenews/3084742",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -660,24 +699,13 @@
           "time_info": "00时05分"
         },
         {
-          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
           "title": "特朗普整不了鲍威尔？检察官上诉之路被指“极其陡峭”",
           "url": "https://flash.jin10.com/detail/20260409110528868800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -713,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普：美军驻留伊朗，违约就“开火”，规模将前所未有",
+          "url": "https://flash.jin10.com/detail/20260409130825168800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "特朗普：停火“不包括”黎巴嫩和黎真主党",
@@ -820,7 +859,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -867,12 +906,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "WTI原油期货维持3%的涨幅，特朗普：美军将“继续驻扎在伊朗境内及其周边”，直到达成的协议得到全面遵守",
+          "url": "https://wallstreetcn.com/livenews/3084759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
@@ -887,13 +937,24 @@
           "time_info": "[04时30分 ~ 05时33分]"
         },
         {
+          "title": "起亚汽车：计划到2030年实现每年100万辆电动车销量，市场份额达到3.8%。 计划到2030年实现运营利润17万亿韩元，此前目标为18万亿韩元。 计划于2029年开始在美国乔治亚工厂部署Atlas人形机器人。 计划未来五年投资约49万亿韩元。 计划于2027年推出高速公路自动驾驶功能，2029年初实现城市环境自动驾驶。",
+          "url": "https://wallstreetcn.com/livenews/3084782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "中汽协：1-2月中国出口到“一带一路”沿线国家的汽车商品累计金额达263.3亿美元",
           "url": "https://flash.jin10.com/detail/20260409110811518800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -904,9 +965,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "起亚公司：计划到2030年销售110万辆混合动力汽车（此前目标为99.3万辆）。",
+          "url": "https://flash.jin10.com/detail/20260409125347274800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     },
