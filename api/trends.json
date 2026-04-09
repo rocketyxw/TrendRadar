@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T03:55:59.948974+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-04-10T04:38:42.748682+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 04时38分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 04时38分]"
         },
         {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 04时38分]"
         },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 04时38分]"
         },
         {
           "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 04时38分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -84,8 +84,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 04时38分]"
         },
         {
           "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
@@ -95,8 +95,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 04时38分]"
+        },
+        {
+          "title": "唐宁街：英国首相斯塔默与美国总统特朗普通电话，讨论了关于开放霍尔木兹海峡的计划。",
+          "url": "https://wallstreetcn.com/livenews/3085325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "特朗普夫人梅拉尼娅：呼吁国会为爱泼斯坦案受害者举行公开听证会。",
@@ -109,6 +120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时55分]"
+        },
+        {
+          "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
+          "url": "https://wallstreetcn.com/articles/3769515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 04时38分]"
         },
         {
           "title": "特朗普夫人梅拉尼娅：我从未与爱泼斯坦有过关系，爱泼斯坦没有把我介绍给特朗普，这些指控有损我的声誉。",
@@ -159,17 +181,6 @@
           "time_info": "[02时43分 ~ 03时55分]"
         },
         {
-          "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
-          "url": "https://wallstreetcn.com/articles/3769515",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时55分]"
-        },
-        {
           "title": "标普500指数涨幅扩大至0.7%，刷新日高。 现货白银日内涨幅达3.0%，报76.28美元/盎司。 布伦特原油5分钟内下跌0.51美元/桶，报95.13美元/桶。 WTI原油5分钟内下跌0.92美元/桶，报96.55美元/桶。 美国总统特朗普声称，对达成伊朗和平协议“持乐观态度”。",
           "url": "https://wallstreetcn.com/livenews/3085261",
           "source": "华尔街见闻-快讯",
@@ -200,7 +211,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -380,8 +391,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "周四（4月9日），彭博电动汽车价格回报指数跌0.41%，报3726.85点。",
+          "url": "https://wallstreetcn.com/livenews/3085320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
         {
           "title": "智利能源部长：正探讨遏制电价上涨的措施，智利考虑推动电动汽车发展以缓解油价冲击。",
           "url": "https://flash.jin10.com/detail/20260409233144874800",
