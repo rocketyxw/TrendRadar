@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T14:24:47.349726+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-04-10T16:45:21.434651+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -98,6 +98,31 @@
           "time_info": "[00时09分 ~ 09时09分]"
         },
         {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 16时45分]"
+        },
+        {
+          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
+          "url": "https://www.cls.cn/detail/2339900",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 16时45分]"
+        },
+        {
           "title": "伊朗战争丨特朗普要求以色列减少打击，以总理：不会",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -120,27 +145,17 @@
           "time_info": "[12时35分 ~ 14时24分]"
         },
         {
-          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
-          "url": "https://www.cls.cn/detail/2339900",
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
           "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 14时24分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
+            13,
             6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 16时45分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -171,7 +186,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -189,6 +204,17 @@
           "time_info": "[09时08分 ~ 14时24分]"
         },
         {
+          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
+          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "特朗普夫人梅拉尼娅：呼吁国会为爱泼斯坦案受害者举行公开听证会。",
           "url": "https://flash.jin10.com/detail/20260410023656710800",
           "source": "金十数据",
@@ -199,18 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时55分]"
-        },
-        {
-          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
-          "url": "https://www.cls.cn/detail/2339892",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 14时24分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默与美国总统特朗普通电话，讨论了关于开放霍尔木兹海峡的计划。",
@@ -237,6 +251,17 @@
           "time_info": "[09时08分 ~ 14时24分]"
         },
         {
+          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
+          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 16时45分]"
+        },
+        {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
           "url": "https://wallstreetcn.com/articles/3769515",
           "source": "华尔街见闻",
@@ -258,17 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时29分]"
-        },
-        {
-          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
-          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 14时24分]"
         },
         {
           "title": "特朗普夫人梅拉尼娅：我从未与爱泼斯坦有过关系，爱泼斯坦没有把我介绍给特朗普，这些指控有损我的声誉。",
@@ -397,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "特朗普，对鲤鱼宣战？",
+          "url": "https://news.ifeng.com/c/8sD4lNUQ8Uf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美国总统特朗普发表长文，猛烈抨击美国知名主持人塔克·卡尔森、梅根·凯利和坎迪斯·欧文斯对伊朗战争的批评。",
@@ -603,7 +628,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -741,7 +766,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -752,7 +777,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -798,7 +823,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -820,7 +845,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -842,7 +867,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
