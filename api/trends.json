@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T01:21:51.961358+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-04-12T02:25:10.805607+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -59,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
@@ -71,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -82,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
@@ -144,8 +144,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -156,8 +156,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     },
@@ -170,11 +170,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E9%81%AD%E9%81%87%E5%A4%A7%E9%87%8F%E6%81%B6%E6%84%8F%E6%8B%89%E8%B8%A9+%E5%B7%B2%E6%8A%A5%E6%A1%88",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 02时25分]"
         }
       ]
     }
