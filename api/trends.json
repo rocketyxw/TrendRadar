@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T12:36:19.025433+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-04-12T14:17:18.813734+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 14时17分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -40,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 14时17分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -91,6 +91,17 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 14时17分]"
+        },
+        {
           "title": "【特朗普：并不在意美伊会谈能否达成协议】美国总统特朗普11日在白宫接受采访时说，美国与伊朗在伊斯兰堡的谈判有可能达成协议，也有可能达不成协议，但对他来说，“没什么区别”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3086291",
           "source": "华尔街见闻-快讯",
@@ -102,15 +113,15 @@
           "time_info": "06时18分"
         },
         {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/livenews/3086335",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "14时17分"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -207,6 +218,29 @@
           "time_info": "[05时21分 ~ 07时21分]"
         },
         {
+          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
+          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 14时17分]"
+        },
+        {
+          "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
+          "url": "https://flash.jin10.com/detail/20260412111803956800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 14时17分]"
+        },
+        {
           "title": "特朗普：并不在意美伊会谈能否达成协议",
           "url": "https://wallstreetcn.com/livenews/3086291",
           "source": "华尔街见闻-快讯",
@@ -231,17 +265,6 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
-          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
-          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "“大空头”做空后，特朗普亲自“站台”Palantir",
           "url": "https://wallstreetcn.com/articles/3769735",
           "source": "华尔街见闻",
@@ -259,20 +282,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
         {
-          "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
-          "url": "https://flash.jin10.com/detail/20260412111803956800",
+          "title": "美伊谈判结束后 特朗普再提欧洲",
+          "url": "https://flash.jin10.com/detail/20260412125636392800",
           "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "14时17分"
+        },
+        {
+          "title": "特朗普转发威胁伊朗的报道链接",
+          "url": "https://flash.jin10.com/detail/20260412123247854800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "伊朗谈判生变数 特朗普暗示或采取“海上封锁”手段",
+          "url": "https://flash.jin10.com/detail/20260412122206149800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "特朗普再次发文抨击媒体",
@@ -310,40 +355,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时36分]"
-        },
-        {
-          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
-          "url": "https://wallstreetcn.com/articles/3769740",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "理想汽车：遭遇大量恶意拉踩 已报案",
@@ -362,6 +375,72 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时21分 ~ 12时36分]"
+        },
+        {
+          "title": "新版“海南省智能网联汽车管理办法”拟4、5月发布",
+          "url": "https://wallstreetcn.com/livenews/3086337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
+          "url": "https://flash.jin10.com/detail/20260412131656845800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "郑丽文探访小米汽车工厂",
+          "url": "https://www.douyin.com/hot/2463571",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 14时17分]"
+        },
+        {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时12分]"
         }
       ]
     }
