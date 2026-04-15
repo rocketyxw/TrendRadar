@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T20:52:46.624149+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2026-04-15T22:24:08.265824+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时11分 ~ 20时52分]"
+          "appearance_count": 13,
+          "time_info": "[09时11分 ~ 22时24分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
@@ -31,11 +31,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时11分 ~ 20时52分]"
+          "appearance_count": 13,
+          "time_info": "[09时11分 ~ 22时24分]"
         },
         {
           "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
@@ -103,6 +104,17 @@
           "time_info": "[07时33分 ~ 14时25分]"
         },
         {
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://news.ifeng.com/c/8sLS5AcutoB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时19分 ~ 22时24分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -136,6 +148,31 @@
           "time_info": "[01时01分 ~ 03时58分]"
         },
         {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时05分 ~ 22时24分]"
+        },
+        {
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时24分]"
+        },
+        {
           "title": "伊朗战争丨特朗普称美国对伊朗的战争已结束",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -157,17 +194,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时04分 ~ 07时33分]"
-        },
-        {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://news.ifeng.com/c/8sLS5AcutoB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 20时52分]"
         },
         {
           "title": "伊朗战争丨特朗普称没有必要延长同伊朗的停火",
@@ -198,9 +224,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时05分 ~ 22时24分]"
         },
         {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
@@ -234,22 +273,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
         {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
+          "title": "特朗普暗示对伊朗的打击行动将持续",
+          "url": "https://wallstreetcn.com/livenews/3088593",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 20时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "特朗普：伊朗战事“接近结束”，未来两天或重启谈判",
@@ -269,7 +306,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -296,17 +333,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时34分 ~ 16时20分]"
-        },
-        {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "特朗普称与英国的特殊关系处于“令人遗憾”状态，（与）英国的贸易协定“随时可以修改”。特朗普再次对英国在北海石油问题上的政策提出批评，称查尔斯国王“非常出色”且是“朋友”。（天空新闻）",
@@ -368,16 +394,16 @@
           "time_info": "[04时45分 ~ 05时39分]"
         },
         {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
-          "source": "澎湃新闻",
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时24分]"
         },
         {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
@@ -430,7 +456,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -477,17 +503,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
-        },
-        {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "欧洲正加速推进北约应急计划，以防美国总统特朗普退出。",
@@ -666,6 +681,17 @@
           "time_info": "19时45分"
         },
         {
+          "title": "特朗普继续放狠：鲍威尔必须“净身出户”，刑事调查绝不撤诉！",
+          "url": "https://flash.jin10.com/detail/20260415215634931800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国总统特朗普：（在被问及银行和人工智能风险时）人工智能可能会使银行系统走向伟大。",
           "url": "https://flash.jin10.com/detail/20260415191805999800",
           "source": "金十数据",
@@ -694,6 +720,18 @@
           "time_info": "16时20分"
         },
         {
+          "title": "一年狂发300+汽车成为快消品",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353283&amp;topic_name=%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8F%91300%2B%E6%B1%BD%E8%BD%A6%E6%88%90%E4%B8%BA%E5%BF%AB%E6%B6%88%E5%93%81",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时44分 ~ 22时24分]"
+        },
+        {
           "title": "据阿拉伯卫星电视台：伊朗一家亲政府的Telegram频道消息称，伊朗首都德黑兰的伊玛目霍梅尼大街发生汽车炸弹爆炸。德黑兰居民表示，在当地时间周二午夜前后听到了多次爆炸声。",
           "url": "https://flash.jin10.com/detail/20260415054501790800",
           "source": "金十数据",
@@ -704,18 +742,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时33分]"
-        },
-        {
-          "title": "一年狂发300+汽车成为快消品",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353283&amp;topic_name=%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8F%91300%2B%E6%B1%BD%E8%BD%A6%E6%88%90%E4%B8%BA%E5%BF%AB%E6%B6%88%E5%93%81",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 20时52分]"
         },
         {
           "title": "周二（4月14日），彭博电动汽车价格回报指数涨1.66%，报3880.16点。",
@@ -747,7 +773,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -896,11 +922,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 20时52分]"
+          "appearance_count": 5,
+          "time_info": "[19时44分 ~ 22时24分]"
         }
       ]
     },
