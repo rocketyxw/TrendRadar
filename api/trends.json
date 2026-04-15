@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T05:40:40.781154+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-04-16T06:31:43.541998+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -26,19 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -48,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "特朗普拒向教宗道歉，美国民众：很失望",
@@ -59,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -70,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -81,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -93,19 +94,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
           "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -116,8 +118,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
+        },
+        {
+          "title": "美国总统特朗普将于周五在凤凰城讲话。",
+          "url": "https://wallstreetcn.com/livenews/3088799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "据阿拉伯媒体Al Hadath报道称，如果与伊朗达成协议，美国总统特朗普将前往巴基斯坦。",
@@ -291,11 +304,12 @@
           "url": "https://flash.jin10.com/detail/20260416045257037800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时31分]"
         },
         {
           "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
@@ -379,7 +393,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一年狂发300+汽车成为快消品",
@@ -389,8 +403,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "周三（4月15日），彭博电动汽车价格回报指数跌0.26%，报3870.70点。",
@@ -398,11 +412,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时31分]"
         },
         {
           "title": "福特汽车电动汽车业务主管Doug请求离职。",
@@ -415,6 +430,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时40分]"
+        },
+        {
+          "title": "福特电动汽车负责人因公司启动新一轮重组离职",
+          "url": "https://wallstreetcn.com/livenews/3088765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     },
@@ -430,11 +456,12 @@
             24,
             9,
             19,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时31分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -458,11 +485,12 @@
           "url": "https://flash.jin10.com/detail/20260416050117948800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时31分]"
         }
       ]
     }
