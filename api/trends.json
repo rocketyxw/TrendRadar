@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-16T06:31:43.541998+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-04-16T07:32:19.697211+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
-        },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
@@ -26,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
@@ -38,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -49,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "特朗普拒向教宗道歉，美国民众：很失望",
@@ -60,30 +61,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
           "url": "https://wallstreetcn.com/articles/3770009",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
-        },
-        {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -91,11 +82,24 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -103,11 +107,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -120,17 +125,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 06时31分]"
-        },
-        {
-          "title": "美国总统特朗普将于周五在凤凰城讲话。",
-          "url": "https://wallstreetcn.com/livenews/3088799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         },
         {
           "title": "据阿拉伯媒体Al Hadath报道称，如果与伊朗达成协议，美国总统特朗普将前往巴基斯坦。",
@@ -177,6 +171,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时59分]"
+        },
+        {
+          "title": "美国总统特朗普将于周五在凤凰城讲话。",
+          "url": "https://wallstreetcn.com/livenews/3088799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时32分]"
         },
         {
           "title": "【白宫否认已请求延长美伊停火，强调巴基斯坦为唯一斡旋方】4月15日，美国白宫新闻秘书卡罗琳·莱维特表示，美国尚未正式请求延长与伊朗的停火协议，相关报道“不属实”，当前双方仍在持续接触并推进谈判。 莱维特称，美国总统特朗普政府认为谈判“具有建设性”，对达成协议前景持乐观态度，同时强调所有决定以白宫正式发布为准。 她还指出，巴基斯坦在本轮谈判中发挥了关键斡旋作用，并称其为当前“唯一的调解方”。尽管多国表达协助意愿，但美方希望通过巴基斯坦渠道持续推进沟通与谈判。（央视）",
@@ -261,6 +267,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3088804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
           "title": "据AXIOS网站：一名美国高级官员称，特朗普欢迎将结束战斗纳入以色列与黎巴嫩之间达成的协议的一部分。",
           "url": "https://flash.jin10.com/detail/20260416030837567800",
           "source": "金十数据",
@@ -305,11 +322,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 07时32分]"
         },
         {
           "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
@@ -393,7 +411,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "一年狂发300+汽车成为快消品",
@@ -403,8 +421,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "报道：美国向汽车制造商询问武器生产事宜",
+          "url": "https://wallstreetcn.com/livenews/3088817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "据华尔街日报：美国高级国防官员与包括通用汽车首席执行官和福特汽车首席执行官在内的高管进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260416070231366800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "据华尔街日报：美国国防部正在接洽汽车制造商和生产商，以提升武器生产。",
+          "url": "https://flash.jin10.com/detail/20260416070116885800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "周三（4月15日），彭博电动汽车价格回报指数跌0.26%，报3870.70点。",
@@ -438,7 +489,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -457,11 +508,12 @@
             9,
             19,
             29,
-            21
+            21,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -486,11 +538,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 07时32分]"
         }
       ]
     }
