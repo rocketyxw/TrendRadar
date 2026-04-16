@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-17T06:27:31.059841+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-04-17T07:30:53.135943+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "特朗普：美伊下次会晤或在本周末举行",
+          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时30分]"
+        },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
           "url": "https://wallstreetcn.com/articles/3770081",
@@ -20,15 +31,30 @@
           "time_info": "[00时13分 ~ 06时27分]"
         },
         {
-          "title": "特朗普：美伊下次会晤或在本周末举行",
-          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
           "source": "凤凰网",
           "ranks": [
-            2
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普称以黎停火10天",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            14,
+            17,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时30分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -53,40 +79,16 @@
           "time_info": "[04时37分 ~ 05时33分]"
         },
         {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 06时27分]"
-        },
-        {
-          "title": "特朗普称以黎停火10天",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            14,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 06时27分]"
-        },
-        {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
           "url": "https://wallstreetcn.com/articles/3770137",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 06时27分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 07时30分]"
         },
         {
           "title": "特朗普：邀请内塔尼亚胡和黎巴嫩总统访问白宫",
@@ -155,6 +157,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "黎以停火十天生效，特朗普趁势喊话：伊朗同意不拥核，美伊周末或复谈",
+          "url": "https://flash.jin10.com/detail/20260417071827235800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
           "title": "美国总统特朗普：伊朗如今愿意做以前不愿意做的事情。",
           "url": "https://flash.jin10.com/detail/20260417015805906800",
           "source": "金十数据",
@@ -182,11 +195,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时30分]"
         },
         {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
@@ -331,7 +345,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -364,7 +378,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -577,8 +591,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时30分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
