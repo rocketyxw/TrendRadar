@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-17T09:13:46.532553+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-04-17T12:38:21.964264+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
           "url": "https://news.ifeng.com/c/8sN3kmBakib",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 09时13分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 12时38分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -29,6 +30,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 12时38分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -55,19 +69,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 07时30分]"
-        },
-        {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 09时13分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -204,6 +205,18 @@
           "time_info": "[05时33分 ~ 07时30分]"
         },
         {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时38分]"
+        },
+        {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
           "url": "https://flash.jin10.com/detail/20260417051016228800",
           "source": "金十数据",
@@ -214,6 +227,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时38分]"
         },
         {
           "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
@@ -274,17 +299,6 @@
           "time_info": "02时01分"
         },
         {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
           "title": "美国总统特朗普：（谈伊朗）正在取得很大进展。",
           "url": "https://flash.jin10.com/detail/20260417015657675800",
           "source": "金十数据",
@@ -307,24 +321,24 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "美国总统特朗普16日表示，伊朗战事“应该很快就会结束”。",
           "url": "https://flash.jin10.com/detail/20260417082429460800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -335,7 +349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -357,7 +371,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -379,7 +393,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -390,7 +404,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -434,7 +448,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -456,7 +470,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -489,7 +503,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -522,7 +536,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -544,7 +558,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -555,9 +569,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆（特朗普的盟友）称，他不信任黎巴嫩武装部队能够解除真主党的武装。",
+          "url": "https://flash.jin10.com/detail/20260417114248677800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "特朗普：如果伊朗协议在伊斯兰堡签署，我可能会去",
@@ -665,7 +690,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -676,7 +701,93 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "一年狂发300+汽车成为快消品",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353283&amp;topic_name=%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8F%91300%2B%E6%B1%BD%E8%BD%A6%E6%88%90%E4%B8%BA%E5%BF%AB%E6%B6%88%E5%93%81",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时30分]"
+        },
+        {
+          "title": "雷军：未来几年不做10万元以下汽车",
+          "url": "https://www.toutiao.com/trending/7628812878518275603/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3089568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时27分]"
+        },
+        {
+          "title": "泼水节被多人泼水汽车后备箱也遭殃",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%BC%E6%B0%B4%E8%8A%82%E8%A2%AB%E5%A4%9A%E4%BA%BA%E6%B3%BC%E6%B0%B4%E6%B1%BD%E8%BD%A6%E5%90%8E%E5%A4%87%E7%AE%B1%E4%B9%9F%E9%81%AD%E6%AE%83%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
+        },
+        {
+          "title": "山西一男子遭遇「开门杀」被撞倒，后遭旁边车道汽车碾压身亡，两司机均被传唤，事故责任如何划分？",
+          "url": "https://www.zhihu.com/question/2028019291400790147",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "小鹏汽车的销量一直不温不火，小鹏 GX 能否成为销量增长的关键车型？",
+          "url": "https://www.zhihu.com/question/2025321777044240248",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "西双版纳泼水节一汽车被强拉开车门喷水，警方回应正核实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32984398",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         }
@@ -716,9 +827,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时38分]"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -752,70 +863,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "一年狂发300+汽车成为快消品",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353283&amp;topic_name=%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8F%91300%2B%E6%B1%BD%E8%BD%A6%E6%88%90%E4%B8%BA%E5%BF%AB%E6%B6%88%E5%93%81",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时30分]"
-        },
-        {
-          "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3089568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时27分]"
-        },
-        {
-          "title": "泼水节被多人泼水汽车后备箱也遭殃",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%BC%E6%B0%B4%E8%8A%82%E8%A2%AB%E5%A4%9A%E4%BA%BA%E6%B3%BC%E6%B0%B4%E6%B1%BD%E8%BD%A6%E5%90%8E%E5%A4%87%E7%AE%B1%E4%B9%9F%E9%81%AD%E6%AE%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 05时33分]"
-        },
-        {
-          "title": "山西一男子遭遇「开门杀」被撞倒，后遭旁边车道汽车碾压身亡，两司机均被传唤，事故责任如何划分？",
-          "url": "https://www.zhihu.com/question/2028019291400790147",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "西双版纳泼水节一汽车被强拉开车门喷水，警方回应正核实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32984398",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
         }
       ]
     },
