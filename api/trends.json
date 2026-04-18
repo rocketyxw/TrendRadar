@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T17:36:46.681955+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-04-18T18:29:47.797566+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时32分 ~ 17时36分]"
+          "appearance_count": 14,
+          "time_info": "[04时32分 ~ 18时29分]"
         },
         {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
@@ -42,8 +42,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 17时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时39分 ~ 18时29分]"
+        },
+        {
+          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
+          "url": "https://wallstreetcn.com/articles/3770301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 18时29分]"
         },
         {
           "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
@@ -70,16 +82,15 @@
           "time_info": "[09时07分 ~ 16时34分]"
         },
         {
-          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
-          "url": "https://wallstreetcn.com/articles/3770301",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗不会拥有核武器",
+          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
+          "source": "凤凰网",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时36分]"
+          "appearance_count": 6,
+          "time_info": "[14时05分 ~ 18时29分]"
         },
         {
           "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
@@ -137,17 +148,6 @@
           "time_info": "[00时39分 ~ 05时31分]"
         },
         {
-          "title": "特朗普：伊朗不会拥有核武器",
-          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时05分 ~ 17时36分]"
-        },
-        {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
           "url": "https://wallstreetcn.com/articles/3770302",
           "source": "华尔街见闻",
@@ -157,8 +157,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 18时29分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -169,8 +169,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 18时29分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -181,20 +181,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时05分 ~ 17时36分]"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[14时05分 ~ 18时29分]"
         },
         {
           "title": "特朗普：美国已禁止以色列这样做，适可而止",
@@ -207,8 +195,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时39分]"
         },
         {
           "title": "美媒：以总理对特朗普“禁止”轰炸黎巴嫩帖文感震惊",
@@ -237,6 +237,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时33分 ~ 09时07分]"
+        },
+        {
+          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
+          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时29分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -299,15 +310,15 @@
           "time_info": "[02时38分 ~ 03时49分]"
         },
         {
-          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
-          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
+          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
+          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
           "source": "凤凰网",
           "ranks": [
-            5
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 18时29分]"
         },
         {
           "title": "特朗普：将在周六举行新闻发布会。 新闻发布会与伊朗无关。",
@@ -460,17 +471,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时20分 ~ 16时34分]"
-        },
-        {
-          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
-          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 17时36分]"
         },
         {
           "title": "特朗普认为美伊之间显著分歧不多",
@@ -1088,11 +1088,12 @@
           "url": "https://wallstreetcn.com/articles/3770310",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时05分 ~ 17时36分]"
+          "appearance_count": 6,
+          "time_info": "[14时05分 ~ 18时29分]"
         }
       ]
     },
