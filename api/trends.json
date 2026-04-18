@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-18T18:29:47.797566+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-04-18T19:26:00.744902+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
+        {
+          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
+          "url": "https://wallstreetcn.com/articles/3770301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 19时26分]"
+        },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
           "url": "https://wallstreetcn.com/articles/3770269",
@@ -17,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时32分 ~ 18时29分]"
+          "appearance_count": 16,
+          "time_info": "[04时32分 ~ 19时26分]"
         },
         {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
@@ -42,20 +54,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 18时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 19时26分]"
         },
         {
-          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
-          "url": "https://wallstreetcn.com/articles/3770301",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗不会拥有核武器",
+          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
+          "source": "凤凰网",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时19分 ~ 18时29分]"
+          "time_info": "[14时05分 ~ 19时26分]"
+        },
+        {
+          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
+          "url": "https://wallstreetcn.com/articles/3770302",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 19时26分]"
         },
         {
           "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
@@ -82,17 +107,6 @@
           "time_info": "[09时07分 ~ 16时34分]"
         },
         {
-          "title": "特朗普：伊朗不会拥有核武器",
-          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时05分 ~ 18时29分]"
-        },
-        {
           "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%96%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -111,6 +125,30 @@
           "time_info": "[00时39分 ~ 07时29分]"
         },
         {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时05分 ~ 19时26分]"
+        },
+        {
+          "title": "特朗普：以色列，适可而止",
+          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 19时26分]"
+        },
+        {
           "title": "心心念念的大房子不让造，特朗普暴怒开喷",
           "url": "https://news.ifeng.com/c/8sOn1dFNorh",
           "source": "凤凰网",
@@ -122,6 +160,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时39分 ~ 14时05分]"
+        },
+        {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 19时26分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹海峡",
@@ -148,55 +200,15 @@
           "time_info": "[00时39分 ~ 05时31分]"
         },
         {
-          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
-          "url": "https://wallstreetcn.com/articles/3770302",
-          "source": "华尔街见闻",
+          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
+          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普：以色列，适可而止",
-          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时05分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 19时26分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -209,6 +221,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 02时39分]"
+        },
+        {
+          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
+          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 19时26分]"
         },
         {
           "title": "美媒：以总理对特朗普“禁止”轰炸黎巴嫩帖文感震惊",
@@ -237,17 +260,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时33分 ~ 09时07分]"
-        },
-        {
-          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
-          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时29分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -308,17 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 03时49分]"
-        },
-        {
-          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
-          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 18时29分]"
         },
         {
           "title": "特朗普：将在周六举行新闻发布会。 新闻发布会与伊朗无关。",
@@ -719,6 +720,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-18）",
+          "url": "https://flash.jin10.com/detail/20260418183631999800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "特朗普确认伊朗开放霍尔木兹海峡，称海上封锁将持续至敲定协议，美媒称美伊或周日会谈",
           "url": "https://wallstreetcn.com/articles/3770269",
           "source": "华尔街见闻",
@@ -1092,8 +1104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时05分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时05分 ~ 19时26分]"
         }
       ]
     },
