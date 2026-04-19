@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T00:25:05.115070+08:00",
-  "total_titles_processed": 319,
+  "generated_at": "2026-04-20T01:26:16.784091+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时26分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -26,19 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
-          "url": "https://flash.jin10.com/detail/20260420000334425800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时26分]"
         },
         {
           "title": "特朗普：若美伊达成协议，“很可能”前往伊斯兰堡",
@@ -47,20 +36,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
+          "url": "https://flash.jin10.com/detail/20260420000334425800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
         },
         {
           "title": "美国总统特朗普：伊朗内部温和派与强硬派之间存在持续冲突。",
           "url": "https://flash.jin10.com/detail/20260420000322341800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
         },
         {
           "title": "哈里斯：美国人不想打伊朗，特朗普意图“转移焦点”",
@@ -70,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时26分]"
         },
         {
           "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
@@ -81,19 +83,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时26分]"
         },
         {
           "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时26分]"
         },
         {
           "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
@@ -103,8 +106,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时26分]"
         },
         {
           "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
@@ -113,9 +116,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
         },
         {
           "title": "美国总统特朗普：明晚在巴基斯坦的对话“应当是迅速的”。 所有问题都已经（在此前的伊斯兰堡对话中）谈到了。 我们正在主导对话。（福克斯新闻）",
@@ -124,31 +127,33 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
         },
         {
           "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
           "url": "https://flash.jin10.com/detail/20260419233905048800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
         },
         {
           "title": "特朗普：若美伊达成协议 “很可能”前往伊斯兰堡",
           "url": "https://flash.jin10.com/detail/20260419224124557800",
           "source": "金十数据",
           "ranks": [
-            21
+            21,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
         },
         {
           "title": "特朗普：万斯不参加美伊复谈，女婿及总统特使将参与美伊谈判",
@@ -157,9 +162,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
         },
         {
           "title": "特朗普边称要谈判边威胁伊朗",
@@ -168,9 +173,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
         }
       ]
     },
@@ -183,33 +188,36 @@
           "url": "https://www.zhihu.com/question/2028817450829976782",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时26分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
           "url": "https://www.zhihu.com/question/2029139595183367444",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时26分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
           "url": "https://www.toutiao.com/trending/7630341053001829938/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时26分]"
         }
       ]
     },
@@ -224,9 +232,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时26分]"
         }
       ]
     }
