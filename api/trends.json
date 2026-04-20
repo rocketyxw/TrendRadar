@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T03:52:11.191614+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-04-21T04:33:41.309002+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 03时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 04时33分]"
         },
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 03时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 04时33分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 03时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 04时33分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时01分 ~ 02时46分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
+          "url": "https://flash.jin10.com/detail/20260421041906950800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
@@ -69,11 +80,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时33分]"
         },
         {
           "title": "美国总统特朗普：与伊朗潜在达成的协议将远优于（奥巴马任期内达成的）伊朗核协议（JCPOA）。 如果在我任期内达成伊朗协议，（我）将担保和平。",
@@ -88,6 +100,18 @@
           "time_info": "[02时46分 ~ 03时52分]"
         },
         {
+          "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://wallstreetcn.com/livenews/3091293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 04时33分]"
+        },
+        {
           "title": "特朗普：如未能达成协议“几无可能”再延长停火",
           "url": "https://wallstreetcn.com/livenews/3091238",
           "source": "华尔街见闻-快讯",
@@ -98,6 +122,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时03分]"
+        },
+        {
+          "title": "美国总统特朗普：感谢伊朗迫使船只从美国运输石油。 伊朗领导人迫使数以百计船只驶向美国，来获取石油。",
+          "url": "https://wallstreetcn.com/livenews/3091291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 04时33分]"
+        },
+        {
+          "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
+          "url": "https://flash.jin10.com/detail/20260421022932707800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 04时33分]"
         },
         {
           "title": "特朗普：没有压力达成伊朗协议 不会被外界催促",
@@ -155,46 +203,13 @@
           "time_info": "02时46分"
         },
         {
-          "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://wallstreetcn.com/livenews/3091293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "美国总统特朗普：感谢伊朗迫使船只从美国运输石油。 伊朗领导人迫使数以百计船只驶向美国，来获取石油。",
-          "url": "https://wallstreetcn.com/livenews/3091291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
-          "url": "https://flash.jin10.com/detail/20260421022932707800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
           "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
           "url": "https://flash.jin10.com/detail/20260421021704429800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -224,7 +239,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
@@ -235,8 +250,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 03时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 04时33分]"
+        },
+        {
+          "title": "周一（4月20日），彭博电动汽车价格回报指数跌0.24%，报4000.88点。",
+          "url": "https://wallstreetcn.com/livenews/3091317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "浙北县城造出千亿汽车城",
