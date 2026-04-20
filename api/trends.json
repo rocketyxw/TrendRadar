@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T09:15:52.797908+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-04-20T12:47:17.704483+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 12时47分]"
         },
         {
           "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
@@ -127,15 +127,38 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
+          "url": "https://www.cls.cn/detail/2348774",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时47分]"
+        },
+        {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
           "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
           "source": "凤凰网",
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时47分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "12时47分"
         },
         {
           "title": "特朗普：美军在阿曼湾拦截并控制一艘伊朗货船",
@@ -149,15 +172,15 @@
           "time_info": "04时23分"
         },
         {
-          "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
-          "url": "https://www.cls.cn/detail/2348774",
-          "source": "财联社热门",
+          "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
+          "url": "https://news.ifeng.com/c/8sTO3SFkNJq",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "12时47分"
         },
         {
           "title": "特朗普说若达成协议很可能去伊斯兰堡",
@@ -306,6 +329,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时26分]"
+        },
+        {
+          "title": "特朗普透露谈判消息：伊朗担心有诈",
+          "url": "https://news.ifeng.com/c/8sTGH8fIj93",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "特朗普称将重启谈判 伊朗否认三连",
+          "url": "https://www.cls.cn/detail/2348737",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "特朗普碰上硬茬了：这个参议员说“不”，白宫也没辙",
+          "url": "https://flash.jin10.com/detail/20260420115648770800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
@@ -349,11 +405,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 12时47分]"
         }
       ]
     },
