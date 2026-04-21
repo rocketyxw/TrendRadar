@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T07:32:24.652415+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-04-21T09:13:23.523320+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 09时13分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 09时13分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时01分 ~ 02时46分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
@@ -112,6 +123,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时33分]"
+        },
+        {
+          "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
+          "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时13分]"
+        },
+        {
+          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://www.cls.cn/detail/2350029",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时13分]"
         },
         {
           "title": "美国总统特朗普：与伊朗潜在达成的协议将远优于（奥巴马任期内达成的）伊朗核协议（JCPOA）。 如果在我任期内达成伊朗协议，（我）将担保和平。",
@@ -203,20 +237,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
         {
-          "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
-          "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
-          "source": "凤凰网",
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "09时13分"
+        },
+        {
+          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
+          "url": "https://www.cls.cn/detail/2350106",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "特朗普威胁停火到期将开炸",
@@ -225,7 +270,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -250,17 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://www.cls.cn/detail/2350029",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         },
         {
           "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
@@ -307,6 +341,17 @@
           "time_info": "06时32分"
         },
         {
+          "title": "最新民调显示，特朗普当前支持率为 37% ，超六成美国人反对扩大对伊军事行动，这一数据意味什么？",
+          "url": "https://www.zhihu.com/question/2029573491297395870",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
           "url": "https://flash.jin10.com/detail/20260421052808846800",
           "source": "金十数据",
@@ -318,6 +363,17 @@
           "time_info": "06时32分"
         },
         {
+          "title": "特朗普的伊朗难题：不退让可能再次开战，妥协仍有隐患，抽身最不现实",
+          "url": "https://flash.jin10.com/detail/20260421084602892800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
           "url": "https://wallstreetcn.com/livenews/3091322",
           "source": "华尔街见闻-快讯",
@@ -327,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普连发4帖辩解对伊动武，抨击民主党和“假新闻”",
+          "url": "https://wallstreetcn.com/livenews/3091398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
@@ -349,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普成油市最大操盘手？对冲基金高管感叹：他已改变“游戏规则”！",
+          "url": "https://flash.jin10.com/detail/20260421083040883800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "标普500指数跌幅扩大至0.5%，此前美国总统特朗普声称“极不可能”延长与伊朗的停火协议。",
@@ -428,8 +506,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Google Chrome中的Gemini扩展至更多亚太地区国家/市场，其服务范围扩展至澳大利亚、印度尼西亚及日本。",
+          "url": "https://wallstreetcn.com/livenews/3091420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
         {
           "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
           "url": "https://flash.jin10.com/detail/20260421060257230800",
