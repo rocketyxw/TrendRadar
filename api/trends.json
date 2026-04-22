@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T16:22:25.422779+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-04-22T18:08:37.595184+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 75,
       "titles": [
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时52分 ~ 16时22分]"
+          "appearance_count": 13,
+          "time_info": "[02时52分 ~ 18时08分]"
         },
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -84,6 +84,31 @@
           "time_info": "[00时02分 ~ 09时11分]"
         },
         {
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 18时08分]"
+        },
+        {
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时52分 ~ 18时08分]"
+        },
+        {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
           "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
           "source": "凤凰网",
@@ -121,18 +146,6 @@
           "time_info": "[12时35分 ~ 16时22分]"
         },
         {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时26分 ~ 16时22分]"
-        },
-        {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -142,18 +155,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时28分 ~ 09时11分]"
-        },
-        {
-          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
-          "url": "https://wallstreetcn.com/articles/3770519",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时52分 ~ 09时11分]"
         },
         {
           "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
@@ -213,6 +214,18 @@
           "time_info": "07时26分"
         },
         {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 18时08分]"
+        },
+        {
           "title": "孙宇晨起诉与特朗普有关联的加密货币公司 指控其敲诈勒索",
           "url": "https://wallstreetcn.com/livenews/3092344",
           "source": "华尔街见闻-快讯",
@@ -257,6 +270,32 @@
           "time_info": "12时35分"
         },
         {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 18时08分]"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 18时08分]"
+        },
+        {
           "title": "保险公司对特朗普政府的美国医保减肥药覆盖计划持保留态度",
           "url": "https://wallstreetcn.com/livenews/3092089",
           "source": "华尔街见闻-快讯",
@@ -267,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时35分]"
-        },
-        {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 16时22分]"
         },
         {
           "title": "特朗普宣布延长停火期限，维持海上封锁等待伊朗提交方案",
@@ -316,19 +344,6 @@
           "time_info": "[06时28分 ~ 07时26分]"
         },
         {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 16时22分]"
-        },
-        {
           "title": "特朗普宣布延长同伊朗的停火",
           "url": "https://m.thepaper.cn/newsDetail_forward_33023082",
           "source": "澎湃新闻",
@@ -342,6 +357,17 @@
           "time_info": "[09时11分 ~ 14时28分]"
         },
         {
+          "title": "特朗普就关税退款发警告",
+          "url": "https://news.ifeng.com/c/8sWa8XCzzKG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 18时08分]"
+        },
+        {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
           "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
           "source": "凤凰网",
@@ -351,17 +377,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 02时52分]"
-        },
-        {
-          "title": "特朗普就关税退款发警告",
-          "url": "https://news.ifeng.com/c/8sWa8XCzzKG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 16时22分]"
         },
         {
           "title": "美股迷幻药物板块隔夜暴走 特朗普放宽监管行业迎来命运反转",
@@ -459,17 +474,6 @@
           "time_info": "[03时57分 ~ 04时39分]"
         },
         {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "特朗普的贸易主管开价：盟友应为关键矿产支付“溢价”！",
           "url": "https://flash.jin10.com/detail/20260422140726265800",
           "source": "金十数据",
@@ -503,6 +507,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "美国联邦官员表示，在健康保险公司对参与表达担忧之后，特朗普政府正无限期推迟一项医疗保险试点项目，该项目原本旨在覆盖减肥药物费用。",
+          "url": "https://flash.jin10.com/detail/20260422173607907800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "特朗普考虑延长对《琼斯法案》的豁免令，以简化美国石油运输。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3092185",
           "source": "华尔街见闻-快讯",
@@ -520,9 +535,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "民调：特朗普支持率下降 美国朝错误方向发展",
+          "url": "https://www.cls.cn/detail/2351804",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "特朗普：如果美国解除海上封锁 就永远不可能与伊朗达成协议",
@@ -707,7 +733,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -721,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "美国总统特朗普：伊朗并不想关闭霍尔木兹海峡，他们希望海峡开放，这样他们每天可以赚取5亿美元（因此，如果关闭，他们就会损失这笔钱！）。",
@@ -817,7 +854,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -835,8 +872,125 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3,
+            12,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时11分]"
+        },
+        {
+          "title": "哪吒汽车创始人已成老赖",
+          "url": "https://www.baidu.com/s?wd=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            12,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 18时08分]"
+        },
+        {
+          "title": "岚图汽车董事长卢放：经历L3是必要的",
+          "url": "https://flash.jin10.com/detail/20260422174545462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "哪吒汽车两位创始人已成老赖",
+          "url": "https://www.toutiao.com/trending/7630828960271568426/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "以为库克真加入小米汽车了",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E5%BA%93%E5%85%8B%E7%9C%9F%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%86&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 18时08分]"
+        },
+        {
+          "title": "哪吒汽车创始人已成老赖",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 16时22分]"
+        },
+        {
+          "title": "周二（4月21日），彭博电动汽车价格回报指数涨1.14%，报4045.08点，北京时间09:30以来持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3092080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时35分]"
+        },
+        {
+          "title": "南向资金今日净买入48.9亿元。港股通（沪）方面，中国海洋石油、泡泡玛特分别获净买入3.55亿港元、3.31亿港元；长飞光纤光缆净卖出额居首，金额为4.91亿港元；港股通（深）方面，华虹半导体、吉利汽车分别获净买入3.33亿港元、3.32亿港元；阿里巴巴-W净卖出额居首，金额为10.08亿港元。",
+          "url": "https://flash.jin10.com/detail/20260422173112162800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "小米高管辟谣“库克加入小米汽车”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%BA%93%E5%85%8B%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十数据整理：每日科技要闻速递（4月22日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic旗下Mythos模型遭未授权用户入侵访问。</span><br/><span class=\"section-news\">2. 我国自主量子计算机“本源悟空”形成搭载人工智能运算能力。</span><br/><span class=\"section-news\">3. 特斯拉车机语音大模型服务完成备案。</span><br/><span class=\"section-news\">4. SpaceX：有权以600亿美元收购人工智能编程助手Cursor。</span><br/><span class=\"section-news\">5. OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。</span><br/>其他：<br/><span class=\"section-news\">1. 一季度工业机器人产量同比增长33.2%。</span><br/><span class=\"section-news\">2. 打击“囤积居奇” 工信部将引导存储器企业加强渠道管理。</span><br/><span class=\"section-news\">3. 亚马逊推出GLP-1减重项目 承诺\"快速、便捷\"获取药物。</span><br/><span class=\"section-news\">4. 工信部：万兆光网试点项目建设有序推进 试点目标完成情况良好。</span><br/><span class=\"section-news\">5. 宁德时代发布第三代神行超充电池，宁德时代钠电池年内将实现大规模量产。 </span>",
@@ -906,77 +1060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
-          "url": "https://www.zhihu.com/question/2029614261630935945",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            12,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 09时11分]"
         },
         {
-          "title": "哪吒汽车创始人已成老赖",
-          "url": "https://www.baidu.com/s?wd=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 16时22分]"
-        },
-        {
-          "title": "哪吒汽车创始人已成老赖",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 16时22分]"
-        },
-        {
-          "title": "周二（4月21日），彭博电动汽车价格回报指数涨1.14%，报4045.08点，北京时间09:30以来持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3092080",
+          "title": "OpenAI向美国政府及五眼联盟盟友简报新型网络产品。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3092463",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时35分]"
-        },
-        {
-          "title": "以为库克真加入小米汽车了",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E5%BA%93%E5%85%8B%E7%9C%9F%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%86&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "18时08分"
         }
       ]
     },
