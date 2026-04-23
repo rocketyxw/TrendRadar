@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T02:50:53.763459+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-04-24T04:01:23.918684+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
         },
         {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
@@ -27,8 +27,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
+        },
+        {
+          "title": "伊朗领导层集体驳斥特朗普",
+          "url": "https://news.ifeng.com/c/8sZO60HNUR0",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "time_info": "[02时50分 ~ 04时01分]"
         },
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
@@ -42,15 +53,37 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "伊朗领导层集体驳斥特朗普",
-          "url": "https://news.ifeng.com/c/8sZO60HNUR0",
-          "source": "凤凰网",
+          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、议长辞去谈判团队职务",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "乌克兰提议以特朗普命名争议区域",
+          "url": "https://www.toutiao.com/trending/7631221261339902006/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "消息人士称，美国总统特朗普打算提名戴维·卡明斯（David Cummins）担任运输安全管理局局长。",
+          "url": "https://flash.jin10.com/detail/20260424032829482800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "04时01分"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗启动德黑兰防空系统拦截“敌对目标”、议长辞去谈判团队职务",
@@ -59,31 +92,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
         {
-          "title": "美国总统特朗普：只会在（时机）适宜时、（条款内容）不错时才达成一份伊朗协议。 在当前形势下，我所承受的压力是最小的。 在全世界，就我的时间最多，但伊朗则没有。",
-          "url": "https://wallstreetcn.com/livenews/3093471",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：再生元公司同意降低降胆固醇药物Pralient的成本。",
+          "url": "https://flash.jin10.com/detail/20260424032350802800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "美国总统特朗普：只有在时机合适且有利于美国、盟友以及事实上世界其他国家利益的时候，才会达成协议。",
-          "url": "https://flash.jin10.com/detail/20260424022513512800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "04时01分"
         },
         {
           "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
@@ -93,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
         },
         {
           "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
@@ -104,8 +126,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
+        },
+        {
+          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
+          "url": "https://www.cls.cn/detail/2353470",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
         },
         {
           "title": "伊朗挂巨幅海报：特朗普说什么都没用",
@@ -116,20 +151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
-        },
-        {
-          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
-          "url": "https://www.cls.cn/detail/2353470",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
         },
         {
           "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
@@ -140,8 +163,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
         },
         {
           "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
@@ -151,8 +174,44 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
+        },
+        {
+          "title": "美国总统特朗普：只会在（时机）适宜时、（条款内容）不错时才达成一份伊朗协议。 在当前形势下，我所承受的压力是最小的。 在全世界，就我的时间最多，但伊朗则没有。",
+          "url": "https://wallstreetcn.com/livenews/3093471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 04时01分]"
+        },
+        {
+          "title": "美国总统特朗普：只有在时机合适且有利于美国、盟友以及事实上世界其他国家利益的时候，才会达成协议。",
+          "url": "https://flash.jin10.com/detail/20260424022513512800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 04时01分]"
+        },
+        {
+          "title": "加拿大前总理特鲁多炮轰特朗普政府",
+          "url": "https://www.toutiao.com/trending/7631877586545082410/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "time_info": "[02时50分 ~ 04时01分]"
         },
         {
           "title": "特朗普下令击沉任何在霍尔木兹布雷船，伊朗据称制定反击方案，巴称美伊谈判陷僵局",
@@ -170,55 +229,126 @@
           "url": "https://flash.jin10.com/detail/20260424022432524800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 04时01分]"
         },
         {
           "title": "Spirit 航空公司证实：正与特朗普政府就融资进行“非常深入的讨论”",
           "url": "https://wallstreetcn.com/livenews/3093469",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 04时01分]"
         },
         {
           "title": "美国总统特朗普：部分媒体在吸引订阅者和观众方面表现不佳，是因为它们已经失去了公信力。",
           "url": "https://flash.jin10.com/detail/20260424022356437800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 04时01分]"
         },
         {
           "title": "美国总统特朗普：我有足够的时间，但伊朗却没有——时间正在流逝！",
           "url": "https://flash.jin10.com/detail/20260424022327296800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 04时01分]"
         },
         {
           "title": "美国总统特朗普：对于那些读者比以往任何时候都少、仍在阅读即将倒闭的《纽约时报》或观看假新闻CNN、认为我“急于”结束（如果这能称为“战争”的话）对伊朗战争的人，请知悉，我可能是历任处于这个位置上压力最小的人。",
           "url": "https://flash.jin10.com/detail/20260424022259449800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普的“真实社交”翻车了吗",
+          "url": "https://www.toutiao.com/trending/7631948690998955526/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普：韩国芯片公司进入美国。",
+          "url": "https://wallstreetcn.com/livenews/3093497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "04时01分"
+        },
+        {
+          "title": "美国总统特朗普：再生元公司同意以最惠国价格提供处方药。",
+          "url": "https://flash.jin10.com/detail/20260424031401550800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "黎以第二轮直接会谈举行在即，特朗普拟参加部分环节",
+          "url": "https://wallstreetcn.com/livenews/3093491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "美国总统特朗普：Regeneron（再生元）将在美国制药领域投资270亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3093487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "特朗普拟延长船舶豁免政策 保障油气运输缓解供应紧张",
+          "url": "https://flash.jin10.com/detail/20260424024940271800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         },
         {
           "title": "美国商务部长：特朗普金卡签证项目迄今只有一人获批",
@@ -232,15 +362,15 @@
           "time_info": "01时07分"
         },
         {
-          "title": "加拿大前总理特鲁多炮轰特朗普政府",
-          "url": "https://www.toutiao.com/trending/7631877586545082410/",
-          "source": "今日头条",
+          "title": "特朗普称不急于结束与伊朗战争",
+          "url": "https://flash.jin10.com/detail/20260424023542079800",
+          "source": "金十数据",
           "ranks": [
-            16
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "04时01分"
         },
         {
           "title": "美国总统特朗普：（英国）国王的到访可能会有助于修复两国之间的关系。",
@@ -260,7 +390,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -271,9 +401,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "报道：特朗普拟延长船舶豁免政策，保障油气运输缓解供应紧张",
+          "url": "https://wallstreetcn.com/livenews/3093477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "特朗普：不急于结束与伊朗战争",
+          "url": "https://wallstreetcn.com/livenews/3093476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         },
         {
           "title": "美国总统特朗普将提名Serco高管戴维·卡明斯领导美国运输安全管理局。",
@@ -293,7 +445,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         }
@@ -310,7 +462,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -321,7 +473,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -332,7 +484,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -343,7 +495,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -354,7 +506,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         }
@@ -362,18 +514,18 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
-          "url": "https://flash.jin10.com/detail/20260424022651079800",
-          "source": "金十数据",
+          "title": "周四（4月23日）尾盘，彭博电动汽车价格回报指数跌2.12%，报3954.52点。 亚太早盘，指数持续地显著下挫，北京时间01:46刷新日低至3944.43点，09:49以来持续交投于3980点下方，日内整体呈现出长尾L形走势。",
+          "url": "https://wallstreetcn.com/livenews/3093501",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "04时01分"
         },
         {
           "title": "媒体评哪吒汽车巨亏183亿元",
@@ -381,11 +533,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
         },
         {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
@@ -395,8 +548,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
+        },
+        {
+          "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
+          "url": "https://flash.jin10.com/detail/20260424022651079800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 04时01分]"
         }
       ]
     },
@@ -410,11 +575,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时01分]"
         }
       ]
     }
