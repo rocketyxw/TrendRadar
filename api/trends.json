@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:51:20.099962+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-04-23T20:53:58.381929+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时58分 ~ 19时51分]"
+          "appearance_count": 14,
+          "time_info": "[03时58分 ~ 20时53分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -70,6 +70,29 @@
           "time_info": "[00时01分 ~ 04时46分]"
         },
         {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 20时53分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时34分 ~ 20时53分]"
+        },
+        {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2352533",
           "source": "财联社热门",
@@ -82,18 +105,6 @@
           "time_info": "[00时01分 ~ 07时36分]"
         },
         {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 19时51分]"
-        },
-        {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -103,17 +114,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时01分 ~ 02时56分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 19时51分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
@@ -179,6 +179,17 @@
           "time_info": "[12时40分 ~ 18时12分]"
         },
         {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 20时53分]"
+        },
+        {
           "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -213,17 +224,6 @@
           "time_info": "[00时01分 ~ 03时58分]"
         },
         {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 19时51分]"
-        },
-        {
           "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
           "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
           "source": "凤凰网",
@@ -248,6 +248,17 @@
           "time_info": "03时58分"
         },
         {
+          "title": "特朗普：已下令击沉任何在霍尔木兹海峡布雷的船只",
+          "url": "https://flash.jin10.com/detail/20260423205130190800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普对封锁表示满意。",
           "url": "https://flash.jin10.com/detail/20260423032849561800",
           "source": "金十数据",
@@ -268,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "美、布两油短线走高1美元，特朗普称已命令海军击沉任何在霍尔木兹海峡布置水雷的船只。",
+          "url": "https://flash.jin10.com/detail/20260423204946755800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "白宫新闻秘书莱维特：（关于伊朗停火延长）特朗普希望各方采取统一回应。他尚未设定最后期限。",
@@ -292,6 +314,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "美国总统特朗普：他们（即伊朗）全部159艘海军舰艇均已沉入海底。",
+          "url": "https://flash.jin10.com/detail/20260423204816969800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
           "source": "凤凰网",
@@ -302,6 +335,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时36分 ~ 09时17分]"
+        },
+        {
+          "title": "美国总统特朗普：我在此命令将这一行动（清理水雷）继续推进，并将强度提升至三倍。",
+          "url": "https://flash.jin10.com/detail/20260423204735384800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时53分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时53分]"
         },
         {
           "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
@@ -414,32 +486,6 @@
           "time_info": "[09时16分 ~ 14时34分]"
         },
         {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时51分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时51分]"
-        },
-        {
           "title": "特朗普政府股权收购热潮总额逼近210亿美元",
           "url": "https://wallstreetcn.com/livenews/3092775",
           "source": "华尔街见闻-快讯",
@@ -486,6 +532,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时36分]"
+        },
+        {
+          "title": "美国总统特朗普：已命令海军击沉任何在霍尔木兹海峡布置水雷的船只。我们的扫雷舰目前正对该海峡进行清理。",
+          "url": "https://flash.jin10.com/detail/20260423204707770800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美方截获伊朗船只并不构成违反停火协议。 主动权掌握在美国总统特朗普手中，美国仍然掌控着局势。 由于停火时间延长，特朗普拥有灵活性。",
@@ -565,6 +622,17 @@
           "time_info": "03时58分"
         },
         {
+          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
+          "url": "https://www.cls.cn/detail/2353470",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "预测市场显示 特朗普面临弹劾的风险持续攀升",
           "url": "https://flash.jin10.com/detail/20260423002437236800",
           "source": "金十数据",
@@ -574,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普表示，伊朗在霍尔木兹海峡扣押的船只并非美国船只。",
@@ -703,6 +782,19 @@
           "time_info": "16时27分"
         },
         {
+          "title": "媒体评哪吒汽车巨亏183亿元",
+          "url": "https://www.douyin.com/hot/2476120",
+          "source": "抖音",
+          "ranks": [
+            13,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时53分]"
+        },
+        {
           "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
           "url": "https://wallstreetcn.com/livenews/3093173",
           "source": "华尔街见闻-快讯",
@@ -725,18 +817,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时36分]"
-        },
-        {
-          "title": "媒体评哪吒汽车巨亏183亿元",
-          "url": "https://www.douyin.com/hot/2476120",
-          "source": "抖音",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时51分]"
         },
         {
           "title": "Zacks Investment Research分析师Andrew Rocco在一份报告中指出：特斯拉业绩报告证实，虽然传统的电动汽车业务不再快速增长，但它已足够稳定，可以为特斯拉在机器人和自动驾驶技术上的巨额投资提供资金。",
@@ -763,6 +843,30 @@
           "time_info": "[05时40分 ~ 06时36分]"
         },
         {
+          "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
+          "url": "https://www.zhihu.com/question/2030242148881101121",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 20时53分]"
+        },
+        {
+          "title": "视频丨投张雪“赢麻”、投哪吒汽车“翻车”，二者差距在哪儿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33029120",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 20时53分]"
+        },
+        {
           "title": "欧洲汽车制造商协会（ACEA）表示，上月新车注册量增长11%至158万辆。所有主要市场的销量均实现扩张，电动汽车交付量飙升42%。",
           "url": "https://wallstreetcn.com/livenews/3093048",
           "source": "华尔街见闻-快讯",
@@ -783,17 +887,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        },
-        {
-          "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
-          "url": "https://www.zhihu.com/question/2030242148881101121",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：预计将在四季度向客户汽车发布无人监督FSD。",
@@ -840,17 +933,6 @@
           "time_info": "12时40分"
         },
         {
-          "title": "视频丨投张雪“赢麻”、投哪吒汽车“翻车”，二者差距在哪儿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33029120",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
           "title": "特斯拉CFO：欧洲、中东和非洲地区的汽车需求正在复苏，包括法国和德国。",
           "url": "https://flash.jin10.com/detail/20260423054654184800",
           "source": "金十数据",
@@ -887,7 +969,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
@@ -901,6 +983,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时36分 ~ 14时34分]"
+        },
+        {
+          "title": "谷歌在阿尔卑斯山地区投资建设首个数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -925,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时40分]"
+        },
+        {
+          "title": "谷歌云与CVC启动人工智能合作伙伴关系。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Embedding 2现已全面上线。",
@@ -1103,11 +1207,12 @@
           "url": "https://www.zhihu.com/question/2030589948001084304",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 20时53分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
