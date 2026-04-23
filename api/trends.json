@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T04:49:40.294946+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-04-24T05:35:29.392344+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
         },
         {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
         },
         {
           "title": "伊朗领导层集体驳斥特朗普",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[02时50分 ~ 05时35分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、议长辞去谈判团队职务",
@@ -52,6 +52,76 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时00分 ~ 04时49分]"
+        },
+        {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
+        },
+        {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
+        },
+        {
+          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
+          "url": "https://www.cls.cn/detail/2353470",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗挂巨幅海报：特朗普说什么都没用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
+        },
+        {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
         },
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
@@ -76,74 +146,15 @@
           "time_info": "[04时00分 ~ 04时01分]"
         },
         {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
+          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
-        },
-        {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
-        },
-        {
-          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
-          "url": "https://www.cls.cn/detail/2353470",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
-        },
-        {
-          "title": "伊朗挂巨幅海报：特朗普说什么都没用",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
-        },
-        {
-          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
-          "url": "https://www.zhihu.com/question/2030579933127391060",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "消息人士称，美国总统特朗普打算提名戴维·卡明斯（David Cummins）担任运输安全管理局局长。",
@@ -179,15 +190,62 @@
           "time_info": "04时01分"
         },
         {
-          "title": "美国总统特朗普：美联储主席提名人沃什非常不错。",
-          "url": "https://wallstreetcn.com/livenews/3093515",
+          "title": "特朗普：不会对伊朗使用核武 这是个愚蠢的问题",
+          "url": "https://flash.jin10.com/detail/20260424045251217800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "特朗普：黎以停火将延长三周",
+          "url": "https://wallstreetcn.com/livenews/3093537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "特朗普称对伊“不想仓促行事” 仍保留军事选项",
+          "url": "https://flash.jin10.com/detail/20260424044644632800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "特朗普有意邀请普京出席美国迈阿密G-20峰会。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3093536",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "05时35分"
+        },
+        {
+          "title": "加拿大前总理特鲁多炮轰特朗普政府",
+          "url": "https://www.toutiao.com/trending/7631877586545082410/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时50分 ~ 05时35分]"
         },
         {
           "title": "美国总统特朗普：只会在（时机）适宜时、（条款内容）不错时才达成一份伊朗协议。 在当前形势下，我所承受的压力是最小的。 在全世界，就我的时间最多，但伊朗则没有。",
@@ -214,17 +272,16 @@
           "time_info": "[02时50分 ~ 04时01分]"
         },
         {
-          "title": "加拿大前总理特鲁多炮轰特朗普政府",
-          "url": "https://www.toutiao.com/trending/7631877586545082410/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：美联储主席提名人沃什非常不错。",
+          "url": "https://wallstreetcn.com/livenews/3093515",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            17,
+            5,
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 04时49分]"
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
         },
         {
           "title": "特朗普下令击沉任何在霍尔木兹布雷船，伊朗据称制定反击方案，巴称美伊谈判陷僵局",
@@ -274,6 +331,18 @@
           "time_info": "[04时01分 ~ 04时49分]"
         },
         {
+          "title": "美国总统特朗普：不会对伊朗使用核武器。",
+          "url": "https://wallstreetcn.com/livenews/3093514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
+        },
+        {
           "title": "美国总统特朗普：部分媒体在吸引订阅者和观众方面表现不佳，是因为它们已经失去了公信力。",
           "url": "https://flash.jin10.com/detail/20260424022356437800",
           "source": "金十数据",
@@ -298,6 +367,18 @@
           "time_info": "[02时50分 ~ 04时01分]"
         },
         {
+          "title": "“疯王”特朗普、“疯狂的战争”与“癫狂的市场”",
+          "url": "https://wallstreetcn.com/articles/3770672",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
+        },
+        {
           "title": "美国总统特朗普：对于那些读者比以往任何时候都少、仍在阅读即将倒闭的《纽约时报》或观看假新闻CNN、认为我“急于”结束（如果这能称为“战争”的话）对伊朗战争的人，请知悉，我可能是历任处于这个位置上压力最小的人。",
           "url": "https://flash.jin10.com/detail/20260424022259449800",
           "source": "金十数据",
@@ -308,6 +389,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 04时01分]"
+        },
+        {
+          "title": "美国总统特朗普重申英国应该开放北海进行石油钻探。",
+          "url": "https://flash.jin10.com/detail/20260424042052576800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
+        },
+        {
+          "title": "美国总统特朗普：股市今天创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3093511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
+        },
+        {
+          "title": "美国总统特朗普：不认为伊朗冲突会持续很久。",
+          "url": "https://flash.jin10.com/detail/20260424041756728800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
         },
         {
           "title": "黎以第二轮直接会谈举行在即，特朗普拟参加部分环节",
@@ -322,6 +439,30 @@
           "time_info": "[04时01分 ~ 04时49分]"
         },
         {
+          "title": "特朗普：别催我！",
+          "url": "https://wallstreetcn.com/livenews/3093510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
+        },
+        {
+          "title": "美国总统特朗普：我们不知道伊朗的领导人是谁。伊朗在拖延，我们不知道在和谁对话。",
+          "url": "https://flash.jin10.com/detail/20260424041552415800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
+        },
+        {
           "title": "美国总统特朗普：Regeneron（再生元）将在美国制药领域投资270亿美元。",
           "url": "https://wallstreetcn.com/livenews/3093487",
           "source": "华尔街见闻-快讯",
@@ -332,6 +473,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时49分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）不会使用核武器。",
+          "url": "https://flash.jin10.com/detail/20260424041527979800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
+        },
+        {
+          "title": "美国总统特朗普：核武器打击比油价200美元/桶还要糟糕。",
+          "url": "https://flash.jin10.com/detail/20260424041318496800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
+        },
+        {
+          "title": "美国总统特朗普：来自世界各地的船只都在前来美国获取石油。",
+          "url": "https://flash.jin10.com/detail/20260424041243905800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时35分]"
         },
         {
           "title": "特朗普的“真实社交”翻车了吗",
@@ -345,17 +522,6 @@
           "time_info": "[04时00分 ~ 04时01分]"
         },
         {
-          "title": "美国总统特朗普：不会对伊朗使用核武器。",
-          "url": "https://wallstreetcn.com/livenews/3093514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
           "title": "美国总统特朗普：再生元公司同意以最惠国价格提供处方药。",
           "url": "https://flash.jin10.com/detail/20260424031401550800",
           "source": "金十数据",
@@ -365,72 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "美国总统特朗普重申英国应该开放北海进行石油钻探。",
-          "url": "https://flash.jin10.com/detail/20260424042052576800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美国总统特朗普：股市今天创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3093511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "“疯王”特朗普、“疯狂的战争”与“癫狂的市场”",
-          "url": "https://wallstreetcn.com/articles/3770672",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美国总统特朗普：不认为伊朗冲突会持续很久。",
-          "url": "https://flash.jin10.com/detail/20260424041756728800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "特朗普：别催我！",
-          "url": "https://wallstreetcn.com/livenews/3093510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美国总统特朗普：我们不知道伊朗的领导人是谁。伊朗在拖延，我们不知道在和谁对话。",
-          "url": "https://flash.jin10.com/detail/20260424041552415800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
         },
         {
           "title": "特朗普拟延长船舶豁免政策 保障油气运输缓解供应紧张",
@@ -444,17 +544,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "美国总统特朗普：（关于伊朗）不会使用核武器。",
-          "url": "https://flash.jin10.com/detail/20260424041527979800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
           "title": "美国商务部长：特朗普金卡签证项目迄今只有一人获批",
           "url": "https://wallstreetcn.com/livenews/3093424",
           "source": "华尔街见闻-快讯",
@@ -466,26 +555,15 @@
           "time_info": "01时07分"
         },
         {
-          "title": "美国总统特朗普：核武器打击比油价200美元/桶还要糟糕。",
-          "url": "https://flash.jin10.com/detail/20260424041318496800",
-          "source": "金十数据",
+          "title": "【特朗普：对伊“不想仓促行事”，仍保留军事选项】当地时间23日，美国总统特朗普表示，在与伊朗谈判持续推进之际，他“不想仓促行事”，强调伊朗领导层目前处于“动荡之中”。 他在白宫接受采访时称，尽管冲突已超出此前设定的四至六周时间表，但美方已在前四周“通过军事手段取得决定性进展”，同时表示，目前正等待达成协议结果，“如果对方不愿达成协议，将通过军事方式完成行动”。 特朗普还表示，美方希望达成一项“持久性的协议”，并称“现在就可以达成”，但仍将视条件推进谈判进程。他宣称，美国已“完全控制”霍尔木兹海峡，该海峡将在达成协议或“发生其他情况”后恢复开放。 他还指出，美国民众在“短时间内”应预期支付更高的汽油价格。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3093524",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美国总统特朗普：来自世界各地的船只都在前来美国获取石油。",
-          "url": "https://flash.jin10.com/detail/20260424041243905800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "05时35分"
         },
         {
           "title": "美国总统特朗普：美国人会暂时多花点钱买汽油。",
@@ -494,7 +572,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -516,7 +594,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -538,7 +616,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -549,7 +627,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -571,7 +649,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -604,7 +682,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -637,7 +715,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -648,7 +726,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -741,8 +819,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
         },
         {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
@@ -752,8 +830,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
         },
         {
           "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
@@ -796,8 +874,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 05时35分]"
         }
       ]
     }
