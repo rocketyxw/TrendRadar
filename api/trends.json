@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T22:27:43.262311+08:00",
-  "total_titles_processed": 1811,
+  "generated_at": "2026-04-24T23:56:45.953199+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 133,
+      "match_count": 135,
       "titles": [
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时35分 ~ 22时27分]"
+          "appearance_count": 13,
+          "time_info": "[05时35分 ~ 23时56分]"
+        },
+        {
+          "title": "特朗普的嘴，开了挂了",
+          "url": "https://news.ifeng.com/c/8sZpiNBhf3l",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 23时56分]"
         },
         {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
@@ -44,18 +56,6 @@
           "time_info": "[01时06分 ~ 07时34分]"
         },
         {
-          "title": "特朗普的嘴，开了挂了",
-          "url": "https://news.ifeng.com/c/8sZpiNBhf3l",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 22时27分]"
-        },
-        {
           "title": "伊朗领导层集体驳斥特朗普",
           "url": "https://news.ifeng.com/c/8sZO60HNUR0",
           "source": "凤凰网",
@@ -75,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 22时27分]"
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 23时56分]"
         },
         {
           "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
@@ -105,6 +105,22 @@
           "time_info": "[01时06分 ~ 09时16分]"
         },
         {
+          "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 23时56分]"
+        },
+        {
           "title": "伊朗挂巨幅海报硬刚美国：特朗普说什么都没用",
           "url": "https://news.ifeng.com/c/8sZrcU36s8G",
           "source": "凤凰网",
@@ -125,6 +141,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时06分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
+          "url": "https://www.zhihu.com/question/2030931346604778681",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 23时56分]"
         },
         {
           "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
@@ -162,33 +193,15 @@
           "time_info": "[07时34分 ~ 14时56分]"
         },
         {
-          "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
-          "url": "https://www.zhihu.com/question/2030931346604778681",
-          "source": "知乎",
+          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
+          "url": "https://news.ifeng.com/c/8saNhgKa31P",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7,
-            6,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 22时27分]"
-        },
-        {
-          "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 22时27分]"
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时56分]"
         },
         {
           "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
@@ -230,17 +243,6 @@
           "time_info": "[04时49分 ~ 14时56分]"
         },
         {
-          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
-          "url": "https://news.ifeng.com/c/8saNhgKa31P",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 22时27分]"
-        },
-        {
           "title": "伊朗战争丨伊朗军政高层集体驳斥特朗普“内讧论”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -261,6 +263,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 01时07分]"
+        },
+        {
+          "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
+          "url": "https://news.ifeng.com/c/8saWP92grSp",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时56分]"
         },
         {
           "title": "乌克兰提议以特朗普命名争议区域",
@@ -343,6 +357,17 @@
           "time_info": "18时13分"
         },
         {
+          "title": "报道：特朗普将派特使前往巴基斯坦谈判伊朗问题",
+          "url": "https://wallstreetcn.com/livenews/3094200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "加拿大前总理特鲁多炮轰特朗普政府",
           "url": "https://www.toutiao.com/trending/7631877586545082410/",
           "source": "今日头条",
@@ -401,18 +426,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
-          "url": "https://news.ifeng.com/c/8saWP92grSp",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 22时27分]"
         },
         {
           "title": "特朗普宣布黎以停火延长三周，有助扫清美伊结束战事的关键障碍",
@@ -1108,7 +1121,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1243,6 +1256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们正与特朗普总统进行全面合作。",
+          "url": "https://flash.jin10.com/detail/20260424230937115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国总统特朗普：黎巴嫩总统可能在三周内与以色列总理内塔尼亚胡会面。",
@@ -1537,7 +1561,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1556,7 +1580,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -1566,8 +1590,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 22时27分]"
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -1579,8 +1603,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 22时27分]"
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
@@ -1594,6 +1618,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时54分 ~ 22时27分]"
+        },
+        {
+          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
+          "url": "https://www.cls.cn/detail/2354737",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 23时56分]"
         },
         {
           "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
@@ -1611,19 +1648,6 @@
           "time_info": "[01时06分 ~ 07时34分]"
         },
         {
-          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
-          "url": "https://www.cls.cn/detail/2354737",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 22时27分]"
-        },
-        {
           "title": "万字回顾DeepSeek演进之路",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
           "source": "bilibili 热搜",
@@ -1635,8 +1659,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时56分 ~ 22时27分]"
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -1645,11 +1669,25 @@
           "ranks": [
             1,
             9,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时56分 ~ 22时27分]"
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 23时56分]"
+        },
+        {
+          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
+          "url": "https://www.zhihu.com/question/2030963912749924411",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek-V4预览版上线 对计算和显存的需求降低 百万字上下文成标配",
@@ -1664,19 +1702,6 @@
           "time_info": "[14时56分 ~ 19时50分]"
         },
         {
-          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
-          "url": "https://www.zhihu.com/question/2030963912749924411",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 22时27分]"
-        },
-        {
           "title": "深度解读DeepSeek-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
           "source": "bilibili 热搜",
@@ -1684,11 +1709,28 @@
             6,
             5,
             4,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 23时56分]"
+        },
+        {
+          "title": "DeepSeekV4预览版本上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            29,
+            19,
+            20,
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 23时56分]"
         },
         {
           "title": "UP主评测DeepSeek V4",
@@ -1701,21 +1743,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时44分 ~ 16时55分]"
-        },
-        {
-          "title": "DeepSeekV4预览版本上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            29,
-            19,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 22时27分]"
         },
         {
           "title": "为什么谁都不想错过DeepSeek",
@@ -1775,16 +1802,15 @@
           "time_info": "18时13分"
         },
         {
-          "title": "DeepSeek V4适配国产芯片",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
+          "title": "月之暗面与DeepSeek的“听牌”时刻",
+          "url": "https://www.toutiao.com/trending/7632324048923397668/",
+          "source": "今日头条",
           "ranks": [
-            21,
-            25
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时56分 ~ 19时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -1797,8 +1823,47 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 23时56分]"
+        },
+        {
+          "title": "DeepSeek V4强在哪里",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19,
+            20,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 23时56分]"
+        },
+        {
+          "title": "DeepSeek V4适配国产芯片",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 19时50分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek v4 百万上下文",
@@ -1814,18 +1879,28 @@
           "time_info": "[12时44分 ~ 16时55分]"
         },
         {
-          "title": "DeepSeek V4强在哪里",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            19,
-            20,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时56分]"
+        },
+        {
+          "title": "实测DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2477701",
+          "source": "抖音",
+          "ranks": [
+            21,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 22时27分]"
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek-V4 已公布, 如何评价 DeepSeek-V4 的价格？",
@@ -1849,17 +1924,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 14时56分]"
-        },
-        {
-          "title": "DeepSeek V4揭开AI内卷终局",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "DeepSeekV4 价格屠夫",
@@ -1906,6 +1970,17 @@
           "time_info": "12时44分"
         },
         {
+          "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "阿里云百炼上线DeepSeek-V4",
           "url": "https://wallstreetcn.com/livenews/3094059",
           "source": "华尔街见闻-快讯",
@@ -1950,17 +2025,6 @@
           "time_info": "12时44分"
         },
         {
-          "title": "实测DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2477701",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "DeepSeek：预计下半年昇腾950超节点批量上市后 V4-Pro模型价格会大幅下调",
           "url": "https://wallstreetcn.com/livenews/3093745",
           "source": "华尔街见闻-快讯",
@@ -1983,17 +2047,6 @@
           "time_info": "16时55分"
         },
         {
-          "title": "DeepSeek V4 Pro实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "全新系列模型DeepSeek-V4预览版本正式上线并同步开源",
           "url": "https://wallstreetcn.com/livenews/3093676",
           "source": "华尔街见闻-快讯",
@@ -2014,6 +2067,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "DeepSeekV4是怎么训练出来的",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%98%AF%E6%80%8E%E4%B9%88%E8%AE%AD%E7%BB%83%E5%87%BA%E6%9D%A5%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "阿里国际旗下Accio Work已接入DeepSeek V4",
@@ -2083,6 +2147,19 @@
           "time_info": "[04时01分 ~ 04时49分]"
         },
         {
+          "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
+          "url": "https://www.zhihu.com/question/2029938790186182052",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时56分]"
+        },
+        {
           "title": "外国展商蹲地贴脸拍摄小米汽车细节",
           "url": "https://www.toutiao.com/trending/7631791575441428004/",
           "source": "今日头条",
@@ -2093,18 +2170,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时56分 ~ 16时55分]"
-        },
-        {
-          "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
-          "url": "https://www.zhihu.com/question/2029938790186182052",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 22时27分]"
         },
         {
           "title": "外国友人在北京车展上被长城汽车圈粉",
