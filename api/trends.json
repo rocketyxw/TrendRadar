@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T07:31:19.886786+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-04-25T09:10:01.127722+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -91,16 +91,29 @@
           "time_info": "[00时43分 ~ 04时33分]"
         },
         {
+          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 09时10分]"
+        },
+        {
           "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
           "url": "https://wallstreetcn.com/livenews/3094320",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 09时10分]"
         },
         {
           "title": "以总理称与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -120,9 +133,55 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "美联邦法院裁定特朗普边境庇护申请禁令违法",
+          "url": "https://flash.jin10.com/detail/20260425081556707800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://wallstreetcn.com/livenews/3094328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://flash.jin10.com/detail/20260425081451690800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普：只要半句话，美国就能省下1590亿美元",
+          "url": "https://flash.jin10.com/detail/20260425035056520800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时33分 ~ 09时10分]"
         },
         {
           "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -196,18 +255,6 @@
           "time_info": "[02时34分 ~ 03时41分]"
         },
         {
-          "title": "特朗普：只要半句话，美国就能省下1590亿美元",
-          "url": "https://flash.jin10.com/detail/20260425035056520800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时33分 ~ 07时31分]"
-        },
-        {
           "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
           "url": "https://flash.jin10.com/detail/20260425033951908800",
           "source": "金十数据",
@@ -220,15 +267,17 @@
           "time_info": "[04时33分 ~ 07时31分]"
         },
         {
-          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
-          "url": "https://wallstreetcn.com/articles/3770826",
-          "source": "华尔街见闻",
+          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
+          "url": "https://wallstreetcn.com/livenews/3094313",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8,
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 09时10分]"
         },
         {
           "title": "卡塔尔埃米尔与美国总统特朗普通话，讨论地区局势",
@@ -253,18 +302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时42分]"
-        },
-        {
-          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
-          "url": "https://wallstreetcn.com/livenews/3094313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时31分]"
         },
         {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
@@ -301,6 +338,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时37分]"
+        },
+        {
+          "title": "曝特朗普女婿及特使将赴巴同伊朗谈判",
+          "url": "https://www.toutiao.com/trending/7631822978594553875/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
         },
         {
           "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
@@ -438,7 +486,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -448,8 +496,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -472,11 +520,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -490,8 +539,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -502,11 +551,12 @@
             12,
             10,
             5,
-            4
+            4,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "实测DeepSeek V4",
@@ -521,8 +571,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -570,8 +620,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
@@ -583,8 +633,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -628,6 +678,30 @@
           "time_info": "[00时43分 ~ 03时41分]"
         },
         {
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "Deepseek V4第一波测评来了！",
+          "url": "https://wallstreetcn.com/articles/3770812",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时37分 ~ 09时10分]"
+        },
+        {
           "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
           "url": "https://www.cls.cn/detail/2354737",
           "source": "财联社热门",
@@ -639,28 +713,50 @@
           "time_info": "00时43分"
         },
         {
-          "title": "Deepseek V4第一波测评来了！",
-          "url": "https://wallstreetcn.com/articles/3770812",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时37分 ~ 07时31分]"
-        },
-        {
           "title": "DeepSeek V4 发布",
           "url": "https://www.douyin.com/hot/2477208",
           "source": "抖音",
           "ranks": [
             28,
-            25
+            25,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 09时10分]"
+        },
+        {
+          "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
+          "url": "https://wallstreetcn.com/articles/3770793",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
+          "url": "https://wallstreetcn.com/articles/3770791",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "DeepSeek-V4“解锁”国产芯片",
+          "url": "https://www.toutiao.com/trending/7632342182602477065/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
         },
         {
           "title": "DeepSeekV4是怎么训练出来的",
@@ -785,7 +881,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
@@ -795,11 +891,12 @@
             17,
             10,
             8,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "北京车展上现“汽车跳舞”",
@@ -815,17 +912,29 @@
           "time_info": "[00时43分 ~ 07时31分]"
         },
         {
+          "title": "国产新能源汽车黑科技：越开电越多",
+          "url": "https://www.toutiao.com/trending/7632182781422063158/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
           "title": "周五（4月24日），彭博电动汽车价格回报指数涨0.31%，报3973.34点，本周累计下跌0.93%，4月23日亚太早盘显著跳水。",
           "url": "https://wallstreetcn.com/livenews/3094297",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
             21,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时37分 ~ 07时31分]"
+          "appearance_count": 4,
+          "time_info": "[05时37分 ~ 09时10分]"
         },
         {
           "title": "外国展商蹲地贴脸拍摄小米汽车细节",
@@ -837,13 +946,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "雷军送王传福在一起才是中国汽车T恤",
+          "url": "https://www.toutiao.com/trending/7632165402564345897/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "黄仁勋要求英伟达所有员工用OpenAI",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A6%81%E6%B1%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%94%A8OpenAI%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "市场消息：美国法官驳回马斯克针对OpenAI和OpenAI创始人奥尔特曼的诉讼中提出的欺诈指控，计划继续就马斯克的其他指控进行庭审。",
+          "url": "https://flash.jin10.com/detail/20260425080632289800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
         {
           "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
           "url": "https://flash.jin10.com/detail/20260425022647112800",
