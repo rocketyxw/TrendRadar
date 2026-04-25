@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T12:25:53.241083+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-04-25T14:13:54.933958+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -19,6 +19,19 @@
           "time_info": "[00时43分 ~ 07时31分]"
         },
         {
+          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
+          "url": "https://wallstreetcn.com/articles/3770760",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 14时13分]"
+        },
+        {
           "title": "特朗普的嘴，开了挂了",
           "url": "https://news.ifeng.com/c/8sZpiNBhf3l",
           "source": "凤凰网",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
-          "url": "https://wallstreetcn.com/articles/3770760",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 12时25分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -83,11 +84,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 14时13分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -111,11 +113,12 @@
             1,
             4,
             10,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 14时13分]"
         },
         {
           "title": "以总理称与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -162,6 +165,21 @@
           "time_info": "09时10分"
         },
         {
+          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
+          "url": "https://wallstreetcn.com/livenews/3094313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            17,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 14时13分]"
+        },
+        {
           "title": "特朗普：只要半句话，美国就能省下1590亿美元",
           "url": "https://flash.jin10.com/detail/20260425035056520800",
           "source": "金十数据",
@@ -173,6 +191,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时33分 ~ 09时10分]"
+        },
+        {
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://wallstreetcn.com/livenews/3094328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 14时13分]"
         },
         {
           "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -222,18 +253,6 @@
           "time_info": "[00时43分 ~ 01时42分]"
         },
         {
-          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
-          "url": "https://wallstreetcn.com/livenews/3094328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时25分]"
-        },
-        {
           "title": "特朗普政府持有的英特尔股份价值飙升300%",
           "url": "https://wallstreetcn.com/livenews/3094213",
           "source": "华尔街见闻-快讯",
@@ -258,20 +277,6 @@
           "time_info": "[02时34分 ~ 03时41分]"
         },
         {
-          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
-          "url": "https://wallstreetcn.com/livenews/3094313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 12时25分]"
-        },
-        {
           "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
           "url": "https://flash.jin10.com/detail/20260425033951908800",
           "source": "金十数据",
@@ -284,6 +289,17 @@
           "time_info": "[04时33分 ~ 07时31分]"
         },
         {
+          "title": "曝特朗普女婿及特使将赴巴同伊朗谈判",
+          "url": "https://www.toutiao.com/trending/7631822978594553875/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 14时13分]"
+        },
+        {
           "title": "卡塔尔埃米尔与美国总统特朗普通话，讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3094264",
           "source": "华尔街见闻-快讯",
@@ -294,6 +310,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时33分]"
+        },
+        {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时13分]"
         },
         {
           "title": "特朗普政府冻结3.44亿美元加密货币，借口是与伊朗有关联。（CNN）",
@@ -344,17 +371,6 @@
           "time_info": "[04时33分 ~ 05时37分]"
         },
         {
-          "title": "曝特朗普女婿及特使将赴巴同伊朗谈判",
-          "url": "https://www.toutiao.com/trending/7631822978594553875/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
           "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
           "url": "https://flash.jin10.com/detail/20260425025242021800",
           "source": "金十数据",
@@ -375,17 +391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
-        },
-        {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         },
         {
           "title": "美国总统特朗普：伊朗计划提出一项旨在解决美方要求的方案。",
@@ -449,7 +454,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -507,12 +512,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "解析特朗普与教皇冲突",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%95%99%E7%9A%87%E5%86%B2%E7%AA%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -595,11 +611,12 @@
             12,
             15,
             14,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 12时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 14时13分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -664,6 +681,20 @@
           "time_info": "[00时43分 ~ 09时10分]"
         },
         {
+          "title": "Deepseek V4第一波测评来了！",
+          "url": "https://wallstreetcn.com/articles/3770812",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时37分 ~ 14时13分]"
+        },
+        {
           "title": "深度解读DeepSeek-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
           "source": "bilibili 热搜",
@@ -691,19 +722,6 @@
           "time_info": "[00时43分 ~ 02时34分]"
         },
         {
-          "title": "Deepseek V4第一波测评来了！",
-          "url": "https://wallstreetcn.com/articles/3770812",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时37分 ~ 12时25分]"
-        },
-        {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
           "url": "https://www.toutiao.com/trending/7632324048923397668/",
           "source": "今日头条",
@@ -718,6 +736,18 @@
           "time_info": "[00时43分 ~ 03时41分]"
         },
         {
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时13分]"
+        },
+        {
           "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
           "url": "https://www.cls.cn/detail/2354737",
           "source": "财联社热门",
@@ -729,27 +759,28 @@
           "time_info": "00时43分"
         },
         {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
           "title": "DeepSeek如何适配国产芯片",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 14时13分]"
+        },
+        {
+          "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
+          "url": "https://www.zhihu.com/question/2031152992817243775",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -770,11 +801,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 14时13分]"
         },
         {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
@@ -793,11 +825,12 @@
           "url": "https://www.toutiao.com/trending/7632342182602477065/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 14时13分]"
         },
         {
           "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
@@ -806,9 +839,31 @@
           "ranks": [
             18
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时13分]"
+        },
+        {
+          "title": "华为DCS AI解决方案全面支持DeepSeek-V4",
+          "url": "https://flash.jin10.com/detail/20260425130344279800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "14时13分"
+        },
+        {
+          "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
+          "url": "https://flash.jin10.com/detail/20260425121506864800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "DeepSeek V4适配国产芯片",
@@ -817,7 +872,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -836,7 +891,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -862,6 +917,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时42分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -1027,11 +1093,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33049547",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时13分]"
+        },
+        {
+          "title": "国产新能源汽车黑科技：越开电越多",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%BB%91%E7%A7%91%E6%8A%80%EF%BC%9A%E8%B6%8A%E5%BC%80%E7%94%B5%E8%B6%8A%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时13分]"
         },
         {
           "title": "理想汽车(LI.O)高管：将把欧洲和东南亚地区视为公司的下一个出口市场。",
@@ -1040,18 +1119,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "国产新能源汽车黑科技：越开电越多",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%BB%91%E7%A7%91%E6%8A%80%EF%BC%9A%E8%B6%8A%E5%BC%80%E7%94%B5%E8%B6%8A%E5%A4%9A",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         }
@@ -1090,7 +1158,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
