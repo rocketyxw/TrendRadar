@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:29:45.958896+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-04-25T20:33:37.823116+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时30分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时30分 ~ 20时33分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -100,8 +100,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时29分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 20时33分]"
         },
         {
           "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
@@ -333,6 +333,19 @@
           "time_info": "[04时33分 ~ 07时31分]"
         },
         {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 20时33分]"
+        },
+        {
           "title": "曝特朗普女婿及特使将赴巴同伊朗谈判",
           "url": "https://www.toutiao.com/trending/7631822978594553875/",
           "source": "今日头条",
@@ -366,6 +379,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时42分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时33分]"
         },
         {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
@@ -404,18 +429,6 @@
           "time_info": "[04时33分 ~ 05时37分]"
         },
         {
-          "title": "泽连斯基“公开质疑”特朗普",
-          "url": "https://www.toutiao.com/trending/7632107216792420398/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 19时29分]"
-        },
-        {
           "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
           "url": "https://flash.jin10.com/detail/20260425025242021800",
           "source": "金十数据",
@@ -447,17 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
-          "url": "https://flash.jin10.com/detail/20260425182954538800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
@@ -598,6 +600,20 @@
           "time_info": "[00时43分 ~ 12时25分]"
         },
         {
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 20时33分]"
+        },
+        {
           "title": "DeepSeek V4 Pro实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -610,20 +626,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 07时31分]"
-        },
-        {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时29分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -717,8 +719,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时09分 ~ 20时33分]"
         },
         {
           "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
@@ -796,6 +798,21 @@
           "time_info": "[00时43分 ~ 09时10分]"
         },
         {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 20时33分]"
+        },
+        {
           "title": "深度解读DeepSeek-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
           "source": "bilibili 热搜",
@@ -821,21 +838,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时43分 ~ 02时34分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时29分]"
         },
         {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
@@ -887,6 +889,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时09分 ~ 14时13分]"
+        },
+        {
+          "title": "DeepSeekV4 尺度",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时33分]"
         },
         {
           "title": "百度智能云上线DeepSeek-V4",
@@ -950,17 +964,6 @@
           "time_info": "14时13分"
         },
         {
-          "title": "DeepSeekV4 尺度",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "DeepSeek V4适配国产芯片",
           "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -1013,11 +1016,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时29分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 20时33分]"
         },
         {
           "title": "北京车展上现“汽车跳舞”",
@@ -1101,6 +1105,20 @@
           "time_info": "[15时58分 ~ 18时32分]"
         },
         {
+          "title": "理想汽车怎么做到不用备胎",
+          "url": "https://www.toutiao.com/trending/7632258049084702762/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时33分]"
+        },
+        {
           "title": "周五（4月24日），彭博电动汽车价格回报指数涨0.31%，报3973.34点，本周累计下跌0.93%，4月23日亚太早盘显著跳水。",
           "url": "https://wallstreetcn.com/livenews/3094297",
           "source": "华尔街见闻-快讯",
@@ -1113,19 +1131,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时37分 ~ 09时10分]"
-        },
-        {
-          "title": "理想汽车怎么做到不用备胎",
-          "url": "https://www.toutiao.com/trending/7632258049084702762/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时29分]"
         },
         {
           "title": "越南延长电动汽车特别消费税优惠政策",
@@ -1212,8 +1217,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时13分 ~ 19时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时13分 ~ 20时33分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
