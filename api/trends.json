@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T20:33:37.823116+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-04-25T21:56:12.162111+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时30分 ~ 20时33分]"
+          "appearance_count": 15,
+          "time_info": "[07时30分 ~ 21时56分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -81,6 +81,17 @@
           "time_info": "[00时43分 ~ 05时37分]"
         },
         {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 21时56分]"
+        },
+        {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
           "url": "https://wallstreetcn.com/articles/3770720",
           "source": "华尔街见闻",
@@ -91,17 +102,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时33分]"
         },
         {
           "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
@@ -197,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "“淡化”特朗普 美共和党调整中期选举策略",
+          "url": "https://wallstreetcn.com/livenews/3094397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "特朗普起诉美财政部和国税局案遭法院质疑",
@@ -333,6 +344,19 @@
           "time_info": "[04时33分 ~ 07时31分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时56分]"
+        },
+        {
           "title": "泽连斯基“公开质疑”特朗普",
           "url": "https://www.toutiao.com/trending/7632107216792420398/",
           "source": "今日头条",
@@ -379,18 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时42分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
-          "url": "https://flash.jin10.com/detail/20260425182954538800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 20时33分]"
         },
         {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
@@ -586,7 +598,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -736,6 +748,21 @@
           "time_info": "[14时13分 ~ 18时33分]"
         },
         {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 21时56分]"
+        },
+        {
           "title": "万字回顾DeepSeek演进之路",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
           "source": "bilibili 热搜",
@@ -796,21 +823,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时43分 ~ 09时10分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时33分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -942,6 +954,17 @@
           "time_info": "[09时09分 ~ 12时25分]"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
           "title": "华为DCS AI解决方案全面支持DeepSeek-V4",
           "url": "https://flash.jin10.com/detail/20260425130344279800",
           "source": "金十数据",
@@ -992,6 +1015,24 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "人民锐评：投资哪吒汽车与布局张雪机车，是“成王败寇”逻辑？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33049547",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10,
+            9,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 21时56分]"
+        },
+        {
           "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
           "url": "https://www.zhihu.com/question/2029938790186182052",
           "source": "知乎",
@@ -1005,23 +1046,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时43分 ~ 09时10分]"
-        },
-        {
-          "title": "人民锐评：投资哪吒汽车与布局张雪机车，是“成王败寇”逻辑？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33049547",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时33分]"
         },
         {
           "title": "北京车展上现“汽车跳舞”",
@@ -1217,8 +1241,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时13分 ~ 20时33分]"
+          "appearance_count": 10,
+          "time_info": "[14时13分 ~ 21时56分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
