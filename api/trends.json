@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T20:14:21.018344+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-04-27T22:53:52.825782+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
@@ -162,6 +162,18 @@
           "time_info": "[00时28分 ~ 12时57分]"
         },
         {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 22时53分]"
+        },
+        {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
           "source": "澎湃新闻",
@@ -226,20 +238,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 20时14分]"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 20时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 22时53分]"
         },
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -295,6 +295,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时19分 ~ 15时29分]"
+        },
+        {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 22时53分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -376,17 +387,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时19分 ~ 15时29分]"
-        },
-        {
-          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
-          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
         },
         {
           "title": "特朗普将于周一召开关于伊朗问题的战情室会议。（AXIOS）",
@@ -542,6 +542,20 @@
           "time_info": "[05时26分 ~ 06时25分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 22时53分]"
+        },
+        {
           "title": "特朗普：枪击案嫌疑人留下呼吁袭击政府官员的字条",
           "url": "https://flash.jin10.com/detail/20260426235811049800",
           "source": "金十数据",
@@ -579,19 +593,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时29分 ~ 03时38分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 20时14分]"
         },
         {
           "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
@@ -678,13 +679,24 @@
           "time_info": "[00时28分 ~ 01时29分]"
         },
         {
+          "title": "美国第一夫人梅拉尼娅·特朗普：（关于吉米·基梅尔笑称梅拉尼娅看起来像寡妇）是美国广播公司ABC采取立场的时候了。",
+          "url": "https://flash.jin10.com/detail/20260427222640325800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "白宫贸易顾问纳瓦罗：特朗普政府正在调查肉类价格高企问题。",
           "url": "https://wallstreetcn.com/livenews/3094993",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -717,7 +729,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -868,7 +880,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -1108,6 +1120,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
           "url": "https://www.zhihu.com/question/2031824748590494923",
           "source": "知乎",
@@ -1117,6 +1140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "网传公司给DeepSeek提供算力服务？浙数文化：与DeepSeek未开展业务合作",
@@ -1208,7 +1242,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1293,8 +1327,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
         {
           "title": "郭明錤：OpenAI正与联发科及高通合作开发手机处理器，预计2028年量产。",
           "url": "https://flash.jin10.com/detail/20260427115755863800",
