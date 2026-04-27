@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T06:37:48.140084+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-04-28T07:41:00.184506+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时41分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时41分]"
         },
         {
           "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时41分]"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -49,30 +50,30 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时41分]"
         },
         {
-          "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
-          "url": "https://flash.jin10.com/detail/20260428062503291800",
+          "title": "特朗普与幕僚讨论伊朗提案：不直接拒绝，但心存疑虑",
+          "url": "https://flash.jin10.com/detail/20260428070454858800",
           "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "07时41分"
         },
         {
-          "title": "报道：特朗普对伊朗的霍尔木兹海峡方案持怀疑态度",
-          "url": "https://wallstreetcn.com/livenews/3095255",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            5
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时43分 ~ 07时41分]"
         },
         {
           "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
@@ -86,6 +87,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 06时37分]"
+        },
+        {
+          "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
+          "url": "https://flash.jin10.com/detail/20260428062503291800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时41分]"
         },
         {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
@@ -124,6 +137,18 @@
           "time_info": "[01时58分 ~ 03时07分]"
         },
         {
+          "title": "报道：特朗普对伊朗的霍尔木兹海峡方案持怀疑态度",
+          "url": "https://wallstreetcn.com/livenews/3095255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时41分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
           "url": "https://flash.jin10.com/detail/20260428035839355800",
           "source": "金十数据",
@@ -137,15 +162,27 @@
           "time_info": "[04时47分 ~ 06时37分]"
         },
         {
-          "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "特朗普取消更多风能租赁项目以刺激油气投资",
+          "url": "https://flash.jin10.com/detail/20260428052935112800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时37分]"
+          "time_info": "[06时37分 ~ 07时41分]"
+        },
+        {
+          "title": "白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060147",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 07时41分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
@@ -168,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "特朗普取消更多风能租赁项目以刺激油气投资",
-          "url": "https://flash.jin10.com/detail/20260428052935112800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "白宫：特朗普及其国安团队开会讨论伊朗新提案",
@@ -458,11 +484,12 @@
             17,
             8,
             5,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时41分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -471,11 +498,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时41分]"
         },
         {
           "title": "媒体：梁文锋这一次要掀桌",
@@ -485,11 +513,12 @@
             24,
             19,
             5,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 06时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 07时41分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -519,19 +548,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时41分]"
         },
         {
           "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
           "url": "https://flash.jin10.com/detail/20260428054512315800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时41分]"
         }
       ]
     },
