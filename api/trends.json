@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-28T07:41:00.184506+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-04-28T09:26:05.306274+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
           "url": "https://news.ifeng.com/c/8sfY3xvuykb",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时26分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -35,11 +36,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时26分]"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -54,15 +56,37 @@
           "time_info": "[00时16分 ~ 07时41分]"
         },
         {
+          "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
+          "url": "https://www.cls.cn/detail/2357460",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
           "title": "特朗普与幕僚讨论伊朗提案：不直接拒绝，但心存疑虑",
           "url": "https://flash.jin10.com/detail/20260428070454858800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
+          "url": "https://wallstreetcn.com/livenews/3095326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -174,6 +198,17 @@
           "time_info": "[06时37分 ~ 07时41分]"
         },
         {
+          "title": "怕再和特朗普起冲突，北约拟取消2028年年度峰会",
+          "url": "https://news.ifeng.com/c/8sgWMgQ3gaL",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
           "title": "白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060147",
           "source": "澎湃新闻",
@@ -183,6 +218,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时40分 ~ 07时41分]"
+        },
+        {
+          "title": "主持人读枪手宣言让特朗普破防",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AF%BB%E6%9E%AA%E6%89%8B%E5%AE%A3%E8%A8%80%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E7%A0%B4%E9%98%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
@@ -227,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "据华尔街日报：外资汽车制造商警告称，如果美墨加协定（USMCA）未能续签，最便宜的车型可能会退出美国市场。消息人士称，汽车制造商的警告已传达给美国总统特朗普的经济顾问。",
+          "url": "https://flash.jin10.com/detail/20260428090109384800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "白宫新闻秘书莱维特：沃什获确认后，特朗普将感到满意。",
@@ -317,6 +385,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "美国官员表示，特朗普对伊朗的提议感到不满。",
+          "url": "https://wallstreetcn.com/livenews/3095299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "白宫：特朗普与幕僚讨论伊朗最新提议，核问题是红线之一",
           "url": "https://wallstreetcn.com/livenews/3095162",
           "source": "华尔街见闻-快讯",
@@ -348,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "消息人士：特朗普对伊朗最新提议不满意",
+          "url": "https://flash.jin10.com/detail/20260428081635439800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -473,7 +563,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -485,11 +575,12 @@
             8,
             5,
             6,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时26分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -521,6 +612,28 @@
           "time_info": "[00时16分 ~ 07时41分]"
         },
         {
+          "title": "DeepSeek注册资本提高50%",
+          "url": "https://flash.jin10.com/detail/20260428090321726800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "DeepSeek注册资本提高50%",
+          "url": "https://wallstreetcn.com/livenews/3095322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "中国石化完成DeepSeek-V4私有化部署",
           "url": "https://www.toutiao.com/trending/7632654178616213547/",
           "source": "今日头条",
@@ -535,7 +648,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -545,11 +658,12 @@
             7,
             8,
             9,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时26分]"
         },
         {
           "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
@@ -562,12 +676,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时41分]"
+        },
+        {
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周一（4月27日），彭博电动汽车价格回报指数涨0.89%，报4002.92点。",
@@ -580,6 +705,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时43分]"
+        },
+        {
+          "title": "全球首艘万车级双燃料汽车运输船即将交付",
+          "url": "https://flash.jin10.com/detail/20260428090136080800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "理想汽车：正式进入阿联酋、沙特阿拉伯市场，启动亚太区域布局",
