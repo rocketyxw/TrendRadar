@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T18:11:23.414149+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-04-28T20:18:39.484330+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -88,8 +88,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 18时11分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 20时18分]"
         },
         {
           "title": "特朗普与幕僚讨论伊朗提案：不直接拒绝，但心存疑虑",
@@ -198,6 +198,17 @@
           "time_info": "[06时37分 ~ 07时41分]"
         },
         {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 20时18分]"
+        },
+        {
           "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -220,17 +231,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时59分 ~ 18时11分]"
         },
         {
           "title": "特朗普取消更多风能租赁项目以刺激油气投资",
@@ -366,6 +366,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：沃什获确认后，特朗普将感到满意。",
           "url": "https://flash.jin10.com/detail/20260428012706873800",
           "source": "金十数据",
@@ -408,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美国白宫：特朗普的红线已经明确。",
@@ -676,7 +698,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -755,8 +777,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时59分 ~ 18时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 20时18分]"
         },
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
@@ -768,6 +790,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 13时19分]"
+        },
+        {
+          "title": "DeepSeek还是最强国产AI吗",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -787,15 +820,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "DeepSeek V4有多强 普通人咋用",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E6%9C%89%E5%A4%9A%E5%BC%BA+%E6%99%AE%E9%80%9A%E4%BA%BA%E5%92%8B%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "云南十九怪 汽车盖着被子卖",
@@ -819,6 +863,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时43分]"
+        },
+        {
+          "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2032366127414599941",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 20时18分]"
         },
         {
           "title": "李斌称汽车迭代不再由发动机定义，是芯片、电子电气架构和智能化水平驱动，不迭代就没法参与竞争，如何解读？",
@@ -849,20 +905,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
         {
-          "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2032366127414599941",
-          "source": "知乎",
+          "title": "通用汽车(GM.N)：铝、钢铁和运输成本正面临通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260428194409285800",
+          "source": "金十数据",
           "ranks": [
-            16
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "20时18分"
         },
         {
           "title": "理想汽车：正式进入阿联酋、沙特阿拉伯市场，启动亚太区域布局",
@@ -879,7 +935,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -895,6 +951,29 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 09时26分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘前跌超1%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 20时18分]"
         },
         {
           "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
@@ -918,17 +997,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         }
       ]
     }
