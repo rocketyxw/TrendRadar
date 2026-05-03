@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T13:19:13.091885+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-05-03T15:43:04.536437+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 15时43分]"
         },
         {
           "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
@@ -79,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 15时43分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -92,8 +92,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 15时43分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -120,6 +120,29 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 09时25分]"
+        },
+        {
+          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
+          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 15时43分]"
         },
         {
           "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
@@ -179,27 +202,16 @@
           "time_info": "[04时28分 ~ 09时25分]"
         },
         {
-          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
-          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
-          "source": "凤凰网",
+          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
+          "url": "https://wallstreetcn.com/articles/3771499",
+          "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普：美国有可能重启对伊朗空袭",
-          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
-          "source": "凤凰网",
-          "ranks": [
-            7,
+            10,
             5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时24分 ~ 13时19分]"
+          "time_info": "[13时18分 ~ 15时43分]"
         },
         {
           "title": "特朗普政府新规生效后 超三百万人失去联邦食品援助",
@@ -225,6 +237,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 13时19分]"
+        },
+        {
+          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
+          "url": "https://www.zhihu.com/question/2034052667509621790",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时43分]"
         },
         {
           "title": "特朗普政府：无需为其他美国廉价航空公司提供救助",
@@ -286,17 +322,6 @@
           "time_info": "[00时34分 ~ 01时35分]"
         },
         {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
-        },
-        {
           "title": "德副总理说德国不需要特朗普指点",
           "url": "https://www.toutiao.com/trending/7634517566077075475/",
           "source": "今日头条",
@@ -308,26 +333,27 @@
           "time_info": "[13时18分 ~ 13时19分]"
         },
         {
-          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
-          "url": "https://www.zhihu.com/question/2034052667509621790",
-          "source": "知乎",
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://wallstreetcn.com/livenews/3098221",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "time_info": "[13时19分 ~ 15时43分]"
         },
         {
-          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
-          "source": "澎湃新闻",
+          "title": "特朗普说从德国撤军人数将远超5000",
+          "url": "https://flash.jin10.com/detail/20260503133536402800",
+          "source": "金十数据",
           "ranks": [
-            19
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -375,23 +401,12 @@
         },
         {
           "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
-          "url": "https://wallstreetcn.com/livenews/3098221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
           "url": "https://flash.jin10.com/detail/20260503094347765800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -432,17 +447,6 @@
           "time_info": "[00时34分 ~ 07时32分]"
         },
         {
-          "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
-          "url": "https://flash.jin10.com/detail/20260503123150516800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "研究称：美提高汽车关税将致德国损失150亿欧元",
           "url": "https://wallstreetcn.com/livenews/3098190",
           "source": "华尔街见闻-快讯",
@@ -456,6 +460,18 @@
           "time_info": "[05时29分 ~ 09时25分]"
         },
         {
+          "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260503123150516800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 15时43分]"
+        },
+        {
           "title": "伯克希尔CEO格雷格·阿贝尔：汽车保险客户中出现了前所未有的“货比三家”现象。",
           "url": "https://flash.jin10.com/detail/20260502221731843800",
           "source": "金十数据",
@@ -465,6 +481,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
+          "url": "https://www.zhihu.com/question/2032857350361626424",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            15,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时35分 ~ 07时32分]"
+        },
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
         }
       ]
     },
@@ -495,27 +543,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时29分 ~ 09时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
-          "url": "https://www.zhihu.com/question/2032857350361626424",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            15,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时35分 ~ 07时32分]"
         }
       ]
     }
