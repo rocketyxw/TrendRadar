@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T16:11:38.140037+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-05-04T18:52:22.026940+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
@@ -65,11 +65,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 16时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 18时52分]"
         },
         {
           "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
@@ -111,6 +112,17 @@
           "time_info": "[00时34分 ~ 07时32分]"
         },
         {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 18时52分]"
+        },
+        {
           "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
           "url": "https://www.zhihu.com/question/2034052667509621790",
           "source": "知乎",
@@ -122,15 +134,15 @@
           "time_info": "[00时34分 ~ 07时32分]"
         },
         {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 16时11分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 18时52分]"
         },
         {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
@@ -148,15 +160,16 @@
           "time_info": "[01时37分 ~ 07时32分]"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
           "source": "凤凰网",
           "ranks": [
-            2
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 16时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时52分]"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -168,6 +181,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时31分]"
+        },
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 18时52分]"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -182,18 +207,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普：伊朗的“新提议”不可接受",
-          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 16时11分]"
         },
         {
           "title": "美官员澄清：特朗普“解救”霍尔木兹海峡被困船只的行动不涉及军舰护航",
@@ -273,18 +286,6 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 16时11分]"
-        },
-        {
           "title": "美国共和党参议员格雷厄姆：我完全支持特朗普总统启动“自由计划”的决定，其目的是恢复霍尔木兹海峡的航行自由，这条通道对全球经济至关重要，但却被伊朗“恐怖主义”锁住。",
           "url": "https://flash.jin10.com/detail/20260504053755382800",
           "source": "金十数据",
@@ -319,6 +320,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时52分]"
         },
         {
           "title": "特朗普的美国检察官终止调查，但仍对美联储主席鲍威尔施压",
@@ -359,19 +374,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时32分]"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 16时11分]"
         },
         {
           "title": "德国总理默茨：（就与特朗普在部队撤回问题上发生的争执）两者之间没有关联。",
@@ -423,6 +425,18 @@
           "time_info": "[06时28分 ~ 07时32分]"
         },
         {
+          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
+          "url": "https://www.zhihu.com/question/2034567556967739711",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 18时52分]"
+        },
+        {
           "title": "美国代理司法部长：特朗普关于在伊朗的军事行动不是战争的言论是正确的，认为此举违法的说法无效。",
           "url": "https://flash.jin10.com/detail/20260504004138467800",
           "source": "金十数据",
@@ -456,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普威胁上调欧盟关税 欧方称此举针对德国车企",
+          "url": "https://flash.jin10.com/detail/20260504182040803800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "特朗普：美国将开展霍尔木兹海峡被困船只疏导行动",
@@ -530,18 +555,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
-          "url": "https://www.zhihu.com/question/2034567556967739711",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -589,6 +603,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
+          "url": "https://wallstreetcn.com/articles/3771528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
       "match_count": 1,
       "titles": [
@@ -599,7 +630,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
