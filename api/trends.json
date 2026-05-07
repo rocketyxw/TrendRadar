@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-08T05:43:58.888343+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-08T06:47:51.473178+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
+          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 06时47分]"
+        },
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
@@ -19,15 +30,27 @@
           "time_info": "[01时29分 ~ 05时43分]"
         },
         {
-          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
-          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
+          "title": "特朗普访华前瞻——台湾怎么办？",
+          "url": "https://news.ifeng.com/c/8swQYqpheqc",
           "source": "凤凰网",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 06时47分]"
+        },
+        {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 06时47分]"
         },
         {
           "title": "美国总统特朗普：已同意给欧盟委员会主席冯德莱恩时间至美国建国250周年纪念日；否则，很遗憾，他们的关税将立即大幅上调。",
@@ -41,15 +64,26 @@
           "time_info": "03时21分"
         },
         {
-          "title": "特朗普访华前瞻——台湾怎么办？",
-          "url": "https://news.ifeng.com/c/8swQYqpheqc",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：如果伊朗不迅速签署协议，那么在将来，我们将会以更猛烈、更激烈的手段来对付他们。",
+          "url": "https://flash.jin10.com/detail/20260508063613403800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 05时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "美国总统特朗普：三艘驱逐舰没有受到损坏，但伊朗攻击者遭受了重大损失。",
+          "url": "https://flash.jin10.com/detail/20260508063514510800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "美国总统特朗普：与欧盟委员会主席冯德莱恩的通话非常愉快。",
@@ -63,16 +97,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
-          "url": "https://wallstreetcn.com/articles/3771704",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：三艘世界级的美国驱逐舰刚刚成功通过霍尔木兹海峡，期间遭到攻击。",
+          "url": "https://flash.jin10.com/detail/20260508063506045800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 05时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
@@ -98,6 +131,17 @@
           "time_info": "[01时29分 ~ 03时21分]"
         },
         {
+          "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
+          "url": "https://flash.jin10.com/detail/20260508062437973800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
           "title": "美国总统特朗普：会见巴西总统卢拉的情况非常不错。",
           "url": "https://wallstreetcn.com/livenews/3100155",
           "source": "华尔街见闻-快讯",
@@ -107,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗目标的军事袭击就是一个“小剐蹭”（love tap）而已。 停火协议正在推进之中，停火是有效的。（ABC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3100240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "特朗普政府正寻求重启“自由计划”，最早可能在本周实施",
@@ -126,9 +181,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
+          "url": "https://wallstreetcn.com/livenews/3100233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "特朗普的10%关税遭遇法律挫折 但裁决不具普遍性",
+          "url": "https://flash.jin10.com/detail/20260508061022135800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "特朗普会见巴西总统卢拉讨论关税等问题",
+          "url": "https://flash.jin10.com/detail/20260508060306052800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "市场消息：美国贸易法院裁定特朗普提出的10%全球关税提案不成立。",
@@ -137,7 +225,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -148,7 +236,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -159,9 +247,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国贸易法庭的裁决并未全面阻止特朗普10%的关税，仅针对两家提起诉讼的公司。",
+          "url": "https://flash.jin10.com/detail/20260508054706756800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "巴西总统卢拉：据翻译称，特朗普告诉我他并未考虑入侵古巴。",
@@ -200,8 +299,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 05时43分]"
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 06时47分]"
         },
         {
           "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
@@ -248,11 +347,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时47分]"
         }
       ]
     }
