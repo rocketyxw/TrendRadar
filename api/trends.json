@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T06:34:17.547333+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-05-11T07:39:07.689562+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
@@ -23,28 +23,32 @@
           "time_info": "[02时42分 ~ 06时34分]"
         },
         {
-          "title": "布伦特原油期货跳涨3.5%，此前特朗普称伊朗的回应“不可接受”。",
-          "url": "https://wallstreetcn.com/livenews/3101184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
           "title": "内塔尼亚胡与特朗普通电话",
           "url": "https://wallstreetcn.com/livenews/3101171",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             6,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时35分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普指责伊朗“拖延、戏弄”美国，称拜登比奥巴马更糟",
+          "url": "https://wallstreetcn.com/livenews/3101168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时35分 ~ 07时39分]"
         },
         {
           "title": "美国总统特朗普：我们刚刚成功促成三名波兰人和两名摩尔多瓦人获释，他们此前被关押在白俄罗斯和俄罗斯的拘留所。",
@@ -60,6 +64,19 @@
           "time_info": "[04时35分 ~ 06时34分]"
         },
         {
+          "title": "特朗普：联邦机构必须优先采购美国货",
+          "url": "https://wallstreetcn.com/livenews/3101161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时39分]"
+        },
+        {
           "title": "据以色列第12频道：以色列总理内塔尼亚胡刚刚结束与美国总统特朗普的通话。",
           "url": "https://flash.jin10.com/detail/20260511032554131800",
           "source": "金十数据",
@@ -73,29 +90,43 @@
           "time_info": "[03时50分 ~ 05时36分]"
         },
         {
-          "title": "特朗普指责伊朗“拖延、戏弄”美国，称拜登比奥巴马更糟",
-          "url": "https://wallstreetcn.com/livenews/3101168",
+          "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
+          "url": "https://wallstreetcn.com/livenews/3101174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9,
-            19
+            3,
+            12,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时34分]"
+          "time_info": "[05时36分 ~ 07时39分]"
         },
         {
-          "title": "特朗普：联邦机构必须优先采购美国货",
-          "url": "https://wallstreetcn.com/livenews/3101161",
+          "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3101173",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            11
+            4,
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时34分]"
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普：伊朗对和平方案的回应“完全不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3101172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时39分]"
         },
         {
           "title": "美国总统特朗普：“任何支付给美国的钱都无需退还。”——如果美国最高法院当初在那项备受争议的关税裁决中加入这句话，美国本可以省下1590亿美元！",
@@ -104,18 +135,6 @@
           "ranks": [
             3,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时34分]"
-        },
-        {
-          "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
-          "url": "https://wallstreetcn.com/livenews/3101174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -146,16 +165,16 @@
           "time_info": "[05时36分 ~ 06时34分]"
         },
         {
-          "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101173",
+          "title": "布伦特原油期货跳涨3.5%，此前特朗普称伊朗的回应“不可接受”。",
+          "url": "https://wallstreetcn.com/livenews/3101184",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时34分]"
+          "time_info": "[06时34分 ~ 07时39分]"
         },
         {
           "title": "美国总统特朗普：伊朗将无法再嘲笑美国。",
@@ -176,18 +195,6 @@
           "ranks": [
             5,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普：伊朗对和平方案的回应“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -289,6 +296,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 01时41分]"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上发帖批评最高法院大法官关税裁决让美国损失了1590亿美元、出生公民权裁决危害国家安全。",
+          "url": "https://flash.jin10.com/detail/20260511063947355800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美国共和党参议员Roger Wicker敦促特朗普重启疏导霍尔木兹海峡受困船只的“自由计划”行动。",
+          "url": "https://flash.jin10.com/detail/20260511062819908800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上发帖批评福克斯新闻偏袒民主党人撒谎。",
+          "url": "https://flash.jin10.com/detail/20260511061810220800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         }
       ]
     },
@@ -303,11 +343,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时39分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -318,8 +359,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时39分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -330,8 +371,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时39分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -353,17 +394,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "“西方汽车零部件供应商感叹：现在只要丢单，都是败给中企”",
-          "url": "https://news.ifeng.com/c/8t0xbgKltd4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时34分]"
-        },
-        {
           "title": "央视曝光危险的“手搓汽车”",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8D%B1%E9%99%A9%E7%9A%84%E2%80%9C%E6%89%8B%E6%90%93%E6%B1%BD%E8%BD%A6%E2%80%9D",
           "source": "百度热搜",
@@ -372,11 +402,23 @@
             12,
             16,
             20,
-            27
+            27,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时39分]"
+        },
+        {
+          "title": "“西方汽车零部件供应商感叹：现在只要丢单，都是败给中企”",
+          "url": "https://news.ifeng.com/c/8t0xbgKltd4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时39分]"
         },
         {
           "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
@@ -388,8 +430,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时39分]"
         }
       ]
     },
