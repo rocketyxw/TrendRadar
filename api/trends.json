@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:51:51.762896+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-05-10T19:39:29.175685+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时34分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[07时34分 ~ 19时39分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -64,15 +64,15 @@
           "time_info": "[05时32分 ~ 17时19分]"
         },
         {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
-          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
           "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时51分"
+          "time_info": "19时39分"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -86,6 +86,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 03时48分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时39分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -198,8 +210,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 18时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 19时39分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -243,11 +255,12 @@
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时39分]"
         }
       ]
     },
@@ -340,8 +353,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 18时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 19时39分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -366,9 +379,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时39分]"
         },
         {
           "title": "当地高级警官表示，在巴基斯坦巴努发生的汽车炸弹爆炸事件以及与武装分子的夜间交火中，已有12名警察丧生。",
