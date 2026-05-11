@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T03:26:53.851109+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-05-12T05:11:19.436028+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "美国总统特朗普将对中国进行国事访问",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
@@ -73,8 +73,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排",
@@ -96,8 +96,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
@@ -111,6 +111,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "美国总统特朗普：我们需要更多关税。",
+          "url": "https://flash.jin10.com/detail/20260512042137003800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
           "url": "https://wallstreetcn.com/articles/3771976",
           "source": "华尔街见闻",
@@ -118,8 +129,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "time_info": "[03时26分 ~ 05时11分]"
         },
         {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
@@ -132,17 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 03时26分]"
-        },
-        {
-          "title": "特朗普5月13日至15日访华",
-          "url": "https://www.toutiao.com/trending/7638433306853281331/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
         },
         {
           "title": "美国总统特朗普考虑对伊朗采取军事行动，周一会见了国家安全团队。（Axios）",
@@ -162,7 +173,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -206,7 +217,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -250,7 +261,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -305,7 +316,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -327,7 +338,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -349,7 +360,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -404,7 +415,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -415,7 +426,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -433,8 +444,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "张雪祝贺吉利汽车意大利夺冠",
@@ -444,8 +455,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "福特汽车(F.N)收窄跌幅，目前下跌1.3%。",
@@ -454,7 +465,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -462,8 +473,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美股七巨头收盘播报｜周一（5月11日），美国科技股七巨头（Magnificent 7）指数跌0.29%，报223.79点。成分股谷歌母公司Alphabet收跌3%，创3月份以来最大单日跌幅。 “超大”市值科技股指数跌0.13%，报454.22点。",
+          "url": "https://wallstreetcn.com/livenews/3101843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
         {
           "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
           "url": "https://wallstreetcn.com/livenews/3101797",
@@ -471,7 +493,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -488,7 +510,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
