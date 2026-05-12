@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T16:17:22.332115+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-05-12T19:08:26.043068+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -20,6 +20,20 @@
           "time_info": "[01时15分 ~ 09时29分]"
         },
         {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 19时08分]"
+        },
+        {
           "title": "外交部介绍特朗普访华安排和中方期待",
           "url": "https://www.toutiao.com/trending/7638111822163496490/",
           "source": "今日头条",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 09时29分]"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 16时17分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -108,6 +109,19 @@
           "time_info": "[07时44分 ~ 16时17分]"
         },
         {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 19时08分]"
+        },
+        {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
           "url": "https://wallstreetcn.com/articles/3771940",
           "source": "华尔街见闻",
@@ -118,18 +132,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 07时44分]"
-        },
-        {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 16时17分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -168,6 +170,20 @@
           "time_info": "[03时26分 ~ 07时44分]"
         },
         {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 19时08分]"
+        },
+        {
           "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
           "url": "https://flash.jin10.com/detail/20260512071238628800",
           "source": "金十数据",
@@ -190,26 +206,23 @@
           "time_info": "07时44分"
         },
         {
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
           "url": "https://www.cls.cn/detail/2368480",
           "source": "财联社热门",
           "ranks": [
             10,
             6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 16时17分]"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9,
             8
           ],
           "is_new": false,
@@ -252,6 +265,56 @@
           "time_info": "[05时11分 ~ 06时44分]"
         },
         {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 19时08分]"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 19时08分]"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 19时08分]"
+        },
+        {
+          "title": "特朗普访华传递了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 19时08分]"
+        },
+        {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
           "url": "https://www.toutiao.com/trending/7638642573942197823/",
           "source": "今日头条",
@@ -262,30 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 03时26分]"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 16时17分]"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 16时17分]"
         },
         {
           "title": "特朗普金卡翻车",
@@ -310,17 +349,6 @@
           "time_info": "06时44分"
         },
         {
-          "title": "特朗普访华传递了哪些信号",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
           "title": "“命悬一线”！特朗普宣布美伊停火濒临崩溃，正权衡对伊朗恢复军事行动",
           "url": "https://flash.jin10.com/detail/20260512065204690800",
           "source": "金十数据",
@@ -330,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "美国总统特朗普：失败的《纽约时报》，这是世界上最糟糕的报纸之一，订阅量每小时都在流失。",
+          "url": "https://flash.jin10.com/detail/20260512184945160800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国总统特朗普考虑对伊朗采取军事行动，周一会见了国家安全团队。（Axios）",
@@ -365,15 +404,15 @@
           "time_info": "01时15分"
         },
         {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "19时08分"
         },
         {
           "title": "美国总统特朗普：伊朗强硬派领导人早晚会屈服，我将与他们继续“周旋”，直到他们愿意跟我达成协议。",
@@ -492,7 +531,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -550,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "多个团体就特朗普政府可能削减住房项目发出警告",
@@ -818,11 +868,12 @@
             14,
             21,
             20,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 16时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 19时08分]"
         },
         {
           "title": "澎湃漫评｜“手搓汽车”把风险留给了社会",
@@ -830,11 +881,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 19时08分]"
         },
         {
           "title": "央视曝光三无手搓汽车，从新能源车拆下翻新锂电池自行组装，这种汽车有何风险？暴露出监管与产业链哪些问题？",
@@ -842,11 +894,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 16时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 19时08分]"
         },
         {
           "title": "福特汽车(F.N)收窄跌幅，目前下跌1.3%。",
@@ -866,7 +919,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -888,7 +941,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -899,7 +952,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -921,7 +974,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
