@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T09:48:13.060624+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-05-15T13:43:37.441539+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 59,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普会谈",
@@ -38,24 +38,13 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时43分]"
         },
         {
           "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
           "url": "https://wallstreetcn.com/articles/3772243",
           "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
-          "url": "https://www.zhihu.com/question/2038333650341557719",
-          "source": "知乎",
           "ranks": [
             2
           ],
@@ -72,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时43分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普参观天坛",
@@ -140,6 +129,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 06时50分]"
+        },
+        {
+          "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2038333650341557719",
+          "source": "知乎",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时43分]"
         },
         {
           "title": "特朗普：世上最顶级企业都想来中国",
@@ -274,8 +275,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时43分]"
         },
         {
           "title": "特朗普为中国少年儿童驻足鼓掌",
@@ -291,6 +292,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时26分 ~ 09时48分]"
+        },
+        {
+          "title": "国际社会是怎样看待特朗普本次访华行程的？",
+          "url": "https://www.zhihu.com/question/2038010908488590805",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 13时43分]"
         },
         {
           "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
@@ -316,16 +330,59 @@
           "time_info": "[00时02分 ~ 06时50分]"
         },
         {
-          "title": "国际社会是怎样看待特朗普本次访华行程的？",
-          "url": "https://www.zhihu.com/question/2038010908488590805",
-          "source": "知乎",
+          "title": "习近平同特朗普在中南海小范围会晤",
+          "url": "https://www.toutiao.com/trending/7638832901685251590/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 09时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "习近平同特朗普在中南海小范围会晤",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181499",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://www.douyin.com/hot/2499691",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "CIA官员：CIA局长向古巴方面传达了特朗普的信息：如果古巴作出“根本性改变”，美国准备在经济与安全议题上展开接触。",
@@ -339,13 +396,46 @@
           "time_info": "05时58分"
         },
         {
+          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普抵达中南海",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%8D%97%E6%B5%B7%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "美国总统特朗普：正在为地区国家重新开放霍尔木兹海峡而努力。",
           "url": "https://flash.jin10.com/detail/20260515093700757800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -392,11 +482,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%AD%E9%A4%90%E9%A6%86%E6%AF%94%E4%BA%94%E5%A4%A7%E5%BF%AB%E9%A4%90%E5%BA%97%E8%BF%98%E5%A4%9A",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时43分]"
         },
         {
           "title": "特朗普乘车抵达欢迎宴会现场",
@@ -408,6 +499,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "特朗普访华欢迎宴会都有哪些中国企业家参加了？",
+          "url": "https://www.zhihu.com/question/2038335260765544921",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "据日经新闻：日本首相高市早苗计划最早于周五与美国总统特朗普进行电话会谈。",
@@ -427,7 +529,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -438,7 +540,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -465,6 +567,28 @@
           "time_info": "05时58分"
         },
         {
+          "title": "特朗普乘车抵达中南海",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E8%BD%A6%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%8D%97%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "外交部发言人就美国总统特朗普访华情况答记者问",
+          "url": "https://www.cls.cn/detail/2372089",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "据NBC新闻：美国总统特朗普提交的道德披露文件显示，其进行了与美国股票相关的交易。",
           "url": "https://flash.jin10.com/detail/20260515044858571800",
           "source": "金十数据",
@@ -482,9 +606,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "外交部就特朗普访华情况答问",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E9%97%AE",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "跳票近一年 特朗普“土豪金”T1手机开始发货",
@@ -551,12 +686,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "外交部就特朗普访华答问",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E7%AD%94%E9%97%AE%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周四（5月14日），彭博电动汽车价格回报指数跌1.15%，报4113.70点。",
@@ -588,7 +734,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -602,6 +748,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "斯特兰蒂斯和东风集团计划从2027年开始生产两款Jeep电动汽车。 斯特兰蒂斯与东风的合作包括10亿欧元的投资计划。",
+          "url": "https://wallstreetcn.com/livenews/3104102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     },
@@ -655,7 +812,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
