@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T04:47:23.392952+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-05-16T05:45:58.475769+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "高市早苗赶忙和特朗普通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "特朗普结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "特朗普结束访华离开北京",
@@ -70,8 +70,63 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
+          "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
+        },
+        {
+          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普离开这一幕中国军人尽显英姿",
+          "url": "https://www.toutiao.com/trending/7639049468456992787/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普：待惯了的话 可能都舍不得走",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%85%E6%83%AF%E4%BA%86%E7%9A%84%E8%AF%9D+%E5%8F%AF%E8%83%BD%E9%83%BD%E8%88%8D%E4%B8%8D%E5%BE%97%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
@@ -85,71 +140,17 @@
           "time_info": "[01时18分 ~ 04时47分]"
         },
         {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
-          "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
-        },
-        {
           "title": "特朗普说能待得惯可能都不想走了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%83%BD%E5%BE%85%E5%BE%97%E6%83%AF%E5%8F%AF%E8%83%BD%E9%83%BD%E4%B8%8D%E6%83%B3%E8%B5%B0%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
             2,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
-        },
-        {
-          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
-        },
-        {
-          "title": "特朗普离开这一幕中国军人尽显英姿",
-          "url": "https://www.toutiao.com/trending/7639049468456992787/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
-        },
-        {
-          "title": "特朗普：待惯了的话 可能都舍不得走",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%85%E6%83%AF%E4%BA%86%E7%9A%84%E8%AF%9D+%E5%8F%AF%E8%83%BD%E9%83%BD%E8%88%8D%E4%B8%8D%E5%BE%97%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
-        },
-        {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "市场消息：特朗普政府正推动加快阿拉斯加的石油许可。",
@@ -163,6 +164,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
+          "url": "https://flash.jin10.com/detail/20260516043257179800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
           "title": "特朗普结束访华 乘专机离开北京",
           "url": "https://www.douyin.com/hot/2499944",
           "source": "抖音",
@@ -170,8 +182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
@@ -181,8 +193,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "特朗普结束访华 登空军一号挥手告别",
@@ -194,8 +206,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "美国总统特朗普结束访华",
@@ -206,8 +218,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
@@ -218,8 +230,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "美国总统特朗普结束访华离京",
@@ -230,8 +242,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "特朗普：热情期待在华盛顿接待习主席",
@@ -243,8 +255,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -254,8 +266,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
         },
         {
           "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
@@ -265,8 +277,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时45分]"
+        },
+        {
+          "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
+          "url": "https://flash.jin10.com/detail/20260516033957346800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时45分]"
         },
         {
           "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
@@ -335,17 +359,6 @@
           "time_info": "01时18分"
         },
         {
-          "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
-          "url": "https://flash.jin10.com/detail/20260516033957346800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
           "title": "特朗普离京 王毅机场送行",
           "url": "https://www.toutiao.com/trending/7640008667797917211/",
           "source": "今日头条",
@@ -385,6 +398,18 @@
           "time_info": "03时10分"
         },
         {
+          "title": "福特汽车收跌7.4%，创2025年2月份以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3104615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时45分]"
+        },
+        {
           "title": "现代汽车集团顶级美国游说专家Drew Ferguson离职，此前一年在该公司发挥了关键作用。",
           "url": "https://wallstreetcn.com/livenews/3104561",
           "source": "华尔街见闻-快讯",
@@ -394,17 +419,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "福特汽车收跌7.4%，创2025年2月份以来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3104615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
         },
         {
           "title": "汽车与AI提振美国制造业产量，战争引发的供应短缺隐忧浮现",
@@ -428,33 +442,36 @@
           "url": "https://wallstreetcn.com/livenews/3104627",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时45分]"
         },
         {
           "title": "13F报告显示：Third Point建仓Meta、谷歌A等。 清仓微软等，减持英伟达等。",
           "url": "https://wallstreetcn.com/livenews/3104622",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时45分]"
         },
         {
           "title": "13F报告显示，伯克希尔哈撒韦一季度建仓达美航空（DAL）和M，增持谷歌A、纽约时报（NYT）、LEN。清仓亚马逊、Visa、MasterCard、联合健康、DPZ、Aon，减持美国银行、雪佛龙、STZ、NUE等。",
           "url": "https://wallstreetcn.com/livenews/3104621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时45分]"
         }
       ]
     },
@@ -499,8 +516,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 05时45分]"
         }
       ]
     }
