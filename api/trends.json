@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T07:42:58.850170+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-05-16T09:28:34.723201+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "高市早苗赶忙和特朗普通电话",
           "url": "https://news.ifeng.com/c/8t9bt9Na6ev",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "特朗普结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
@@ -38,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -49,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
@@ -60,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "特朗普结束访华离开北京",
@@ -71,19 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
-          "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
@@ -91,6 +81,17 @@
           "source": "澎湃新闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
+          "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -113,11 +114,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "特朗普：待惯了的话 可能都舍不得走",
@@ -131,15 +133,17 @@
           "time_info": "[01时18分 ~ 06时41分]"
         },
         {
-          "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
-          "url": "https://flash.jin10.com/detail/20260516043257179800",
-          "source": "金十数据",
+          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            9,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时45分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
@@ -168,19 +172,6 @@
           "time_info": "[01时18分 ~ 07时42分]"
         },
         {
-          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
-        },
-        {
           "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
           "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
           "source": "澎湃新闻",
@@ -189,8 +180,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "特朗普结束访华 登空军一号挥手告别",
@@ -199,11 +190,27 @@
           "ranks": [
             9,
             7,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
+        },
+        {
+          "title": "美国总统特朗普结束访华离京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "美国总统特朗普结束访华",
@@ -215,22 +222,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
-        },
-        {
-          "title": "美国总统特朗普结束访华离京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
         },
         {
           "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
@@ -241,8 +234,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 09时28分]"
+        },
+        {
+          "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
+          "url": "https://flash.jin10.com/detail/20260516043257179800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时45分 ~ 09时28分]"
         },
         {
           "title": "市场消息：特朗普政府正推动加快阿拉斯加的石油许可。",
@@ -269,28 +286,6 @@
           "time_info": "[01时18分 ~ 07时42分]"
         },
         {
-          "title": "外交部就特朗普访华情况答记者问",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时42分]"
-        },
-        {
-          "title": "周五（5月15日），美股降息赢家指数跌2.60%，报85.09点——呈现出长尾L形走势，本周累计下跌5.86%，整体持续下挫。 “特朗普关税输家”指数跌1.81%，报97.59点，本周累跌5.35%。 “特朗普金融指数”跌0.81%，报158.12点，本周累跌1.64%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.32%，报12.96点，本周累跌7.14%。",
-          "url": "https://wallstreetcn.com/livenews/3104674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
           "title": "特朗普结束访华 乘专机离开北京",
           "url": "https://www.douyin.com/hot/2499944",
           "source": "抖音",
@@ -312,6 +307,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时42分]"
+        },
+        {
+          "title": "周五（5月15日），美股降息赢家指数跌2.60%，报85.09点——呈现出长尾L形走势，本周累计下跌5.86%，整体持续下挫。 “特朗普关税输家”指数跌1.81%，报97.59点，本周累跌5.35%。 “特朗普金融指数”跌0.81%，报158.12点，本周累跌1.64%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.32%，报12.96点，本周累跌7.14%。",
+          "url": "https://wallstreetcn.com/livenews/3104674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时28分]"
         },
         {
           "title": "美国总统特朗普称赞股市。",
@@ -386,6 +393,18 @@
           "time_info": "[06时41分 ~ 07时42分]"
         },
         {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://www.douyin.com/hot/2499691",
+          "source": "抖音",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时28分]"
+        },
+        {
           "title": "美国总统特朗普：预计到我任期结束时，美国将拥有（全球）芯片业务的40%-50%。",
           "url": "https://wallstreetcn.com/livenews/3104653",
           "source": "华尔街见闻-快讯",
@@ -409,6 +428,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "默茨与特朗普通电话，似有意修补德美关系",
           "url": "https://wallstreetcn.com/livenews/3104583",
           "source": "华尔街见闻-快讯",
@@ -420,15 +450,15 @@
           "time_info": "03时10分"
         },
         {
-          "title": "外交部就特朗普访华情况答记者问",
-          "url": "https://www.douyin.com/hot/2499691",
-          "source": "抖音",
+          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
+          "url": "https://www.zhihu.com/question/2038603109828486376",
+          "source": "知乎",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "09时28分"
         },
         {
           "title": "特朗普团队拟重塑加沙“钱途” 巴勒斯坦税收恐被挪用",
@@ -511,7 +541,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "以色列空袭加沙城住宅楼和汽车 造成4人死亡",
@@ -548,6 +578,17 @@
           "time_info": "[04时47分 ~ 05时45分]"
         },
         {
+          "title": "理想汽车：已向这位母亲当面致歉",
+          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E5%B7%B2%E5%90%91%E8%BF%99%E4%BD%8D%E6%AF%8D%E4%BA%B2%E5%BD%93%E9%9D%A2%E8%87%B4%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "现代汽车集团顶级美国游说专家Drew Ferguson离职，此前一年在该公司发挥了关键作用。",
           "url": "https://wallstreetcn.com/livenews/3104561",
           "source": "华尔街见闻-快讯",
@@ -557,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "理想 CEO 称「汽车不能像手机一样换代」，如何看待他的观点？现在合理的汽车换代周期到底应该是多久？",
+          "url": "https://www.zhihu.com/question/2036455641170932765",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "汽车与AI提振美国制造业产量，战争引发的供应短缺隐忧浮现",
@@ -616,8 +668,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3104694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
           "url": "https://wallstreetcn.com/livenews/3104554",
@@ -654,11 +717,12 @@
             4,
             5,
             24,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 07时42分]"
+          "appearance_count": 6,
+          "time_info": "[03时10分 ~ 09时28分]"
         }
       ]
     }
