@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T16:04:08.386371+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-05-17T18:15:24.785568+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 16时04分]"
-        },
-        {
-          "title": "特朗普警告台独",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 16时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 18时15分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -40,6 +28,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 13时37分]"
+        },
+        {
+          "title": "特朗普警告台独",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 18时15分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -63,8 +64,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 16时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 18时15分]"
+        },
+        {
+          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
+          "url": "https://www.zhihu.com/question/2039007666429583394",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 18时15分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -115,20 +128,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 16时04分]"
-        },
-        {
-          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
-          "url": "https://www.zhihu.com/question/2039007666429583394",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 16时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 18时15分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -191,22 +192,24 @@
           "source": "微博",
           "ranks": [
             8,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 16时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 18时15分]"
         },
         {
           "title": "特朗普访华后续观察",
           "url": "https://www.douyin.com/hot/2502108",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 18时15分]"
         },
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -216,8 +219,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 18时15分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -272,7 +275,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
@@ -332,11 +335,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 16时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 18时15分]"
         },
         {
           "title": "意大利摩德纳市发生汽车冲撞人群事件",
@@ -368,7 +372,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
