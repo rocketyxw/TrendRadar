@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T13:37:30.164611+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-05-17T16:04:08.386371+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 13时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 16时04分]"
         },
         {
           "title": "特朗普警告台独",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 13时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 16时04分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 13时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 16时04分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -73,11 +73,12 @@
           "ranks": [
             12,
             16,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 13时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 16时04分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -114,8 +115,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 13时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 16时04分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -126,8 +127,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 16时04分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -164,11 +165,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 16时04分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -182,6 +184,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时37分 ~ 09时45分]"
+        },
+        {
+          "title": "台舆论称特朗普不许台独视美为靠山",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 16时04分]"
+        },
+        {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -208,17 +244,6 @@
           "time_info": "[09时45分 ~ 13时37分]"
         },
         {
-          "title": "台舆论称特朗普不许台独视美为靠山",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
           "url": "https://flash.jin10.com/detail/20260516214439239800",
           "source": "金十数据",
@@ -241,13 +266,24 @@
           "time_info": "00时41分"
         },
         {
+          "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
+          "url": "https://flash.jin10.com/detail/20260517131605700800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "特朗普发文批评卡西迪“背叛”，称其政治生涯已终结",
           "url": "https://flash.jin10.com/detail/20260517105950784800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -258,7 +294,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -277,7 +313,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "总投资10亿元 天津燕龙汽车零部件生产基地项目开工",
@@ -286,9 +322,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "长安汽车否认与千里科技合作",
+          "url": "https://wallstreetcn.com/livenews/3104835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 16时04分]"
         },
         {
           "title": "意大利摩德纳市发生汽车冲撞人群事件",
@@ -314,15 +362,15 @@
           "time_info": "09时45分"
         },
         {
-          "title": "长安汽车否认与千里科技合作",
-          "url": "https://wallstreetcn.com/livenews/3104835",
-          "source": "华尔街见闻-快讯",
+          "title": "理想汽车(LI.O)：全新理想L9在常州、杭州正式开启交付。",
+          "url": "https://flash.jin10.com/detail/20260517150358308800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时37分"
+          "time_info": "16时04分"
         },
         {
           "title": "长安汽车回应与千里科技合作：暂无计划，将坚持自研天枢智能路线",
@@ -331,7 +379,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         }
