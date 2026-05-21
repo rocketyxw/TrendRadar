@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T09:53:00.791012+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-05-21T13:58:23.600197+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -37,19 +37,54 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 09时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时47分 ~ 13时58分]"
         },
         {
           "title": "特朗普，“退了一万亿”",
           "url": "https://news.ifeng.com/c/8tIcotw8V5W",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时58分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗驻联合国大使表示，联合国安全理事会不应对美国总统特朗普针对伊朗的频繁威胁保持沉默或漠不关心。",
+          "url": "https://flash.jin10.com/detail/20260521133216150800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时58分]"
         },
         {
           "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
@@ -63,26 +98,16 @@
           "time_info": "03时58分"
         },
         {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
           "title": "特朗普回应中俄元首会晤",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时58分]"
         },
         {
           "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
@@ -105,6 +130,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "报道称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://wallstreetcn.com/livenews/3107164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "特朗普：（关于伊朗）无论如何，这将很快结束。",
@@ -184,6 +242,17 @@
           "time_info": "03时58分"
         },
         {
+          "title": "分析师：特朗普口头利好再救美股，市场继续照单全收",
+          "url": "https://flash.jin10.com/detail/20260521131731594800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "美国总统特朗普：就破冰船问题感谢芬兰。 短期内将形成55艘破冰船的（船队）规模。",
           "url": "https://wallstreetcn.com/livenews/3106849",
           "source": "华尔街见闻-快讯",
@@ -237,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     },
@@ -359,7 +439,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -409,11 +489,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%88%A4%E8%B5%943%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%85%B1226%E4%B8%87+%E6%B1%BD%E8%BD%A6%E5%8D%9A%E4%B8%BB%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时58分]"
         },
         {
           "title": "特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。",
@@ -433,7 +514,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
