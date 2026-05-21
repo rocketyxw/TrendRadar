@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T13:58:23.600197+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-05-21T17:00:55.198987+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普，“退了一万亿”",
+          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 17时00分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -41,38 +53,16 @@
           "time_info": "[01时47分 ~ 13时58分]"
         },
         {
-          "title": "特朗普，“退了一万亿”",
-          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 13时58分]"
-        },
-        {
           "title": "特朗普回应中俄元首会晤",
           "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗驻联合国大使表示，联合国安全理事会不应对美国总统特朗普针对伊朗的频繁威胁保持沉默或漠不关心。",
-          "url": "https://flash.jin10.com/detail/20260521133216150800",
-          "source": "金十数据",
-          "ranks": [
+            1,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 17时00分]"
         },
         {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
@@ -83,8 +73,63 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 17时00分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德对话",
+          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
+        },
+        {
+          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
+          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
+        },
+        {
+          "title": "外交部回应“特朗普将与赖清德交谈”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗驻联合国大使表示，联合国安全理事会不应对美国总统特朗普针对伊朗的频繁威胁保持沉默或漠不关心。",
+          "url": "https://flash.jin10.com/detail/20260521133216150800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
@@ -96,6 +141,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 17时00分]"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 17时00分]"
         },
         {
           "title": "特朗普回应中俄元首会晤",
@@ -110,15 +178,49 @@
           "time_info": "[09时52分 ~ 13时58分]"
         },
         {
-          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
-          "source": "澎湃新闻",
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
           "ranks": [
-            19
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 17时00分]"
+        },
+        {
+          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://www.cls.cn/detail/2377710",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
+          "time_info": "[16时59分 ~ 17时00分]"
+        },
+        {
+          "title": "特朗普称卸任后不排除去竞选以总理",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8D%B8%E4%BB%BB%E5%90%8E%E4%B8%8D%E6%8E%92%E9%99%A4%E5%8E%BB%E7%AB%9E%E9%80%89%E4%BB%A5%E6%80%BB%E7%90%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
+        },
+        {
+          "title": "专家解读特朗普最新涉台表态",
+          "url": "https://www.toutiao.com/trending/7640903981770178579/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
         },
         {
           "title": "特朗普淡化升级对古巴行动的必要性",
@@ -132,35 +234,13 @@
           "time_info": "03时58分"
         },
         {
-          "title": "特朗普：不要中国学生，那可太冒犯了",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "报道称特朗普政府已开始制定对古巴军事行动方案",
           "url": "https://wallstreetcn.com/livenews/3107164",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2377369",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -248,7 +328,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -314,7 +394,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -396,6 +476,81 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "7 家日本车企 2026 财年净利预计腰斩，日本造车业为何如此不景气？日产汽车落后于市场了吗？",
+          "url": "https://www.zhihu.com/question/2040362002791588829",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 09时53分]"
+        },
+        {
+          "title": "汽车开12天增程器坏了？售后经理回应",
+          "url": "https://www.toutiao.com/trending/7641171705437241350/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "被判赔3家车企共226万 汽车博主回应",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%88%A4%E8%B5%943%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%85%B1226%E4%B8%87+%E6%B1%BD%E8%BD%A6%E5%8D%9A%E4%B8%BB%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时58分]"
+        },
+        {
+          "title": "特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。",
+          "url": "https://wallstreetcn.com/livenews/3106967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "据港交所文件：芜湖伯特利汽车安全系统股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260521164041596800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时00分"
+        },
+        {
+          "title": "恒指高开0.71%，报25833.24点；恒生科技指数涨1.04%。中芯国际涨3.8%，小鹏汽车、华虹半导体涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3107045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -453,70 +608,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "7 家日本车企 2026 财年净利预计腰斩，日本造车业为何如此不景气？日产汽车落后于市场了吗？",
-          "url": "https://www.zhihu.com/question/2040362002791588829",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 09时53分]"
-        },
-        {
-          "title": "汽车开12天增程器坏了？售后经理回应",
-          "url": "https://www.toutiao.com/trending/7641171705437241350/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "被判赔3家车企共226万 汽车博主回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%88%A4%E8%B5%943%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%85%B1226%E4%B8%87+%E6%B1%BD%E8%BD%A6%E5%8D%9A%E4%B8%BB%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 13时58分]"
-        },
-        {
-          "title": "特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。",
-          "url": "https://wallstreetcn.com/livenews/3106967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "恒指高开0.71%，报25833.24点；恒生科技指数涨1.04%。中芯国际涨3.8%，小鹏汽车、华虹半导体涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3107045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
         }
       ]
     },
