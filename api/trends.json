@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T09:54:19.755166+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-05-22T13:54:53.939225+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 09时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 13时54分]"
         },
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -76,11 +76,35 @@
             15,
             14,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 09时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 13时54分]"
+        },
+        {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 13时54分]"
+        },
+        {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 13时54分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -149,15 +173,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
-          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
+          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "13时54分"
         },
         {
           "title": "美国总统特朗普：宴会厅项目按计划推进，且预算控制在范围内，无需（额外）现金。",
@@ -169,17 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
-          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         },
         {
           "title": "美国总统特朗普：不知道我是否会失去对参议院的控制。",
@@ -198,11 +211,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 13时54分]"
+        },
+        {
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时54分]"
+          "time_info": "[09时54分 ~ 13时54分]"
         },
         {
           "title": "特朗普称将向波兰增派5000名美军",
@@ -215,6 +240,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 13时54分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
@@ -246,7 +283,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -260,17 +297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
-        },
-        {
-          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
-          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         },
         {
           "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
@@ -295,15 +321,15 @@
           "time_info": "06时08分"
         },
         {
-          "title": "特朗普儿媳再忆中国行直呼震撼",
-          "url": "https://www.toutiao.com/trending/7641561881347309611/",
-          "source": "今日头条",
+          "title": "美众议院推迟表决限制特朗普对伊动武法案",
+          "url": "https://wallstreetcn.com/livenews/3107792",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "13时54分"
         },
         {
           "title": "特朗普政策急转：将向波兰增派5000名美军",
@@ -405,6 +431,28 @@
           "time_info": "00时10分"
         },
         {
+          "title": "波兰总统纳夫罗茨基：（关于美国向波兰派遣额外的美国士兵）我感谢美国总统对波兰的友谊，以及我们今天非常清楚看到的那些决策的实际意义。美国总统特朗普的决定确认了波美关系非常牢固，波兰是一个强大的盟友。",
+          "url": "https://flash.jin10.com/detail/20260522130401398800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "美众议院推迟表决限制特朗普对伊动武法案",
+          "url": "https://flash.jin10.com/detail/20260522125631927800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "美国总统特朗普：如果DC（华盛顿特区）和波多黎各成为州，那将是“灾难”。",
           "url": "https://wallstreetcn.com/livenews/3107557",
           "source": "华尔街见闻-快讯",
@@ -503,7 +551,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "纽约发生一起汽车爆炸事件",
@@ -542,6 +590,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时45分]"
+        },
+        {
+          "title": "广汇汽车所持58亿元股权被冻结",
+          "url": "https://wallstreetcn.com/livenews/3107789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "雷军回应为何小米汽车只公布锁单数",
+          "url": "https://www.toutiao.com/trending/7642549970981260810/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     },
