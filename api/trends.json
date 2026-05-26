@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T00:34:26.913844+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-27T03:11:50.242136+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时11分]"
         },
         {
           "title": "想不想买小米汽车？武契奇：买不起",
           "url": "https://www.toutiao.com/trending/7644103690068069898/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时11分]"
         },
         {
           "title": "被问想不想买一辆小米汽车，武契奇笑称：买不起，但车很漂亮",
@@ -37,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时11分]"
         }
       ]
     },
@@ -47,22 +48,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 03时11分]"
+        },
+        {
           "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
           "url": "https://wallstreetcn.com/articles/3773076",
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
