@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T09:50:15.841002+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-05-26T13:55:44.273746+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 13时55分]"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 13时55分]"
         },
         {
           "title": "据Axios记者：特朗普有关伊朗浓缩铀的最新表态似乎表明美国在浓缩铀库存问题上的立场有所软化，更接近伊朗在这一问题上的立场。",
@@ -89,18 +102,6 @@
           "time_info": "[02时20分 ~ 04时17分]"
         },
         {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 09时50分]"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社援引以色列第12频道的消息报道，美国特使威特科夫和特朗普高级顾问库什纳正前往以色列，以商讨一项可能的美伊合作协议。此次会谈将围绕华盛顿与德黑兰之间可能达成的协议展开讨论，会谈还将继续就霍尔木兹海峡问题和核问题进行协商。",
           "url": "https://flash.jin10.com/detail/20260526013001335800",
           "source": "金十数据",
@@ -111,6 +112,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 04时17分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 13时55分]"
         },
         {
           "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
@@ -147,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 04时17分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
-          "url": "https://www.cls.cn/detail/2381211",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "美国总统特朗普：现在与委内瑞拉政府紧密接触。",
@@ -275,11 +277,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时20分 ~ 09时50分]"
+          "appearance_count": 7,
+          "time_info": "[02时20分 ~ 13时55分]"
         },
         {
           "title": "墨西哥经济部长埃布拉德：墨西哥将与美国讨论汽车原产地规则。",
@@ -304,11 +307,12 @@
           "url": "https://www.zhihu.com/question/2033335202307647295",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 13时55分]"
         }
       ]
     },
