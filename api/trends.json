@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T15:53:51.834268+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-05-27T19:25:23.238826+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             17,
             16,
             11,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 15时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 19时25分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -35,6 +36,18 @@
           "time_info": "[07时59分 ~ 15时53分]"
         },
         {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 19时25分]"
+        },
+        {
           "title": "美国总统特朗普：考虑到明天可能出现的恶劣天气情况，我们将在白宫举行内阁会议，并推迟前往戴维营的内阁行程。",
           "url": "https://flash.jin10.com/detail/20260527044831585800",
           "source": "金十数据",
@@ -44,17 +57,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "美国贸易代表格里尔：美国与加拿大存在贸易争端，该国对特朗普的关税采取了报复措施。",
@@ -250,7 +252,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "武契奇在小米汽车工厂下单 买了啥",
@@ -304,11 +306,12 @@
           "ranks": [
             20,
             8,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 19时25分]"
         },
         {
           "title": "周二（5月26日），彭博电动汽车价格回报指数涨0.51%，报4020.02点。",
@@ -320,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "为什么美国很多行业的巨头都叫「通用 (General)」，如通用电气、通用汽车、通用磨坊等，它们之间有无什么关系，或者渊源?",
+          "url": "https://www.zhihu.com/question/20205304",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "小米汽车计划2027下半年启动出海",
