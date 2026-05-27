@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-27T06:59:13.385103+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-05-27T08:00:00.242056+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 08时00分]"
+        },
         {
           "title": "美国总统特朗普：考虑到明天可能出现的恶劣天气情况，我们将在白宫举行内阁会议，并推迟前往戴维营的内阁行程。",
           "url": "https://flash.jin10.com/detail/20260527044831585800",
@@ -30,19 +43,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 06时59分]"
-        },
-        {
           "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
           "url": "https://wallstreetcn.com/livenews/3109650",
           "source": "华尔街见闻-快讯",
@@ -53,6 +53,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时59分]"
+        },
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
+          "title": "巴西参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）：我要求美国总统特朗普将（那些）犯罪集团标榜为恐怖分子。 我告诉特朗普，如果我当选（为巴西总统），我们将达成一份贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3109667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时00分]"
+        },
+        {
+          "title": "特朗普：美国CFTC对预测市场的专属管辖权“至关重要”",
+          "url": "https://wallstreetcn.com/livenews/3109663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时00分]"
         },
         {
           "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
@@ -77,28 +112,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "巴西参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）：我要求美国总统特朗普将（那些）犯罪集团标榜为恐怖分子。 我告诉特朗普，如果我当选（为巴西总统），我们将达成一份贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3109667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "特朗普：美国CFTC对预测市场的专属管辖权“至关重要”",
-          "url": "https://wallstreetcn.com/livenews/3109663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
           "title": "美国贸易代表格里尔：美国总统特朗普对关税豁免计划不感兴趣。",
           "url": "https://flash.jin10.com/detail/20260527042055039800",
           "source": "金十数据",
@@ -108,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "伊朗寻求经济纾困，但避免让特朗普宣告胜利",
+          "url": "https://flash.jin10.com/detail/20260527072115517800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "美伊谈判关键之际，特朗普与内塔尼亚胡通话",
@@ -127,7 +151,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -138,7 +162,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -149,7 +173,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -160,7 +184,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -171,7 +195,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -182,7 +206,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -212,7 +236,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "武契奇在小米汽车工厂下单 买了啥",
@@ -238,6 +262,17 @@
           "time_info": "[00时34分 ~ 06时59分]"
         },
         {
+          "title": "武契奇说买不起小米汽车 雷军回应",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E4%B9%B0%E4%B8%8D%E8%B5%B7%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
           "title": "被问想不想买一辆小米汽车，武契奇笑称：买不起，但车很漂亮",
           "url": "https://v.ifeng.com/c/8tPxP7tkeJs",
           "source": "凤凰网",
@@ -245,8 +280,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 08时00分]"
+        },
+        {
+          "title": "武契奇在小米汽车工厂买了啥",
+          "url": "https://www.toutiao.com/trending/7643858808741625894/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "周二（5月26日），彭博电动汽车价格回报指数涨0.51%，报4020.02点。",
@@ -263,8 +309,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "华为 “韬定律”：国产芯片的DeepSeek 时刻！",
+          "url": "https://wallstreetcn.com/articles/3773150",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
         {
           "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
           "url": "https://www.zhihu.com/question/12005197517",
