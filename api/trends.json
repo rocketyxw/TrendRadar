@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-28T01:48:48.528794+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-28T03:54:31.566709+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
-          "url": "https://wallstreetcn.com/livenews/3110214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
           "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
@@ -26,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时54分]"
         },
         {
           "title": "特朗普：可能会与国会商讨暂停征收汽油税一事",
@@ -52,6 +41,30 @@
           "time_info": "01时48分"
         },
         {
+          "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
+          "url": "https://wallstreetcn.com/livenews/3110214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时54分]"
+        },
+        {
+          "title": "特朗普称伊朗“表现得当”后才能拿回资金",
+          "url": "https://wallstreetcn.com/livenews/3110209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时54分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗已经发生政权更迭，因为该国现处于新领导层的治理之下。",
           "url": "https://flash.jin10.com/detail/20260528011859815800",
           "source": "金十数据",
@@ -61,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普称伊朗误判形势，认为他会忌惮战争的政治后果",
+          "url": "https://flash.jin10.com/detail/20260528032334984800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们并不是为了政权而来。",
@@ -74,15 +98,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "特朗普称伊朗“表现得当”后才能拿回资金",
-          "url": "https://wallstreetcn.com/livenews/3110209",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：如果阿曼在海峡问题上站在伊朗一边，将“炸掉”阿曼",
+          "url": "https://flash.jin10.com/detail/20260528030457684800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时54分"
         },
         {
           "title": "美国总统特朗普：若《亚伯拉罕协议》无法落实，我不确定是否还要与伊朗达成协议。如果海湾国家不签署《亚伯拉罕协议》，我认为我们就不该和伊朗达成协议。",
@@ -305,6 +329,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "据华尔街日报：特朗普儿童账户应用程序定于周四上线。",
+          "url": "https://flash.jin10.com/detail/20260528021613630800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
           "title": "美国总统特朗普：没有在讨论放松对伊朗的制裁。",
           "url": "https://flash.jin10.com/detail/20260528010230452800",
           "source": "金十数据",
@@ -379,8 +414,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时54分]"
         }
       ]
     }
