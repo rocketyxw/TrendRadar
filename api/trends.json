@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T05:48:18.162922+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-29T07:05:10.143945+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 07时05分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 07时05分]"
         },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 07时05分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 07时05分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -125,7 +125,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -136,7 +136,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -155,7 +155,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
@@ -175,7 +175,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -189,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
+          "url": "https://wallstreetcn.com/livenews/3110968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         }
       ]
     },
@@ -253,7 +264,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         }
@@ -271,8 +282,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 07时05分]"
         }
       ]
     }
