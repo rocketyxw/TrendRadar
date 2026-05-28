@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T03:31:36.569700+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-05-29T05:48:18.162922+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 03时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 05时48分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 03时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 05时48分]"
         },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 03时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 05时48分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 03时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 05时48分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -70,7 +70,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -103,7 +103,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -114,9 +114,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3110932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
+          "url": "https://flash.jin10.com/detail/20260529042337161800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "美国财长贝森特：（关于达成协议的报道）团队一直在进行反复沟通，特朗普总统已经明确表示他有几条红线……他不会接受糟糕的交易。",
@@ -125,9 +147,48 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
+          "url": "https://wallstreetcn.com/livenews/3110860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片",
+          "url": "https://wallstreetcn.com/livenews/3110939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
+          "url": "https://flash.jin10.com/detail/20260529001147406800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     },
@@ -153,7 +214,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -164,37 +225,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "汽车",
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://wallstreetcn.com/livenews/3110860",
+          "title": "美墨启动正式贸易谈判，就汽车本土含量规则展开博弈",
+          "url": "https://wallstreetcn.com/livenews/3110887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "03时31分"
         },
         {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://flash.jin10.com/detail/20260529001147406800",
-          "source": "金十数据",
+          "title": "周四（5月28日），彭博电动汽车价格回报指数涨1.11%，报4030.95点。 亚太午盘出现一波V形反转行情——北京时间13:03刷新日低至3956.62点，日内大部分时间交投于4010点附近。",
+          "url": "https://wallstreetcn.com/livenews/3110926",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "05时48分"
         }
       ]
     },
@@ -210,25 +271,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 03时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美墨启动正式贸易谈判，就汽车本土含量规则展开博弈",
-          "url": "https://wallstreetcn.com/livenews/3110887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 05时48分]"
         }
       ]
     }
