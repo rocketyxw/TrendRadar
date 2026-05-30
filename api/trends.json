@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T22:57:37.851074+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-05-30T23:59:18.765374+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -17,8 +17,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时01分 ~ 22时57分]"
+          "appearance_count": 12,
+          "time_info": "[07时01分 ~ 23时59分]"
+        },
+        {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时38分 ~ 23时59分]"
         },
         {
           "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
@@ -44,20 +58,6 @@
           "time_info": "[16时11分 ~ 19时59分]"
         },
         {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时38分 ~ 22时57分]"
-        },
-        {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
           "url": "https://www.zhihu.com/question/2043956365022814533",
           "source": "知乎",
@@ -67,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时11分 ~ 22时57分]"
+          "appearance_count": 9,
+          "time_info": "[16时11分 ~ 23时59分]"
         },
         {
           "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
@@ -180,8 +180,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时59分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -192,8 +192,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时57分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时59分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-30）",
@@ -206,6 +206,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时59分 ~ 21时22分]"
+        },
+        {
+          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时59分]"
         },
         {
           "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
@@ -340,6 +352,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33270121",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "白宫备忘录显示，2026年5月26日，美国总统特朗普进行了年度体检。",
           "url": "https://flash.jin10.com/detail/20260530110559864800",
           "source": "金十数据",
@@ -393,17 +416,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
         },
         {
           "title": "美防长：特朗普对美伊谈判很有耐心，“达成任何交易都划算”",
@@ -595,8 +607,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时59分]"
         },
         {
           "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
