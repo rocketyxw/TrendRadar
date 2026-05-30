@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T13:38:37.282715+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-05-30T16:12:15.385625+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -17,8 +17,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 16时12分]"
+        },
+        {
+          "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
+          "url": "https://news.ifeng.com/c/8tXUU39QqQh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时01分 ~ 13时38分]"
+          "time_info": "[13时38分 ~ 16时12分]"
+        },
+        {
+          "title": "特朗普力挺橄榄球运动员：他长得真帅，真希望我也能长这样",
+          "url": "https://v.ifeng.com/c/8tXkQpz5ynL",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
@@ -30,17 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
-          "url": "https://news.ifeng.com/c/8tXUU39QqQh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普明确寻求霍尔木兹海峡的自由开放通行。",
@@ -132,6 +143,28 @@
           "time_info": "[07时01分 ~ 09时47分]"
         },
         {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时12分]"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
+        },
+        {
           "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
           "url": "https://flash.jin10.com/detail/20260530033635502800",
           "source": "金十数据",
@@ -141,6 +174,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普名字被判从肯尼迪中心移除",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8D%E5%AD%97%E8%A2%AB%E5%88%A4%E4%BB%8E%E8%82%AF%E5%B0%BC%E8%BF%AA%E4%B8%AD%E5%BF%83%E7%A7%BB%E9%99%A4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "美媒：特朗普未就与伊朗达成任何新协议做出决定",
@@ -163,17 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         },
         {
           "title": "【伊朗消息人士指责特朗普歪曲和回避协议内容】金十数据5月29日讯，据伊朗媒体Fars News：知情人士驳斥了特朗普关于可能与伊朗达成协议的最新说法，称其言论“真假参半”，旨在炮制一场虚假的胜利。如今几乎所有人都已看清，特朗普的这些说法根本站不住脚。据相关报道，这份以“对等承诺”形式起草的协议文本，目前正处于伊朗国内批准程序的最后阶段，尚未做出最终决定。与此形成鲜明对比的是，特朗普却抛出了一些与协议文本条款相悖的议题。与此同时，他却宣称将立即解除封锁。 特朗普对协议核心内容的歪曲包括：1.特朗普声称，伊朗有义务在不收取任何费用的前提下开放霍尔木兹海峡；然而，协议文本中根本不存在此类条款。2.特朗普声称，伊朗将拆除或销毁其核材料。知情人士强调指出，不仅谅解备忘录中毫无此类内容，特朗普的这一说法更是彻头彻尾的无稽之谈。 特朗普刻意回避的协议关键条款：1.特朗普只字未提、却至关重要的一项内容，即关于立即解冻并向伊朗支付120亿美元被冻结资产的先决条件。2.黎巴嫩停火。3.伊朗官员亦强调，最终协议将以伊朗伊斯兰共和国的原则与“红线”为基础。",
@@ -237,7 +270,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -248,7 +281,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -270,7 +303,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -347,7 +380,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -450,7 +483,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
