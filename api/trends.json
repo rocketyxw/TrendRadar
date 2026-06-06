@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T06:51:59.199083+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-06-07T07:54:15.817439+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 07时54分]"
         },
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -52,8 +52,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时08分 ~ 06时51分]"
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 07时54分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 03时01分]"
+        },
+        {
+          "title": "伊朗开价240亿美元，这可要了特朗普的命",
+          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
         },
         {
           "title": "伊朗高官：谈判主动权在特朗普手里",
@@ -112,11 +123,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时51分]"
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 07时54分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -127,8 +139,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时51分]"
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 07时54分]"
         }
       ]
     },
@@ -145,8 +157,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 07时54分]"
         },
         {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
@@ -155,9 +167,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时54分]"
         }
       ]
     },
@@ -172,11 +184,12 @@
           "ranks": [
             26,
             8,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时54分]"
         }
       ]
     }
