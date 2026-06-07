@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T06:52:43.092411+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-06-08T07:55:51.091635+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普力压内塔尼亚胡：美伊协议“我说了算”，他必须接受",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡将“别无选择”，只能接受与伊朗的协议。 我说了算。所有事都是我说了算。他（内塔尼亚胡）说了不算。 伊朗（对以色列）的袭击并没有改变我达成美伊谈判的愿望。 （当被问及如果这样一份协议因“自身缺陷”而失败会发生什么时，特朗普表示）会考虑对伊朗进行特种部队突袭。（英国金融时报）",
@@ -25,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -353,19 +364,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         }
       ]
     },
@@ -382,8 +394,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时55分]"
         }
       ]
     }
