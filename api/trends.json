@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-08T07:55:51.091635+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-06-08T10:08:45.713478+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时08分]"
+        },
         {
           "title": "特朗普力压内塔尼亚胡：美伊协议“我说了算”，他必须接受",
           "url": "https://flash.jin10.com/detail/20260608061944614800",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
-        },
-        {
-          "title": "特朗普：我说了算，以色列总理别无选择",
-          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡将“别无选择”，只能接受与伊朗的协议。 我说了算。所有事都是我说了算。他（内塔尼亚胡）说了不算。 伊朗（对以色列）的袭击并没有改变我达成美伊谈判的愿望。 （当被问及如果这样一份协议因“自身缺陷”而失败会发生什么时，特朗普表示）会考虑对伊朗进行特种部队突袭。（英国金融时报）",
@@ -216,6 +216,17 @@
           "time_info": "[05时56分 ~ 06时52分]"
         },
         {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "以色列广播公司：特朗普政府的一个法律代表团抵达以色列，将与内塔尼亚胡、国防部长卡茨和外长萨阿尔会面。",
           "url": "https://flash.jin10.com/detail/20260608012956597800",
           "source": "金十数据",
@@ -351,7 +362,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -361,11 +372,12 @@
             8,
             5,
             3,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 10时08分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -373,11 +385,34 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 10时08分]"
+        },
+        {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "ChatGPT将迎最大改版",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B0%86%E8%BF%8E%E6%9C%80%E5%A4%A7%E6%94%B9%E7%89%88&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     },
@@ -396,6 +431,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "飞行汽车来了 有望拉动10万亿级市场",
+          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E6%9C%89%E6%9C%9B%E6%8B%89%E5%8A%A810%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%B8%82%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     }
