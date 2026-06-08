@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T15:19:40.024167+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-06-08T20:19:55.999543+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 20时19分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡将“别无选择”，只能接受与伊朗的协议。 我说了算。所有事都是我说了算。他（内塔尼亚胡）说了不算。 伊朗（对以色列）的袭击并没有改变我达成美伊谈判的愿望。 （当被问及如果这样一份协议因“自身缺陷”而失败会发生什么时，特朗普表示）会考虑对伊朗进行特种部队突袭。（英国金融时报）",
@@ -96,18 +108,6 @@
           "time_info": "06时52分"
         },
         {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 15时19分]"
-        },
-        {
           "title": "据阿拉伯卫星电视台：内塔尼亚胡与特朗普的通话持续了20分钟。",
           "url": "https://flash.jin10.com/detail/20260608054713959800",
           "source": "金十数据",
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 04时05分]"
+        },
+        {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 20时19分]"
         },
         {
           "title": "据沙特媒体哈达斯：特朗普与内塔尼亚胡通话结束。",
@@ -166,6 +177,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时52分]"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 20时19分]"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -228,15 +251,26 @@
           "time_info": "[05时56分 ~ 06时52分]"
         },
         {
-          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
-          "url": "https://wallstreetcn.com/articles/3774055",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "20时19分"
         },
         {
           "title": "以色列广播公司：特朗普政府的一个法律代表团抵达以色列，将与内塔尼亚胡、国防部长卡茨和外长萨阿尔会面。",
@@ -250,6 +284,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "据以色列i24新闻台：内塔尼亚胡与特朗普今天进行了通话，随后特朗普在社交平台发帖称伊以双方都希望停火。",
+          "url": "https://flash.jin10.com/detail/20260608200408843800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普已听取关于以伊局势升级的简报。",
           "url": "https://flash.jin10.com/detail/20260608032901741800",
           "source": "金十数据",
@@ -261,13 +306,24 @@
           "time_info": "04时05分"
         },
         {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "阿尔巴尼亚民众集会，反对政府批准特朗普女婿开发度假村",
           "url": "https://news.ifeng.com/c/8tmri3lweAi",
           "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -278,9 +334,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "中东冲突愈演愈烈！不顾特朗普反对 以色列攻击伊朗境内目标",
+          "url": "https://www.cls.cn/detail/2393222",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "据Axios援引美国官员及两名知情人士：以色列在对贝鲁特南郊发动空袭前已通报特朗普政府。",
@@ -303,17 +370,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "特朗普称美伊达成协议前不会解冻伊朗资产",
@@ -472,7 +528,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -483,7 +539,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -505,7 +561,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
@@ -513,7 +569,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -535,9 +591,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "苹果AI告急 库克押注谷歌Gemini救场",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI%E5%91%8A%E6%80%A5+%E5%BA%93%E5%85%8B%E6%8A%BC%E6%B3%A8%E8%B0%B7%E6%AD%8CGemini%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     },
@@ -552,7 +619,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
