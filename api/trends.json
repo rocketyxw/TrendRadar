@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T18:46:02.361593+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-06-10T22:13:33.589501+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
@@ -50,11 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 22时13分]"
         },
         {
           "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
@@ -137,6 +138,28 @@
           "time_info": "[09时57分 ~ 14时13分]"
         },
         {
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 22时13分]"
+        },
+        {
+          "title": "大水冲了龙王庙？摩门教共和党人电话轰炸特朗普",
+          "url": "https://news.ifeng.com/c/8tqTXvDvrTe",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普指示美军打击伊朗 伊外长发警告",
           "url": "https://www.toutiao.com/trending/7649536140243897906/",
           "source": "今日头条",
@@ -147,28 +170,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 14时13分]"
-        },
-        {
-          "title": "美贸易法院：特朗普，快退钱！",
-          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "大水冲了龙王庙？摩门教共和党人电话轰炸特朗普",
-          "url": "https://news.ifeng.com/c/8tqTXvDvrTe",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "特朗普嘴硬难掩局势失控",
@@ -193,6 +194,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "花旗美股盘初涨幅扩大至1%，特朗普称赞花旗首席执行官Jane Fraser。",
+          "url": "https://wallstreetcn.com/livenews/3117543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
           "url": "https://flash.jin10.com/detail/20260610062852689800",
           "source": "金十数据",
@@ -215,6 +227,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "报道：美军报复性打击后，特朗普仍认为美伊接近达成和平协议",
           "url": "https://wallstreetcn.com/livenews/3117052",
           "source": "华尔街见闻-快讯",
@@ -224,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "特朗普将下令打击伊朗发电厂和桥梁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%B5%E5%8E%82%E5%92%8C%E6%A1%A5%E6%A2%81%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "WTI原油在亚太盘初一度涨1.8%，目前涨1.5%，暂报89.57美元/桶。 美国股指期货（标普、纳指、道指、罗素2000）至多跌0.3%，比特币跌超0.7%。 美军在美股收盘之后称发动打击报复。此前，特朗普在纽约中午称必须回应伊朗击落美直升机。",
@@ -287,7 +321,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -298,7 +332,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -312,6 +346,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
+          "url": "https://www.cls.cn/detail/2395125",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 07时07分]"
+        },
+        {
+          "title": "5月我国汽车出口量同比增长68.7%",
+          "url": "https://www.toutiao.com/trending/7649650397719760410/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "5月新能源汽车产销量同比增长",
+          "url": "https://www.douyin.com/hot/2530030",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "昆明多辆汽车被故意抛撒的带刺铁钉扎破轮胎，警方抓获14人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33348874",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 22时13分]"
+        },
+        {
+          "title": "阿维塔回应某品牌名称设计上与其相似：中国汽车不能走复制粘贴之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33341675",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
+        },
+        {
+          "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
+          "url": "https://wallstreetcn.com/livenews/3117027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "小米 SU7 电吸门夹伤女子致骨折，官方确认无防夹功能，汽车电吸门技术应如何平衡便利与安全？",
+          "url": "https://www.zhihu.com/question/2046860767601997436",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "周二（6月9日），彭博电动汽车价格回报指数涨0.20%，报3716.05点。 整体呈现出几字形走势，亚太早盘短暂地跌穿3700点关口，随后走高，北京时间14:27-20:09交投于3760点附近-21:49刷新日高至3774.62点，随后快速下跌，00:40刷新日低至3693.01点。",
+          "url": "https://wallstreetcn.com/livenews/3117011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     },
@@ -385,67 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
-          "url": "https://www.cls.cn/detail/2395125",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 07时07分]"
-        },
-        {
-          "title": "昆明多辆汽车被故意抛撒的带刺铁钉扎破轮胎，警方抓获14人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33348874",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "阿维塔回应某品牌名称设计上与其相似：中国汽车不能走复制粘贴之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33341675",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
-        },
-        {
-          "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
-          "url": "https://wallstreetcn.com/livenews/3117027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "周二（6月9日），彭博电动汽车价格回报指数涨0.20%，报3716.05点。 整体呈现出几字形走势，亚太早盘短暂地跌穿3700点关口，随后走高，北京时间14:27-20:09交投于3760点附近-21:49刷新日高至3774.62点，随后快速下跌，00:40刷新日低至3693.01点。",
-          "url": "https://wallstreetcn.com/livenews/3117011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
         }
       ]
     },
