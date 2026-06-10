@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T14:13:08.600767+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-06-10T18:46:02.361593+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 09时57分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 18时46分]"
         },
         {
           "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
@@ -90,18 +102,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 14时13分]"
-        },
-        {
           "title": "特朗普称伊朗击落美军阿帕奇直升机、美方将作出回应",
           "url": "https://flash.jin10.com/detail/20260610004004491800",
           "source": "金十数据",
@@ -147,6 +147,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 14时13分]"
+        },
+        {
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "大水冲了龙王庙？摩门教共和党人电话轰炸特朗普",
+          "url": "https://news.ifeng.com/c/8tqTXvDvrTe",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "特朗普嘴硬难掩局势失控",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%98%B4%E7%A1%AC%E9%9A%BE%E6%8E%A9%E5%B1%80%E5%8A%BF%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
@@ -248,6 +281,28 @@
           "time_info": "07时07分"
         },
         {
+          "title": "根据路透社/益普索调查，约五分之一的共和党人认为特朗普政府在爱泼斯坦案件中帮助实现了正义。",
+          "url": "https://flash.jin10.com/detail/20260610180104588800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "根据路透社/益普索的调查，仅有10%的美国人表示特朗普政府在爱泼斯坦案件中帮助实现了正义。",
+          "url": "https://flash.jin10.com/detail/20260610180025232800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
           "url": "https://flash.jin10.com/detail/20260610055143921800",
           "source": "金十数据",
@@ -335,7 +390,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
@@ -347,6 +402,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 07时07分]"
+        },
+        {
+          "title": "昆明多辆汽车被故意抛撒的带刺铁钉扎破轮胎，警方抓获14人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33348874",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "阿维塔回应某品牌名称设计上与其相似：中国汽车不能走复制粘贴之路",
