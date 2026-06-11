@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T08:06:23.107497+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-06-11T13:17:33.807016+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -25,11 +25,23 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普公开了一个秘密，全世界都有点懵",
+          "url": "https://news.ifeng.com/c/8tos3hBXZVW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "以色列消息人士称内塔尼亚胡与特朗普保持密切沟通",
@@ -41,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美媒：如今特朗普最头痛的是这件事",
+          "url": "https://news.ifeng.com/c/8trayef73Wv",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "特朗普称美“秘密”帮助200多艘商船通过霍尔木兹",
@@ -63,6 +86,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
+          "url": "https://www.cls.cn/detail/2396641",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "特朗普透露生日愿望",
+          "url": "https://news.ifeng.com/c/8trjoJ9cLMY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
@@ -119,7 +164,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -130,7 +175,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -152,7 +197,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -163,7 +208,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -174,7 +219,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -185,7 +230,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -196,7 +241,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -207,7 +252,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -218,7 +263,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -240,7 +285,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -251,7 +296,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -262,7 +307,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -284,7 +329,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -435,7 +480,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "5月我国汽车出口量同比增长68.7%",
@@ -460,6 +505,18 @@
           "time_info": "[01时47分 ~ 08时06分]"
         },
         {
+          "title": "昆明多辆汽车被故意抛撒的带刺铁钉扎破轮胎，警方抓获14人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33348874",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 13时17分]"
+        },
+        {
           "title": "小米 SU7 电吸门夹伤女子致骨折，官方确认无防夹功能，汽车电吸门技术应如何平衡便利与安全？",
           "url": "https://www.zhihu.com/question/2046860767601997436",
           "source": "知乎",
@@ -473,16 +530,26 @@
           "time_info": "[01时47分 ~ 08时06分]"
         },
         {
-          "title": "昆明多辆汽车被故意抛撒的带刺铁钉扎破轮胎，警方抓获14人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33348874",
-          "source": "澎湃新闻",
+          "title": "5月汽车出口延续快速增长态势",
+          "url": "https://www.douyin.com/hot/2530408",
+          "source": "抖音",
           "ranks": [
-            6,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "高考结束爸爸给儿子买汽车",
+          "url": "https://www.toutiao.com/trending/7649430080866942982/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "通用汽车(GM.N)电池业务负责人库尔特·凯尔蒂表示，公司未来的电动汽车产品可能不会采用低成本磷酸铁锂电池。田纳西州工厂将于本月开始生产用于储能系统的磷酸铁锂电池，而非用于电动汽车的磷酸铁锂电池。",
@@ -494,12 +561,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "中国汽车动力电池产业创新联盟：5月我国动力和储能电池销量同比增长47.4%",
+          "url": "https://wallstreetcn.com/livenews/3117891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI客户的Codex进行合作。",
@@ -524,6 +602,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
           "url": "https://wallstreetcn.com/livenews/3117653",
           "source": "华尔街见闻-快讯",
@@ -541,7 +630,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
