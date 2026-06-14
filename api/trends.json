@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T04:56:31.245458+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-06-15T06:01:56.894375+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
+        },
+        {
+          "title": "特朗普宣布美伊达成和平协议",
+          "url": "https://www.toutiao.com/trending/7651023832815255590/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "不满以色列空袭贝鲁特，特朗普指责内塔尼亚胡“缺乏理智”",
@@ -24,33 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时56分]"
-        },
-        {
-          "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
-          "url": "https://flash.jin10.com/detail/20260615043754149800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗永远不会拥有核武器，霍尔木兹海峡很快将重新开放商业活动！",
-          "url": "https://flash.jin10.com/detail/20260615043701037800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 06时01分]"
         },
         {
           "title": "俄总统助理：特朗普告知俄方美伊谈判取得可接受结果",
@@ -64,39 +54,15 @@
           "time_info": "01时05分"
         },
         {
-          "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行电话会谈。",
-          "url": "https://flash.jin10.com/detail/20260615043539835800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
-          "url": "https://flash.jin10.com/detail/20260615042413227800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "俄总统助理：特朗普与普京通话，美伊谈判结果将公布",
-          "url": "https://wallstreetcn.com/livenews/3119264",
+          "title": "特朗普：霍尔木兹海峡完全开放，美国海军立即解除相关封锁",
+          "url": "https://wallstreetcn.com/livenews/3119283",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            8,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
@@ -106,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
         },
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -118,8 +84,33 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
+        },
+        {
+          "title": "特朗普称即将确认与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3119280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "俄总统助理：特朗普与普京通话，美伊谈判结果将公布",
+          "url": "https://wallstreetcn.com/livenews/3119264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            9,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时56分]"
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
@@ -129,8 +120,56 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
+        },
+        {
+          "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
+          "url": "https://flash.jin10.com/detail/20260615043754149800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时01分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器，霍尔木兹海峡很快将重新开放商业活动！",
+          "url": "https://flash.jin10.com/detail/20260615043701037800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时01分]"
+        },
+        {
+          "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260615043539835800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时01分]"
+        },
+        {
+          "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
+          "url": "https://flash.jin10.com/detail/20260615042413227800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时01分]"
         },
         {
           "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
@@ -139,11 +178,12 @@
           "ranks": [
             10,
             14,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "特朗普在生日当天与普京和泽连斯基通话：告知俄方美伊谈判取得可接受结果",
@@ -151,11 +191,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 06时01分]"
+        },
+        {
+          "title": "泽连斯基与特朗普通话讨论实现乌和平的举措",
+          "url": "https://flash.jin10.com/detail/20260615035634239800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时56分]"
+          "time_info": "[04时56分 ~ 06时01分]"
+        },
+        {
+          "title": "以方消息人士：内塔尼亚胡寻求在G7后紧急会晤特朗普",
+          "url": "https://flash.jin10.com/detail/20260615035535780800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时01分]"
         },
         {
           "title": "特朗普称美伊协议计划14日签署",
@@ -202,6 +267,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "特朗普：伊朗协议已达成 海峡开放、封锁解除",
+          "url": "https://flash.jin10.com/detail/20260615053218369800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "据以色列媒体报道，以色列评估认为，尽管特朗普试图遏制伊朗的反应，但伊朗仍将发动攻击。",
           "url": "https://flash.jin10.com/detail/20260615021407670800",
           "source": "金十数据",
@@ -211,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗的协议现已完成。",
+          "url": "https://flash.jin10.com/detail/20260615053037528800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普告诉俄罗斯总统普京，美国总统特使威特科夫和特朗普女婿库什纳将很快前往俄罗斯。",
@@ -257,26 +344,15 @@
           "time_info": "01时05分"
         },
         {
-          "title": "泽连斯基与特朗普通话讨论实现乌和平的举措",
-          "url": "https://flash.jin10.com/detail/20260615035634239800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "以方消息人士：内塔尼亚胡寻求在G7后紧急会晤特朗普",
-          "url": "https://flash.jin10.com/detail/20260615035535780800",
+          "title": "特朗普称计划立即宣布美伊协议达成",
+          "url": "https://flash.jin10.com/detail/20260615051517741800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "06时01分"
         },
         {
           "title": "特朗普怒批内塔尼亚胡：黎巴嫩突袭“毫无判断力”，差点搞砸伊核协议签署",
@@ -307,7 +383,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -329,7 +405,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -380,8 +456,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
         }
       ]
     },
@@ -397,8 +473,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
         }
       ]
     }
