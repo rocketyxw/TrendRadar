@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T16:44:13.376863+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-06-15T22:51:40.000442+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 16时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 22时51分]"
         },
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -124,6 +124,28 @@
           "time_info": "01时05分"
         },
         {
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "俄总统助理：特朗普与普京通话，美伊谈判结果将公布",
           "url": "https://wallstreetcn.com/livenews/3119264",
           "source": "华尔街见闻-快讯",
@@ -184,6 +206,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时01分]"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 22时51分]"
         },
         {
           "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
@@ -259,16 +294,15 @@
           "time_info": "[03时03分 ~ 06时01分]"
         },
         {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            9
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时11分 ~ 16时44分]"
+          "time_info": "[16时43分 ~ 22时51分]"
         },
         {
           "title": "泽连斯基与特朗普通话讨论实现乌和平的举措",
@@ -293,17 +327,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时01分]"
-        },
-        {
-          "title": "特朗普批评以色列“干扰”美伊签署协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "特朗普称美伊协议计划14日签署",
@@ -543,7 +566,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -592,6 +615,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "据CNN：特朗普抵达欧洲参加七国集团峰会。",
+          "url": "https://flash.jin10.com/detail/20260615220852313800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "据以色列第13频道：以方评估认为，特朗普旨在阻止伊朗发动打击的努力将取得成功。",
           "url": "https://flash.jin10.com/detail/20260615013436769800",
           "source": "金十数据",
@@ -601,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "参议员沃伦致信美国总统特朗普，质询政府是否计划上调社保法定退休年龄",
+          "url": "https://wallstreetcn.com/livenews/3119744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "特朗普称美伊协议完成",
@@ -617,7 +662,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "汽车整车股早盘拉升，众泰汽车、汉马科技双双涨停，金龙汽车、海马汽车、曙光股份、福田汽车、中国重汽涨超5%。",
@@ -651,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "黎巴嫩安全消息人士及官方媒体称，以色列无人机袭击黎巴嫩南部一辆汽车，导致司机丧生。",
+          "url": "https://flash.jin10.com/detail/20260615221814669800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
