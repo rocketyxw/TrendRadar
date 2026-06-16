@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-16T07:27:59.482476+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-06-16T10:15:24.568764+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 10时15分]"
+        },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
@@ -25,17 +37,6 @@
           "ranks": [
             5,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 07时27分]"
-        },
-        {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -86,6 +87,18 @@
           "time_info": "[02时58分 ~ 05时40分]"
         },
         {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 10时15分]"
+        },
+        {
           "title": "美国加州州长Newsom：总统特朗普命令司法部调查我和我的妻子，但他们并没有找到犯罪（证据）。 特朗普针对我，是因为我考虑竞选总统。",
           "url": "https://wallstreetcn.com/livenews/3119831",
           "source": "华尔街见闻-快讯",
@@ -125,7 +138,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -136,9 +149,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
+          "url": "https://www.cls.cn/detail/2400664",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "美国加州州长纽森：美国总统特朗普已指示司法部对我进行调查。",
@@ -172,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
-        },
-        {
-          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         },
         {
           "title": "美加州州长称特朗普指示司法部对其展开调查",
@@ -286,6 +299,34 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周一（6月15日），彭博电动汽车价格回报指数涨1.88%，报3859.15点。 指数在亚太早盘显著上涨，日内过半时间交投于3850点上方，北京时间21:30刷新日高至3878.04点。 成分股中，印尼安塔姆矿业收涨9.82%，淡水河谷印尼公司涨7.75%，中创新航科技集团H股涨6.82%，Panasonic株式会社涨5.53%，智利化工矿业公司（SQM）则跌1.79%，小鹏集团H股跌3.47%，Ola Electric Mobility Ltd.跌3.54%。",
+          "url": "https://wallstreetcn.com/livenews/3119869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "理想汽车推出动态数据流AI芯片马赫M100 构建完整具身智能系统",
+          "url": "https://flash.jin10.com/detail/20260616095450153800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -299,23 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（6月15日），彭博电动汽车价格回报指数涨1.88%，报3859.15点。 指数在亚太早盘显著上涨，日内过半时间交投于3850点上方，北京时间21:30刷新日高至3878.04点。 成分股中，印尼安塔姆矿业收涨9.82%，淡水河谷印尼公司涨7.75%，中创新航科技集团H股涨6.82%，Panasonic株式会社涨5.53%，智利化工矿业公司（SQM）则跌1.79%，小鹏集团H股跌3.47%，Ola Electric Mobility Ltd.跌3.54%。",
-          "url": "https://wallstreetcn.com/livenews/3119869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
         }
       ]
     }
