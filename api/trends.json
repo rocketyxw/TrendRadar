@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-18T07:17:10.303285+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-06-18T10:08:56.279839+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
+          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 10时08分]"
+        },
         {
           "title": "美国总统特朗普感谢巴基斯坦和卡塔尔在达成协议方面的协助。",
           "url": "https://flash.jin10.com/detail/20260618002537588800",
@@ -17,6 +28,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 10时08分]"
+        },
+        {
+          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 10时08分]"
         },
         {
           "title": "美国总统特朗普：将讨论弹道导弹和恐怖主义代理人问题。",
@@ -85,6 +122,17 @@
           "time_info": "[00时32分 ~ 07时17分]"
         },
         {
+          "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
+          "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "美国总统特朗普：与海湾国家讨论非核问题。",
           "url": "https://flash.jin10.com/detail/20260618002341090800",
           "source": "金十数据",
@@ -94,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
-          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 07时17分]"
         },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
@@ -162,30 +199,6 @@
           "time_info": "[00时32分 ~ 07时17分]"
         },
         {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 07时17分]"
-        },
-        {
-          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 07时17分]"
-        },
-        {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
           "url": "https://www.cls.cn/detail/2402714",
           "source": "财联社热门",
@@ -210,6 +223,17 @@
           "time_info": "[00时32分 ~ 05时49分]"
         },
         {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "美国总统特朗普：霍尔木兹海峡的海上交通显著增加。海峡的能源流动将在未来几天恢复。",
           "url": "https://flash.jin10.com/detail/20260618002256528800",
           "source": "金十数据",
@@ -232,6 +256,28 @@
           "time_info": "00时32分"
         },
         {
+          "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
+          "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "特朗普在G7记者会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "美国总统特朗普：在资金和投资方面，我们不会给伊朗任何东西。",
           "url": "https://flash.jin10.com/detail/20260618002136446800",
           "source": "金十数据",
@@ -252,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普G7峰会迟到，还宣布“我是老大”",
+          "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "美国总统特朗普：关于核库存的技术性讨论将会立即开始。",
@@ -337,9 +394,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美伊14点协议全文逐条解读！全面解除制裁、3000亿重建，特朗普这回下了血本",
+          "url": "https://flash.jin10.com/detail/20260618094333327800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "美国总统特朗普重申与伊朗的协议将让霍尔木兹海峡重新开放。",
@@ -425,7 +493,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -505,6 +573,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "DeepSeek获510亿融资 投资方公布",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%8E%B7510%E4%BA%BF%E8%9E%8D%E8%B5%84+%E6%8A%95%E8%B5%84%E6%96%B9%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     },
