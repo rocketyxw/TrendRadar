@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T01:11:57.141534+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-21T03:04:29.080534+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普：今年将再次访问中国",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时04分]"
         },
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
           "url": "https://wallstreetcn.com/articles/3775098",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时04分]"
         },
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时04分]"
         },
         {
           "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
@@ -48,19 +49,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时04分]"
         },
         {
-          "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
-          "url": "https://flash.jin10.com/detail/20260621004843090800",
-          "source": "金十数据",
+          "title": "特朗普高市早苗当众吵起来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E4%BC%97%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
+            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时04分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -70,19 +72,43 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时04分]"
         },
         {
-          "title": "特朗普高市早苗当众吵起来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E4%BC%97%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
+          "url": "https://flash.jin10.com/detail/20260621004843090800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7,
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时04分]"
+        },
+        {
+          "title": "特朗普的“空中行宫”谁买单",
+          "url": "https://www.toutiao.com/trending/7653479351521906217/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时04分]"
+        },
+        {
+          "title": "学者：伊朗效仿特朗普采取“周末战略”",
+          "url": "https://flash.jin10.com/detail/20260621012943584800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时04分"
         },
         {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
@@ -112,17 +138,6 @@
           "source": "金十数据",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "特朗普的“空中行宫”谁买单",
-          "url": "https://www.toutiao.com/trending/7653479351521906217/",
-          "source": "今日头条",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
