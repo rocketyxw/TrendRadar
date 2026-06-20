@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T19:48:43.146819+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-06-20T21:18:48.816641+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -22,6 +22,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 09时58分]"
+        },
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 21时18分]"
         },
         {
           "title": "美国总统特朗普：我要特别致谢250名工作人员，他们不分昼夜赶工，促成这架专机正式投入使用，这当中也包含安德鲁斯联合基地的大量空军官兵。",
@@ -80,18 +95,15 @@
           "time_info": "[04时58分 ~ 07时56分]"
         },
         {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            4,
-            1,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 19时48分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 21时18分]"
         },
         {
           "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
@@ -151,17 +163,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时20分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普：今年将再次访问中国",
-          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 19时48分]"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -290,15 +291,15 @@
           "time_info": "[04时58分 ~ 09时58分]"
         },
         {
-          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
-          "url": "https://wallstreetcn.com/livenews/3122240",
-          "source": "华尔街见闻-快讯",
+          "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
+          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时48分"
+          "time_info": "21时18分"
         },
         {
           "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
@@ -359,6 +360,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时55分 ~ 19时48分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
+          "url": "https://wallstreetcn.com/livenews/3122240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时18分]"
         },
         {
           "title": "美国总统特朗普：与以色列关系良好。内塔尼亚胡是一位战士。",
@@ -449,6 +462,17 @@
           "time_info": "[04时58分 ~ 07时56分]"
         },
         {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 21时18分]"
+        },
+        {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3122151",
           "source": "华尔街见闻-快讯",
@@ -473,17 +497,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时59分]"
-        },
-        {
-          "title": "特朗普坚称伊朗无条件投降了",
-          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 19时48分]"
         },
         {
           "title": "特朗普“剧透”，意大利怒了",
@@ -520,6 +533,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "据福克斯新闻：美国副总统万斯表示美国总统特使威特科夫和特朗普女婿库什纳已抵达与伊朗的谈判现场，谈判可能在周日举行。",
+          "url": "https://flash.jin10.com/detail/20260620210824596800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "特朗普：“我是老大”的言论只是在开玩笑 没想到传遍全世界",
           "url": "https://flash.jin10.com/detail/20260620024147988800",
           "source": "金十数据",
@@ -537,9 +561,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "特朗普乘新专机亮相",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E6%96%B0%E4%B8%93%E6%9C%BA%E4%BA%AE%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
@@ -581,9 +616,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "美国总统特朗普：不要将Anthropic视为国家安全威胁。",
@@ -619,6 +665,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "特朗普：伊朗已被打垮 民主党是一帮“蠢货”",
+          "url": "https://flash.jin10.com/detail/20260620195852892800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "特朗普在摇摆州支持率大跌",
           "url": "https://www.toutiao.com/trending/7652819170371420203/",
           "source": "今日头条",
@@ -650,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "特朗普再嘲意大利总理：跟美国唱反调后又想套近乎，没门！",
+          "url": "https://flash.jin10.com/detail/20260620195418928800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "特朗普为何称俄乌冲突与美“无关”",
@@ -721,7 +789,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -806,9 +874,26 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时48分"
+          "time_info": "21时18分"
         }
       ]
     },
