@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T17:55:40.432921+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-06-20T19:48:43.146819+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -80,6 +80,20 @@
           "time_info": "[04时58分 ~ 07时56分]"
         },
         {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 19时48分]"
+        },
+        {
           "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
           "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
           "source": "凤凰网",
@@ -139,6 +153,17 @@
           "time_info": "[03时20分 ~ 07时56分]"
         },
         {
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时48分]"
+        },
+        {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3122171",
           "source": "华尔街见闻-快讯",
@@ -169,19 +194,6 @@
           "time_info": "[06时51分 ~ 14时12分]"
         },
         {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 17时55分]"
-        },
-        {
           "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
           "url": "https://wallstreetcn.com/livenews/3122194",
           "source": "华尔街见闻-快讯",
@@ -208,17 +220,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时51分 ~ 14时12分]"
-        },
-        {
-          "title": "特朗普：今年将再次访问中国",
-          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -289,15 +290,15 @@
           "time_info": "[04时58分 ~ 09时58分]"
         },
         {
-          "title": "意外长取消访美：特朗普冒犯了意大利",
-          "url": "https://www.toutiao.com/trending/7653072490532556324/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
+          "url": "https://wallstreetcn.com/livenews/3122240",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "19时48分"
         },
         {
           "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
@@ -346,6 +347,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时58分 ~ 07时56分]"
+        },
+        {
+          "title": "意外长取消访美：特朗普冒犯了意大利",
+          "url": "https://www.toutiao.com/trending/7653072490532556324/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时48分]"
         },
         {
           "title": "美国总统特朗普：与以色列关系良好。内塔尼亚胡是一位战士。",
@@ -462,6 +475,28 @@
           "time_info": "[03时20分 ~ 05时59分]"
         },
         {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时48分]"
+        },
+        {
+          "title": "特朗普“剧透”，意大利怒了",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时48分]"
+        },
+        {
           "title": "因特朗普言论 意大利副总理取消访美",
           "url": "https://wallstreetcn.com/livenews/3122210",
           "source": "华尔街见闻-快讯",
@@ -485,28 +520,6 @@
           "time_info": "09时58分"
         },
         {
-          "title": "特朗普坚称伊朗无条件投降了",
-          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "特朗普“剧透”，意大利怒了",
-          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "特朗普：“我是老大”的言论只是在开玩笑 没想到传遍全世界",
           "url": "https://flash.jin10.com/detail/20260620024147988800",
           "source": "金十数据",
@@ -516,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
+          "url": "https://flash.jin10.com/detail/20260620190142057800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
@@ -549,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-20）",
+          "url": "https://flash.jin10.com/detail/20260620184815728800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "美国总统特朗普：不要将Anthropic视为国家安全威胁。",
@@ -590,7 +625,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -631,7 +666,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "占比超八成！香港国产电动汽车市场“一车难求”",
@@ -675,9 +710,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "欧盟又谋划对中国车下黑手，这次针对混动汽车",
+          "url": "https://news.ifeng.com/c/8u6V0Fn7LXL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "郑州一汽车用品商城起火2人遇难",
@@ -727,7 +773,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
@@ -752,6 +798,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 04时58分]"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         }
       ]
     },
