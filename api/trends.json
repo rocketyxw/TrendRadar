@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T07:56:46.969549+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-06-21T10:12:03.038429+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 10时12分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -28,6 +28,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时11分 ~ 06时04分]"
+        },
+        {
+          "title": "特朗普：若不能达成协议，美或收取海峡通行费",
+          "url": "https://news.ifeng.com/c/8u6beESPjqG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时12分]"
+        },
+        {
+          "title": "特朗普高市早苗当众吵起来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E4%BC%97%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 10时12分]"
+        },
+        {
+          "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420376",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 10时12分]"
         },
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
@@ -43,44 +82,6 @@
           "time_info": "[01时11分 ~ 05时01分]"
         },
         {
-          "title": "特朗普高市早苗当众吵起来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E4%BC%97%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普：若不能达成协议，美或收取海峡通行费",
-          "url": "https://news.ifeng.com/c/8u6beESPjqG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33420376",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 07时56分]"
-        },
-        {
           "title": "特朗普坚称伊朗无条件投降了",
           "url": "https://news.ifeng.com/c/8u6jGmZtj71",
           "source": "凤凰网",
@@ -88,8 +89,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 10时12分]"
+        },
+        {
+          "title": "意大利总理回击特朗普批评：应关注自身支持率",
+          "url": "https://news.ifeng.com/c/8u6beESPjqF",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时12分]"
         },
         {
           "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
@@ -142,24 +155,13 @@
           "time_info": "[01时11分 ~ 03时04分]"
         },
         {
-          "title": "意大利总理回击特朗普批评：应关注自身支持率",
-          "url": "https://news.ifeng.com/c/8u6beESPjqF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
           "title": "梅洛尼回应特朗普“乞求合影”言论",
           "url": "https://www.douyin.com/hot/2541105",
           "source": "抖音",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -222,8 +224,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
+          "url": "https://www.zhihu.com/question/2050866813181994242",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
           "url": "https://wallstreetcn.com/articles/3775105",
