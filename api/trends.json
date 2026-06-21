@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T21:02:25.642336+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-06-21T23:11:47.942119+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 38,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -43,17 +43,6 @@
           "time_info": "[01时11分 ~ 06时04分]"
         },
         {
-          "title": "特朗普：若不能达成协议，美或收取海峡通行费",
-          "url": "https://news.ifeng.com/c/8u6beESPjqG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时12分]"
-        },
-        {
           "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
           "url": "https://www.cls.cn/detail/2404722",
           "source": "财联社热门",
@@ -63,8 +52,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 23时11分]"
+        },
+        {
+          "title": "特朗普：若不能达成协议，美或收取海峡通行费",
+          "url": "https://news.ifeng.com/c/8u6beESPjqG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时12分]"
         },
         {
           "title": "特朗普高市早苗当众吵起来了",
@@ -107,6 +107,17 @@
           "time_info": "[01时11分 ~ 10时12分]"
         },
         {
+          "title": "特朗普：斯塔默将辞去英国首相职务",
+          "url": "https://wallstreetcn.com/livenews/3122370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "伊朗议会议员诺文：特朗普在战争的叙事中，将失败粉饰为胜利。当今世界已将伊朗视为一个第四极力量和一个新兴大国。",
           "url": "https://flash.jin10.com/detail/20260621150913040800",
           "source": "金十数据",
@@ -116,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "【特朗普就黎巴嫩问题再度威胁伊朗】美国总统特朗普21日在社交媒体上发文称，伊朗必须立即停止在黎巴嫩的“代理人”行动，否则美国将会再次对伊朗发起猛烈打击，“就像上周那样，而且会更猛烈”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3122368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
@@ -131,6 +153,17 @@
           "time_info": "[07时56分 ~ 15时22分]"
         },
         {
+          "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
+          "url": "https://news.ifeng.com/c/8u90rSz0ftO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-21）",
           "url": "https://flash.jin10.com/detail/20260621184020175800",
           "source": "金十数据",
@@ -140,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
+        },
+        {
+          "title": "美国总统特朗普：以色列无法“干掉”（黎巴嫩）真主党，这让我感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3122366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
@@ -153,6 +197,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 07时56分]"
+        },
+        {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 23时11分]"
         },
         {
           "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
@@ -191,17 +246,6 @@
           "time_info": "[21时01分 ~ 21时02分]"
         },
         {
-          "title": "特朗普的新专机，首次亮相",
-          "url": "https://www.cls.cn/detail/2404514",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
           "title": "特朗普的“空中行宫”谁买单",
           "url": "https://www.toutiao.com/trending/7653479351521906217/",
           "source": "今日头条",
@@ -212,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 03时04分]"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗的谅解备忘录（MoU）仅仅是（之前）停火的延长而已。 伊朗必须阻止在黎巴嫩的代理人（给以色列）制造麻烦。 如果代理人没有被阻止，我们（美国与以色列）将再次袭击伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3122364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "梅洛尼回应特朗普“乞求合影”言论",
@@ -225,15 +280,70 @@
           "time_info": "07时56分"
         },
         {
+          "title": "美国总统特朗普：昨天有1900万桶石油流出波斯湾。",
+          "url": "https://wallstreetcn.com/livenews/3122360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美国总统特朗普：Pezeshkian（伊朗总统）要管好自己的嘴。",
+          "url": "https://wallstreetcn.com/livenews/3122359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "特朗普：美国正在蓬勃发展 在各个方面“大获全胜”",
           "url": "https://flash.jin10.com/detail/20260621194301245800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "美国总统特朗普：斯塔默将辞去英国首相职务。他在两个非常重要的议题上表现糟糕，即移民和能源（开放北海石油！）。祝他一切顺利！",
+          "url": "https://flash.jin10.com/detail/20260621215950118800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普对以色列“收拾不了真主党”感到失望。特朗普称考虑授权叙利亚进入黎巴嫩南部地区。",
+          "url": "https://flash.jin10.com/detail/20260621214336991800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
@@ -247,6 +357,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "万斯称特朗普致力于区域全面停火",
+          "url": "https://wallstreetcn.com/livenews/3122356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
           "url": "https://flash.jin10.com/detail/20260621000521186800",
           "source": "金十数据",
@@ -256,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "特朗普威胁伊朗控制真主党 否则将再次发动打击",
+          "url": "https://flash.jin10.com/detail/20260621213111218800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美国总统特朗普：美国移民和海关执法局（ICE）的名称“ICE”应该改成“NICE”。这样一来，就能彻底把那些腐败、不诚实、毫无爱国心的记者和新闻工作者搞得晕头转向。",
@@ -269,6 +401,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
+          "url": "https://wallstreetcn.com/livenews/3122351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "特朗普指责意大利总理“拒绝美国”",
           "url": "https://flash.jin10.com/detail/20260621000056720800",
           "source": "金十数据",
@@ -278,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美媒：特朗普昨夜警告伊朗不要关闭霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260621210602297800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "评论员：特朗普“抗俄保欧”策略生变",
@@ -332,7 +486,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -343,7 +497,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -360,11 +514,12 @@
           "ranks": [
             8,
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 23时11分]"
         }
       ]
     }
