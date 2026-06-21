@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T15:22:00.928024+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-06-21T18:57:19.648985+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -100,7 +100,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -116,6 +116,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时56分 ~ 15时22分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-21）",
+          "url": "https://flash.jin10.com/detail/20260621184020175800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 18时57分]"
         },
         {
           "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
@@ -142,17 +165,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 07时56分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
@@ -284,11 +296,12 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 18时57分]"
         }
       ]
     }
