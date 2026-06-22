@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T08:02:17.444069+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-06-22T14:15:49.506919+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
@@ -53,6 +53,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "美媒称对伊朗开战近四个月几乎没成果，特朗普怒了",
+          "url": "https://news.ifeng.com/c/8uA2kEZD4Zh",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "特朗普炮轰《纽约时报》：谁说4个月战争毫无改变？伊朗已遭重创！",
           "url": "https://flash.jin10.com/detail/20260622050321724800",
           "source": "金十数据",
@@ -62,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
+          "url": "https://wallstreetcn.com/articles/3775145",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "伊朗代表团因抗议特朗普言论而离开谈判会场",
@@ -336,9 +358,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美伊和平又生变数？特朗普威胁言论激怒伊朗 谈判陷入暂停",
+          "url": "https://www.cls.cn/detail/2405074",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "德国国防部长：霍尔木兹海峡关闭责任在特朗普",
@@ -358,7 +402,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -391,9 +435,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普称美国或收取中东地区20%的石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "据伊朗Press TV：伊朗代表团已就特朗普近期的言辞威胁向美方提出抗议，目前正权衡采取适当回应的各项选项。",
@@ -413,7 +468,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -435,7 +490,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -446,7 +501,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         }
@@ -467,6 +522,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时14分 ~ 06时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李想称汽车业进入不服就直播状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%E7%A7%B0%E6%B1%BD%E8%BD%A6%E4%B8%9A%E8%BF%9B%E5%85%A5%E4%B8%8D%E6%9C%8D%E5%B0%B1%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         }
       ]
     }
