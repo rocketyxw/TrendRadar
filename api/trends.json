@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T00:17:42.222596+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-24T02:58:59.360090+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
@@ -19,15 +19,15 @@
           "time_info": "00时17分"
         },
         {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
+          "title": "国际足联（FIFA）主席：美国总统特朗普将亲自颁发世界杯奖杯。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3123606",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时58分"
         },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -37,8 +37,87 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普提前宣布斯塔默辞职有何意味",
+          "url": "https://www.toutiao.com/trending/7654527066271911478/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时58分]"
+        },
+        {
+          "title": "国际足联主席：特朗普将亲自颁发世界杯奖杯。​​​",
+          "url": "https://flash.jin10.com/detail/20260624022618787800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3123598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普支持率降至任内最低，半数美国人认为对伊战争得不偿失",
+          "url": "https://flash.jin10.com/detail/20260624022036676800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3123596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
+          "url": "https://wallstreetcn.com/livenews/3123594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "特朗普、贝森特与沃什，三人正重塑美元？",
@@ -52,22 +131,34 @@
           "time_info": "00时17分"
         },
         {
-          "title": "特朗普提前宣布斯塔默辞职有何意味",
-          "url": "https://www.toutiao.com/trending/7654527066271911478/",
-          "source": "今日头条",
+          "title": "IBM(IBM.N)：特朗普政府将持有Anderon的股权，但不参与治理。",
+          "url": "https://flash.jin10.com/detail/20260624021722023800",
+          "source": "金十数据",
           "ranks": [
-            29
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时58分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "全链条扩大汽车消费再推新举措",
+          "url": "https://www.douyin.com/hot/2545202",
+          "source": "抖音",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时58分]"
+        },
         {
           "title": "我国汽车保有量达到3.7亿辆",
           "url": "https://www.toutiao.com/trending/7654559562183233033/",
@@ -76,19 +167,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时58分]"
         },
         {
           "title": "全链条扩大汽车消费再推新举措",
-          "url": "https://www.douyin.com/hot/2545202",
-          "source": "抖音",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%93%BE%E6%9D%A1%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E5%86%8D%E6%8E%A8%E6%96%B0%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时58分"
         },
         {
           "title": "汽车后市场“新政”落地！六大板块、17条举措 改装、赛事等迎重大利好",
@@ -98,8 +189,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时58分]"
         },
         {
           "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
@@ -123,11 +214,29 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
+          "url": "https://flash.jin10.com/detail/20260624022839964800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时58分"
         }
       ]
     }
