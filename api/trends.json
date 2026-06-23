@@ -1,114 +1,33 @@
 {
-  "generated_at": "2026-06-23T21:35:03.945999+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-06-24T00:17:42.222596+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
-          "url": "https://wallstreetcn.com/articles/3775145",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 07时57分]"
-        },
-        {
-          "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
-          "url": "https://wallstreetcn.com/livenews/3122971",
+          "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
+          "url": "https://wallstreetcn.com/livenews/3123570",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：所有人都清楚，伊朗将同意接受重大武器核查，以确保未来长期的“核诚信”。",
-          "url": "https://flash.jin10.com/detail/20260623005913970800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
-          "url": "https://wallstreetcn.com/livenews/3122969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗将同意接受大型武器核查。 对伊朗进行核查是为了确保“核诚信”。",
-          "url": "https://wallstreetcn.com/livenews/3122966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：油价大幅下跌。",
-          "url": "https://wallstreetcn.com/livenews/3123017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时29分]"
-        },
-        {
-          "title": "美国总统特朗普谈经济：我们现在的情况与萧条相反。",
-          "url": "https://wallstreetcn.com/livenews/3123016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时29分]"
+          "time_info": "00时17分"
         },
         {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
           "url": "https://www.zhihu.com/question/2052711074215081192",
           "source": "知乎",
           "ranks": [
-            20,
-            15,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 21时35分]"
-        },
-        {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
-          "source": "澎湃新闻",
-          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 04时27分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -118,259 +37,36 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 21时35分]"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 10时14分]"
-        },
-        {
-          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
-          "url": "https://www.cls.cn/detail/2406197",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 14时36分]"
-        },
-        {
-          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
-          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "00时17分"
         },
         {
-          "title": "美国总统特朗普：被解冻的伊朗资产将用于购买美国农民生产的农产品。",
-          "url": "https://flash.jin10.com/detail/20260623035754439800",
+          "title": "特朗普、贝森特与沃什，三人正重塑美元？",
+          "url": "https://flash.jin10.com/detail/20260623233044606800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "特朗普点名英意德差劲",
-          "url": "https://news.ifeng.com/c/8uC00MLRSEF",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗战争在某种程度上进展得非常顺利。",
-          "url": "https://flash.jin10.com/detail/20260623035712345800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "特朗普：伊朗被冻结资金将用于购买美国农产品",
-          "url": "https://wallstreetcn.com/livenews/3123007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗永远不会拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260623035430470800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国总统特朗普：霍尔木兹海峡局势良好，昨天经由此处的石油量创历史新高。海峡保持畅通。",
-          "url": "https://flash.jin10.com/detail/20260623035428218800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）霍尔木兹海峡完全开放。霍尔木兹海峡局势进展良好。",
-          "url": "https://flash.jin10.com/detail/20260623035359749800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普赞扬了IBM(IBM.N)首席执行官。",
-          "url": "https://flash.jin10.com/detail/20260623035240984800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "特朗普称伊朗将同意接受武器核查",
-          "url": "https://flash.jin10.com/detail/20260623044828361800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "特朗普签署两项行政令，推动2028年部署用于科学研究的量子计算机",
-          "url": "https://wallstreetcn.com/livenews/3123029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普正在签署行政命令。",
-          "url": "https://flash.jin10.com/detail/20260623035024772800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国加州起诉特朗普政府，因后者将州级车辆排放规则提交国会以寻求废除。",
-          "url": "https://wallstreetcn.com/livenews/3122953",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "00时17分"
         },
         {
-          "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
-          "url": "https://flash.jin10.com/detail/20260623044248643800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美媒：特朗普情报系统大裁员启动 “深层政府”清洗行动展开",
-          "url": "https://flash.jin10.com/detail/20260623061805327800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-23）",
-          "url": "https://flash.jin10.com/detail/20260623180118451800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "美国总统特朗普：祝愿（刚刚辞去英国首相职务的）斯塔默一切顺利。",
-          "url": "https://wallstreetcn.com/livenews/3123021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国加利福尼亚州起诉特朗普政府，原因是后者将该州的车辆排放法规提交给国会，寻求可能将其废除。",
-          "url": "https://flash.jin10.com/detail/20260623000245016800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3123433",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普提前宣布斯塔默辞职有何意味",
+          "url": "https://www.toutiao.com/trending/7654527066271911478/",
+          "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "特朗普：昨天有1900万桶石油从霍尔木兹海峡流出",
-          "url": "https://wallstreetcn.com/livenews/3123432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "00时17分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 18,
+      "match_count": 4,
       "titles": [
         {
           "title": "我国汽车保有量达到3.7亿辆",
@@ -380,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         },
         {
           "title": "全链条扩大汽车消费再推新举措",
@@ -391,307 +87,47 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
-        },
-        {
-          "title": "追觅暂停“造车”：宣布汽车业务并入产业研究院",
-          "url": "https://wallstreetcn.com/livenews/3123372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "周一（6月22日），彭博电动汽车价格回报指数跌0.34%，报3753.74点。 日内主要持稳于3760点附近，亚太时段，指数呈现出V形反转走势——北京时间10:00曾跌至3709.78点。",
-          "url": "https://wallstreetcn.com/livenews/3123014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时29分]"
+          "time_info": "00时17分"
         },
         {
           "title": "汽车后市场“新政”落地！六大板块、17条举措 改装、赛事等迎重大利好",
           "url": "https://www.cls.cn/detail/2406809",
           "source": "财联社热门",
           "ranks": [
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 21时35分]"
-        },
-        {
-          "title": "全链条扩大汽车消费再推新举措",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%93%BE%E6%9D%A1%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E5%86%8D%E6%8E%A8%E6%96%B0%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
-        },
-        {
-          "title": "追觅汽车CEO离职",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%BD%E8%A7%85%E6%B1%BD%E8%BD%A6CEO%E7%A6%BB%E8%81%8C%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "00时17分"
         },
         {
-          "title": "商务部等9部门：积极发展汽车赛事运动",
-          "url": "https://wallstreetcn.com/livenews/3123207",
+          "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
+          "url": "https://wallstreetcn.com/livenews/3123540",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "商务部等9部门：建立健全汽车改装管理制度",
-          "url": "https://wallstreetcn.com/livenews/3123206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "特斯拉致命车祸引发美国汽车安全机构调查",
-          "url": "https://flash.jin10.com/detail/20260623035053847800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "40城将迎汽车消费大变化",
-          "url": "https://www.baidu.com/s?wd=40%E5%9F%8E%E5%B0%86%E8%BF%8E%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E5%A4%A7%E5%8F%98%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "商务部等8部门：公布40个汽车流通消费改革试点城市",
-          "url": "https://wallstreetcn.com/livenews/3123202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "追觅否认汽车业务高管离职传闻",
-          "url": "https://wallstreetcn.com/livenews/3123340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "A股汽车服务板块短线拉升，德众汽车直线拉升涨超12%，申华控股、交运股份、中汽股份等个股跟涨。消息面上，商务部等9部门发布关于培育壮大汽车后市场消费若干措施的通知。",
-          "url": "https://flash.jin10.com/detail/20260623134241492800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "商务部等9部门：支持符合条件的汽车租赁及电池营运主体享受贷款贴息等政策",
-          "url": "https://flash.jin10.com/detail/20260623133738184800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "商务部等9部门：培育汽车运动消费新场景",
-          "url": "https://flash.jin10.com/detail/20260623133701217800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "重磅政策来了！涉汽车改装、房车露营等",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%E6%94%BF%E7%AD%96%E6%9D%A5%E4%BA%86%EF%BC%81%E6%B6%89%E6%B1%BD%E8%BD%A6%E6%94%B9%E8%A3%85%E3%80%81%E6%88%BF%E8%BD%A6%E9%9C%B2%E8%90%A5%E7%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "商务部等9部门：支持相关汽车流通消费改革试点城市因地制宜引进国际知名汽车赛事",
-          "url": "https://flash.jin10.com/detail/20260623133625058800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
-          "url": "https://wallstreetcn.com/livenews/3122970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
-          "url": "https://wallstreetcn.com/livenews/3123013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时29分]"
-        },
-        {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 14时36分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.4%，电信板块跌3.7%，可选消费板块跌2.1%，科技板块跌0.5%，能源板块涨1.2%，房地产板块涨1.3%。 纳斯达克100指数初步收跌0.2%，成分股中，Arm控股初步收跌7.1%，Palantir跌6.8%，Rocket Lab跌6.4%，奈飞、CoreWeave、谷歌C、谷歌A至少跌5%，亚马逊、博通跌超4%，闪迪涨4.1%，Lumentum涨5%，英特尔涨5.1%，美光涨6%。 卡特彼勒初步收涨3.3%，摩根大通、安进涨超2%，领跑道指成分股，英伟达则跌1.2%，微软跌3%跌幅第三大，耐克跌4.3%，亚马逊领跌。纳指跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3123009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "谷歌股价下跌，因又一位AI明星人才跳槽至竞争对手公司",
-          "url": "https://flash.jin10.com/detail/20260623003003062800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "00时17分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
-          "url": "https://wallstreetcn.com/articles/3775170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 07时57分]"
-        },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 21时35分]"
-        },
-        {
-          "title": "DeepSeek新部门疯狂招人，负责人否认“不招外国人”",
-          "url": "https://wallstreetcn.com/livenews/3123327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
-          "url": "https://flash.jin10.com/detail/20260623043807971800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "00时17分"
         }
       ]
     }
