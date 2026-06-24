@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T16:48:30.589486+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-06-24T19:35:47.678084+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "支持率跌至三成，特朗普承诺“前所未有的经济腾飞”将至",
@@ -124,6 +135,19 @@
           "time_info": "[00时17分 ~ 06时09分]"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普最新支持率公布",
           "url": "https://news.ifeng.com/c/8uD1v25JY2x",
           "source": "凤凰网",
@@ -158,27 +182,15 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 16时48分]"
-        },
-        {
           "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
           "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 19时35分]"
         },
         {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
@@ -198,7 +210,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -338,7 +350,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "全链条扩大汽车消费再推新举措",
@@ -382,7 +394,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -431,6 +443,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "惊魂未定！高速上多辆汽车被天降钢筋砸中，车头被刺穿",
+          "url": "https://news.ifeng.com/c/8uDme6X46hY",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "“新能源汽车第一省”迎来新挑战者",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E7%9C%81%E2%80%9D%E8%BF%8E%E6%9D%A5%E6%96%B0%E6%8C%91%E6%88%98%E8%80%85",
           "source": "百度热搜",
@@ -451,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "理想汽车业绩股价“双杀”",
+          "url": "https://www.toutiao.com/trending/7654888738002046490/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
@@ -508,7 +542,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -521,6 +555,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 02时58分]"
+        },
+        {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
