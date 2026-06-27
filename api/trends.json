@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T21:03:17.611806+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-06-27T23:07:00.924963+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时08分 ~ 21时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时08分 ~ 23时07分]"
         },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -43,6 +43,28 @@
           "time_info": "00时05分"
         },
         {
+          "title": "特朗普公布“爱国者护照”新版效果图",
+          "url": "https://flash.jin10.com/detail/20260627230052437800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
+          "url": "https://wallstreetcn.com/livenews/3125610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美国总统 特朗普谈及伊朗：伊朗向至少四架穿越霍尔木兹海峡的船只发射了自杀式无人机（单向攻击无人机）。 其中一架无人机击中了一艘货船的上层甲板，美国击落了另外三架无人机。 这是对我们停火协议的愚蠢违反。",
           "url": "https://wallstreetcn.com/livenews/3125391",
           "source": "华尔街见闻-快讯",
@@ -52,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 23时07分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
@@ -64,17 +97,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时54分 ~ 19时18分]"
-        },
-        {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
@@ -142,7 +164,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -238,8 +260,21 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时54分 ~ 23时07分]"
+        },
         {
           "title": "【OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强】OpenAI表示，已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。Terra的性能与 GPT-5.5 相当，但成本低2倍；Luna则以其最低的成本提供了强大的能力。 GPT-5.6 Sol搭载了该公司迄今最强大的安全防护体系。加强了对高风险活动、敏感网络请求以及重复滥用行为的防护，并花费数周时间寻找系统弱点、进行压力测试，以增强其抵御现实世界攻击的能力。 该公司计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。作为我们与美国政府持续沟通的一部分，在周五发布之前，OpenAI提前向政府展示了该公司的发布计划以及模型的各项能力。 GPT-5.6 Sol是其迄今最强大的模型。",
           "url": "https://wallstreetcn.com/livenews/3125429",
@@ -250,18 +285,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 21时03分]"
         },
         {
           "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
@@ -286,6 +309,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时59分]"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
@@ -357,19 +391,8 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "吉利将于7月将莲花电动汽车运往加拿大。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
         {
           "title": "全球最大锂生产商美国雅宝（Albemarle）认为，其电池储能业务需求正稳步增长，与电动汽车需求的不规律形成反差。 该公司首席商务官Eric Norris）表示：“电网储能在全球的分布更加均匀，这是一个很有意思的需求驱动因素。”（路透）",
           "url": "https://wallstreetcn.com/livenews/3125490",
@@ -395,6 +418,18 @@
           "time_info": "[07时02分 ~ 08时08分]"
         },
         {
+          "title": "吉利将于7月将莲花电动汽车运往加拿大。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3125597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 23时07分]"
+        },
+        {
           "title": "锂生产商押注电池储能，需求重心逐渐超越电动汽车",
           "url": "https://wallstreetcn.com/livenews/3125488",
           "source": "华尔街见闻-快讯",
@@ -417,6 +452,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时08分]"
+        },
+        {
+          "title": "章建平大举减仓江淮汽车，9个交易日套现近3亿元",
+          "url": "https://www.cls.cn/detail/2410934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "美国商务部长卢特尼克声称：欧洲刚刚通过了关于美欧贸易协议的历史性立法。 欧洲首次将关税降至零。这是我们伟大的汽车制造商、渔民、牧场主以及众多生产商的历史性成就，他们终于在与欧洲贸易时拥有了公平的竞争环境。",
@@ -467,7 +513,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
@@ -501,11 +547,35 @@
           "ranks": [
             15,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 21时03分]"
+          "appearance_count": 7,
+          "time_info": "[17时54分 ~ 23时07分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2054255700407055156",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 23时07分]"
         },
         {
           "title": "DeepSeek发布DSpark",
@@ -519,17 +589,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时54分 ~ 21时03分]"
-        },
-        {
-          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
-          "url": "https://wallstreetcn.com/articles/3775676",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "北大与DeepSeek联合开源DSpark框架，高并发下生成速度提升超60%",
