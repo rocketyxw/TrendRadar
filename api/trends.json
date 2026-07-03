@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T09:25:51.838663+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-07-03T13:38:53.443437+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 09时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 13时38分]"
         },
         {
           "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
@@ -230,6 +230,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。",
           "url": "https://flash.jin10.com/detail/20260703053013791800",
           "source": "金十数据",
@@ -406,6 +417,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "美空军少校呼吁弹劾特朗普被捕",
+          "url": "https://www.toutiao.com/trending/7657766306192490532/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美国总统特朗普：（关于最高法院驳回解雇联储美联储理事库克的请求）我们可以通过赢得案件让她离开。",
           "url": "https://flash.jin10.com/detail/20260703052048384800",
           "source": "金十数据",
@@ -472,6 +494,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "王冰汝谈特朗普一年躺赚20亿美元",
+          "url": "https://www.toutiao.com/trending/7658084486650793498/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美国总统特朗普：我与埃隆·马斯克的关系非常好。",
           "url": "https://flash.jin10.com/detail/20260703054846383800",
           "source": "金十数据",
@@ -481,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美国总统特朗普：重申计划动用伊朗资金用于购买（美国）食品。",
@@ -588,7 +632,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -602,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "特朗普遇刺案最新调查报告披露",
+          "url": "https://www.toutiao.com/trending/7658123452717907995/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美国总统特朗普：伊朗没有海军，没有空军。",
