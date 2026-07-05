@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T05:46:38.750716+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-07-06T06:45:53.166245+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时45分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时45分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时45分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -46,33 +46,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时46分]"
-        },
-        {
-          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
-          "url": "https://flash.jin10.com/detail/20260706050829580800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
-          "url": "https://flash.jin10.com/detail/20260706042147057800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时45分]"
         },
         {
           "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
@@ -97,6 +76,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时54分 ~ 04时04分]"
+        },
+        {
+          "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
+          "url": "https://flash.jin10.com/detail/20260706033046611800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时45分]"
         },
         {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
@@ -137,16 +129,28 @@
           "time_info": "[02时54分 ~ 05时46分]"
         },
         {
-          "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
-          "url": "https://flash.jin10.com/detail/20260706033046611800",
+          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
+          "url": "https://flash.jin10.com/detail/20260706050829580800",
           "source": "金十数据",
           "ranks": [
-            3,
-            10
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时04分 ~ 05时46分]"
+          "time_info": "[05时46分 ~ 06时45分]"
+        },
+        {
+          "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
+          "url": "https://flash.jin10.com/detail/20260706042147057800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时45分]"
         },
         {
           "title": "美国高级官员：相信特朗普将与俄罗斯普京进行后续沟通。",
@@ -206,11 +210,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时04分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时45分]"
         },
         {
           "title": "白宫官员：特朗普将在北约之行期间与土耳其总统埃尔多安举行会晤。",
@@ -306,8 +311,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时45分]"
         }
       ]
     }
