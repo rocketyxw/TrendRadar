@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:15:57.320891+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-07-11T23:43:26.506853+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时02分 ~ 22时15分]"
+          "appearance_count": 10,
+          "time_info": "[15时02分 ~ 23时43分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时02分 ~ 23时43分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时10分 ~ 12时50分]"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时02分 ~ 22时15分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -297,7 +298,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
