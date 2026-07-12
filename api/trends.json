@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T07:40:14.079814+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-07-12T09:17:12.671235+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 09时17分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -90,11 +91,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时40分]"
+          "appearance_count": 5,
+          "time_info": "[06时34分 ~ 09时17分]"
+        },
+        {
+          "title": "特朗普为何一改态度向德出售战斧导弹",
+          "url": "https://www.toutiao.com/trending/7661297504571457578/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 09时17分]"
         }
       ]
     },
@@ -111,11 +124,12 @@
             10,
             8,
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时40分 ~ 07时40分]"
+          "appearance_count": 10,
+          "time_info": "[02时40分 ~ 09时17分]"
         }
       ]
     },
@@ -134,6 +148,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时36分 ~ 07时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米分批持续裁员，涉及手机、汽车等多个业务部门，此举透露出哪些发展策略调整？",
+          "url": "https://www.zhihu.com/question/2058929491154674771",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 09时17分]"
         }
       ]
     }
