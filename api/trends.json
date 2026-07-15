@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T17:46:14.137015+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-07-15T19:18:47.805388+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时56分 ~ 17时46分]"
+          "appearance_count": 13,
+          "time_info": "[02时56分 ~ 19时18分]"
         },
         {
           "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
@@ -34,8 +34,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时43分 ~ 17时46分]"
+          "appearance_count": 11,
+          "time_info": "[05时43分 ~ 19时18分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -47,6 +47,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时06分 ~ 06时43分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            15,
+            14,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时43分 ~ 19时18分]"
         },
         {
           "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
@@ -118,22 +135,6 @@
           "time_info": "[00时06分 ~ 04时03分]"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时43分 ~ 17时46分]"
-        },
-        {
           "title": "不到24小时，特朗普态度大转弯",
           "url": "https://news.ifeng.com/c/8uly6273mL2",
           "source": "凤凰网",
@@ -151,11 +152,12 @@
           "url": "https://news.ifeng.com/c/8umXJBl3ies",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时18分]"
         },
         {
           "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
@@ -167,6 +169,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 19时18分]"
         },
         {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
@@ -191,6 +207,17 @@
           "time_info": "06时43分"
         },
         {
+          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
+          "url": "https://news.ifeng.com/c/8umgsdbwja6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "特朗普战情室密谋升级打击！美军考虑扩大对伊朗本土攻击",
           "url": "https://flash.jin10.com/detail/20260715121904164800",
           "source": "金十数据",
@@ -211,19 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 17时46分]"
         },
         {
           "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
@@ -297,6 +311,29 @@
           "time_info": "[12时35分 ~ 15时04分]"
         },
         {
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时18分]"
+        },
+        {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时18分]"
+        },
+        {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -355,17 +392,6 @@
           "time_info": "[12时35分 ~ 12时36分]"
         },
         {
-          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
-          "url": "https://www.cls.cn/detail/2427184",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
-        },
-        {
           "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：将（以色列）军队撤出叙利亚和黎巴嫩。 两人上周四通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3133807",
           "source": "华尔街见闻-快讯",
@@ -388,17 +414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 05时43分]"
-        },
-        {
-          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
         },
         {
           "title": "美国总统特朗普称代理司法部长托德·布兰奇“表现卓越”，敦促参议院尽快批准其正式任职。",
@@ -522,6 +537,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "美国总统特朗普：好消息！众议院通过了我支持的法案，永久实施夏令时。",
+          "url": "https://flash.jin10.com/detail/20260715185022350800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
           "url": "https://flash.jin10.com/detail/20260715010957773800",
           "source": "金十数据",
@@ -586,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "美国总统特朗普：美国的犯罪率大幅下降，“睡王拜登”的开放边界政策让2500万人不受限制、不经过审查地涌入我们的国家。许多人是罪犯，我们必须把他们赶出去。",
+          "url": "https://flash.jin10.com/detail/20260715184724396800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "美国法官阻止特朗普政府执行针对社交媒体虚假信息研究人员的签证限制政策。",
@@ -788,7 +825,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -810,8 +847,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时18分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -819,11 +856,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 17时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 19时18分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
@@ -849,13 +887,24 @@
           "time_info": "00时06分"
         },
         {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
           "url": "https://flash.jin10.com/detail/20260715172344196800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         }
@@ -863,7 +912,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
@@ -901,6 +950,17 @@
           "time_info": "[00时06分 ~ 04时03分]"
         },
         {
+          "title": "小鹏汽车完成第二代VLA模型在德国本地化验收测试 成国内首家同一套模型打通中国与欧洲的企业",
+          "url": "https://wallstreetcn.com/livenews/3134307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "《中国汽车行业整车成本测算规则》团体标准正式发布",
           "url": "https://wallstreetcn.com/livenews/3134058",
           "source": "华尔街见闻-快讯",
@@ -921,6 +981,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英媒：布鲁塞尔加强大科技监管，拟再对谷歌开出巨额罚单",
+          "url": "https://flash.jin10.com/detail/20260715185455276800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "据英国金融时报：布鲁塞尔准备对谷歌实施新一轮罚款，随着对大型科技公司的监管力度加大。",
+          "url": "https://flash.jin10.com/detail/20260715184735484800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     }
