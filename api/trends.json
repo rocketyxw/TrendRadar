@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:46:29.380278+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-07-16T15:13:14.046159+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -76,11 +76,12 @@
             14,
             15,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 12时46分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 15时13分]"
         },
         {
           "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
@@ -91,11 +92,12 @@
             19,
             16,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时05分 ~ 12时46分]"
+          "appearance_count": 13,
+          "time_info": "[02时05分 ~ 15时13分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -121,6 +123,31 @@
           "time_info": "[01时01分 ~ 02时06分]"
         },
         {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时45分 ~ 15时13分]"
+        },
+        {
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 15时13分]"
+        },
+        {
           "title": "美国白宫发言人：特朗普将在今天的峰会上宣布规模超过100亿美元的交易。",
           "url": "https://flash.jin10.com/detail/20260716014724801800",
           "source": "金十数据",
@@ -130,19 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时45分 ~ 12时46分]"
         },
         {
           "title": "美国总统特朗普：国防生产需要再加快一些速度。",
@@ -240,6 +254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 04时53分]"
+        },
+        {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 15时13分]"
         },
         {
           "title": "霍尔木兹爆发激烈交火！特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击；若伊朗不回来谈判，将轰炸电厂桥梁，不排除派地面部队",
@@ -383,17 +408,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时06分]"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 12时46分]"
         },
         {
           "title": "美国总统特朗普：等伊朗局势稳定下来，油价将降至每桶55美元。",
@@ -659,7 +673,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -714,7 +728,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -806,11 +820,12 @@
           "url": "https://wallstreetcn.com/articles/3777063",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时13分]"
         },
         {
           "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
@@ -819,9 +834,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
+          "url": "https://www.cls.cn/detail/2427717",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 15时13分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -846,17 +873,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时45分]"
-        },
-        {
-          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
-          "url": "https://www.cls.cn/detail/2427717",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -931,11 +947,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 15时13分]"
         }
       ]
     },
@@ -991,7 +1008,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
