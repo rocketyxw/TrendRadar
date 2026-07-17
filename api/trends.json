@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T12:49:53.875859+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-07-17T15:08:49.770583+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -25,11 +25,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 15时08分]"
         },
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普说别人都在笑话美国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%88%AB%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -120,6 +132,19 @@
           "time_info": "09时17分"
         },
         {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 15时08分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
           "url": "https://wallstreetcn.com/livenews/3135212",
           "source": "华尔街见闻-快讯",
@@ -130,18 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时06分]"
-        },
-        {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时49分]"
         },
         {
           "title": "白宫：特朗普总统始终愿意进行外交谈判。",
@@ -271,7 +284,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -304,7 +317,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -364,11 +377,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 15时08分]"
         },
         {
           "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
@@ -540,7 +554,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
@@ -582,6 +596,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "大众汽车劳资委员会宣布，将在夏季休假结束后与首席执行官布鲁姆（Blume）共同召开特别员工大会。",
+          "url": "https://flash.jin10.com/detail/20260717150159252800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "周四（7月16日）纽约尾盘，彭博电动汽车价格回报指数维持下跌1%的状态，报3381.09点，北京时间刷新日高至3437.79点，随后持续走低。",
@@ -628,6 +653,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "小鹏集团董事长兼首席执行官何小鹏周三在慕尼黑举行的Mona L03 SUV发布活动上表示，公司已在德国以及其他国家考察选址。小鹏还希望扩大与大众汽车的合作；双方目前已在联合开发面向中国市场的电动汽车。 “我们正在与很多潜在合作方洽谈，”何小鹏表示，“我们当然希望进一步拓展与大众汽车的合作。” 随着小鹏在欧洲扩张，德国是一个尤为关注的重点。不过，他不愿透露小鹏是否会收购大众工厂。",
           "url": "https://wallstreetcn.com/livenews/3135276",
           "source": "华尔街见闻-快讯",
@@ -648,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "默茨：不反对中国车企接手德汽车工厂",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%B8%8D%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%8E%A5%E6%89%8B%E5%BE%B7%E6%B1%BD%E8%BD%A6%E5%B7%A5%E5%8E%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
@@ -666,8 +713,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 12时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 15时08分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -696,9 +743,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 15时08分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
