@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T20:42:10.197275+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-07-18T22:13:07.122001+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -20,6 +20,18 @@
           "time_info": "[00时06分 ~ 09时09分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 22时13分]"
+        },
+        {
           "title": "生死博弈！“特朗普美元”来了",
           "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
           "source": "凤凰网",
@@ -32,18 +44,6 @@
           "time_info": "[00时06分 ~ 06时35分]"
         },
         {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时42分]"
-        },
-        {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
           "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
           "source": "凤凰网",
@@ -52,8 +52,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 22时13分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时34分 ~ 20时42分]"
+          "time_info": "[14时51分 ~ 22时13分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -65,19 +79,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时06分 ~ 03时55分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时51分 ~ 20时42分]"
         },
         {
           "title": "加拿大山火肆虐，特朗普要求对方通过关税承担污染成本",
@@ -103,6 +104,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时38分 ~ 09时09分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 22时13分]"
         },
         {
           "title": "美国总统特朗普再次赞赏6月通胀数据。",
@@ -178,17 +191,6 @@
           "time_info": "[05时38分 ~ 07时39分]"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 20时42分]"
-        },
-        {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
           "url": "https://flash.jin10.com/detail/20260718033109369800",
           "source": "金十数据",
@@ -234,6 +236,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时41分 ~ 20时42分]"
+        },
+        {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -346,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美媒：一项允许沙特进行铀浓缩的核协议悬而未决，尚待特朗普政府批准",
+          "url": "https://flash.jin10.com/detail/20260718202124153800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
