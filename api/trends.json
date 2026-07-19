@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T17:42:59.587914+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-07-19T19:02:27.776335+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -106,11 +106,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 19时02分]"
         },
         {
           "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
@@ -124,6 +125,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时37分 ~ 09时14分]"
+        },
+        {
+          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
+          "url": "https://news.ifeng.com/c/8utCDuus6XE",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
@@ -176,6 +188,20 @@
           "time_info": "[02时41分 ~ 03时57分]"
         },
         {
+          "title": "谁将与特朗普同举大力神杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            25,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 19时02分]"
+        },
+        {
           "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
           "url": "https://flash.jin10.com/detail/20260719052220338800",
           "source": "金十数据",
@@ -198,19 +224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时35分 ~ 09时14分]"
-        },
-        {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 17时42分]"
         },
         {
           "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
@@ -312,8 +325,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 19时02分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -351,11 +364,12 @@
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 19时02分]"
         }
       ]
     },
@@ -370,7 +384,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
