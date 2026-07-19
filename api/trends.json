@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T19:59:18.112334+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-07-19T21:03:17.598470+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -107,11 +107,12 @@
             7,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 19时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 21时03分]"
         },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -121,19 +122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时59分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-19）",
-          "url": "https://flash.jin10.com/detail/20260719194502548800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时03分]"
         },
         {
           "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
@@ -187,6 +177,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时36分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-19）",
+          "url": "https://flash.jin10.com/detail/20260719194502548800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 21时03分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
@@ -291,7 +293,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -316,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "美国总统特朗普：共和党人应该将伊朗纳入针对俄罗斯的制裁法案。这是林赛·格雷厄姆想要做的，而且原本就要这么做了。",
+          "url": "https://flash.jin10.com/detail/20260719195544306800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
@@ -348,8 +361,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 19时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 21时03分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -399,11 +412,12 @@
           "url": "https://wallstreetcn.com/livenews/3136253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 21时03分]"
         }
       ]
     },
@@ -411,6 +425,18 @@
       "keyword_group": "汽车",
       "match_count": 3,
       "titles": [
+        {
+          "title": "优必选携手韩国伙伴，推动人形机器人落地汽车零部件制造场景",
+          "url": "https://wallstreetcn.com/livenews/3136245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 21时03分]"
+        },
         {
           "title": "江淮汽车：截至7月17日已累计回购股份154.67万股",
           "url": "https://flash.jin10.com/detail/20260719165119013800",
@@ -432,17 +458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
-        },
-        {
-          "title": "优必选携手韩国伙伴，推动人形机器人落地汽车零部件制造场景",
-          "url": "https://wallstreetcn.com/livenews/3136245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         }
       ]
     },
