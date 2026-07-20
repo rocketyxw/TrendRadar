@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T21:40:36.786490+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-07-20T23:42:08.003834+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -42,6 +42,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时42分 ~ 06时38分]"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            14,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 23时42分]"
         },
         {
           "title": "特朗普：痛击伊朗，为身亡美军报仇",
@@ -83,29 +98,16 @@
           "time_info": "[04时00分 ~ 06时38分]"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 21时40分]"
-        },
-        {
           "title": "如何看特朗普不愿离开颁奖台",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 23时42分]"
         },
         {
           "title": "据福克斯新闻：白宫确认特朗普将向今天阿根廷与西班牙的世界杯决赛获胜者颁发冠军奖杯。",
@@ -236,6 +238,17 @@
           "time_info": "[19时32分 ~ 21时40分]"
         },
         {
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "特朗普摸大力神杯",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "百度热搜",
@@ -258,6 +271,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "美国参议员敦促美国总统特朗普政府维持航空业零关税，并寻求与盟国防务公司的更紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260720232958903800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普隔着防弹玻璃看世界杯决赛，抚摸大力神杯笑容满面",
           "url": "https://v.ifeng.com/c/8utJ07KL1aZ",
           "source": "凤凰网",
@@ -267,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普政府的人工智能安全机构负责人辞职",
+          "url": "https://flash.jin10.com/detail/20260720232911398800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普称痛击伊朗为身亡美军报仇",
@@ -300,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "据Axios网站：美国总统特朗普政府的人工智能安全机构负责人辞职。",
+          "url": "https://flash.jin10.com/detail/20260720232317606800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普称痛击伊朗为身亡美军报仇",
@@ -414,7 +460,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -425,7 +471,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -436,7 +482,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -447,7 +493,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -458,7 +504,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
@@ -466,8 +512,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "恒大汽车：独立非执行董事谢武辞任",
+          "url": "https://wallstreetcn.com/livenews/3136996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
         {
           "title": "汽车上新比手机还快 咋回事",
           "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E4%B8%8A%E6%96%B0%E6%AF%94%E6%89%8B%E6%9C%BA%E8%BF%98%E5%BF%AB+%E5%92%8B%E5%9B%9E%E4%BA%8B",
@@ -478,6 +535,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "恒大汽车：谢武辞任独立非执行董事。",
+          "url": "https://wallstreetcn.com/livenews/3136988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "今年上半年霍尔果斯口岸汽车出口同比增长25.7%",
@@ -527,7 +595,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -558,11 +626,23 @@
           "url": "https://www.zhihu.com/question/2059057378591613636",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 23时42分]"
+        },
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时40分]"
+          "time_info": "[23时41分 ~ 23时42分]"
         }
       ]
     },
