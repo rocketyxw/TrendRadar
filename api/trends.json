@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T03:19:36.071392+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-07-21T04:57:16.790835+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时57分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
@@ -41,15 +41,15 @@
           "time_info": "01时13分"
         },
         {
-          "title": "特朗普暗示美军将对伊朗发动强硬报复",
-          "url": "https://wallstreetcn.com/livenews/3137059",
+          "title": "特朗普政府出新招：到美国建厂铝关税打对折",
+          "url": "https://wallstreetcn.com/livenews/3137085",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时57分"
         },
         {
           "title": "美国总统特朗普：每当伊朗杀死一名美国士兵，都将为此付出数倍的代价。",
@@ -70,8 +70,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 04时57分]"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复",
+          "url": "https://wallstreetcn.com/livenews/3137059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时57分]"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -81,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 04时57分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -92,8 +104,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 04时57分]"
         },
         {
           "title": "美国总统特朗普：本届世界杯取得巨大成功，国际足联主席将世界杯提升至前所未有的高度。",
@@ -118,6 +130,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "纽约市长称研究逮捕内塔尼亚胡，特朗普回应：绝不会发生",
+          "url": "https://flash.jin10.com/detail/20260721040706607800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "美国总统特朗普：要求众议院共和党本周投票支持预算解决方案。",
           "url": "https://wallstreetcn.com/livenews/3137012",
           "source": "华尔街见闻-快讯",
@@ -127,6 +150,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "特朗普下令审查国防供应链 保障关键环节战时保障",
+          "url": "https://flash.jin10.com/detail/20260721040321137800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
+          "url": "https://wallstreetcn.com/livenews/3137065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "白宫：特朗普签署公告，授权商务部长制定激励计划，鼓励企业投资铝冶炼厂。",
+          "url": "https://flash.jin10.com/detail/20260721034723509800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "白宫：特朗普采取进一步措施，调整美国铝进口政策。",
+          "url": "https://flash.jin10.com/detail/20260721034603088800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "特朗普行政令规定，若国防承包商未能替换存在风险的外国供应商，可能面临失去合同的后果。该行政令要求承包商优先用尽采购国内产品的选择，并绘制武器系统关键矿产及零部件供应链图谱。",
+          "url": "https://flash.jin10.com/detail/20260721034306028800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "特朗普签署行政令，收紧国防承包商获取禁用外国关键矿产和材料豁免的条件。",
+          "url": "https://flash.jin10.com/detail/20260721034107530800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "美国总统特朗普的AI安全部门主管离职。（Axios）",
@@ -146,9 +235,49 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现代汽车因无线充电技术遭专利侵权诉讼",
+          "url": "https://wallstreetcn.com/livenews/3137054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时57分]"
+        },
+        {
+          "title": "周一（7月20日）纽约尾盘，彭博电动汽车价格回报指数跌0.47%，报3290.09点。",
+          "url": "https://wallstreetcn.com/livenews/3137068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "恒大汽车：独立非执行董事谢武辞任",
+          "url": "https://wallstreetcn.com/livenews/3136996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         }
       ]
     },
@@ -173,39 +302,29 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 04时57分]"
         }
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "现代汽车因无线充电技术遭专利侵权诉讼",
-          "url": "https://wallstreetcn.com/livenews/3137054",
+          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
+          "url": "https://wallstreetcn.com/livenews/3137082",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "恒大汽车：独立非执行董事谢武辞任",
-          "url": "https://wallstreetcn.com/livenews/3136996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "04时57分"
         }
       ]
     }
