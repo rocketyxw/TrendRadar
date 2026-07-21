@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T05:50:53.717672+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-07-22T06:42:39.303441+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
@@ -19,15 +19,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
-          "url": "https://wallstreetcn.com/livenews/3137768",
-          "source": "华尔街见闻-快讯",
+          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
+          "url": "https://flash.jin10.com/detail/20260722062026177800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "06时42分"
         },
         {
           "title": "特朗普承认伊朗在约旦“钻了空子”",
@@ -41,17 +41,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
-          "url": "https://wallstreetcn.com/livenews/3137767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
           "url": "https://flash.jin10.com/detail/20260721234532750800",
           "source": "金十数据",
@@ -61,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
+          "url": "https://flash.jin10.com/detail/20260722060041607800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -81,8 +81,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 06时42分]"
+        },
+        {
+          "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
+          "url": "https://wallstreetcn.com/livenews/3137768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
+          "url": "https://wallstreetcn.com/livenews/3137767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时42分]"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
@@ -90,11 +114,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 06时42分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -109,6 +134,54 @@
           "time_info": "[00时11分 ~ 04时10分]"
         },
         {
+          "title": "美国总统特朗普敦促众议院共和党支持预算决议，要求推动落实《拯救美国法案》。",
+          "url": "https://flash.jin10.com/detail/20260722045229730800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时42分]"
+        },
+        {
+          "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
+          "url": "https://flash.jin10.com/detail/20260722044021391800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时42分]"
+        },
+        {
+          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3137751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时42分]"
+        },
+        {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
           "url": "https://flash.jin10.com/detail/20260722013554217800",
           "source": "金十数据",
@@ -118,17 +191,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "美国总统特朗普敦促众议院共和党支持预算决议，要求推动落实《拯救美国法案》。",
-          "url": "https://flash.jin10.com/detail/20260722045229730800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
         },
         {
           "title": "特朗普称美伊冲突“远未结束”，将打击伊朗核设施",
@@ -142,15 +204,26 @@
           "time_info": "00时11分"
         },
         {
-          "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
-          "url": "https://flash.jin10.com/detail/20260722044021391800",
+          "title": "美国联邦通信委员会：特朗普政府考虑禁止进口军用级无人机。",
+          "url": "https://flash.jin10.com/detail/20260722055028115800",
           "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "06时42分"
+        },
+        {
+          "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
+          "url": "https://wallstreetcn.com/livenews/3137772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
@@ -208,17 +281,6 @@
           "time_info": "04时10分"
         },
         {
-          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
-          "url": "https://www.cls.cn/detail/2433190",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
           "title": "美国总统特朗普：已指示政府允许所有美国航空公司开通飞往黎巴嫩的直飞航班。",
           "url": "https://flash.jin10.com/detail/20260722032500875800",
           "source": "金十数据",
@@ -261,17 +323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3137751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
         },
         {
           "title": "美国总统特朗普：伊朗可能试图通过霍尔木兹海影响选举。",
@@ -332,7 +383,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
@@ -346,6 +397,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 06时42分]"
+        },
+        {
           "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3137736",
           "source": "华尔街见闻-快讯",
@@ -356,17 +418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时50分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时50分]"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -408,7 +459,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -422,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "OpenAI称其AI模型导致了Hugging Face遭遇网络攻击",
+          "url": "https://wallstreetcn.com/livenews/3137753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
@@ -447,9 +509,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时42分]"
         },
         {
           "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
@@ -490,8 +552,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 06时42分]"
         },
         {
           "title": "周二（7月21日），彭博电动汽车价格回报指数涨1.68%，报3344.29点，亚太早盘持续上涨。",
@@ -500,7 +562,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         }
@@ -519,8 +581,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 06时42分]"
         }
       ]
     }
