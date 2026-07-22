@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T05:56:01.590639+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-07-23T06:48:25.290357+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时48分]"
         },
         {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
@@ -34,11 +34,12 @@
           "url": "https://wallstreetcn.com/livenews/3138425",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时48分]"
         },
         {
           "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
@@ -59,7 +60,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -103,7 +104,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -114,9 +115,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "周四亚太盘初，纳指期货跌0.3%，谷歌A与特斯拉掀开美国科技股业绩报告序幕。",
+          "url": "https://wallstreetcn.com/livenews/3138440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "Alphabet(GOOG.O)：Gemini模型现在每分钟可处理220亿个API词元（TOKENS）。",
@@ -136,7 +148,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -158,7 +170,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
@@ -166,7 +178,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -176,8 +188,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时48分]"
         },
         {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
@@ -204,6 +216,17 @@
           "time_info": "[01时59分 ~ 05时56分]"
         },
         {
+          "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
+          "url": "https://flash.jin10.com/detail/20260723061154517800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
           "url": "https://flash.jin10.com/detail/20260723024503926800",
           "source": "金十数据",
@@ -227,6 +250,19 @@
           "time_info": "[00时11分 ~ 04时52分]"
         },
         {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 06时48分]"
+        },
+        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -236,18 +272,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 03时06分]"
-        },
-        {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 05时56分]"
         },
         {
           "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
@@ -278,7 +302,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -308,8 +332,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时48分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -319,8 +343,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时48分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -332,8 +356,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 06时48分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -343,8 +367,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时48分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -354,8 +378,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时48分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -394,7 +418,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "德州仪器：汽车业务在二季度加速。",
@@ -429,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "特斯拉CFO：二季度电动汽车订单积压（存量）是2023年以来最大的。",
+          "url": "https://wallstreetcn.com/livenews/3138436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         }
       ]
     },
@@ -444,8 +479,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时48分]"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
@@ -455,11 +490,12 @@
             14,
             10,
             7,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 06时48分]"
         }
       ]
     }
