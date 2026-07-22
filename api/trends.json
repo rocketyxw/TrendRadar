@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-22T18:10:44.665319+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-07-22T20:19:29.223657+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 20时19分]"
+        },
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
           "url": "https://news.ifeng.com/c/8ux7TemK3px",
@@ -44,17 +56,6 @@
           "time_info": "[00时11分 ~ 07时45分]"
         },
         {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
           "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
           "url": "https://flash.jin10.com/detail/20260722015056462800",
           "source": "金十数据",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 20时19分]"
         },
         {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
@@ -202,17 +214,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时50分 ~ 07时45分]"
-        },
-        {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 18时10分]"
         },
         {
           "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
@@ -402,6 +403,17 @@
           "time_info": "06时42分"
         },
         {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "特朗普承认美方干预中国事务，并称“中国今时不同往日”",
           "url": "https://news.ifeng.com/c/8uy1V150ZKO",
           "source": "凤凰网",
@@ -430,7 +442,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -556,6 +568,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "美国总统特朗普政府拨款50亿美元用于“创世使命”计划。",
+          "url": "https://flash.jin10.com/detail/20260722200346505800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
           "url": "https://wallstreetcn.com/livenews/3137667",
           "source": "华尔街见闻-快讯",
@@ -628,7 +651,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -694,7 +717,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -724,7 +747,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -749,8 +772,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 18时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 20时19分]"
         },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
@@ -774,6 +797,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时50分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 20时19分]"
         },
         {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
@@ -821,15 +856,15 @@
           "time_info": "04时10分"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
+          "title": "市场消息：OpenAI将推出面向企业的新软件OpenAI Presence。",
+          "url": "https://flash.jin10.com/detail/20260722200848203800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "20时19分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -868,7 +903,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
@@ -905,6 +940,17 @@
           "time_info": "[05时50分 ~ 06时42分]"
         },
         {
+          "title": "谷歌平价Gemini三箭齐发，网安模型对标Anthropic Mythos，旗舰3.5 Pro仍难产",
+          "url": "https://wallstreetcn.com/articles/3777594",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
           "url": "https://wallstreetcn.com/livenews/3137668",
           "source": "华尔街见闻-快讯",
@@ -925,6 +971,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现代电动汽车变“移动充电宝”",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8F%98%E2%80%9C%E7%A7%BB%E5%8A%A8%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            17,
+            27,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 07时45分]"
+        },
+        {
+          "title": "【中微半导：预计2026年上半年净利润同比增长90.82%】中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
+          "url": "https://wallstreetcn.com/livenews/3138201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "周二（7月21日），彭博电动汽车价格回报指数涨1.68%，报3344.29点，亚太早盘持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/3137742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         }
       ]
     },
@@ -951,41 +1040,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现代电动汽车变“移动充电宝”",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8F%98%E2%80%9C%E7%A7%BB%E5%8A%A8%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            17,
-            27,
-            29,
-            23
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 07时45分]"
-        },
-        {
-          "title": "周二（7月21日），彭博电动汽车价格回报指数涨1.68%，报3344.29点，亚太早盘持续上涨。",
-          "url": "https://wallstreetcn.com/livenews/3137742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 20时19分]"
         }
       ]
     }
