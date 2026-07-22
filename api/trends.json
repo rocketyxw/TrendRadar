@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-07-23T00:11:55.699869+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-23T02:00:24.595849+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
           "url": "https://www.cls.cn/detail/2434359",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
-          "url": "https://flash.jin10.com/detail/20260722233724419800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时00分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -35,6 +25,17 @@
           "source": "华尔街见闻",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时00分]"
+        },
+        {
+          "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
+          "url": "https://flash.jin10.com/detail/20260722233724419800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,17 +53,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "OpenAI：将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
-          "url": "https://flash.jin10.com/detail/20260722233432620800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
@@ -70,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时00分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -81,6 +71,28 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时00分]"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 02时00分]"
+        },
+        {
+          "title": "OpenAI：将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
+          "url": "https://flash.jin10.com/detail/20260722233432620800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         }
@@ -88,7 +100,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -98,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时00分]"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -109,19 +121,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时00分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
           "url": "https://www.cls.cn/detail/2434152",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时00分]"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 02时00分]"
         },
         {
           "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
@@ -137,6 +161,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时00分]"
+        },
+        {
+          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 02时00分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -148,36 +200,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时00分]"
         },
         {
           "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
           "url": "https://wallstreetcn.com/livenews/3138315",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "吧友做梗图催更DeepSeekV4",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时00分]"
         }
       ]
     }
