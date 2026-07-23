@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-24T00:19:20.709835+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-24T02:05:02.276508+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
-          "url": "https://flash.jin10.com/detail/20260724000958452800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
           "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
+        },
+        {
+          "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
+          "url": "https://flash.jin10.com/detail/20260724000958452800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,22 +41,45 @@
           "time_info": "00时19分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
-          "url": "https://wallstreetcn.com/livenews/3138978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 02时05分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
+          "url": "https://wallstreetcn.com/livenews/3138978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,17 +119,6 @@
           "time_info": "00时19分"
         },
         {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普尚未就核协议条件与沙特领导人进行交谈。",
           "url": "https://flash.jin10.com/detail/20260723233557382800",
           "source": "金十数据",
@@ -121,7 +133,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -131,30 +143,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
           "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
+        },
+        {
+          "title": "美称欧盟对谷歌开罚单及向空客放贷之举有损贸易稳定",
+          "url": "https://flash.jin10.com/detail/20260724014043369800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "02时05分"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
           "url": "https://www.zhihu.com/question/2063569251428819442",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -164,8 +189,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
+        },
+        {
+          "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
+          "url": "https://wallstreetcn.com/livenews/3138992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "02时05分"
         },
         {
           "title": "谷歌未来支出承诺飙升至8110亿美元",
@@ -181,6 +217,89 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI：预计将大规模部署AMD的Helios。",
+          "url": "https://wallstreetcn.com/livenews/3139011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
+          "url": "https://wallstreetcn.com/livenews/3139010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+          "url": "https://flash.jin10.com/detail/20260724011145043800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
+          "url": "https://flash.jin10.com/detail/20260724010957846800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "OpenAI预计将大规模部署AMD Helios。",
+          "url": "https://flash.jin10.com/detail/20260724010730197800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
+          "url": "https://flash.jin10.com/detail/20260724010724640800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "OpenAI：将在ChatGPT中推出健康功能。",
+          "url": "https://flash.jin10.com/detail/20260724010535689800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
       "match_count": 4,
       "titles": [
@@ -192,8 +311,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
         },
         {
           "title": "中国汽车加速全球化布局",
@@ -203,8 +322,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
         },
         {
           "title": "汽车未礼让,女骑手敲窗警告",
@@ -214,8 +333,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时05分]"
         },
         {
           "title": "吉利与福特将在西班牙成立合资公司生产新能源汽车",
@@ -227,6 +346,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
+          "url": "https://wallstreetcn.com/livenews/3138991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
         }
       ]
     }
