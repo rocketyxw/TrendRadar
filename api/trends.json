@@ -1,940 +1,155 @@
 {
-  "generated_at": "2026-07-24T22:32:01.328462+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-07-25T02:09:08.952979+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 8,
       "titles": [
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：众议院共和党已在推动通过预算案方面取得重要进展。我要求参议院在进入8月休会期之前通过一项预算决议，该决议只需简单多数即可通过。",
+          "url": "https://flash.jin10.com/detail/20260725013921780800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 22时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139596",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
-            7,
-            5,
-            4,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时04分 ~ 20时10分]"
-        },
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时43分]"
-        },
-        {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 15时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
           "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时23分 ~ 22时32分]"
-        },
-        {
-          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周二在白宫会见美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260724221517947800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 20时10分]"
-        },
-        {
-          "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
-          "url": "https://flash.jin10.com/detail/20260724000958452800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周一应美国总统特朗普邀请访问华盛顿。",
-          "url": "https://flash.jin10.com/detail/20260724221512312800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
-          "url": "https://wallstreetcn.com/livenews/3138980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
-          "url": "https://wallstreetcn.com/livenews/3139045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "美国总统特朗普宣称：船只的损失将由“伊朗资金”来赔偿。 货物损失将用（美国方借制裁而扣留的）伊朗的钱来赔偿。 这些损失可能非常巨大。 这样做是公平的。",
-          "url": "https://wallstreetcn.com/livenews/3139088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美参议院否决限制特朗普对伊战争权力的决议案",
-          "url": "https://wallstreetcn.com/livenews/3139120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
-          "url": "https://flash.jin10.com/detail/20260724051248877800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时43分]"
+          "time_info": "[02时08分 ~ 02时09分]"
         },
         {
-          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
-          "url": "https://www.cls.cn/detail/2435732",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时05分]"
-        },
-        {
-          "title": "特朗普：将用伊朗资金赔付船只及货物损失",
-          "url": "https://flash.jin10.com/detail/20260724060544831800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
-          "url": "https://wallstreetcn.com/livenews/3138978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "美25州起诉特朗普政府 反对将救灾资金与选举制度改革挂钩",
-          "url": "https://flash.jin10.com/detail/20260724035806237800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
-          "url": "https://wallstreetcn.com/livenews/3138976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "加拿大总理卡尼：如果到8月19日（特朗普关税生效日）仍然无法与美国达成贸易协议，一切都是可能的。",
-          "url": "https://wallstreetcn.com/livenews/3139040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "以色列宣称：总理内塔尼亚胡下周二将会见美国总统特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3139516",
+          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3139589",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时32分"
+          "time_info": "02时09分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
-          "url": "https://wallstreetcn.com/livenews/3138972",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普威胁对欧盟加征高额关税 要求撤销对美国企业罚款",
+          "url": "https://flash.jin10.com/detail/20260725012529485800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "02时09分"
         },
         {
-          "title": "美国总统特朗普：伊朗想要做些什么，但他们还没有准备好。",
-          "url": "https://wallstreetcn.com/livenews/3139043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "特朗普：伊朗尚未准备好达成协议",
-          "url": "https://flash.jin10.com/detail/20260723234018735800",
+          "title": "特朗普称欧盟“掠夺”美国企业 威胁启动301调查并征收大规模关税",
+          "url": "https://flash.jin10.com/detail/20260725011333281800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "02时09分"
         },
         {
-          "title": "美众议院通过决议限制特朗普对伊动武权力 参议院则支持总统",
-          "url": "https://flash.jin10.com/detail/20260724032850735800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "据报道，泽连斯基将于7月28日在美国会晤特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3139278",
+          "title": "据白宫官员透露，乌克兰总统泽连斯基将于下周初与美国总统特朗普会面。",
+          "url": "https://wallstreetcn.com/livenews/3139581",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时24分"
+          "time_info": "02时09分"
         },
         {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普尚未就核协议条件与沙特领导人进行交谈。",
-          "url": "https://flash.jin10.com/detail/20260723233557382800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "黎巴嫩总统奥恩：我与特朗普总统的会晤富有成效，结束战争的时刻已经到来。",
-          "url": "https://flash.jin10.com/detail/20260724194909354800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "美国检方将在特朗普飞行机密泄露调查中撤回针对《纽约时报》记者的传票。",
-          "url": "https://flash.jin10.com/detail/20260724031405954800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "特朗普逼近“更大规模攻击”伊朗！德黑兰被曝向胡塞输送革命卫队和导弹",
-          "url": "https://flash.jin10.com/detail/20260724081151039800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "中国汽车加速全球化布局",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%8A%A0%E9%80%9F%E5%85%A8%E7%90%83%E5%8C%96%E5%B8%83%E5%B1%80%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 07时46分]"
-        },
-        {
-          "title": "汽车未礼让,女骑手敲窗警告",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356440&amp;topic_name=%E6%B1%BD%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%2C%E5%A5%B3%E9%AA%91%E6%89%8B%E6%95%B2%E7%AA%97%E8%AD%A6%E5%91%8A",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            16,
-            20,
-            25,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 22时32分]"
-        },
-        {
-          "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
-          "url": "https://www.zhihu.com/question/2063532260934907357",
-          "source": "知乎",
-          "ranks": [
-            2,
-            12,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 09时17分]"
-        },
-        {
-          "title": "中国汽车加速全球化布局",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%8A%A0%E9%80%9F%E5%85%A8%E7%90%83%E5%8C%96%E5%B8%83%E5%B1%80",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时24分]"
-        },
-        {
-          "title": "上半年我国汽车出口超6000亿元",
-          "url": "https://www.douyin.com/hot/2583143",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时04分 ~ 20时10分]"
-        },
-        {
-          "title": "大众汽车首席财务官：已有2.1万人离开德国公司的岗位，多数是通过提前退休计划。",
-          "url": "https://flash.jin10.com/detail/20260724152153224800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "行业警示：中国汽车绝不能沦为快消品",
-          "url": "https://www.baidu.com/s?wd=%E8%A1%8C%E4%B8%9A%E8%AD%A6%E7%A4%BA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E7%BB%9D%E4%B8%8D%E8%83%BD%E6%B2%A6%E4%B8%BA%E5%BF%AB%E6%B6%88%E5%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时04分 ~ 20时10分]"
-        },
-        {
-          "title": "小鹏召回33473辆X9汽车",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E5%8F%AC%E5%9B%9E33473%E8%BE%86X9%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
-        },
-        {
-          "title": "今年上半年中国汽车出口超6000亿元，同比增长48.3%",
-          "url": "https://wallstreetcn.com/livenews/3139118",
+          "title": "美国总统特朗普声称：加拿大没有邀请美方参加大桥开通仪式。 美方修改了关于跨境大桥的协议，美国获得（通行）收入的50%。",
+          "url": "https://wallstreetcn.com/livenews/3139573",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "小米汽车公布增程器",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%B8%83%E5%A2%9E%E7%A8%8B%E5%99%A8%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "今年上半年我国汽车出口超6000亿元 同比增长48.3%",
-          "url": "https://flash.jin10.com/detail/20260724071315653800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "泰国工业联合会：预计2026年泰国汽车产量将下降3.33%。",
-          "url": "https://flash.jin10.com/detail/20260724121028443800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "肇庆小鹏新能源投资有限公司召回部分小鹏X9汽车",
-          "url": "https://flash.jin10.com/detail/20260724150654162800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "吉利与福特将在西班牙成立合资公司生产新能源汽车",
-          "url": "https://wallstreetcn.com/livenews/3138958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "泰国官员：三菱汽车计划到2030年在泰国投资160亿泰铢。",
-          "url": "https://flash.jin10.com/detail/20260724120137622800",
-          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "【小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段】小鹏人形机器人已在广州工厂正式开启小批量试生产，同时量产产线进入最后联调阶段，量产冲刺正式进入倒计时。此前，小鹏集团内部召开机器人量产动员大会，明确了关键时间节点：2026年实现人形机器人量产，预计2027年起将陆续进驻全球小鹏门店及商业场景，承担导购、讲解等服务。据悉，小鹏机器人业务整合集团在硬件、AI大模型、供应链及营销等模块能力，并将汽车业务积累的软硬件协同研发、智能制造与全球化渠道经验，系统性地复用于机器人领域，加速高阶人形机器人的量产与商业化进程。（新浪科技）",
-          "url": "https://wallstreetcn.com/livenews/3139267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "渤海汽车：北汽集团拟增持2500万元-5000万元。",
-          "url": "https://wallstreetcn.com/livenews/3139356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "泰国工业联合会：6月汽车出口同比下降7.45%（5月同比下降26.69%）。",
-          "url": "https://flash.jin10.com/detail/20260724115742969800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "工业和信息化部装备工业一司赴有关汽车生产企业开展监督检查",
-          "url": "https://wallstreetcn.com/livenews/3139349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "02时09分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            17,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时23分 ~ 22时32分]"
-        },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时04分 ~ 22时32分]"
-        },
-        {
-          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "百度热搜",
-          "ranks": [
-            28
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
+          "time_info": "[02时08分 ~ 02时09分]"
         },
         {
-          "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
-          "url": "https://flash.jin10.com/detail/20260724072353724800",
-          "source": "金十数据",
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
+          "url": "https://wallstreetcn.com/livenews/3139592",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "菲尔兹奖得主谈加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B0%88%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "OpenAI：预计将大规模部署AMD的Helios。",
-          "url": "https://wallstreetcn.com/livenews/3139011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
-          "url": "https://flash.jin10.com/detail/20260724034515352800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
-          "url": "https://wallstreetcn.com/livenews/3139010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
-          "url": "https://flash.jin10.com/detail/20260724011145043800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
-          "url": "https://flash.jin10.com/detail/20260724010957846800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "OpenAI预计将大规模部署AMD Helios。",
-          "url": "https://flash.jin10.com/detail/20260724010730197800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
-          "url": "https://www.toutiao.com/trending/7665911607725149738/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
-          "url": "https://flash.jin10.com/detail/20260724010724640800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "OpenAI：将在ChatGPT中推出健康功能。",
-          "url": "https://flash.jin10.com/detail/20260724010535689800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "02时09分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "keyword_group": "汽车",
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 09时17分]"
-        },
-        {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 07时46分]"
-        },
-        {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 09时17分]"
-        },
-        {
-          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063569251428819442",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时43分]"
-        },
-        {
-          "title": "美称欧盟对谷歌开罚单及向空客放贷之举有损贸易稳定",
-          "url": "https://flash.jin10.com/detail/20260724014043369800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
-          "url": "https://wallstreetcn.com/articles/3777753",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 09时17分]"
-        },
-        {
-          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时43分]"
-        },
-        {
-          "title": "谷歌最新AI报告颠覆认知：AI没有取代白领，正在成为人类“协作者”",
-          "url": "https://flash.jin10.com/detail/20260724121536506800",
-          "source": "金十数据",
+          "title": "俄罗斯再成中国汽车最大买家",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%8D%E6%88%90%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E6%9C%80%E5%A4%A7%E4%B9%B0%E5%AE%B6",
+          "source": "百度热搜",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
-          "url": "https://wallstreetcn.com/livenews/3138992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "谷歌未来支出承诺飙升至8110亿美元",
-          "url": "https://wallstreetcn.com/livenews/3138950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "DeepSeek纠结了10秒还是决定谄媚",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时04分 ~ 20时10分]"
-        },
-        {
-          "title": "曝梁文锋称 DeepSeek「没有组织」，每个人有一半时间完全自由、没有 KPI，怎样看待这种企业文化？",
-          "url": "https://www.zhihu.com/question/2063657419020792636",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "梁文锋称商业化是 DeepSeek 副产品，先做 AGI 突破，商业化水到渠成，如何理解？眼下该模式跑得通吗？",
-          "url": "https://www.zhihu.com/question/2063622655547110211",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "梁文锋称华为芯片一年内平替英伟达",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E7%A7%B0%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E4%B8%80%E5%B9%B4%E5%86%85%E5%B9%B3%E6%9B%BF%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
-          "url": "https://wallstreetcn.com/livenews/3138991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
         }
       ]
     }
