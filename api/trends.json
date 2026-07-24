@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:48:12.829639+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-07-25T07:51:51.351090+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时08分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[02时08分 ~ 07时51分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉还没有准备好大选，还需要一段时间。",
@@ -91,11 +92,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时48分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时51分]"
         },
         {
           "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
@@ -308,11 +310,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时08分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[02时08分 ~ 07时51分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -378,11 +381,12 @@
             17,
             18,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时08分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[02时08分 ~ 07时51分]"
         },
         {
           "title": "周五（7月24日），彭博电动汽车价格回报指数跌2.46%，报3230.43点，北京时间08:00以来持续走低、亚太早盘跌幅显著。 本周累计下跌2.27%，整体冲高回落，7月23日14:30刷新期内最高位、随后持续下挫。",
