@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T07:47:55.545979+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-07-26T09:21:37.408853+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -18,19 +18,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 09时21分]"
         },
         {
           "title": "特朗普称准备第四次竞选总统",
           "url": "https://news.ifeng.com/c/8v378W8XMdI",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 09时21分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -39,11 +40,24 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3139792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时21分]"
         },
         {
           "title": "以总理计划向特朗普递交伊朗情报",
@@ -51,11 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时47分]"
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 09时21分]"
         },
         {
           "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
@@ -63,22 +78,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时47分]"
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 09时21分]"
         },
         {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://wallstreetcn.com/livenews/3139792",
-          "source": "华尔街见闻-快讯",
+          "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
+          "url": "https://news.ifeng.com/c/8v48kLIyX9u",
+          "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "09时21分"
         },
         {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
@@ -156,15 +172,132 @@
           "time_info": "[00时41分 ~ 01时46分]"
         },
         {
+          "title": "白宫记协晚宴重办，争议比特朗普的段子还大",
+          "url": "https://news.ifeng.com/c/8v3M9RFFAJ3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普下令暂停打击伊朗",
+          "url": "https://www.toutiao.com/trending/7666608065243778606/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "特朗普调侃白宫记者",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普称暂停空袭伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "德国柏林发生汽车冲撞行人事件致多人受伤",
+          "url": "https://flash.jin10.com/detail/20260726051908834800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时47分]"
+        },
+        {
+          "title": "韩国汽车与移动产业协会（KAMA）：今年上半年韩国汽车出口量同比增长2.1%，达到144.1万辆。环保车型出口占比从去年同期的30.0%提升至37.0%。不过，受全球主要国家高通胀和加息影响，韩国汽车出口在今年下半年预计将同比下降0.3%，至132万辆。全年出口预计达到276万辆，同比增长0.9%。",
+          "url": "https://flash.jin10.com/detail/20260726090842501800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "韩国汽车与移动产业协会（KAMA）：预计韩国下半年国内汽车销量将同比增长2.7%，达到86.5万辆，全年销量将达到171万辆。",
+          "url": "https://flash.jin10.com/detail/20260726090802769800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "德国柏林发生汽车撞人事件致1死14伤",
+          "url": "https://flash.jin10.com/detail/20260726090528376800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
@@ -192,24 +325,6 @@
           "ranks": [
             4,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 07时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "德国柏林发生汽车冲撞行人事件致多人受伤",
-          "url": "https://flash.jin10.com/detail/20260726051908834800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
