@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T01:50:12.617924+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2026-07-27T02:48:58.214946+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时48分]"
+        },
+        {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时48分]"
+        },
+        {
+          "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
+          "url": "https://news.ifeng.com/c/8v4oybcdZW1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时48分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -30,37 +52,16 @@
           "time_info": "[00时42分 ~ 01时50分]"
         },
         {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时50分]"
-        },
-        {
-          "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
-          "url": "https://news.ifeng.com/c/8v4oybcdZW1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时50分]"
-        },
-        {
           "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
           "url": "https://flash.jin10.com/detail/20260727010619989800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 02时48分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -70,20 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时50分]"
-        },
-        {
-          "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
-          "url": "https://flash.jin10.com/detail/20260727002330493800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时48分]"
         },
         {
           "title": "英国新任首相：若有必要将公开批评特朗普",
@@ -93,8 +82,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时48分]"
+        },
+        {
+          "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
+          "url": "https://flash.jin10.com/detail/20260727002330493800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时48分]"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
@@ -104,19 +106,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时48分]"
         },
         {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
           "url": "https://www.douyin.com/hot/2585679",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 02时48分]"
         },
         {
           "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
@@ -126,8 +129,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时48分]"
         },
         {
           "title": "内塔尼亚胡称将赴美会晤特朗普",
@@ -137,8 +140,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时48分]"
         },
         {
           "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
@@ -148,8 +151,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时48分]"
         },
         {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
@@ -176,8 +179,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时48分]"
         },
         {
           "title": "甘肃景区山洪冲走多辆汽车",
