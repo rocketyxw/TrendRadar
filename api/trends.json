@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T12:50:17.155462+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-07-28T15:29:24.323192+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 12时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 15时29分]"
         },
         {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
@@ -46,11 +46,12 @@
           "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 15时29分]"
         },
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -75,6 +76,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 15时29分]"
+        },
+        {
           "title": "特朗普再给伊朗最后外交窗口：谈判失败将恢复“强力军事行动”",
           "url": "https://flash.jin10.com/detail/20260728072856415800",
           "source": "金十数据",
@@ -95,17 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 12时50分]"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
@@ -184,6 +185,18 @@
           "time_info": "[04时58分 ~ 06时54分]"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 15时29分]"
+        },
+        {
           "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
           "url": "https://flash.jin10.com/detail/20260728052319740800",
           "source": "金十数据",
@@ -242,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 05时58分]"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -575,6 +577,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "特朗普政府要求美最高法院限制邮寄选票",
+          "url": "https://wallstreetcn.com/livenews/3140789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "美国总统特朗普：还没有考虑更换美国参议院多数党领袖图恩。",
           "url": "https://flash.jin10.com/detail/20260728003026690800",
           "source": "金十数据",
@@ -717,11 +730,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时27分 ~ 12时50分]"
+          "appearance_count": 12,
+          "time_info": "[01时27分 ~ 15时29分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -750,11 +764,12 @@
             14,
             15,
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时27分 ~ 12时50分]"
+          "appearance_count": 12,
+          "time_info": "[01时27分 ~ 15时29分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
