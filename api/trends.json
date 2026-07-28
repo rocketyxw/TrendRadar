@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T18:17:45.635907+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-07-28T20:28:37.233388+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -110,6 +110,20 @@
           "time_info": "03时06分"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 20时28分]"
+        },
+        {
           "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
           "url": "https://flash.jin10.com/detail/20260728061247016800",
           "source": "金十数据",
@@ -132,19 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 06时54分]"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 18时17分]"
         },
         {
           "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
@@ -277,7 +278,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -579,6 +580,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "美媒：内塔尼亚胡本次访美对特朗普决策的影响大不如前",
+          "url": "https://flash.jin10.com/detail/20260728201348874800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "美国总统特朗普：交通部长Duffy已经要求在美国生产小型车和微型车。",
           "url": "https://wallstreetcn.com/livenews/3140491",
           "source": "华尔街见闻-快讯",
@@ -673,7 +685,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -695,7 +707,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -731,6 +743,17 @@
           "time_info": "[01时27分 ~ 05时58分]"
         },
         {
+          "title": "济南暴雨铁路桥下汽车被淹不实",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E6%9A%B4%E9%9B%A8%E9%93%81%E8%B7%AF%E6%A1%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6%E8%A2%AB%E6%B7%B9%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 20时28分]"
+        },
+        {
           "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
           "url": "https://wallstreetcn.com/livenews/3140495",
           "source": "华尔街见闻-快讯",
@@ -754,24 +777,13 @@
           "time_info": "01时27分"
         },
         {
-          "title": "济南暴雨铁路桥下汽车被淹不实",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E6%9A%B4%E9%9B%A8%E9%93%81%E8%B7%AF%E6%A1%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6%E8%A2%AB%E6%B7%B9%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
           "title": "据日经新闻：丰田汽车在地震发生后暂停福冈工厂生产。",
           "url": "https://flash.jin10.com/detail/20260728180028180800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
@@ -814,11 +826,12 @@
           "url": "https://wallstreetcn.com/articles/3778049",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 20时28分]"
         }
       ]
     },
@@ -834,11 +847,12 @@
             1,
             7,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时27分 ~ 18时17分]"
+          "appearance_count": 14,
+          "time_info": "[01时27分 ~ 20时28分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
