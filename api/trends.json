@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T02:07:24.514939+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-30T04:05:55.031867+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 33,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时05分]"
         },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时05分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -39,8 +39,96 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时05分]"
+        },
+        {
+          "title": "美国总统特朗普：我希望国会在俄罗斯制裁法案中增加对伊朗的关税。",
+          "url": "https://flash.jin10.com/detail/20260730033934898800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
+          "url": "https://wallstreetcn.com/livenews/3141883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普称赞了爱国者导弹系统。",
+          "url": "https://flash.jin10.com/detail/20260730033855601800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：希望乌克兰总统泽连斯基结束战事。",
+          "url": "https://wallstreetcn.com/livenews/3141882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：我希望泽连斯基结束战争。",
+          "url": "https://flash.jin10.com/detail/20260730033845656800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
+          "url": "https://wallstreetcn.com/livenews/3141881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：爱国者系统昨晚保护了美国基地。",
+          "url": "https://flash.jin10.com/detail/20260730033837763800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们将要给伊朗一点教训，美国将对昨晚在约旦基地的袭击作出回应。",
+          "url": "https://flash.jin10.com/detail/20260730033821762800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -50,8 +138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时05分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -61,8 +149,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时05分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -72,19 +160,64 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时05分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
           "source": "澎湃新闻",
           "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时05分]"
+        },
+        {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时07分]"
+          "time_info": "[02时07分 ~ 04时05分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于人工智能）正在关注监管问题。",
+          "url": "https://flash.jin10.com/detail/20260730033706723800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "特朗普：沃什想看到利率下跌",
+          "url": "https://wallstreetcn.com/livenews/3141877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及美国参议院共和党领袖图恩是否适合担任该职位时）我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260730033618041800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "距离美联储宣布决议声明不到60分钟，特朗普顾问：相信沃什会做正确的事",
@@ -93,9 +226,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相伯纳姆应该开放北海。 伯纳姆曾告诉我，他会为了石油而开放北海。",
+          "url": "https://wallstreetcn.com/livenews/3141875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：我没有听说美国代理司法部长布兰奇有问题。",
+          "url": "https://flash.jin10.com/detail/20260730033541535800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "特朗普：轮到我们袭击伊朗了",
+          "url": "https://wallstreetcn.com/livenews/3141873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：美国代理司法部长布兰奇表现出色。",
+          "url": "https://flash.jin10.com/detail/20260730033530930800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "美联储加息压力渐增，特朗普未必会把矛头指向沃什",
@@ -104,7 +281,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
         },
@@ -120,6 +297,28 @@
           "time_info": "01时01分"
         },
         {
+          "title": "美国总统特朗普：美联储主席沃什有一个理事会，而且这是一个政治性的理事会。沃什希望看到更低的利率。",
+          "url": "https://flash.jin10.com/detail/20260730032853321800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席沃什非常出色。",
+          "url": "https://flash.jin10.com/detail/20260730032814293800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
           "title": "特朗普在葬礼上曝光逝者手机号",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%91%AC%E7%A4%BC%E4%B8%8A%E6%9B%9D%E5%85%89%E9%80%9D%E8%80%85%E6%89%8B%E6%9C%BA%E5%8F%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -131,71 +330,54 @@
           "time_info": "01时01分"
         },
         {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260730014924073800",
+          "title": "美国总统特朗普：我与新任英国首相交谈时，他表示将开放北海。",
+          "url": "https://flash.jin10.com/detail/20260730032759927800",
           "source": "金十数据",
           "ranks": [
-            7
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时07分"
+          "time_info": "04时05分"
         },
         {
-          "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
-          "url": "https://wallstreetcn.com/livenews/3141809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
-          "url": "https://flash.jin10.com/detail/20260730003826526800",
+          "title": "美国总统特朗普：开发北海石油将使英国成为一个富裕的国家。",
+          "url": "https://flash.jin10.com/detail/20260730032652804800",
           "source": "金十数据",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
-          "url": "https://wallstreetcn.com/livenews/3141802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时07分"
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗人昨晚发射了5枚导弹，均被击落。",
+          "url": "https://flash.jin10.com/detail/20260730032640277800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相伯纳姆表示将开发北海石油。",
+          "url": "https://flash.jin10.com/detail/20260730032551527800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
@@ -221,6 +403,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "谷歌公司在Google Flow Music推出Lyria 3.5。",
+          "url": "https://wallstreetcn.com/livenews/3141870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
           "title": "谷歌(GOOG.O)：在谷歌Flow音乐中推出 Lyria 3.5，搭载先进的音乐生成功能。",
           "url": "https://flash.jin10.com/detail/20260730000756191800",
           "source": "金十数据",
@@ -230,6 +423,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260730014924073800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
+          "url": "https://wallstreetcn.com/livenews/3141809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
+          "url": "https://flash.jin10.com/detail/20260730003826526800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
+          "url": "https://wallstreetcn.com/livenews/3141802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     },
@@ -245,8 +488,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时05分]"
         }
       ]
     }
