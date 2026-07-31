@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T03:02:30.711676+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-08-01T04:49:53.723956+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -71,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
@@ -349,22 +349,12 @@
           "url": "https://www.zhihu.com/question/2066521165246489298",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时02分]"
-        },
-        {
-          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
-          "url": "https://www.zhihu.com/question/2066526486505461299",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -373,6 +363,17 @@
           "ranks": [
             8,
             9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时49分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+          "url": "https://www.zhihu.com/question/2066526486505461299",
+          "source": "知乎",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -392,8 +393,86 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
+          "url": "https://flash.jin10.com/detail/20260801042118367800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
+          "url": "https://flash.jin10.com/detail/20260801041603854800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3143460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
+          "url": "https://wallstreetcn.com/livenews/3143443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "7月份，美股存储芯片指数跌28.6%，半导体指数跌19.8%，美国科技股七巨头指数涨4.9%，标普大致持平，道指涨0.5%，纳指跌2.5%，银行指数涨3.4%。 周五当天，标普500指数初步收涨0.8%，可选消费板块涨6.2%，电信板块涨4.7%，科技板块跌0.2%，原材料板块跌2.7%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊初步收涨15.6%，德康医疗涨11.9%，谷歌A涨7%，新思科技涨4.5%，英伟达涨3.4%，SpaceX跌3.6%，Strategy跌4%，闪迪跌5.4%，美光科技跌5.6%，恩智浦跌6%，苹果跌7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3143446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据英国金融时报：恩智浦半导体(NXPI.O)正洽谈收购一家价值33亿美元的自动驾驶汽车摄像头芯片设计公司。",
@@ -405,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "周五（7月31日），彭博电动汽车价格回报指数涨0.16%，报3320.82点，本周累计上涨2.80%，7月份累计下跌6.80%，整体持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3143457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     }
