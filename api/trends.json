@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T16:25:30.942717+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-07-31T19:15:16.216820+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "特朗普：与哈马斯达成全面解除武装协议",
@@ -58,11 +69,26 @@
           "url": "https://www.cls.cn/detail/2442363",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时15分]"
+        },
+        {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 19时15分]"
         },
         {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
@@ -88,17 +114,16 @@
           "time_info": "[05时55分 ~ 06时53分]"
         },
         {
-          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
-          "source": "澎湃新闻",
+          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
+          "url": "https://www.cls.cn/detail/2442307",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            13,
-            8
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时22分 ~ 16时25分]"
+          "time_info": "[16时25分 ~ 19时15分]"
         },
         {
           "title": "特朗普宣布哈马斯同意全面解除武装，以色列将撤军",
@@ -157,17 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
-          "url": "https://www.cls.cn/detail/2442307",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         },
         {
           "title": "特朗普下令限制美国出口含关键矿产工业废料",
@@ -234,6 +248,146 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "日本地震灾区停水情况持续 汽车工厂停工",
+          "url": "https://wallstreetcn.com/livenews/3143066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "长安汽车：终止长安科技增资扩股暨关联交易，原拟合计出资30亿元",
+          "url": "https://flash.jin10.com/detail/20260731185220612800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "长安汽车：因长安科技智能化创新超越预期，决定终止原增资扩股方案",
+          "url": "https://wallstreetcn.com/livenews/3143196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "长盛轴承：公司已有产品应用于特斯拉汽车上",
+          "url": "https://flash.jin10.com/detail/20260731160155793800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "男子用汽车放电功能帮父亲浇地",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E6%B1%BD%E8%BD%A6%E6%94%BE%E7%94%B5%E5%8A%9F%E8%83%BD%E5%B8%AE%E7%88%B6%E4%BA%B2%E6%B5%87%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 05时55分]"
+        },
+        {
+          "title": "罗永浩对话零跑汽车朱江明",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%AF%B9%E8%AF%9D%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E6%9C%B1%E6%B1%9F%E6%98%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "上海市委网信办联合多部门对汽车类“自媒体”开展合规指导",
+          "url": "https://wallstreetcn.com/livenews/3143189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "匈牙利总理：由于帕克什核电站停运和热浪天气，匈牙利的能源供应可能从周一起进入“危急”状态；将要求包括电池和汽车制造商在内的大型消费者自愿在下午5点至晚上10点之间减少电力消费。",
+          "url": "https://flash.jin10.com/detail/20260730233636330800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "央视关注AI汽车",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%85%B3%E6%B3%A8AI%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "上海市委网信办联合多部门对汽车类“自媒体”开展合规指导",
+          "url": "https://flash.jin10.com/detail/20260731183923736800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "哪吒汽车方运舟张勇新增2.7亿执行",
+          "url": "https://www.toutiao.com/trending/7668540505138925107/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "周四（7月30日），彭博电动汽车价格回报指数涨1.78%，报3315.10点，亚太早盘冲高回落、北京时间13:03刷新日低至3250.10点之后持续上扬。",
+          "url": "https://wallstreetcn.com/livenews/3142640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     },
@@ -346,87 +500,76 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 7,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
       "titles": [
         {
-          "title": "日本地震灾区停水情况持续 汽车工厂停工",
-          "url": "https://wallstreetcn.com/livenews/3143066",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2066521165246489298",
+          "source": "知乎",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时15分]"
         },
         {
-          "title": "长盛轴承：公司已有产品应用于特斯拉汽车上",
-          "url": "https://flash.jin10.com/detail/20260731160155793800",
-          "source": "金十数据",
+          "title": "DeepSeek-V4-Flash 正式版API上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "男子用汽车放电功能帮父亲浇地",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E6%B1%BD%E8%BD%A6%E6%94%BE%E7%94%B5%E5%8A%9F%E8%83%BD%E5%B8%AE%E7%88%B6%E4%BA%B2%E6%B5%87%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            21,
-            29
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时15分]"
         },
         {
-          "title": "匈牙利总理：由于帕克什核电站停运和热浪天气，匈牙利的能源供应可能从周一起进入“危急”状态；将要求包括电池和汽车制造商在内的大型消费者自愿在下午5点至晚上10点之间减少电力消费。",
-          "url": "https://flash.jin10.com/detail/20260730233636330800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "央视关注AI汽车",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%85%B3%E6%B3%A8AI%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=16&Refer=top",
+          "title": "DeepSeekV4Flash正式版上线",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时15分]"
         },
         {
-          "title": "哪吒汽车方运舟张勇新增2.7亿执行",
-          "url": "https://www.toutiao.com/trending/7668540505138925107/",
-          "source": "今日头条",
+          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "周四（7月30日），彭博电动汽车价格回报指数涨1.78%，报3315.10点，亚太早盘冲高回落、北京时间13:03刷新日低至3250.10点之后持续上扬。",
-          "url": "https://wallstreetcn.com/livenews/3142640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "DeepSeek-V4-Flash正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek-V4-Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         }
       ]
     },
@@ -500,45 +643,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek-V4-Flash 正式版API上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2066521165246489298",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "DeepSeekV4Flash正式版上线",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         }
       ]
     }
