@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T20:48:13.122692+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-08-02T22:20:43.307589+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 20时48分]"
+          "appearance_count": 9,
+          "time_info": "[13时12分 ~ 22时20分]"
         },
         {
           "title": "伊朗军方：特朗普撒谎",
@@ -26,8 +26,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时12分 ~ 22时20分]"
+        },
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时12分 ~ 20时48分]"
+          "time_info": "[15时57分 ~ 22时20分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 09时23分]"
-        },
-        {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时57分 ~ 20时48分]"
         },
         {
           "title": "以媒：特朗普接近批准袭击伊朗能源设施",
@@ -91,6 +91,20 @@
           "time_info": "[00时43分 ~ 05时41分]"
         },
         {
+          "title": "特朗普：同意取消对伊朗的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时12分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普：伊朗确实挺硬气",
           "url": "https://news.ifeng.com/c/8vErXsygJc0",
           "source": "凤凰网",
@@ -102,18 +116,15 @@
           "time_info": "[00时43分 ~ 07时45分]"
         },
         {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
+          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
+          "url": "https://www.zhihu.com/question/2067198062456463879",
+          "source": "知乎",
           "ranks": [
-            14,
-            13,
-            10,
-            9
+            16
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时12分 ~ 20时48分]"
+          "time_info": "[15时57分 ~ 22时20分]"
         },
         {
           "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
@@ -129,17 +140,6 @@
           "time_info": "[05时41分 ~ 09时23分]"
         },
         {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时57分 ~ 20时48分]"
-        },
-        {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3143604",
           "source": "华尔街见闻-快讯",
@@ -150,6 +150,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时49分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
@@ -216,17 +229,6 @@
           "time_info": "[02时48分 ~ 07时45分]"
         },
         {
-          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
-          "url": "https://wallstreetcn.com/livenews/3143688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
           "url": "https://wallstreetcn.com/livenews/3143651",
           "source": "华尔街见闻-快讯",
@@ -241,16 +243,17 @@
           "time_info": "[13时12分 ~ 19时10分]"
         },
         {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-02）",
+          "url": "https://flash.jin10.com/detail/20260802184143626800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8
+            2,
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时49分 ~ 20时48分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 22时20分]"
         },
         {
           "title": "以色列第12频道援引外交人士消息报道称，伊朗外长阿拉格齐已同意由卡塔尔和美国共同提出的、旨在重新开放霍尔木兹海峡的解决方案。这促使特朗普取消了对伊朗发动袭击的计划。",
@@ -279,18 +282,6 @@
           "time_info": "[01时47分 ~ 04时02分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-02）",
-          "url": "https://flash.jin10.com/detail/20260802184143626800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时48分]"
-        },
-        {
           "title": "据以色列第13频道：以色列高级官员称，预计特朗普将很快下令恢复战斗。以色列已进入最高警戒状态。",
           "url": "https://flash.jin10.com/detail/20260802010333953800",
           "source": "金十数据",
@@ -315,6 +306,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时23分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
+          "url": "https://wallstreetcn.com/livenews/3143688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 22时20分]"
         },
         {
           "title": "特朗普称同意取消军事打击伊朗",
@@ -684,11 +687,12 @@
             9,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 20时48分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 22时20分]"
         },
         {
           "title": "OpenAI的10项数学突破含金量多高",
