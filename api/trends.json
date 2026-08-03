@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T13:25:30.142160+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-08-03T16:53:50.957163+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -116,15 +116,37 @@
           "time_info": "09时21分"
         },
         {
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "特朗普：已决定惩罚加拿大",
           "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
@@ -164,6 +186,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时49分 ~ 04时03分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 16时53分]"
         },
         {
           "title": "美国总统特朗普：伊朗政权内部有人希望达成协议。",
@@ -324,15 +358,15 @@
           "time_info": "05时42分"
         },
         {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
+          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
+          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
+          "source": "凤凰网",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "16时53分"
         },
         {
           "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
@@ -407,7 +441,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -473,65 +507,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "近120万辆特斯拉汽车遭调查",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            8,
-            6,
-            1,
-            2,
-            27
-          ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 13时25分]"
-        },
-        {
-          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
-          "url": "https://www.zhihu.com/question/2066988587279718231",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 13时25分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（alhadath）：消息人士称，哈马斯武装派别卡桑旅领导人纳菲兹·萨比赫在以色列对加沙一辆汽车发动的空袭中被击毙。",
-          "url": "https://flash.jin10.com/detail/20260803000816085800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时49分]"
-        },
-        {
-          "title": "李书福在黑龙江力推甲醇新能源汽车",
-          "url": "https://www.toutiao.com/trending/7669031606426157092/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
@@ -539,7 +515,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -584,12 +560,92 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时03分 ~ 07时47分]"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "博主：DeepSeek给全球AI画斩杀线",
+          "url": "https://www.toutiao.com/trending/7669679705066327595/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "近120万辆特斯拉汽车遭调查",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            8,
+            6,
+            1,
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 13时25分]"
+        },
+        {
+          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
+          "url": "https://www.zhihu.com/question/2066988587279718231",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 16时53分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）：消息人士称，哈马斯武装派别卡桑旅领导人纳菲兹·萨比赫在以色列对加沙一辆汽车发动的空袭中被击毙。",
+          "url": "https://flash.jin10.com/detail/20260803000816085800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时49分]"
+        },
+        {
+          "title": "李书福在黑龙江力推甲醇新能源汽车",
+          "url": "https://www.toutiao.com/trending/7669031606426157092/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -605,13 +661,24 @@
           "time_info": "[00时42分 ~ 13时25分]"
         },
         {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
           "url": "https://www.zhihu.com/question/2066921241156523798",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
@@ -628,7 +695,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
