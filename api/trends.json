@@ -1,597 +1,149 @@
 {
-  "generated_at": "2026-08-03T23:35:17.004311+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-08-04T01:31:54.423562+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 11,
       "titles": [
         {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
-          "url": "https://news.ifeng.com/c/8vGSlnonKX0",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时47分]"
-        },
-        {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 09时21分]"
-        },
-        {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 09时21分]"
-        },
-        {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时43分]"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 13时25分]"
-        },
-        {
-          "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
-          "url": "https://wallstreetcn.com/livenews/3143717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            14,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 06时43分]"
-        },
-        {
-          "title": "接连反转！特朗普透露三个信息",
-          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 20时09分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我认为特朗普的考量是，他不想看到全球经济崩溃。",
-          "url": "https://flash.jin10.com/detail/20260803231201879800",
+          "title": "美媒：特朗普多次威胁与退让后 伊朗领导层认为其不想扩大战争",
+          "url": "https://flash.jin10.com/detail/20260804011703176800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "01时31分"
         },
         {
-          "title": "特朗普再称委内瑞拉为美国第51州",
-          "url": "https://www.toutiao.com/trending/7669053092835524651/",
-          "source": "今日头条",
+          "title": "特朗普政府拟放宽奥巴马时期北极油气钻探规定",
+          "url": "https://wallstreetcn.com/livenews/3144285",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "01时31分"
         },
         {
-          "title": "特朗普称决定惩罚加拿大",
-          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "特朗普：已决定惩罚加拿大",
-          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
-          "source": "凤凰网",
+          "title": "美参议院少数党领袖：特朗普发动对伊战争是为了让石油巨头盟友获利",
+          "url": "https://flash.jin10.com/detail/20260804010243522800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
-          "url": "https://flash.jin10.com/detail/20260803013114997800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 04时03分]"
-        },
-        {
-          "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
-          "url": "https://wallstreetcn.com/livenews/3143739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时42分 ~ 07时47分]"
-        },
-        {
-          "title": "据以色列广播公司：一位以色列官员表示，特朗普处理事务的方式使得认真准备和规划未来变得困难。",
-          "url": "https://flash.jin10.com/detail/20260803012453800800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 04时03分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 16时53分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗政权内部有人希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20260803061251267800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时47分]"
-        },
-        {
-          "title": "金十整理：特朗普八次叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803044202027800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时43分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗达成协议比对其进行军事打击更好。",
-          "url": "https://flash.jin10.com/detail/20260803061218681800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时47分]"
-        },
-        {
-          "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
-          "url": "https://flash.jin10.com/detail/20260803015627779800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时47分 ~ 05时42分]"
-        },
-        {
-          "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
-          "url": "https://flash.jin10.com/detail/20260803014329998800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时47分 ~ 05时42分]"
-        },
-        {
-          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
-          "url": "https://wallstreetcn.com/livenews/3143688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时47分]"
-        },
-        {
-          "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3143741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时47分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
-          "url": "https://flash.jin10.com/detail/20260803061041484800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时47分]"
-        },
-        {
-          "title": "特朗普称，美国干预日元汇率是两国友谊的信号。",
-          "url": "https://wallstreetcn.com/livenews/3143743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时47分]"
-        },
-        {
-          "title": "美国总统特朗普：我们原计划对伊朗实施自二战以来最大规模的攻击。",
-          "url": "https://flash.jin10.com/detail/20260803061040162800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时47分]"
-        },
-        {
-          "title": "特朗普称美伊3日将举行谈判",
-          "url": "https://wallstreetcn.com/livenews/3143742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时47分]"
+          "time_info": "01时31分"
         },
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
           "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
           "source": "澎湃新闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时34分 ~ 23时35分]"
-        },
-        {
-          "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
-          "url": "https://flash.jin10.com/detail/20260803013751190800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 04时03分]"
-        },
-        {
-          "title": "美媒：因凡蒂诺求助特朗普保其职位",
-          "url": "https://www.toutiao.com/trending/7669763103931764251/",
-          "source": "今日头条",
-          "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "01时31分"
         },
         {
-          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803040451593800",
+          "title": "美国纽约州、其他23个州及哥伦比亚特区起诉特朗普政府，反对允许获取TANF私人信息的相关改革措施。",
+          "url": "https://flash.jin10.com/detail/20260804004748433800",
           "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
-          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
-          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "01时31分"
         },
         {
-          "title": "特朗普家族关联的比特币矿企连续三个季度亏损",
-          "url": "https://wallstreetcn.com/livenews/3144228",
+          "title": "美国纽约州总检察长詹姆斯起诉特朗普政府，以保护弱势纽约居民的个人信息。总检察长詹姆斯采取行动，阻止非法共享数百万名TANF（贫困家庭临时援助计划）受助者的私人数据。",
+          "url": "https://flash.jin10.com/detail/20260804004603112800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "媒体援引消息人士报道称，美国总统特朗普预计周五在国务院出席一场矿业高管圆桌会议。",
+          "url": "https://wallstreetcn.com/livenews/3144268",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
-          "url": "https://flash.jin10.com/detail/20260803064716887800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "特朗普称美伊3日将举行谈判",
-          "url": "https://flash.jin10.com/detail/20260803055834448800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：（当被问及美军撤出科威特和巴林）不予置评。",
-          "url": "https://flash.jin10.com/detail/20260803055502014800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及英特尔）我为国家赚了750亿美元。我不是为自己赚的，是为国家赚的。",
-          "url": "https://flash.jin10.com/detail/20260803055411307800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "特朗普：美伊谈判明日启动 霍尔木兹海峡已有协议",
-          "url": "https://flash.jin10.com/detail/20260803054815233800",
-          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "01时31分"
         },
         {
-          "title": "美国总统特朗普：已决定对加拿大野火问题采取惩罚措施，但暂不公布。",
-          "url": "https://flash.jin10.com/detail/20260803054649195800",
-          "source": "金十数据",
+          "title": "2029年之前！“控制”格陵兰岛，特朗普罕见列出时间表",
+          "url": "https://wallstreetcn.com/livenews/3144267",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "01时31分"
         },
         {
-          "title": "特朗普300个账户为何被关？银行首度开口：反洗钱审查发现“问题交易”",
-          "url": "https://flash.jin10.com/detail/20260803120059466800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "美国总统特朗普：（关于日元）美国介入是因为与日本关系良好，我们始终支持日本，美国从相关安排中获得了经济利益。",
-          "url": "https://flash.jin10.com/detail/20260803054401910800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）随时准备行动。",
-          "url": "https://flash.jin10.com/detail/20260803054323048800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "特朗普再提珍珠港事件",
-          "url": "https://www.toutiao.com/trending/7668570014715346971/",
-          "source": "今日头条",
+          "title": "特朗普：与伊朗的谈判已开始，后续会谈也已提上日程",
+          "url": "https://wallstreetcn.com/livenews/3144262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "01时31分"
         },
         {
-          "title": "美国总统特朗普：（关于伊朗）霍尔木兹海峡已有协议，无核化也将达成协议。正在以谈判的形式与他们对话，（美东时间）明天下午开始。",
-          "url": "https://flash.jin10.com/detail/20260803054226703800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "欧洲Stoxx 50指数期货上涨0.7%，此前特朗普称将与伊朗谈判。",
-          "url": "https://wallstreetcn.com/livenews/3143777",
+          "title": "特朗普称伊朗领导层口是心非",
+          "url": "https://wallstreetcn.com/livenews/3144260",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "01时31分"
         },
         {
-          "title": "特朗普再次“TACO”，金价4000美元暗战升级！",
-          "url": "https://flash.jin10.com/detail/20260803114543512800",
+          "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
+          "url": "https://flash.jin10.com/detail/20260804001514489800",
           "source": "金十数据",
           "ranks": [
-            28
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "01时31分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 7,
       "titles": [
         {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            9,
-            7,
-            8,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 13时25分]"
-        },
-        {
-          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
-          "url": "https://www.zhihu.com/question/2067212789714778007",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            3,
-            2,
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时47分]"
+          "appearance_count": 1,
+          "time_info": "01时31分"
         },
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -601,136 +153,119 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时34分 ~ 23时35分]"
-        },
-        {
-          "title": "DeepSeek 斩杀线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时34分 ~ 23时35分]"
-        },
-        {
-          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
-          "url": "https://www.zhihu.com/question/2065010626171293829",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时03分 ~ 07时47分]"
+          "appearance_count": 1,
+          "time_info": "01时31分"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
           "url": "https://www.zhihu.com/question/2067512422555029717",
           "source": "知乎",
           "ranks": [
-            18,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "01时31分"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
           "url": "https://www.toutiao.com/trending/7669679149316836902/",
           "source": "今日头条",
           "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 20时09分]"
-        },
-        {
-          "title": "博主：DeepSeek给全球AI画斩杀线",
-          "url": "https://www.toutiao.com/trending/7669679705066327595/",
-          "source": "今日头条",
-          "ranks": [
-            18
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "01时31分"
         },
         {
-          "title": "华为半导体首席科学家大赞梁文锋",
-          "url": "https://www.toutiao.com/trending/7669025220200546330/",
-          "source": "今日头条",
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
           "ranks": [
-            28
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "01时31分"
+        },
+        {
+          "title": "DeepSeek登顶全球第一",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "DeepSeek斩杀线斩的是什么",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
+          "url": "https://wallstreetcn.com/livenews/3144276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "英国数据监管机构ICO：（就OpenAI和Anthropic）我们已注意到近期影响该行业的黑客事件，并正在密切监控事态发展。",
+          "url": "https://flash.jin10.com/detail/20260804003347868800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "近120万辆特斯拉汽车遭调查",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            8,
-            6,
-            1,
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 13时25分]"
-        },
-        {
-          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
-          "url": "https://www.zhihu.com/question/2066988587279718231",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时47分 ~ 16时53分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（alhadath）：消息人士称，哈马斯武装派别卡桑旅领导人纳菲兹·萨比赫在以色列对加沙一辆汽车发动的空袭中被击毙。",
-          "url": "https://flash.jin10.com/detail/20260803000816085800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时49分]"
-        },
-        {
-          "title": "比亚迪攻入日本汽车腹地",
-          "url": "https://www.toutiao.com/trending/7669798854924963366/",
+          "title": "赛力斯7月新能源汽车销量同比降45%",
+          "url": "https://www.toutiao.com/trending/7669619798967484459/",
           "source": "今日头条",
           "ranks": [
-            18
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时34分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "01时31分"
         },
         {
           "title": "为什么好多人不想买新能源汽车？",
@@ -740,83 +275,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时34分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "01时31分"
         },
         {
-          "title": "赛力斯7月新能源汽车销量同比降45%",
-          "url": "https://www.toutiao.com/trending/7669619798967484459/",
-          "source": "今日头条",
+          "title": "美国本田：七月电动汽车销量为38,169辆。",
+          "url": "https://flash.jin10.com/detail/20260804001824695800",
+          "source": "金十数据",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时34分 ~ 23时35分]"
-        },
-        {
-          "title": "李书福在黑龙江力推甲醇新能源汽车",
-          "url": "https://www.toutiao.com/trending/7669031606426157092/",
-          "source": "今日头条",
-          "ranks": [
-            10
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 13时25分]"
-        },
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 23时35分]"
-        },
-        {
-          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
-          "url": "https://www.zhihu.com/question/2066921241156523798",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "01时31分"
         }
       ]
     },
@@ -825,26 +296,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
-          "url": "https://www.zhihu.com/question/2065724643378570793",
-          "source": "知乎",
+          "title": "除了谷歌之外，Meta也将列席白宫周二的AI会议。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3144274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "01时31分"
         },
         {
-          "title": "报道：OpenAI、Anthropic、谷歌员工代表将参加周二的白宫AI企业会议",
-          "url": "https://wallstreetcn.com/livenews/3144221",
-          "source": "华尔街见闻-快讯",
+          "title": "纳指涨幅扩大至2%，标普500指数涨1.3%，道指涨1%。甲骨文(ORCL.N)涨7.3%，谷歌(GOOG.O)涨超5%，亚马逊(AMZN.O)、微软(MSFT.O)涨超4%，特斯拉(TSLA.O)涨3.8%，英伟达(NVDA.O)涨3.2%。",
+          "url": "https://flash.jin10.com/detail/20260804001800060800",
+          "source": "金十数据",
           "ranks": [
-            18
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "01时31分"
         }
       ]
     }
