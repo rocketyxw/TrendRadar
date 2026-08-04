@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T20:52:52.274521+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-08-04T23:13:32.399914+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 15时28分]"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 23时13分]"
         },
         {
           "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
@@ -149,19 +163,6 @@
           "time_info": "[15时28分 ~ 18时23分]"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 20时52分]"
-        },
-        {
           "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
           "url": "https://www.cls.cn/detail/2444679",
           "source": "财联社热门",
@@ -196,8 +197,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 23时13分]"
         },
         {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
@@ -667,7 +668,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -755,6 +756,20 @@
           "time_info": "[01时31分 ~ 07时56分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 23时13分]"
+        },
+        {
           "title": "DeepSeek登顶全球第一",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -769,20 +784,6 @@
           "time_info": "[01时31分 ~ 06时59分]"
         },
         {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 20时52分]"
-        },
-        {
           "title": "DeepSeek V4 Flash后训练揭秘",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash%E5%90%8E%E8%AE%AD%E7%BB%83",
           "source": "bilibili 热搜",
@@ -792,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 23时13分]"
         },
         {
           "title": "DeepSeek斩杀线",
@@ -806,15 +818,16 @@
           "time_info": "[12时50分 ~ 15时28分]"
         },
         {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
+          "title": "疑似梁文锋早期微博被扒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
+            20,
             28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时52分]"
+          "time_info": "[20时52分 ~ 23时13分]"
         },
         {
           "title": "DeepSeek低价风暴打服硅谷",
@@ -828,6 +841,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "疑似梁文锋早期微博被扒",
+          "url": "https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
           "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
           "source": "百度热搜",
@@ -837,17 +861,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
-        },
-        {
-          "title": "疑似梁文锋早期微博被扒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "DeepSeek API出现性能下降情况，现已恢复",
@@ -864,7 +877,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "赛力斯7月新能源汽车销量同比降45%",
@@ -942,6 +955,17 @@
           "time_info": "[03时12分 ~ 03时13分]"
         },
         {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国本田：七月电动汽车销量为38,169辆。",
           "url": "https://flash.jin10.com/detail/20260804001824695800",
           "source": "金十数据",
@@ -990,11 +1014,12 @@
             13,
             17,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时31分 ~ 20时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时31分 ~ 23时13分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
