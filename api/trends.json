@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T03:08:06.431257+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-08-06T04:53:39.300602+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -86,11 +86,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时53分]"
         },
         {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
@@ -100,8 +101,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时53分]"
         },
         {
           "title": "特朗普直升机一度与客机距离过近",
@@ -110,7 +111,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -121,7 +122,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -151,8 +152,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时53分]"
         },
         {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
@@ -161,7 +162,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -172,7 +173,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -183,7 +184,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -191,7 +192,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "张家界中心汽车站候车厅漏水如瀑布",
@@ -226,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，彭博电动汽车价格回报指数涨1.21%，报3438.09点，亚太时段显著上涨、北京时间10:00以来高位持稳——震荡于3440点附近。 日线图上，7月28日跌至3210.83点以来，呈现出逐步反弹的趋势。",
+          "url": "https://wallstreetcn.com/livenews/3145574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         }
       ]
     },
