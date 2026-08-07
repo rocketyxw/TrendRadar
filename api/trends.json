@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T06:23:16.648484+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-08-08T07:22:21.751256+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 06时23分]"
+        },
+        {
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时42分 ~ 07时22分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -63,28 +75,18 @@
           "time_info": "03时42分"
         },
         {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 06时23分]"
-        },
-        {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3146913",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             11,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时22分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -92,11 +94,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时22分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
+          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时22分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -123,17 +137,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时42分 ~ 05时26分]"
-        },
-        {
-          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
-          "url": "https://flash.jin10.com/detail/20260808035911250800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时23分]"
         },
         {
           "title": "报道：特朗普继续推进罢免美联储理事库克",
@@ -395,11 +398,12 @@
             9,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时22分]"
         },
         {
           "title": "媒体援引知情人士报道称，加拿大希望关税减免相关协议以附函形式达成，而非写入更新后的美国墨西哥加拿大贸易协议（USMCA）正文。 加拿大清楚其将不得不接受美国部分钢铁和铝关税。 加拿大准备回应美国针对酒类销售、乳制品及汽车行业提出的诉求，但作为交换，加拿大需要获得232条款关税减免。 加方称美方同意开展每日谈判，直至8月19日。 加拿大正与美国加紧谈判，避免8月19日加征新关税。 加拿大已告知美方谈判代表，若双方无法在8月19日前达成协议以推迟关税实施，渥太华进一步谈判的空间将受到限制。",
@@ -430,11 +434,12 @@
           "ranks": [
             3,
             13,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时22分]"
         },
         {
           "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
@@ -444,8 +449,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时22分]"
         },
         {
           "title": "据路透社：消息人士透露，加拿大方面表示，美方已同意在8月19日前每天举行谈判。加拿大准备回应美国对酒类销售以及乳制品和汽车行业的关切，但作为交换，加拿大需要获得美国《贸易扩展法》第232条关税豁免。",
@@ -496,11 +501,12 @@
             19,
             23,
             22,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时22分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -510,19 +516,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时22分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 06时23分]"
+          "appearance_count": 6,
+          "time_info": "[03时42分 ~ 07时22分]"
         }
       ]
     },
@@ -539,8 +546,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时22分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -557,8 +564,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3146942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
           "url": "https://wallstreetcn.com/livenews/3146841",
