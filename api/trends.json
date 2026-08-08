@@ -1,165 +1,33 @@
 {
-  "generated_at": "2026-08-08T23:16:38.531654+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-08-09T00:17:02.466763+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时37分 ~ 17时25分]"
-        },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时55分 ~ 23时16分]"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
           "url": "https://v.ifeng.com/c/8vONreNLVHw",
           "source": "凤凰网",
           "ranks": [
-            7,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时25分 ~ 23时16分]"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时47分 ~ 16时25分]"
-        },
-        {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            17,
-            18,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[03时42分 ~ 21时37分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时23分]"
-        },
-        {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时18分 ~ 23时16分]"
-        },
-        {
-          "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
-          "url": "https://news.ifeng.com/c/8vPP6fsrHNx",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时37分 ~ 10时47分]"
-        },
-        {
-          "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3146913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时25分 ~ 08时37分]"
-        },
-        {
-          "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
-          "url": "https://wallstreetcn.com/livenews/3146922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时26分 ~ 10时47分]"
-        },
-        {
-          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
-          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时37分 ~ 13时33分]"
-        },
-        {
-          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
-          "url": "https://www.cls.cn/detail/2448987",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时28分 ~ 19时18分]"
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -170,723 +38,58 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时16分"
+          "time_info": "00时17分"
         },
         {
-          "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
-          "url": "https://flash.jin10.com/detail/20260808011808390800",
-          "source": "金十数据",
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
-          "url": "https://flash.jin10.com/detail/20260808001738444800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "哈塞特称特朗普与沃什经常讨论经济问题",
-          "url": "https://flash.jin10.com/detail/20260808011630958800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国总统特朗普：宣布一系列价值30亿美元的矿业项目。",
-          "url": "https://flash.jin10.com/detail/20260808032058540800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
-          "url": "https://flash.jin10.com/detail/20260808035911250800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时25分 ~ 08时37分]"
-        },
-        {
-          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
-          "url": "https://wallstreetcn.com/livenews/3147021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时16分]"
-        },
-        {
-          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
-          "url": "https://flash.jin10.com/detail/20260808205550359800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 23时16分]"
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
           "url": "https://wallstreetcn.com/articles/3778975",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时36分 ~ 23时16分]"
-        },
-        {
-          "title": "舒默怒斥特朗普：你在哪个星球",
-          "url": "https://www.toutiao.com/trending/7671480510048452651/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时36分 ~ 23时16分]"
-        },
-        {
-          "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
-          "url": "https://wallstreetcn.com/livenews/3146895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普政府将向电池及材料企业拨付 20 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3146893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
-          "url": "https://wallstreetcn.com/articles/3778955",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时56分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
-          "url": "https://flash.jin10.com/detail/20260808183100642800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时19分]"
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
-          "title": "报道：特朗普继续推进罢免美联储理事库克",
-          "url": "https://wallstreetcn.com/livenews/3146842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时35分]"
-        },
-        {
-          "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3146889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时25分]"
-        },
-        {
-          "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3146836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时35分]"
-        },
-        {
-          "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
-          "url": "https://wallstreetcn.com/livenews/3146882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普关税“换壳”术还能撑多久",
-          "url": "https://www.toutiao.com/trending/7671486834458758698/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
-          "url": "https://flash.jin10.com/detail/20260808031924352800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国总统特朗普：最高法院必须彻底推翻法院就宴会厅案作出的裁决。 我们将立即提起上诉。",
-          "url": "https://wallstreetcn.com/livenews/3146844",
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国总统特朗普：美国政府已对美国关键矿产供应链进行了“历史性投资”，包括直接持有生产商的股权。政府对MP Materials的4亿美元投资目前价值已接近12亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808031826227800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：日本当局与特朗普政府干预过后，8月4日当周，对冲基金将日元空头仓位砍半。 杠杆基金将墨西哥比索净多头头寸推升至2025年12月以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3146902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "据华尔街日报：白宫官员称，特朗普政府将向四家电池和矿产公司提供超过20亿美元资金支持。电池初创企业Sila Nanotechnologies已获得五角大楼14亿美元贷款。澳大利亚Sunrise Energy Metals已与五角大楼达成4亿美元贷款协议，用于生产钪。",
-          "url": "https://flash.jin10.com/detail/20260808031750291800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国总统特朗普在矿业圆桌会议上表示：我们实现了能源独立，现在正在实现经济独立。美国必须在国内开采、提炼并制造关键矿产。",
-          "url": "https://flash.jin10.com/detail/20260808031653442800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
-          "url": "https://flash.jin10.com/detail/20260807234317790800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
-          "url": "https://flash.jin10.com/detail/20260808010047168800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3146844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时16分"
+          "time_info": "00时17分"
         },
         {
-          "title": "美国总统特朗普：两名奥巴马和拜登任命的联邦上诉法院法官刚刚投票反对这个迫切需要的军事中心。该中心对于华盛顿特区以及美国国家安全本身都是必需的。这显然是对裁量权的严重滥用。",
-          "url": "https://flash.jin10.com/detail/20260808005505559800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
-          "url": "https://wallstreetcn.com/livenews/3146814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "美国总统特朗普：我们将立即向美国最高法院提出上诉。",
-          "url": "https://flash.jin10.com/detail/20260808005050504800",
+          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
+          "url": "https://flash.jin10.com/detail/20260808205550359800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "特朗普再签行政令，禁止“生育旅游”收紧“出生公民权”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33734678",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "美国总统特朗普：法院有关舞厅项目的裁决必须由最高法院全面推翻。",
-          "url": "https://flash.jin10.com/detail/20260808005043099800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "据ABC新闻：特朗普在最高法院遭遇挫折后，仍继续推进解雇美联储理事丽莎·库克的尝试。",
-          "url": "https://flash.jin10.com/detail/20260808004923983800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国民主党参议员沃伦：将反对特朗普罢免美联储理事库克的企图。",
-          "url": "https://flash.jin10.com/detail/20260808025943834800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国参议院Warren：将反对总统特朗普解雇美联储理事库克的企图。",
-          "url": "https://wallstreetcn.com/livenews/3146877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
-          "url": "https://wallstreetcn.com/livenews/3146874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "特朗普继续推进解雇美联储理事",
-          "url": "https://www.toutiao.com/trending/7671332801769111595/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
-          "url": "https://www.zhihu.com/question/2068266947939153909",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            4,
-            2,
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 12时56分]"
-        },
-        {
-          "title": "雪佛兰将停止在中国市场销售？通用汽车仍未正面回应",
-          "url": "https://wallstreetcn.com/livenews/3146960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            9,
-            13,
-            16,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 18时19分]"
-        },
-        {
-          "title": "2026 上半年中国汽车出口 531 万辆、同比增长 53%，中国汽车出海是否已经进入全球化能力竞争新阶段？",
-          "url": "https://www.zhihu.com/question/2068024117270245981",
-          "source": "知乎",
-          "ranks": [
-            19,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 17时25分]"
-        },
-        {
-          "title": "周五（8月7日），彭博电动汽车价格回报指数2.16%，报3475.48点，本周累计上涨3.63%。",
-          "url": "https://wallstreetcn.com/livenews/3146911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时25分 ~ 08时37分]"
-        },
-        {
-          "title": "媒体援引知情人士报道称，加拿大希望关税减免相关协议以附函形式达成，而非写入更新后的美国墨西哥加拿大贸易协议（USMCA）正文。 加拿大清楚其将不得不接受美国部分钢铁和铝关税。 加拿大准备回应美国针对酒类销售、乳制品及汽车行业提出的诉求，但作为交换，加拿大需要获得232条款关税减免。 加方称美方同意开展每日谈判，直至8月19日。 加拿大正与美国加紧谈判，避免8月19日加征新关税。 加拿大已告知美方谈判代表，若双方无法在8月19日前达成协议以推迟关税实施，渥太华进一步谈判的空间将受到限制。",
-          "url": "https://wallstreetcn.com/livenews/3146863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "福特汽车打算新推四个版本的Mustang四门车型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3146862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
-          "url": "https://flash.jin10.com/detail/20260808035655589800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时25分 ~ 08时37分]"
-        },
-        {
-          "title": "济南再发5000万汽车购新补贴，8月20日起申报",
-          "url": "https://wallstreetcn.com/livenews/3146972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时25分]"
-        },
-        {
-          "title": "据路透社：消息人士透露，加拿大方面表示，美方已同意在8月19日前每天举行谈判。加拿大准备回应美国对酒类销售以及乳制品和汽车行业的关切，但作为交换，加拿大需要获得美国《贸易扩展法》第232条关税豁免。",
-          "url": "https://flash.jin10.com/detail/20260808020751301800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "据华尔街日报：福特汽车(F.N)四门版野马车型本周在经销商活动上亮相。该车有望在本十年结束前上市。",
-          "url": "https://flash.jin10.com/detail/20260808020219612800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "据华尔街日报：福特汽车(F.N)计划推出全新四门版野马车型。",
-          "url": "https://flash.jin10.com/detail/20260808020053613800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4,
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时47分 ~ 20时19分]"
-        },
-        {
-          "title": "梁文锋 只想用座机",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            18,
-            19,
-            23,
-            22,
-            12,
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 08时37分]"
-        },
-        {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            15,
-            16,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[03时42分 ~ 21时37分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时22分]"
-        },
-        {
-          "title": "梁文锋为何重仓宇树科技",
-          "url": "https://www.toutiao.com/trending/7671445304096345619/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "梁文锋为什么投王兴兴",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%95%E7%8E%8B%E5%85%B4%E5%85%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时28分]"
-        },
-        {
-          "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时37分"
+          "time_info": "00时17分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            17,
-            21,
-            23,
-            24,
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时38分 ~ 20时19分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 23时16分]"
-        },
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778993",
@@ -894,65 +97,37 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
-          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
-          "url": "https://flash.jin10.com/detail/20260807231253787800",
-          "source": "金十数据",
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "00时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
-          "url": "https://wallstreetcn.com/livenews/3146942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            19,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时28分]"
-        },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
           "url": "https://wallstreetcn.com/articles/3778988",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时36分 ~ 23时16分]"
-        },
-        {
-          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时35分]"
+          "time_info": "[00时16分 ~ 00时17分]"
         }
       ]
     }
