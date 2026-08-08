@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T13:33:35.768415+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-08-08T14:28:50.732217+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时37分 ~ 13时33分]"
+          "appearance_count": 7,
+          "time_info": "[08时37分 ~ 14时28分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -27,11 +27,12 @@
             20,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时42分 ~ 13时33分]"
+          "appearance_count": 13,
+          "time_info": "[03时42分 ~ 14时28分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -53,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 14时28分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -106,6 +107,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时37分 ~ 13时33分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时28分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -162,18 +176,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时25分 ~ 08时37分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时33分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -336,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
@@ -544,11 +557,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时28分]"
         },
         {
           "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
@@ -570,8 +584,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时28分]"
         },
         {
           "title": "据路透社：消息人士透露，加拿大方面表示，美方已同意在8月19日前每天举行谈判。加拿大准备回应美国对酒类销售以及乳制品和汽车行业的关切，但作为交换，加拿大需要获得美国《贸易扩展法》第232条关税豁免。",
@@ -637,11 +651,12 @@
           "ranks": [
             18,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时42分 ~ 13时33分]"
+          "appearance_count": 13,
+          "time_info": "[03时42分 ~ 14时28分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -663,8 +678,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 14时28分]"
         },
         {
           "title": "梁文锋为何重仓宇树科技",
@@ -678,6 +693,17 @@
           "time_info": "[12时55分 ~ 12时56分]"
         },
         {
+          "title": "梁文锋为什么投王兴兴",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%95%E7%8E%8B%E5%85%B4%E5%85%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时28分]"
+        },
+        {
           "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
@@ -687,17 +713,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
-        },
-        {
-          "title": "梁文锋为什么投王兴兴",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%95%E7%8E%8B%E5%85%B4%E5%85%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         }
       ]
     },
@@ -718,8 +733,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 14时28分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -746,11 +761,12 @@
             1,
             13,
             19,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 13时33分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 14时28分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
