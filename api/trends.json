@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:25:02.514744+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-08-08T17:25:26.325321+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -16,8 +16,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时37分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[08时37分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时55分 ~ 17时25分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -44,8 +59,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时42分 ~ 16时25分]"
+          "appearance_count": 17,
+          "time_info": "[03时42分 ~ 17时25分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -57,20 +72,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 16时25分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -229,6 +230,17 @@
           "time_info": "[01时38分 ~ 02时35分]"
         },
         {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3146889",
           "source": "华尔街见闻-快讯",
@@ -274,6 +286,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 12时56分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
@@ -340,17 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
-        },
-        {
-          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
-          "url": "https://www.cls.cn/detail/2448987",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
         },
         {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
@@ -526,8 +538,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时55分 ~ 17时25分]"
         },
         {
           "title": "雪佛兰将停止在中国市场销售？通用汽车仍未正面回应",
@@ -538,11 +550,12 @@
             7,
             9,
             13,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 17时25分]"
         },
         {
           "title": "周五（8月7日），彭博电动汽车价格回报指数2.16%，报3475.48点，本周累计上涨3.63%。",
@@ -654,8 +667,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时47分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[10时47分 ~ 17时25分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -686,8 +699,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时42分 ~ 16时25分]"
+          "appearance_count": 17,
+          "time_info": "[03时42分 ~ 17时25分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -753,8 +766,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 16时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时38分 ~ 17时25分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
