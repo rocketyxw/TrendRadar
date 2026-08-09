@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T20:21:35.099726+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-08-09T21:39:48.893461+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时16分 ~ 20时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时16分 ~ 21时39分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -101,8 +101,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 20时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 21时39分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -142,6 +142,18 @@
           "time_info": "[12时07分 ~ 15时43分]"
         },
         {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时39分]"
+        },
+        {
           "title": "泰勒·斯威夫特下架特朗普团队音频",
           "url": "https://flash.jin10.com/detail/20260809135228907800",
           "source": "金十数据",
@@ -160,23 +172,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时21分]"
-        },
-        {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时39分]"
         },
         {
           "title": "舒默怒斥特朗普：你在哪个星球",
@@ -310,11 +311,12 @@
             4,
             5,
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 20时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 21时39分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
