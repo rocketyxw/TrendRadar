@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T17:26:30.840055+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-08-09T18:20:23.351296+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时26分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时20分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -42,11 +42,12 @@
             18,
             19,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 17时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 18时20分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -111,8 +112,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 17时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 18时20分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -164,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时17分]"
+        },
+        {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -228,8 +240,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时26分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时20分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -252,6 +264,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
+          "url": "https://www.zhihu.com/question/2069357693840667744",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            4,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 18时20分]"
+        },
+        {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
           "url": "https://www.zhihu.com/question/2068266947939153909",
           "source": "知乎",
@@ -263,20 +290,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时20分 ~ 08时39分]"
-        },
-        {
-          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
-          "url": "https://www.zhihu.com/question/2069357693840667744",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 17时26分]"
         }
       ]
     },
