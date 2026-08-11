@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-11T16:01:34.123380+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-08-11T16:50:38.772697+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 55,
       "titles": [
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 16时50分]"
+        },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
           "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
@@ -31,17 +42,6 @@
           "time_info": "[00时39分 ~ 08时41分]"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 16时01分]"
-        },
-        {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
           "source": "澎湃新闻",
@@ -52,6 +52,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时39分 ~ 10时57分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 16时50分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -66,6 +80,18 @@
           "time_info": "[04时29分 ~ 08时41分]"
         },
         {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 16时50分]"
+        },
+        {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
@@ -78,29 +104,15 @@
           "time_info": "[00时39分 ~ 07时23分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时56分 ~ 16时01分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 16时01分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 16时50分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -116,44 +128,11 @@
           "time_info": "[08时41分 ~ 13时45分]"
         },
         {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时01分]"
-        },
-        {
-          "title": "曝特朗普上月秘密乘运输机回国",
-          "url": "https://www.toutiao.com/trending/7672053116451389486/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时00分 ~ 16时01分]"
-        },
-        {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
           "url": "https://flash.jin10.com/detail/20260811022219908800",
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "特朗普政府撤销超17.5万份外国人签证",
-          "url": "https://flash.jin10.com/detail/20260811021754743800",
-          "source": "金十数据",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -166,11 +145,35 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 16时01分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 16时50分]"
+        },
+        {
+          "title": "曝特朗普上月秘密乘运输机回国",
+          "url": "https://www.toutiao.com/trending/7672053116451389486/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时00分 ~ 16时50分]"
+        },
+        {
+          "title": "特朗普政府撤销超17.5万份外国人签证",
+          "url": "https://flash.jin10.com/detail/20260811021754743800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -221,6 +224,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 16时50分]"
+        },
+        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -254,17 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 12时10分]"
-        },
-        {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
-          "url": "https://www.cls.cn/detail/2450675",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 12时10分]"
         },
         {
           "title": "美国总统特朗普宣布“美国疫苗推荐”。 特朗普声称：政府仅认可 11 种核心疫苗的儿童接种建议。 不再建议所有儿童接种乙肝、新冠、流感等疫苗。",
@@ -452,7 +456,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
@@ -757,7 +761,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "理想汽车：根据当前规划，第二代理想AI眼镜 Livis预计将在明年下半年到来",
@@ -802,7 +806,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
@@ -813,7 +817,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
@@ -824,7 +828,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
@@ -849,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "理想汽车(02015.HK)：将于2026年8月26日公布2026年第二季度财务业绩。",
+          "url": "https://flash.jin10.com/detail/20260811163122357800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）全球汽车制造商市值变化",
@@ -876,8 +891,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时01分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 16时50分]"
         },
         {
           "title": "深度求索开设“DeepSeek Harness团队”公众号",
@@ -886,7 +901,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
