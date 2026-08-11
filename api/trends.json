@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T06:29:17.169190+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-08-12T07:27:45.307412+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时27分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -27,30 +27,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时27分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://wallstreetcn.com/livenews/3148261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
+          "url": "https://flash.jin10.com/detail/20260812064319870800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时27分"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -59,7 +72,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -70,7 +83,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -103,7 +116,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -180,28 +193,6 @@
           "time_info": "00时43分"
         },
         {
-          "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
-          "url": "https://flash.jin10.com/detail/20260812055132698800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
-          "url": "https://wallstreetcn.com/livenews/3148266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3148238",
           "source": "华尔街见闻-快讯",
@@ -213,6 +204,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时29分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
+          "url": "https://flash.jin10.com/detail/20260812055132698800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
+          "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
+          "url": "https://wallstreetcn.com/livenews/3148266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         },
         {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
@@ -266,17 +281,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "谷歌将在美洲新增三条海底光缆系统",
-          "url": "https://wallstreetcn.com/livenews/3148264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
           "url": "https://flash.jin10.com/detail/20260812012754420800",
           "source": "金十数据",
@@ -287,6 +291,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "谷歌将在美洲新增三条海底光缆系统",
+          "url": "https://wallstreetcn.com/livenews/3148264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         },
         {
           "title": "谷歌：Gemini月活用户数超过10亿",
@@ -339,8 +355,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时27分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -348,11 +364,12 @@
           "source": "微博",
           "ranks": [
             30,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 07时27分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -363,8 +380,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 07时27分]"
         }
       ]
     },
