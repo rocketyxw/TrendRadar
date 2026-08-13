@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T20:38:16.238022+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-08-13T23:46:28.472481+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时21分 ~ 20时38分]"
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 23时46分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -85,15 +85,28 @@
           "time_info": "[00时42分 ~ 08时49分]"
         },
         {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时50分 ~ 23时46分]"
+        },
+        {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时50分 ~ 20时38分]"
+          "appearance_count": 6,
+          "time_info": "[18时50分 ~ 23时46分]"
         },
         {
           "title": "特朗普躲避暗杀更多细节曝光",
@@ -113,22 +126,34 @@
           "source": "抖音",
           "ranks": [
             4,
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时50分 ~ 20时38分]"
+          "appearance_count": 6,
+          "time_info": "[18时50分 ~ 23时46分]"
         },
         {
-          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "title": "美国法官驳回特朗普政府指控哈佛大学未能保护犹太学生的诉讼。",
+          "url": "https://flash.jin10.com/detail/20260813233504432800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
           "source": "凤凰网",
           "ranks": [
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时50分 ~ 20时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "伊朗表示未经批准，任何船只都不能安全通过霍尔木兹海峡。伊朗称其完全控制霍尔木兹海峡，其军队监视着美国在该地区动向。伊朗称特朗普关于控制霍尔木兹海峡的说法是谎言。（伊朗伊斯兰共和国广播电视台）",
@@ -137,7 +162,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -347,6 +372,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
           "url": "https://flash.jin10.com/detail/20260813064543456800",
           "source": "金十数据",
@@ -397,7 +433,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -430,7 +466,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -460,7 +496,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -482,11 +518,12 @@
             9,
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时49分 ~ 20时38分]"
+          "appearance_count": 11,
+          "time_info": "[08时49分 ~ 23时46分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -567,6 +604,20 @@
           "time_info": "[08时49分 ~ 15时06分]"
         },
         {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时50分 ~ 23时46分]"
+        },
+        {
           "title": "快把真正的DeepSeek V4 Pro还给我",
           "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
           "source": "bilibili 热搜",
@@ -581,28 +632,6 @@
           "time_info": "[15时05分 ~ 20时38分]"
         },
         {
-          "title": "DeepSeek官宣涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 20时38分]"
-        },
-        {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 20时38分]"
-        },
-        {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
           "source": "百度热搜",
@@ -613,6 +642,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 08时49分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+          "url": "https://www.zhihu.com/question/2071318356477662328",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "DeepSeek Harness发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 23时46分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
@@ -628,17 +702,16 @@
           "time_info": "[03时54分 ~ 06时27分]"
         },
         {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
+          "title": "DeepSeek官宣涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            15,
-            17
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时50分 ~ 20时38分]"
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 23时46分]"
         },
         {
           "title": "梁文锋、马斯克同日上新",
@@ -740,6 +813,17 @@
           "time_info": "[15时05分 ~ 15时06分]"
         },
         {
+          "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
+          "url": "https://www.zhihu.com/question/2071335529577239335",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "腾讯CodeBuddy支持DeepSeek-V4-Pro正式版",
           "url": "https://flash.jin10.com/detail/20260813145830026800",
           "source": "金十数据",
@@ -749,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
+          "url": "https://wallstreetcn.com/articles/3779332",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "DeepSeek最新版本藏了一个大招",
@@ -773,15 +868,37 @@
           "time_info": "11时21分"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "DeepSeek V4 Pro正式版上线",
           "url": "https://wallstreetcn.com/livenews/3149148",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "DeepSeek Harness 已发布，如何评价这款产品？",
+          "url": "https://www.zhihu.com/question/2071335385494557060",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "DeepSeek调价方案公布，8月17日生效",
@@ -790,9 +907,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "如何看待 Deepseek Harness 发布？",
+          "url": "https://www.zhihu.com/question/2071331484284220938",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "让DeepSeek给小说取架空国名",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
@@ -810,6 +949,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时42分 ~ 11时21分]"
+        },
+        {
+          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 23时46分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -840,21 +995,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时42分 ~ 13时25分]"
-        },
-        {
-          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时21分 ~ 20时38分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -935,7 +1075,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
