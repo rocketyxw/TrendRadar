@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T03:49:59.037840+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-08-14T04:27:39.193055+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -50,22 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
-        },
-        {
-          "title": "DeepSeek Harness发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -78,8 +64,23 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "DeepSeek Harness发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            10,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -91,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -102,8 +103,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "如何看待 Deepseek Harness 发布？",
+          "url": "https://www.zhihu.com/question/2071331484284220938",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -120,18 +135,17 @@
           "time_info": "[00时42分 ~ 03时49分]"
         },
         {
-          "title": "如何看待 Deepseek Harness 发布？",
-          "url": "https://www.zhihu.com/question/2071331484284220938",
+          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
+          "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
           "ranks": [
-            20,
-            16,
-            10,
-            13
+            17,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "time_info": "[01时46分 ~ 04时27分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -145,19 +159,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 02时44分]"
-        },
-        {
-          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
-          "url": "https://www.zhihu.com/question/2071348486667237276",
-          "source": "知乎",
-          "ranks": [
-            17,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 03时49分]"
         },
         {
           "title": "DeepSeek Harness 已发布，如何评价这款产品？",
@@ -185,7 +186,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -195,8 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -207,8 +208,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -218,8 +219,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -227,11 +228,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
@@ -245,15 +247,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
-          "url": "https://wallstreetcn.com/livenews/3149298",
-          "source": "华尔街见闻-快讯",
+          "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
+          "url": "https://flash.jin10.com/detail/20260814040533982800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "04时27分"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -281,6 +283,30 @@
           "time_info": "[00时42分 ~ 02时44分]"
         },
         {
+          "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
+          "url": "https://wallstreetcn.com/livenews/3149298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
+          "url": "https://wallstreetcn.com/livenews/3149281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时27分]"
+        },
+        {
           "title": "霉霉特朗普 版权",
           "url": "https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%20%E7%89%88%E6%9D%83&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -290,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
-          "url": "https://wallstreetcn.com/livenews/3149281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -328,7 +343,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
@@ -412,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3149305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布",
@@ -536,8 +562,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "消息人士：底特律汽车制造商将向白宫表示，修订后的北美贸易协定可能会给其带来数十亿美元的成本。",
