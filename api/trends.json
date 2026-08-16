@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T17:15:05.534589+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-08-16T18:10:37.464263+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[12时23分 ~ 18时10分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时17分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[13时17分 ~ 18时10分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -43,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时08分 ~ 17时15分]"
+          "appearance_count": 15,
+          "time_info": "[07时08分 ~ 18时10分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -54,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时08分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[07时08分 ~ 18时10分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时13分 ~ 12时23分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
+          "url": "https://flash.jin10.com/detail/20260816172332854800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
@@ -211,8 +222,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时08分 ~ 17时15分]"
+          "appearance_count": 15,
+          "time_info": "[07时08分 ~ 18时10分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -225,8 +236,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时13分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时13分 ~ 18时10分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -238,8 +249,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时17分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[13时17分 ~ 18时10分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -310,11 +321,12 @@
             9,
             12,
             17,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 18时10分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -355,8 +367,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 18时10分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -367,11 +379,12 @@
             8,
             11,
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 17时15分]"
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 18时10分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -394,8 +407,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时10分]"
         }
       ]
     },
@@ -426,11 +439,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 18时10分]"
         },
         {
           "title": "法巴银行：欧洲汽车股被低估，AI受益逻辑需等待市场共识形成",
@@ -439,11 +453,12 @@
           "ranks": [
             1,
             9,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时10分]"
         },
         {
           "title": "据蔚来汽车官微消息，截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
